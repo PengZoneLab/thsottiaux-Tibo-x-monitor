@@ -1,32 +1,21 @@
 # Latest Scan
 
-**Scan time**: 2026-09-23 05:23 Beijing time (UTC+8) / 14:23 PDT
+**Scan time**: 2026-09-23 06:24 Beijing time (UTC+8) / 15:24 PDT
 
-**New activity**: 0 original posts + 3 replies.
+**New activity**: 1 original post + 1 reply.
 
 ## Today's original posts
 
-None new in this scan. (Earlier originals remain in the daily log.)
+### 1. 05:25 Beijing (UTC+8) / 14:25 PDT (Sep 22)
+- **Content**: Maybe our cutest launch so far. But still packing the biggest punch. (Quotes @OpenAI introducing GPT-6 Sol and GPT-6 Luna, with 50% lower API prices vs GPT-5.6 promotional pricing.)
+- **Engagement**: ❤️ 2593 | 🔁 49 | 💬 389 | 📁 88 | 👁️ 139K
+- **Link**: https://x.com/thsottiaux/status/2102509507415048245
 
 ## Today's replies to others
 
-### 1. 04:53 Beijing (UTC+8) / 13:53 PDT (Sep 22) — reply to @weswinder
-- **His words**: No benchmaxxing here, just a better model all around.
-- **Engagement**: ❤️ 564 | 🔁 2 | 💬 66 | 📁 5 | 👁️ 14K
-- **Link**: https://x.com/thsottiaux/status/2102501670647472147
-- **Original post**: Says GPT-6 Sol is worse than GPT-5.6 Sol on DeepSWE; cheaper, but odd that a new model is not better on every metric; suspects they are trying to bury that benchmark (quotes OpenAI’s Sol/Luna announcement).
-- **Original link**: https://x.com/weswinder/status/2102475647562195050
-
-### 2. 04:52 Beijing (UTC+8) / 13:52 PDT (Sep 22) — reply to @theo
-- **His words**: It’s a good day sir
-- **Engagement**: ❤️ 222 | 🔁 1 | 💬 35 | 📁 2 | 👁️ 8.5K
-- **Link**: https://x.com/thsottiaux/status/2102501432884891720
-- **Original post**: Opus 5.5, GPT-6 Sol and GPT-6 Luna all in a day.
-- **Original link**: https://x.com/theo/status/2102465196514300061
-
-### 3. 04:36 Beijing (UTC+8) / 13:36 PDT (Sep 22) — reply to @viticci
-- **His words**: It’s good to want it all
-- **Engagement**: ❤️ 713 | 🔁 10 | 💬 66 | 📁 14 | 👁️ 26K
-- **Link**: https://x.com/thsottiaux/status/2102497184805720459
-- **Original post**: Wants Grok Bot with GPT-6 models, Claude’s taste, Muse’s speed, and GPT-Live voice.
-- **Original link**: https://x.com/viticci/status/2102463157029495285
+### 1. 05:25 Beijing (UTC+8) / 14:25 PDT (Sep 22) — reply to @PawelHuryn
+- **His words**: Interesting results!
+- **Engagement**: ❤️ 177 | 🔁 1 | 💬 16 | 📁 3 | 👁️ 8.5K
+- **Link**: https://x.com/thsottiaux/status/2102509629536346422
+- **Original post**: Tested Opus 5.5 (max) on real work across 2 repos and 105 planted bugs; reports GPT-6 Astra (max) 45 for $33.03, Fable 5.1 43 for $77.55, Opus 5.5 43 for $60.49, Opus 5.0 27 for $51.33, Muse Spark 1.3 32.2 for $18.11.
+- **Original link**: https://x.com/PawelHuryn/status/2102479269335101504
