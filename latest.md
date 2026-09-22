@@ -1,38 +1,32 @@
 # Latest Scan
 
-**Scan time**: 2026-09-23 04:20 Beijing time (UTC+8) / 13:20 PDT
+**Scan time**: 2026-09-23 05:23 Beijing time (UTC+8) / 14:23 PDT
 
-**New activity**: 1 original post + 4 replies.
+**New activity**: 0 original posts + 3 replies.
 
 ## Today's original posts
 
-### 1. 02:23 Beijing (UTC+8) / 11:23 PDT (Sep 22)
-- **Content**: GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general "you know when you try it" quality. Permanently reducing API price by 50%. Loading a banked reset into Plus, Pro and Business accounts. Quotes his earlier note on efficiency and intelligence for all.
-- **Engagement**: ❤️ 14579 | 🔁 869 | 💬 2091 | 📁 862 | 👁️ 967K
-- **Link**: https://x.com/thsottiaux/status/2102463847714247142
+None new in this scan. (Earlier originals remain in the daily log.)
 
 ## Today's replies to others
 
-### 1. 03:44 Beijing (UTC+8) / 12:44 PDT (Sep 22) — reply to @amorriscode
-- **His words**: u2!
-- **Link**: https://x.com/thsottiaux/status/2102484207163584745
-- **Original post**: Congrats on the launch.
-- **Original link**: https://x.com/amorriscode/status/2102465453029236813
+### 1. 04:53 Beijing (UTC+8) / 13:53 PDT (Sep 22) — reply to @weswinder
+- **His words**: No benchmaxxing here, just a better model all around.
+- **Engagement**: ❤️ 564 | 🔁 2 | 💬 66 | 📁 5 | 👁️ 14K
+- **Link**: https://x.com/thsottiaux/status/2102501670647472147
+- **Original post**: Says GPT-6 Sol is worse than GPT-5.6 Sol on DeepSWE; cheaper, but odd that a new model is not better on every metric; suspects they are trying to bury that benchmark (quotes OpenAI’s Sol/Luna announcement).
+- **Original link**: https://x.com/weswinder/status/2102475647562195050
 
-### 2. 02:34 Beijing (UTC+8) / 11:34 PDT (Sep 22) — reply to @omarbnjl
-- **His words**: pizza plutot
-- **Link**: https://x.com/thsottiaux/status/2102466463156285686
-- **Original post**: Nouveau banked reset — joking they will eat a lot of rice tonight (quotes Tibo’s Sol/Luna launch post).
-- **Original link**: https://x.com/omarbnjl/status/2102466285804085362
+### 2. 04:52 Beijing (UTC+8) / 13:52 PDT (Sep 22) — reply to @theo
+- **His words**: It’s a good day sir
+- **Engagement**: ❤️ 222 | 🔁 1 | 💬 35 | 📁 2 | 👁️ 8.5K
+- **Link**: https://x.com/thsottiaux/status/2102501432884891720
+- **Original post**: Opus 5.5, GPT-6 Sol and GPT-6 Luna all in a day.
+- **Original link**: https://x.com/theo/status/2102465196514300061
 
-### 3. 02:33 Beijing (UTC+8) / 11:33 PDT (Sep 22) — reply to @TokenGremlin
-- **His words**: Models are out https://openai.com/index/introducing-gpt-6-sol-and-luna/
-- **Link**: https://x.com/thsottiaux/status/2102466361398378912
-- **Original post**: Forbids Sam Altman and Tibo from posting that it took a little longer than they would have liked and that everything will launch next week at DevDay.
-- **Original link**: https://x.com/TokenGremlin/status/2102451639437398080
-
-### 4. 02:26 Beijing (UTC+8) / 11:26 PDT (Sep 22) — reply to @haydenderrico
-- **His words**: Luna, but better
-- **Link**: https://x.com/thsottiaux/status/2102464575790854290
-- **Original post**: Asks how 6 Luna compares to 5.6 Luna (quotes Tibo’s Sol/Luna launch post).
-- **Original link**: https://x.com/haydenderrico/status/2102464519608156301
+### 3. 04:36 Beijing (UTC+8) / 13:36 PDT (Sep 22) — reply to @viticci
+- **His words**: It’s good to want it all
+- **Engagement**: ❤️ 713 | 🔁 10 | 💬 66 | 📁 14 | 👁️ 26K
+- **Link**: https://x.com/thsottiaux/status/2102497184805720459
+- **Original post**: Wants Grok Bot with GPT-6 models, Claude’s taste, Muse’s speed, and GPT-Live voice.
+- **Original link**: https://x.com/viticci/status/2102463157029495285
