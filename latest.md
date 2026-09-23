@@ -1,11 +1,9 @@
 # Latest Scan
 
-**Scan time**: 2026-09-24 06:25 Beijing time (UTC+8) / 15:25 PDT (Sep 23)
+**Scan time**: 2026-09-24 07:27 Beijing time (UTC+8) / 16:27 PDT (Sep 23)
 
-**New activity**: 0 original posts + 2 replies.
+**New activity**: 0 original posts + 1 reply.
 
 ### Replies
-1. Reply to @trq212 — “This is the way” (on dropping plan mode for effort-level hotkeys).
-   - https://x.com/thsottiaux/status/2102884137749315973
-2. Reply to @scottstts — rollout timing is harder at 1B users; working to get it down to hours or minutes.
-   - https://x.com/thsottiaux/status/2102884039145521487
+1. Reply to @_simonsmith — “Seeing the future” (on using ChatGPT Voice with plugins on a walk as a true hands-free assistant).
+   - https://x.com/thsottiaux/status/2102890573481050167
