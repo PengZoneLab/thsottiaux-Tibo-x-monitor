@@ -1,14 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-09-24 13:25 Beijing time (UTC+8) / 22:25 PDT (Sep 23)
+**Scan time**: 2026-09-24 14:33 Beijing time (UTC+8) / 23:33 PDT (Sep 23)
 
-**New activity**: 0 original posts + 1 reply.
+**New activity**: 1 original post + 0 replies.
 
-## Today's replies to others
+## Today's original posts
 
-### 1. 12:44 Beijing (UTC+8) / 21:44 PDT (Sep 23) — reply to @alexandr_wang
-- **His words**: good one
-- **Engagement**: ❤️ 127 | 🔁 0 | 💬 21 | 📁 2 | 👁️ 9.1K
-- **Link**: https://x.com/thsottiaux/status/2102982591628648784
-- **Original post**: i am once again asking for you to download muse (with image)
-- **Original link**: https://x.com/alexandr_wang/status/2102844791839224008
+### 1. 13:39 Beijing (UTC+8) / 22:39 PDT (Sep 23)
+- **Content**: Can't wait for DevDay next Tuesday. Some really fun stuff, but also many many things that should change the way you work. It's been our most ambitious sprint and Astra has really made new things possible in such short amounts of time.
+- **Engagement**: ❤️ 2875 | 🔁 121 | 💬 446 | 📁 138 | 👁️ 141K
+- **Link**: https://x.com/thsottiaux/status/2102996313780736363
