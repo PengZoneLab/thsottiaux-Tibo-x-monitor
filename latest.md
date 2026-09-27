@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-09-27 09:16 Beijing time (UTC+8) / 18:16 PDT (Sep 26)
+**Scan time**: 2026-09-27 09:30 Beijing time (UTC+8) / 18:30 PDT (Sep 26)
 
 **New activity**: No new posts.
 
@@ -8,14 +8,14 @@
 
 ### 1. 02:17 Beijing (UTC+8) / 11:17 PDT (Sep 26)
 - **Content**: Resets all propagated. That will be all. Have a fantastic weekend.
-- **Engagement**: ❤️ 12174 | 🔁 388 | 💬 1563 | 📁 243 | 👁️ 801K
+- **Engagement**: ❤️ 12184 | 🔁 388 | 💬 1564 | 📁 243 | 👁️ 803K
 - **Link**: https://x.com/thsottiaux/status/2103911959544610829
 
 ## Today's replies to others
 
 ### 1. 05:41 Beijing (UTC+8) / 14:41 PDT (Sep 26) — reply to @giadotai
 - **His words**: Sorry Gia. More resets coming next week
-- **Engagement**: ❤️ 3282 | 🔁 132 | 💬 194 | 📁 120 | 👁️ 124K
+- **Engagement**: ❤️ 3286 | 🔁 132 | 💬 194 | 📁 120 | 👁️ 125K
 - **Link**: https://x.com/thsottiaux/status/2103963215885701493
 - **Original post**: Gia says the reset landed right after their own reset and calls the timing the worst possible. Quotes Tibo’s “Resets all propagated” post.
 - **Original link**: https://x.com/giadotai/status/2103919273353830410
@@ -36,7 +36,7 @@
 
 ### 4. 05:07 Beijing (UTC+8) / 14:07 PDT (Sep 26) — reply to @antigravity
 - **His words**: Plan mode was cool in 2025, might still be cool, but was particularly cool in 2025
-- **Engagement**: ❤️ 1852 | 🔁 16 | 💬 131 | 📁 43 | 👁️ 54K
+- **Engagement**: ❤️ 1854 | 🔁 16 | 💬 131 | 📁 43 | 👁️ 54K
 - **Link**: https://x.com/thsottiaux/status/2103954577817260036
 - **Original post**: Google Antigravity announces Antigravity 2.0 dedicated planning mode: type /plan and the agent researches and drafts a plan for approval before executing.
 - **Original link**: https://x.com/antigravity/status/2103611698800140697
@@ -50,7 +50,7 @@
 
 ### 6. 05:04 Beijing (UTC+8) / 14:04 PDT (Sep 26) — reply to @NicolasZu
 - **His words**: DevDay
-- **Engagement**: ❤️ 2544 | 🔁 67 | 💬 180 | 📁 90 | 👁️ 119K
+- **Engagement**: ❤️ 2547 | 🔁 67 | 💬 180 | 📁 91 | 👁️ 119K
 - **Link**: https://x.com/thsottiaux/status/2103953907278045548
 - **Original post**: Longtime Codex fan on the $200 plan says Astra burns through usage in a few days, finds 6 Sol lazy vs Sol 5.6, and says Sol 5.6 is a league below Opus 5.5 — while the $200 Anthropic sub is hard to exhaust. Hopes OpenAI addresses it; loves the Codex harness and app.
 - **Original link**: https://x.com/NicolasZu/status/2103891145130414387
