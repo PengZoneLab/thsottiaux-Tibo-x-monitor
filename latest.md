@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-09-28 00:02 Beijing time (UTC+8) / 09:02 PDT (Sep 27)
+**Scan time**: 2026-09-28 03:02 Beijing time (UTC+8) / 12:02 PDT (Sep 27)
 
 **New activity**: No new posts.
 
@@ -12,7 +12,7 @@ Prior activity still on the timeline:
 
 ### 1. 15:17 Beijing (UTC+8) / 00:17 PDT (Sep 27)
 - **Content**: Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.
-- **Engagement**: ❤️ 4642 | 🔁 133 | 💬 624 | 📁 328 | 👁️ 429K
+- **Engagement**: ❤️ 5114 | 🔁 141 | 💬 673 | 📁 362 | 👁️ 496K
 - **Link**: https://x.com/thsottiaux/status/2104108167806550046
 
 ### 2. 02:17 Beijing (UTC+8) / 11:17 PDT (Sep 26)
@@ -28,14 +28,14 @@ Prior replies still on the timeline:
 
 ### 1. 14:51 Beijing (UTC+8) / 23:51 PDT (Sep 26) — reply to @yacineMTB
 - **His words**: We’re perma locked in. No code red necessary.
-- **Engagement**: ❤️ 952 | 🔁 14 | 💬 112 | 📁 24 | 👁️ 86K
+- **Engagement**: ❤️ 1084 | 🔁 14 | 💬 116 | 📁 29 | 👁️ 101K
 - **Link**: https://x.com/thsottiaux/status/2104101496606618082
 - **Original post**: kache says people are telling him it’s “code Red” at OpenAI; he says he doesn’t know what that means and that he’s using Opus 5.5 so it doesn’t matter to him.
 - **Original link**: https://x.com/yacineMTB/status/2103952622327931087
 
 ### 2. 14:48 Beijing (UTC+8) / 23:48 PDT (Sep 26) — reply to @anthdm
 - **His words**: Tell me more. Didn’t see your message, was probably too small and for ants.
-- **Engagement**: ❤️ 1166 | 🔁 4 | 💬 80 | 📁 43 | 👁️ 152K
+- **Engagement**: ❤️ 1273 | 🔁 4 | 💬 87 | 📁 43 | 👁️ 173K
 - **Link**: https://x.com/thsottiaux/status/2104100881100890402
 - **Original post**: Ant says he tried to reach Tibo for over six months, that messages and feedback were ignored, and that listening to less experienced users left them with a baseline model that talks like a robot.
 - **Original link**: https://x.com/anthdm/status/2103774812468342864
