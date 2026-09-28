@@ -1,19 +1,21 @@
 # Latest Scan
 
-**Scan time**: 2026-09-28 15:02 Beijing time (UTC+8) / 00:02 PDT
+**Scan time**: 2026-09-28 16:02 Beijing time (UTC+8) / 01:02 PDT
 
-**New activity**: 1 original post + 4 replies.
+**New activity**: 0 original posts + 1 reply (follow-up in his own thread).
 
 ## Today's original posts
 
 ### 1. 14:58 Beijing (UTC+8) / 23:58 PDT (Sep 27)
 - **Content**: Sunday vibes. See you at Fort Mason soon 🎮👩‍💻
-- **Engagement**: ❤️ 316 | 🔁 13 | 💬 76 | 📁 7 | 👁️ 16K
+- **Follow-up** (15:04 Beijing / 00:04 PDT): Taken by none other than the incredible @ah20im
+- **Engagement** (root): ❤️ 1564 | 🔁 39 | 💬 217 | 📁 40 | 👁️ 98K
 - **Link**: https://x.com/thsottiaux/status/2104465709384491519
+- **Follow-up link**: https://x.com/thsottiaux/status/2104467346945675347
 
 ### 2. 09:32 Beijing (UTC+8) / 18:32 PDT (Sep 27)
 - **Content**: . . . . . .
-- **Engagement**: ❤️ 6569 | 🔁 169 | 💬 1639 | 📁 250 | 👁️ 1.03M
+- **Engagement**: ❤️ 7035 | 🔁 181 | 💬 1698 | 📁 265 | 👁️ 1.17M
 - **Link**: https://x.com/thsottiaux/status/2104383749723128052
 
 Prior activity still on the timeline:
@@ -30,56 +32,63 @@ Prior activity still on the timeline:
 
 ## Today's replies to others
 
-### 1. 14:47 Beijing (UTC+8) / 23:47 PDT (Sep 27) — reply to @imjustnewatai
+### 1. 15:04 Beijing (UTC+8) / 00:04 PDT — reply to @thsottiaux (own thread)
+- **His words**: Taken by none other than the incredible @ah20im
+- **Engagement**: ❤️ 125 | 🔁 2 | 💬 18 | 📁 1 | 👁️ 30K
+- **Link**: https://x.com/thsottiaux/status/2104467346945675347
+- **Original post**: Sunday vibes. See you at Fort Mason soon 🎮👩‍💻
+- **Original link**: https://x.com/thsottiaux/status/2104465709384491519
+
+### 2. 14:47 Beijing (UTC+8) / 23:47 PDT (Sep 27) — reply to @imjustnewatai
 - **His words**: 007 even
-- **Engagement**: ❤️ 116 | 🔁 1 | 💬 24 | 📁 2 | 👁️ 7K
+- **Engagement**: ❤️ 416 | 🔁 6 | 💬 52 | 📁 6 | 👁️ 26K
 - **Link**: https://x.com/thsottiaux/status/2104462923661988233
 - **Original post**: Hearing rumors that OpenAI is releasing o6 during DevDay.
 - **Original link**: https://x.com/imjustnewatai/status/2104423054868881728
 
-### 2. 14:46 Beijing (UTC+8) / 23:46 PDT (Sep 27) — reply to @mark_k
+### 3. 14:46 Beijing (UTC+8) / 23:46 PDT (Sep 27) — reply to @mark_k
 - **His words**: DevDay
-- **Engagement**: ❤️ 102 | 🔁 1 | 💬 28 | 📁 2 | 👁️ 6K
+- **Engagement**: ❤️ 416 | 🔁 4 | 💬 55 | 📁 10 | 👁️ 25K
 - **Link**: https://x.com/thsottiaux/status/2104462713296683467
 - **Original post**: Mark argues GPT-6 Sol was born of necessity because OpenAI is GPU-poor; he calls it a smaller model meant to ease capacity issues, hence weaker performance.
 - **Original link**: https://x.com/mark_k/status/2104341285247008865
 
-### 3. 14:45 Beijing (UTC+8) / 23:45 PDT (Sep 27) — reply to @maria_rcks
+### 4. 14:45 Beijing (UTC+8) / 23:45 PDT (Sep 27) — reply to @maria_rcks
 - **His words**: Please don't die
-- **Engagement**: ❤️ 82 | 🔁 0 | 💬 19 | 📁 2 | 👁️ 5K
+- **Engagement**: ❤️ 218 | 🔁 2 | 💬 28 | 📁 4 | 👁️ 15K
 - **Link**: https://x.com/thsottiaux/status/2104462572644888780
 - **Original post**: Maria says if they really call it “o” she is dying.
 - **Original link**: https://x.com/maria_rcks/status/2104316859453489443
 
-### 4. 14:03 Beijing (UTC+8) / 23:03 PDT (Sep 27) — reply to @melvindvivas
+### 5. 14:03 Beijing (UTC+8) / 23:03 PDT (Sep 27) — reply to @melvindvivas
 - **His words**: olalala
-- **Engagement**: ❤️ 498 | 🔁 15 | 💬 72 | 📁 12 | 👁️ 26K
+- **Engagement**: ❤️ 621 | 🔁 17 | 💬 78 | 📁 14 | 👁️ 35K
 - **Link**: https://x.com/thsottiaux/status/2104451970983768270
 - **Original post**: Melvin writes “Hold on to your Codex Pro — OpenAI is bringing back ‘o’ models.”
 - **Original link**: https://x.com/melvindvivas/status/2104353805039202306
 
-### 5. 09:51 Beijing (UTC+8) / 18:51 PDT (Sep 27) — reply to @ZainManji
+### 6. 09:51 Beijing (UTC+8) / 18:51 PDT (Sep 27) — reply to @ZainManji
 - **His words**: Sup Arjun
-- **Engagement**: ❤️ 456 | 🔁 0 | 💬 21 | 📁 4 | 👁️ 39K
+- **Engagement**: ❤️ 489 | 🔁 0 | 💬 21 | 📁 4 | 👁️ 42K
 - **Link**: https://x.com/thsottiaux/status/2104388401218932888
 - **Original post**: Zain says Muse randomly called him Arjun, then started gaslighting and stereotyping him.
 - **Original link**: https://x.com/ZainManji/status/2104349748744323078
 
-### 6. 04:54 Beijing (UTC+8) / 13:54 PDT (Sep 27) — reply to @Vincent_AINotes
+### 7. 04:54 Beijing (UTC+8) / 13:54 PDT (Sep 27) — reply to @Vincent_AINotes
 - **His words**: Hitting the gym, brb on Tuesday
-- **Engagement**: ❤️ 3687 | 🔁 70 | 💬 165 | 📁 107 | 👁️ 288K
+- **Engagement**: ❤️ 3793 | 🔁 71 | 💬 167 | 📁 108 | 👁️ 303K
 - **Link**: https://x.com/thsottiaux/status/2104313777013526880
 - **Original post**: Vincent posts a meme image and writes in Chinese that whoever made it is too real.
 - **Original link**: https://x.com/Vincent_AINotes/status/2104135763256566000
 
-### 7. 04:53 Beijing (UTC+8) / 13:53 PDT (Sep 27) — reply to @yacineMTB
+### 8. 04:53 Beijing (UTC+8) / 13:53 PDT (Sep 27) — reply to @yacineMTB
 - **His words**: O really
-- **Engagement**: ❤️ 1001 | 🔁 11 | 💬 111 | 📁 19 | 👁️ 116K
+- **Engagement**: ❤️ 1039 | 🔁 11 | 💬 113 | 📁 19 | 👁️ 122K
 - **Link**: https://x.com/thsottiaux/status/2104313502697660428
 - **Original post**: kache says he cannot believe how smart Astra is.
 - **Original link**: https://x.com/yacineMTB/status/2104019174578110695
 
-### 8. 04:52 Beijing (UTC+8) / 13:52 PDT (Sep 27) — reply to @scottstts
+### 9. 04:52 Beijing (UTC+8) / 13:52 PDT (Sep 27) — reply to @scottstts
 - **His words**: 🙈
 - **Engagement**: ❤️ 1523 | 🔁 19 | 💬 109 | 📁 75 | 👁️ 297K
 - **Link**: https://x.com/thsottiaux/status/2104313314901958706
@@ -88,14 +97,14 @@ Prior activity still on the timeline:
 
 Prior replies still on the timeline:
 
-### 9. 14:51 Beijing (UTC+8) / 23:51 PDT (Sep 26) — reply to @yacineMTB
+### 10. 14:51 Beijing (UTC+8) / 23:51 PDT (Sep 26) — reply to @yacineMTB
 - **His words**: We’re perma locked in. No code red necessary.
 - **Engagement**: ❤️ 1353 | 🔁 15 | 💬 122 | 📁 36 | 👁️ 133K
 - **Link**: https://x.com/thsottiaux/status/2104101496606618082
 - **Original post**: kache says people are telling him it’s “code Red” at OpenAI; he says he doesn’t know what that means and that he’s using Opus 5.5 so it doesn’t matter to him.
 - **Original link**: https://x.com/yacineMTB/status/2103952622327931087
 
-### 10. 14:48 Beijing (UTC+8) / 23:48 PDT (Sep 26) — reply to @anthdm
+### 11. 14:48 Beijing (UTC+8) / 23:48 PDT (Sep 26) — reply to @anthdm
 - **His words**: Tell me more. Didn’t see your message, was probably too small and for ants.
 - **Engagement**: ❤️ 1480 | 🔁 4 | 💬 91 | 📁 49 | 👁️ 215K
 - **Link**: https://x.com/thsottiaux/status/2104100881100890402
