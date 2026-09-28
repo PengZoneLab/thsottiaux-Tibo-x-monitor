@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-09-29 03:02 Beijing time (UTC+8) / 12:02 PDT (Sep 28)
+**Scan time**: 2026-09-29 04:02 Beijing time (UTC+8) / 13:02 PDT (Sep 28)
 
 **New activity**: No new posts.
 
@@ -13,13 +13,13 @@ Prior activity still on the timeline:
 ### 1. 14:58 Beijing (UTC+8) / 23:58 PDT (Sep 27)
 - **Content**: Sunday vibes. See you at Fort Mason soon 🎮👩‍💻
 - **Follow-up** (15:04 Beijing / 00:04 PDT): Taken by none other than the incredible @ah20im
-- **Engagement** (root): ❤️ 3635 | 🔁 68 | 💬 396 | 📁 77 | 👁️ 408K
+- **Engagement** (root): ❤️ 3707 | 🔁 69 | 💬 404 | 📁 78 | 👁️ 422K
 - **Link**: https://x.com/thsottiaux/status/2104465709384491519
 - **Follow-up link**: https://x.com/thsottiaux/status/2104467346945675347
 
 ### 2. 09:32 Beijing (UTC+8) / 18:32 PDT (Sep 27)
 - **Content**: . . . . . .
-- **Engagement**: ❤️ 9208 | 🔁 227 | 💬 1962 | 📁 340 | 👁️ 2.11M
+- **Engagement**: ❤️ 9306 | 🔁 229 | 💬 1971 | 📁 343 | 👁️ 2.16M
 - **Link**: https://x.com/thsottiaux/status/2104383749723128052
 
 ### 3. 15:17 Beijing (UTC+8) / 00:17 PDT (Sep 27)
@@ -40,56 +40,56 @@ Prior replies still on the timeline:
 
 ### 1. 15:04 Beijing (UTC+8) / 00:04 PDT — reply to @thsottiaux (own thread)
 - **His words**: Taken by none other than the incredible @ah20im
-- **Engagement**: ❤️ 393 | 🔁 5 | 💬 57 | 📁 5 | 👁️ 175K
+- **Engagement**: ❤️ 410 | 🔁 5 | 💬 59 | 📁 5 | 👁️ 182K
 - **Link**: https://x.com/thsottiaux/status/2104467346945675347
 - **Original post**: Sunday vibes. See you at Fort Mason soon 🎮👩‍💻
 - **Original link**: https://x.com/thsottiaux/status/2104465709384491519
 
 ### 2. 14:47 Beijing (UTC+8) / 23:47 PDT (Sep 27) — reply to @imjustnewatai
 - **His words**: 007 even
-- **Engagement**: ❤️ 1659 | 🔁 14 | 💬 112 | 📁 32 | 👁️ 118K
+- **Engagement**: ❤️ 1710 | 🔁 14 | 💬 114 | 📁 34 | 👁️ 121K
 - **Link**: https://x.com/thsottiaux/status/2104462923661988233
 - **Original post**: Hearing rumors that OpenAI is releasing o6 during DevDay.
 - **Original link**: https://x.com/imjustnewatai/status/2104423054868881728
 
 ### 3. 14:46 Beijing (UTC+8) / 23:46 PDT (Sep 27) — reply to @mark_k
 - **His words**: DevDay
-- **Engagement**: ❤️ 1546 | 🔁 18 | 💬 119 | 📁 36 | 👁️ 115K
+- **Engagement**: ❤️ 1584 | 🔁 18 | 💬 123 | 📁 36 | 👁️ 119K
 - **Link**: https://x.com/thsottiaux/status/2104462713296683467
 - **Original post**: Mark argues GPT-6 Sol was born of necessity because OpenAI is GPU-poor; he calls it a smaller model meant to ease capacity issues, hence weaker performance.
 - **Original link**: https://x.com/mark_k/status/2104341285247008865
 
 ### 4. 14:45 Beijing (UTC+8) / 23:45 PDT (Sep 27) — reply to @maria_rcks
 - **His words**: Please don't die
-- **Engagement**: ❤️ 995 | 🔁 3 | 💬 51 | 📁 14 | 👁️ 70K
+- **Engagement**: ❤️ 1031 | 🔁 3 | 💬 52 | 📁 14 | 👁️ 73K
 - **Link**: https://x.com/thsottiaux/status/2104462572644888780
 - **Original post**: Maria says if they really call it “o” she is dying.
 - **Original link**: https://x.com/maria_rcks/status/2104316859453489443
 
 ### 5. 14:03 Beijing (UTC+8) / 23:03 PDT (Sep 27) — reply to @melvindvivas
 - **His words**: olalala
-- **Engagement**: ❤️ 1386 | 🔁 22 | 💬 105 | 📁 25 | 👁️ 158K
+- **Engagement**: ❤️ 1430 | 🔁 22 | 💬 107 | 📁 26 | 👁️ 164K
 - **Link**: https://x.com/thsottiaux/status/2104451970983768270
 - **Original post**: Melvin writes “Hold on to your Codex Pro — OpenAI is bringing back ‘o’ models.”
 - **Original link**: https://x.com/melvindvivas/status/2104353805039202306
 
 ### 6. 09:51 Beijing (UTC+8) / 18:51 PDT (Sep 27) — reply to @ZainManji
 - **His words**: Sup Arjun
-- **Engagement**: ❤️ 792 | 🔁 1 | 💬 23 | 📁 6 | 👁️ 67K
+- **Engagement**: ❤️ 801 | 🔁 1 | 💬 23 | 📁 6 | 👁️ 68K
 - **Link**: https://x.com/thsottiaux/status/2104388401218932888
 - **Original post**: Zain says Muse randomly called him Arjun, then started gaslighting and stereotyping him.
 - **Original link**: https://x.com/ZainManji/status/2104349748744323078
 
 ### 7. 04:54 Beijing (UTC+8) / 13:54 PDT (Sep 27) — reply to @Vincent_AINotes
 - **His words**: Hitting the gym, brb on Tuesday
-- **Engagement**: ❤️ 4489 | 🔁 78 | 💬 191 | 📁 127 | 👁️ 409K
+- **Engagement**: ❤️ 4532 | 🔁 78 | 💬 191 | 📁 128 | 👁️ 421K
 - **Link**: https://x.com/thsottiaux/status/2104313777013526880
 - **Original post**: Vincent posts a meme image and writes in Chinese that whoever made it is too real.
 - **Original link**: https://x.com/Vincent_AINotes/status/2104135763256566000
 
 ### 8. 04:53 Beijing (UTC+8) / 13:53 PDT (Sep 27) — reply to @yacineMTB
 - **His words**: O really
-- **Engagement**: ❤️ 1312 | 🔁 13 | 💬 134 | 📁 29 | 👁️ 174K
+- **Engagement**: ❤️ 1334 | 🔁 13 | 💬 135 | 📁 29 | 👁️ 177K
 - **Link**: https://x.com/thsottiaux/status/2104313502697660428
 - **Original post**: kache says he cannot believe how smart Astra is.
 - **Original link**: https://x.com/yacineMTB/status/2104019174578110695
