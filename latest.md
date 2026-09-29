@@ -1,77 +1,61 @@
 # Latest Scan
 
-**Scan time**: 2026-09-30 02:02 Beijing time (UTC+8) / 11:02 PDT (Sep 29)
+**Scan time**: 2026-09-30 04:05 Beijing time (UTC+8) / 13:05 PDT (Sep 29)
 
-**New activity**: 10 original posts (DevDay product announcements). No new replies to others.
+**New activity**: 2 original posts (GPT-6.1 availability + partner subscription usage) and 1 reply to @badlogicgames. One own-thread follow-up with the GPT-6.1 Sol launch link.
 
 ## Today's original posts
 
-### 1. 02:00 Beijing (UTC+8) / 11:00 PDT (Sep 29)
-- **Content**: Live demos suffered from rolling out all the updates at the same time, but the team is committed to keep doing live demos. Almost everything announced is available today.
-- **Engagement**: ❤️ 402 | 🔁 15 | 🗨 97 | 📁 11 | 👁️ 17K
-- **Link**: https://x.com/thsottiaux/status/2104994835212226681
+### 1. 02:51 Beijing (UTC+8) / 11:51 PDT (Sep 29)
+- **Content**: GPT-6.1 is a good model and unbelievably efficient. Included in all paid plans and on the API today. Photo attached.
+- **Follow-up** (02:52 Beijing / 11:52 PDT): Launch post link — https://openai.com/index/introducing-gpt-6-1-sol/
+- **Engagement**: ❤️ 3809 | 🔁 139 | 🗨 643 | 📁 227 | 👁️ 221K
+- **Link**: https://x.com/thsottiaux/status/2105007628460109953
+- **Follow-up link**: https://x.com/thsottiaux/status/2105007775676072381
 
-### 2. 01:49 Beijing (UTC+8) / 10:49 PDT (Sep 29)
-- **Content**: Little summary (photo attached).
-- **Engagement**: ❤️ 1713 | 🔁 85 | 🗨 415 | 📁 78 | 👁️ 82K
-- **Link**: https://x.com/thsottiaux/status/2104992080095564111
-
-### 3. 01:48 Beijing (UTC+8) / 10:48 PDT (Sep 29)
-- **Content**: Opening the platform so builders can ship full native apps with plugin extensions inside ChatGPT. Over 1.2B weekly users; relevant plugins will be surfaced in conversations.
-- **Engagement**: ❤️ 1481 | 🔁 51 | 🗨 119 | 📁 154 | 👁️ 77K
-- **Link**: https://x.com/thsottiaux/status/2104991765904375896
-
-### 4. 01:47 Beijing (UTC+8) / 10:47 PDT (Sep 29)
-- **Content**: ChatGPT subscriptions can now be used directly in 60+ partner products (Devin, OpenCode, Lovable, and others) with included usage. Sign in with ChatGPT.
-- **Engagement**: ❤️ 1822 | 🔁 96 | 🗨 156 | 📁 176 | 👁️ 90K
-- **Link**: https://x.com/thsottiaux/status/2104991529416999243
-
-### 5. 01:38 Beijing (UTC+8) / 10:38 PDT (Sep 29)
-- **Content**: Dots are included in all Pro, Business Premium, and Enterprise plans, including the Pro 100 plan. Access will expand further soon.
-- **Engagement**: ❤️ 2586 | 🔁 100 | 🗨 411 | 📁 100 | 👁️ 148K
-- **Link**: https://x.com/thsottiaux/status/2104989161774322009
-
-### 6. 01:33 Beijing (UTC+8) / 10:33 PDT (Sep 29)
-- **Content**: Token traffic on the Responses API is up 100X year over year. Reliability is at 99.9% uptime with significant performance gains.
-- **Engagement**: ❤️ 1610 | 🔁 57 | 🗨 134 | 📁 55 | 👁️ 112K
-- **Link**: https://x.com/thsottiaux/status/2104988071188148495
-
-### 7. 01:32 Beijing (UTC+8) / 10:32 PDT (Sep 29)
-- **Content**: New Codex Cloud with configurable cloud environments. Agents API (the stack behind cloud agents including dots) is in preview with computer use.
-- **Engagement**: ❤️ 1788 | 🔁 89 | 🗨 133 | 📁 148 | 👁️ 128K
-- **Link**: https://x.com/thsottiaux/status/2104987594719461796
-
-### 8. 01:27 Beijing (UTC+8) / 10:27 PDT (Sep 29)
-- **Content**: Decisions API for fast constrained decision-making powered by Luna. Supports visual inputs; end-to-end decisions in a few hundred milliseconds.
-- **Engagement**: ❤️ 3006 | 🔁 146 | 🗨 267 | 📁 336 | 👁️ 180K
-- **Link**: https://x.com/thsottiaux/status/2104986448269279399
-
-### 9. 01:25 Beijing (UTC+8) / 10:25 PDT (Sep 29)
-- **Content**: Introducing 6.1 Sol — near Astra intelligence at one fifth of Astra’s price, plus a 95% cache-read discount. Ultrafast (8X) is available today for Astra and coming soon for 6.1 Sol.
-- **Engagement**: ❤️ 7380 | 🔁 387 | 🗨 570 | 📁 490 | 👁️ 291K
-- **Link**: https://x.com/thsottiaux/status/2104986027953930613
-
-### 10. 01:16 Beijing (UTC+8) / 10:16 PDT (Sep 29)
-- **Content**: Announcing ChatGPT Space — collaborative notes and live visualizations with others and dots (TODO lists, product plans, meeting notes). Kept up to date in the background; described as AGENTS.md taken further for developers.
-- **Engagement**: ❤️ 2743 | 🔁 163 | 🗨 321 | 📁 243 | 👁️ 191K
-- **Link**: https://x.com/thsottiaux/status/2104983716049379472
+### 2. 02:46 Beijing (UTC+8) / 11:46 PDT (Sep 29)
+- **Content**: ChatGPT subscriptions can now be used directly in over 16 partner products (Devin, OpenCode, Notion, and others) with all included usage. Sign in with ChatGPT.
+- **Engagement**: ❤️ 3056 | 🔁 87 | 🗨 306 | 📁 325 | 👁️ 158K
+- **Link**: https://x.com/thsottiaux/status/2105006253986738615
 
 Prior activity still on the timeline:
 
-### 11. 23:48 Beijing (UTC+8) / 08:48 PDT (Sep 29)
-- **Content**: Quote-post with a photo; text is a short link. Quotes @OpenAI: "10am PT, on the dot."
-- **Quoted**: https://x.com/OpenAI/status/2104934336206430527
-- **Link**: https://x.com/thsottiaux/status/2104961497055240633
+### 3. 02:00 Beijing (UTC+8) / 11:00 PDT (Sep 29)
+- **Content**: Live demos suffered from rolling out all the updates at the same time, but the team is committed to keep doing live demos. Almost everything announced is available today.
+- **Link**: https://x.com/thsottiaux/status/2104994835212226681
 
-### 12. 23:10 Beijing (UTC+8) / 08:10 PDT (Sep 29)
-- **Content**: Recasts the new Pro 200 plan before live-tweeting DevDay shipments. Relative plan multipliers: Plus = 1X, Pro 100 = 5X, Pro 200 = 10X. Pro 200 subscriptions reopen.
-- **Link**: https://x.com/thsottiaux/status/2104951965184925941
+### 4. 01:49 Beijing (UTC+8) / 10:49 PDT (Sep 29)
+- **Content**: Little summary (photo attached).
+- **Link**: https://x.com/thsottiaux/status/2104992080095564111
+
+### 5. 01:48 Beijing (UTC+8) / 10:48 PDT (Sep 29)
+- **Content**: Opening the platform so builders can ship full native apps with plugin extensions inside ChatGPT. Over 1.2B weekly users; relevant plugins will be surfaced in conversations.
+- **Link**: https://x.com/thsottiaux/status/2104991765904375896
+
+### 6. 01:47 Beijing (UTC+8) / 10:47 PDT (Sep 29)
+- **Content**: Earlier partner-products note: ChatGPT subscriptions in 60+ partner products (Devin, OpenCode, Lovable, and others).
+- **Link**: https://x.com/thsottiaux/status/2104991529416999243
+
+### 7. 01:38 Beijing (UTC+8) / 10:38 PDT (Sep 29)
+- **Content**: Dots are included in all Pro, Business Premium, and Enterprise plans, including the Pro 100 plan. Access will expand further soon.
+- **Link**: https://x.com/thsottiaux/status/2104989161774322009
+
+### 8. 01:33 Beijing (UTC+8) / 10:33 PDT (Sep 29)
+- **Content**: Token traffic on the Responses API is up 100X year over year. Reliability is at 99.9% uptime with significant performance gains.
+- **Link**: https://x.com/thsottiaux/status/2104988071188148495
 
 ## Today's replies to others
 
-None in this scan. Earlier reply still on the day:
+### 1. 03:15 Beijing (UTC+8) / 12:15 PDT (Sep 29) — reply to @badlogicgames
+- **His words**: yw, keep on rocking
+- **Engagement**: ❤️ 175 | 🔁 0 | 🗨 17 | 📁 4 | 👁️ 17K
+- **Link**: https://x.com/thsottiaux/status/2105013661534454145
+- **Original post**: @badlogicgames posts “pi on stage” with a photo.
+- **Original link**: https://x.com/badlogicgames/status/2105004950350667795
 
-### 1. 23:13 Beijing (UTC+8) / 08:13 PDT (Sep 29) — reply to @jukan05 (in own Pro 200 thread)
+Earlier reply still on the day:
+
+### 2. 23:13 Beijing (UTC+8) / 08:13 PDT (Sep 29) — reply to @jukan05 (in own Pro 200 thread)
 - **His words**: Hello, this is Tibo, you’ve reached the wrong company. Let me redirect you to …
 - **Link**: https://x.com/thsottiaux/status/2104952602710638877
 - **Original link**: https://x.com/jukan05/status/2104952317900656996
