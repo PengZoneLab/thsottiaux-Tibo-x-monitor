@@ -1,61 +1,60 @@
 # Latest Scan
 
-**Scan time**: 2026-09-30 04:05 Beijing time (UTC+8) / 13:05 PDT (Sep 29)
+**Scan time**: 2026-09-30 05:02 Beijing time (UTC+8) / 14:02 PDT (Sep 29)
 
-**New activity**: 2 original posts (GPT-6.1 availability + partner subscription usage) and 1 reply to @badlogicgames. One own-thread follow-up with the GPT-6.1 Sol launch link.
+**New activity**: 3 original posts (ChatGPT Space quote, plugin discovery + submission link, open models in Codex quote) and 2 replies (@LLMJunky, @DeryaTR_).
 
 ## Today's original posts
 
-### 1. 02:51 Beijing (UTC+8) / 11:51 PDT (Sep 29)
-- **Content**: GPT-6.1 is a good model and unbelievably efficient. Included in all paid plans and on the API today. Photo attached.
-- **Follow-up** (02:52 Beijing / 11:52 PDT): Launch post link — https://openai.com/index/introducing-gpt-6-1-sol/
-- **Engagement**: ❤️ 3809 | 🔁 139 | 🗨 643 | 📁 227 | 👁️ 221K
-- **Link**: https://x.com/thsottiaux/status/2105007628460109953
-- **Follow-up link**: https://x.com/thsottiaux/status/2105007775676072381
+### 1. 04:59 Beijing (UTC+8) / 13:59 PDT (Sep 29)
+- **Content**: Proud of this. Open is the way. Quotes @philipkiely on enterprise teams using open models (GLM-5.3 Flash, Kimi K3) natively in Codex and counting spend against an OpenAI commit.
+- **Engagement**: ❤️ 210 | 🔁 6 | 🗨 39 | 📁 20 | 👁️ 18K
+- **Link**: https://x.com/thsottiaux/status/2105039816438227206
+- **Quoted link**: https://x.com/philipkiely/status/2105000178709360963
 
-### 2. 02:46 Beijing (UTC+8) / 11:46 PDT (Sep 29)
-- **Content**: ChatGPT subscriptions can now be used directly in over 16 partner products (Devin, OpenCode, Notion, and others) with all included usage. Sign in with ChatGPT.
-- **Engagement**: ❤️ 3056 | 🔁 87 | 🗨 306 | 📁 325 | 👁️ 158K
-- **Link**: https://x.com/thsottiaux/status/2105006253986738615
+### 2. 04:58 Beijing (UTC+8) / 13:58 PDT (Sep 29)
+- **Content**: Plugin discovery on ChatGPT leads to massive adoption opportunity. Open ecosystems will win. Photo attached.
+- **Follow-up** (04:58 Beijing / 13:58 PDT): Plugin submission docs — https://developers.openai.com/plugins/deploy/submission
+- **Engagement**: ❤️ 239 | 🔁 6 | 🗨 51 | 📁 36 | 👁️ 18K
+- **Link**: https://x.com/thsottiaux/status/2105039482013757749
+- **Follow-up link**: https://x.com/thsottiaux/status/2105039500149948878
+
+### 3. 04:12 Beijing (UTC+8) / 13:12 PDT (Sep 29)
+- **Content**: Read this on thread on ChatGPT Space if you only read one thing about it. Quotes @matteing on details of what the team has been cooking.
+- **Engagement**: ❤️ 843 | 🔁 17 | 🗨 183 | 📁 257 | 👁️ 127K
+- **Link**: https://x.com/thsottiaux/status/2105028036240552179
+- **Quoted link**: https://x.com/matteing/status/2105024607552172137
 
 Prior activity still on the timeline:
 
-### 3. 02:00 Beijing (UTC+8) / 11:00 PDT (Sep 29)
-- **Content**: Live demos suffered from rolling out all the updates at the same time, but the team is committed to keep doing live demos. Almost everything announced is available today.
-- **Link**: https://x.com/thsottiaux/status/2104994835212226681
+### 4. 02:51 Beijing (UTC+8) / 11:51 PDT (Sep 29)
+- **Content**: GPT-6.1 is a good model and unbelievably efficient. Included in all paid plans and on the API today. Photo attached.
+- **Follow-up**: https://openai.com/index/introducing-gpt-6-1-sol/
+- **Link**: https://x.com/thsottiaux/status/2105007628460109953
 
-### 4. 01:49 Beijing (UTC+8) / 10:49 PDT (Sep 29)
-- **Content**: Little summary (photo attached).
-- **Link**: https://x.com/thsottiaux/status/2104992080095564111
-
-### 5. 01:48 Beijing (UTC+8) / 10:48 PDT (Sep 29)
-- **Content**: Opening the platform so builders can ship full native apps with plugin extensions inside ChatGPT. Over 1.2B weekly users; relevant plugins will be surfaced in conversations.
-- **Link**: https://x.com/thsottiaux/status/2104991765904375896
-
-### 6. 01:47 Beijing (UTC+8) / 10:47 PDT (Sep 29)
-- **Content**: Earlier partner-products note: ChatGPT subscriptions in 60+ partner products (Devin, OpenCode, Lovable, and others).
-- **Link**: https://x.com/thsottiaux/status/2104991529416999243
-
-### 7. 01:38 Beijing (UTC+8) / 10:38 PDT (Sep 29)
-- **Content**: Dots are included in all Pro, Business Premium, and Enterprise plans, including the Pro 100 plan. Access will expand further soon.
-- **Link**: https://x.com/thsottiaux/status/2104989161774322009
-
-### 8. 01:33 Beijing (UTC+8) / 10:33 PDT (Sep 29)
-- **Content**: Token traffic on the Responses API is up 100X year over year. Reliability is at 99.9% uptime with significant performance gains.
-- **Link**: https://x.com/thsottiaux/status/2104988071188148495
+### 5. 02:46 Beijing (UTC+8) / 11:46 PDT (Sep 29)
+- **Content**: ChatGPT subscriptions can now be used directly in over 16 partner products (Devin, OpenCode, Notion, and others) with all included usage.
+- **Link**: https://x.com/thsottiaux/status/2105006253986738615
 
 ## Today's replies to others
 
-### 1. 03:15 Beijing (UTC+8) / 12:15 PDT (Sep 29) — reply to @badlogicgames
-- **His words**: yw, keep on rocking
-- **Engagement**: ❤️ 175 | 🔁 0 | 🗨 17 | 📁 4 | 👁️ 17K
-- **Link**: https://x.com/thsottiaux/status/2105013661534454145
-- **Original post**: @badlogicgames posts “pi on stage” with a photo.
-- **Original link**: https://x.com/badlogicgames/status/2105004950350667795
+### 1. 05:02 Beijing (UTC+8) / 14:02 PDT (Sep 29) — reply to @LLMJunky
+- **His words**: The one thing we planned 3 months ago.
+- **Engagement**: ❤️ 3 | 🔁 0 | 🗨 0 | 📁 0 | 👁️ 388
+- **Link**: https://x.com/thsottiaux/status/2105040569924002048
+- **Original post**: @LLMJunky praises the Modretro console: blank cartridge, build the game with Codex, load it onto the device (video).
+- **Original link**: https://x.com/LLMJunky/status/2105020670895927479
+
+### 2. 05:02 Beijing (UTC+8) / 14:02 PDT (Sep 29) — reply to @DeryaTR_
+- **His words**: Hey, I've seen you somewhere!
+- **Engagement**: ❤️ 8 | 🔁 0 | 🗨 0 | 📁 0 | 👁️ 540
+- **Link**: https://x.com/thsottiaux/status/2105040486314696737
+- **Original post**: @DeryaTR_ posts a photo with artistic “cells,” noting the figure looked like him and was holding something like a blood cell.
+- **Original link**: https://x.com/DeryaTR_/status/2105025274748539311
 
 Earlier reply still on the day:
 
-### 2. 23:13 Beijing (UTC+8) / 08:13 PDT (Sep 29) — reply to @jukan05 (in own Pro 200 thread)
-- **His words**: Hello, this is Tibo, you’ve reached the wrong company. Let me redirect you to …
-- **Link**: https://x.com/thsottiaux/status/2104952602710638877
-- **Original link**: https://x.com/jukan05/status/2104952317900656996
+### 3. 03:15 Beijing (UTC+8) / 12:15 PDT (Sep 29) — reply to @badlogicgames
+- **His words**: yw, keep on rocking
+- **Link**: https://x.com/thsottiaux/status/2105013661534454145
+- **Original link**: https://x.com/badlogicgames/status/2105004950350667795
