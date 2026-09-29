@@ -1,44 +1,77 @@
 # Latest Scan
 
-**Scan time**: 2026-09-30 00:02 Beijing time (UTC+8) / 09:02 PDT (Sep 29)
+**Scan time**: 2026-09-30 02:02 Beijing time (UTC+8) / 11:02 PDT (Sep 29)
 
-**New activity**: 2 original posts + 1 reply to @jukan05.
+**New activity**: 10 original posts (DevDay product announcements). No new replies to others.
 
 ## Today's original posts
 
-### 1. 23:48 Beijing (UTC+8) / 08:48 PDT (Sep 29)
-- **Content**: Quote-post with a photo; text is a short link. Quotes @OpenAI: "10am PT, on the dot."
-- **Quoted**: https://x.com/OpenAI/status/2104934336206430527
-- **Engagement**: ❤️ 1081 | 🔁 27 | 🗨 247 | 📁 39 | 👁️ 90K
-- **Link**: https://x.com/thsottiaux/status/2104961497055240633
+### 1. 02:00 Beijing (UTC+8) / 11:00 PDT (Sep 29)
+- **Content**: Live demos suffered from rolling out all the updates at the same time, but the team is committed to keep doing live demos. Almost everything announced is available today.
+- **Engagement**: ❤️ 402 | 🔁 15 | 🗨 97 | 📁 11 | 👁️ 17K
+- **Link**: https://x.com/thsottiaux/status/2104994835212226681
 
-### 2. 23:10 Beijing (UTC+8) / 08:10 PDT (Sep 29)
-- **Content**: Recasts the new Pro 200 plan before live-tweeting DevDay shipments. Says Plus and Pro are getting more capability with extra compute online. Relative plan multipliers become Plus = 1X, Pro 100 = 5X, Pro 200 = 10X. Pro 200 subscriptions reopen. Existing plans keep the 20X multiplier for a bit and receive additional credits.
-- **Follow-up** (23:13 Beijing / 08:13 PDT): Hello, this is Tibo, you’ve reached the wrong company. Let me redirect you to …
-- **Engagement** (root): ❤️ 5652 | 🔁 300 | 🗨 2004 | 📁 650 | 👁️ 497K
-- **Link**: https://x.com/thsottiaux/status/2104951965184925941
-- **Follow-up link**: https://x.com/thsottiaux/status/2104952602710638877
+### 2. 01:49 Beijing (UTC+8) / 10:49 PDT (Sep 29)
+- **Content**: Little summary (photo attached).
+- **Engagement**: ❤️ 1713 | 🔁 85 | 🗨 415 | 📁 78 | 👁️ 82K
+- **Link**: https://x.com/thsottiaux/status/2104992080095564111
+
+### 3. 01:48 Beijing (UTC+8) / 10:48 PDT (Sep 29)
+- **Content**: Opening the platform so builders can ship full native apps with plugin extensions inside ChatGPT. Over 1.2B weekly users; relevant plugins will be surfaced in conversations.
+- **Engagement**: ❤️ 1481 | 🔁 51 | 🗨 119 | 📁 154 | 👁️ 77K
+- **Link**: https://x.com/thsottiaux/status/2104991765904375896
+
+### 4. 01:47 Beijing (UTC+8) / 10:47 PDT (Sep 29)
+- **Content**: ChatGPT subscriptions can now be used directly in 60+ partner products (Devin, OpenCode, Lovable, and others) with included usage. Sign in with ChatGPT.
+- **Engagement**: ❤️ 1822 | 🔁 96 | 🗨 156 | 📁 176 | 👁️ 90K
+- **Link**: https://x.com/thsottiaux/status/2104991529416999243
+
+### 5. 01:38 Beijing (UTC+8) / 10:38 PDT (Sep 29)
+- **Content**: Dots are included in all Pro, Business Premium, and Enterprise plans, including the Pro 100 plan. Access will expand further soon.
+- **Engagement**: ❤️ 2586 | 🔁 100 | 🗨 411 | 📁 100 | 👁️ 148K
+- **Link**: https://x.com/thsottiaux/status/2104989161774322009
+
+### 6. 01:33 Beijing (UTC+8) / 10:33 PDT (Sep 29)
+- **Content**: Token traffic on the Responses API is up 100X year over year. Reliability is at 99.9% uptime with significant performance gains.
+- **Engagement**: ❤️ 1610 | 🔁 57 | 🗨 134 | 📁 55 | 👁️ 112K
+- **Link**: https://x.com/thsottiaux/status/2104988071188148495
+
+### 7. 01:32 Beijing (UTC+8) / 10:32 PDT (Sep 29)
+- **Content**: New Codex Cloud with configurable cloud environments. Agents API (the stack behind cloud agents including dots) is in preview with computer use.
+- **Engagement**: ❤️ 1788 | 🔁 89 | 🗨 133 | 📁 148 | 👁️ 128K
+- **Link**: https://x.com/thsottiaux/status/2104987594719461796
+
+### 8. 01:27 Beijing (UTC+8) / 10:27 PDT (Sep 29)
+- **Content**: Decisions API for fast constrained decision-making powered by Luna. Supports visual inputs; end-to-end decisions in a few hundred milliseconds.
+- **Engagement**: ❤️ 3006 | 🔁 146 | 🗨 267 | 📁 336 | 👁️ 180K
+- **Link**: https://x.com/thsottiaux/status/2104986448269279399
+
+### 9. 01:25 Beijing (UTC+8) / 10:25 PDT (Sep 29)
+- **Content**: Introducing 6.1 Sol — near Astra intelligence at one fifth of Astra’s price, plus a 95% cache-read discount. Ultrafast (8X) is available today for Astra and coming soon for 6.1 Sol.
+- **Engagement**: ❤️ 7380 | 🔁 387 | 🗨 570 | 📁 490 | 👁️ 291K
+- **Link**: https://x.com/thsottiaux/status/2104986027953930613
+
+### 10. 01:16 Beijing (UTC+8) / 10:16 PDT (Sep 29)
+- **Content**: Announcing ChatGPT Space — collaborative notes and live visualizations with others and dots (TODO lists, product plans, meeting notes). Kept up to date in the background; described as AGENTS.md taken further for developers.
+- **Engagement**: ❤️ 2743 | 🔁 163 | 🗨 321 | 📁 243 | 👁️ 191K
+- **Link**: https://x.com/thsottiaux/status/2104983716049379472
 
 Prior activity still on the timeline:
 
-### 3. 15:39 Beijing (UTC+8) / 00:39 PDT (Sep 29)
-- **Content**: That was yesterday, today is DevDay. And it's all good news. I'm surprised we've kept it all under wraps.
-- **Quoted**: His earlier Pro $200 / usage-calculation note.
-- **Engagement**: ❤️ 7696 | 🔁 212 | 🗨 1819 | 📁 402 | 👁️ 1.21M
-- **Link**: https://x.com/thsottiaux/status/2104838506363408740
+### 11. 23:48 Beijing (UTC+8) / 08:48 PDT (Sep 29)
+- **Content**: Quote-post with a photo; text is a short link. Quotes @OpenAI: "10am PT, on the dot."
+- **Quoted**: https://x.com/OpenAI/status/2104934336206430527
+- **Link**: https://x.com/thsottiaux/status/2104961497055240633
 
-### 4. 14:41 Beijing (UTC+8) / 23:41 PDT (Sep 28)
-- **Content**: Announces that Pro $200 subscriptions reopen to new subscribers tomorrow, with a change to how usage is calculated so that it nets out at about half the dollar in API spend versus the old Pro $200 plan. Explains the team will not bring back the 5-hour limit; subscriptions should keep delivering more work and higher quality as models get more efficient and API prices fall (citing GPT-6 Sol and Luna at 50% of previous price); they do not want incentives to inflate list prices; more subscription features that will not draw on usage land tomorrow (not yet named). Says this is shared ahead of DevDay announcements.
-- **Follow-up** (14:57 Beijing / 23:57 PDT Sep 28): Agreed
-- **Engagement** (root): ❤️ 19673 | 🔁 1476 | 🗨 6646 | 📁 4028 | 👁️ 11.56M
-- **Link**: https://x.com/thsottiaux/status/2104823812042940713
-- **Follow-up link**: https://x.com/thsottiaux/status/2104827790440935508
+### 12. 23:10 Beijing (UTC+8) / 08:10 PDT (Sep 29)
+- **Content**: Recasts the new Pro 200 plan before live-tweeting DevDay shipments. Relative plan multipliers: Plus = 1X, Pro 100 = 5X, Pro 200 = 10X. Pro 200 subscriptions reopen.
+- **Link**: https://x.com/thsottiaux/status/2104951965184925941
 
 ## Today's replies to others
 
+None in this scan. Earlier reply still on the day:
+
 ### 1. 23:13 Beijing (UTC+8) / 08:13 PDT (Sep 29) — reply to @jukan05 (in own Pro 200 thread)
 - **His words**: Hello, this is Tibo, you’ve reached the wrong company. Let me redirect you to …
-- **Engagement**: ❤️ 830 | 🔁 9 | 🗨 70 | 📁 20 | 👁️ 95K
 - **Link**: https://x.com/thsottiaux/status/2104952602710638877
-- **Original post**: @jukan05 objects to the plan multipliers as utilitarianism and asks to allocate compute unequally.
 - **Original link**: https://x.com/jukan05/status/2104952317900656996
