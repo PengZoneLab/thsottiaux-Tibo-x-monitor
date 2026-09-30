@@ -1,79 +1,82 @@
 # Latest Scan
 
-**Scan time**: 2026-09-30 09:02 Beijing time (UTC+8) / 18:02 PDT (Sep 29)
+**Scan time**: 2026-09-30 10:02 Beijing time (UTC+8) / 19:02 PDT (Sep 29)
 
-**New activity**: 1 reply to @signulll.
+**New activity**: 3 original posts (dots rollout, DevDay in person, community-note clarification) and 6 replies (@danshipper, @The_Alex, @abdellahbrc, @tenobrus, @NickADobos, @kunchenguid).
 
 ## Today's original posts
 
-### 1. 05:05 Beijing (UTC+8) / 14:05 PDT (Sep 29)
-- **Content**: Full recap of all the announcements. Links to https://openai.com/index/devday-2026-recap/
-- **Engagement**: ❤️ 1643 | 🔁 145 | 🗨 545 | 📁 469 | 👁️ 237K
-- **Link**: https://x.com/thsottiaux/status/2105041299934187874
+### 1. 09:18 Beijing (UTC+8) / 18:18 PDT (Sep 29)
+- **Content**: A few million dots should be online within days across a large community. He is excited to learn what people love and what does not yet feel magical. Personally felt a jump after 2–3 days of use after teaching it preferences; it learns quickly and can take on ambitious tasks. Learning from primary-dot use before releasing teams of dots.
+- **Engagement**: ❤️ 1433 | 🔁 46 | 🗨 419 | 📁 117 | 👁️ 106K
+- **Link**: https://x.com/thsottiaux/status/2105105086506840421
 
-### 2. 04:59 Beijing (UTC+8) / 13:59 PDT (Sep 29)
-- **Content**: Proud of this. Open is the way. Quotes @philipkiely on enterprise teams using open models (GLM-5.3 Flash, Kimi K3) natively in Codex and counting spend against an OpenAI commit.
-- **Engagement**: ❤️ 3000 | 🔁 76 | 🗨 200 | 📁 360 | 👁️ 359K
-- **Link**: https://x.com/thsottiaux/status/2105039816438227206
-- **Quoted link**: https://x.com/philipkiely/status/2105000178709360963
+### 2. 09:09 Beijing (UTC+8) / 18:09 PDT (Sep 29)
+- **Content**: Nice to connect with so many people in person at DevDay. Immaculate vibes from the crowd and fun to see so many build things throughout the day.
+- **Engagement**: ❤️ 957 | 🔁 24 | 🗨 151 | 📁 11 | 👁️ 75K
+- **Link**: https://x.com/thsottiaux/status/2105102820706058498
 
-### 3. 04:58 Beijing (UTC+8) / 13:58 PDT (Sep 29)
-- **Content**: Plugin discovery on ChatGPT leads to massive adoption opportunity. Open ecosystems will win. Photo attached.
-- **Follow-up** (04:58 Beijing / 13:58 PDT): Plugin submission docs — https://developers.openai.com/plugins/deploy/submission
-- **Engagement**: ❤️ 1323 | 🔁 34 | 🗨 128 | 📁 204 | 👁️ 158K
-- **Link**: https://x.com/thsottiaux/status/2105039482013757749
-- **Follow-up link**: https://x.com/thsottiaux/status/2105039500149948878
-
-### 4. 04:12 Beijing (UTC+8) / 13:12 PDT (Sep 29)
-- **Content**: Read this on thread on ChatGPT Space if you only read one thing about it. Quotes @matteing on details of what the team has been cooking.
-- **Engagement**: ❤️ 1282 | 🔁 34 | 🗨 208 | 📁 450 | 👁️ 285K
-- **Link**: https://x.com/thsottiaux/status/2105028036240552179
-- **Quoted link**: https://x.com/matteing/status/2105024607552172137
+### 3. 09:07 Beijing (UTC+8) / 18:07 PDT (Sep 29)
+- **Content**: Says he was community-noted but the note is wrong. Primary dot is included in the plan and available 24/7. Asking a dot to create a Codex task draws usage as usual; work the dot does directly uses nothing on top of plan usage. Future paid option to increase speed/bandwidth; baseline stays included. Quotes his earlier dots announcement.
+- **Engagement**: ❤️ 1154 | 🔁 53 | 🗨 237 | 📁 134 | 👁️ 167K
+- **Link**: https://x.com/thsottiaux/status/2105102312167575701
+- **Quoted link**: https://x.com/thsottiaux/status/2104981170685616361
 
 Prior activity still on the timeline:
 
-### 5. 02:51 Beijing (UTC+8) / 11:51 PDT (Sep 29)
-- **Content**: GPT-6.1 is a good model and unbelievably efficient. Included in all paid plans and on the API today. Photo attached.
-- **Follow-up**: https://openai.com/index/introducing-gpt-6-1-sol/
-- **Link**: https://x.com/thsottiaux/status/2105007628460109953
+### 4. 05:05 Beijing (UTC+8) / 14:05 PDT (Sep 29)
+- **Content**: Full recap of all the announcements. Links to https://openai.com/index/devday-2026-recap/
+- **Link**: https://x.com/thsottiaux/status/2105041299934187874
 
-### 6. 02:46 Beijing (UTC+8) / 11:46 PDT (Sep 29)
-- **Content**: ChatGPT subscriptions can now be used directly in over 16 partner products (Devin, OpenCode, Notion, and others) with all included usage.
-- **Link**: https://x.com/thsottiaux/status/2105006253986738615
+### 5. 04:59 Beijing (UTC+8) / 13:59 PDT (Sep 29)
+- **Content**: Proud of this. Open is the way. Quotes @philipkiely on open models in Codex.
+- **Link**: https://x.com/thsottiaux/status/2105039816438227206
 
 ## Today's replies to others
 
-### 1. 08:48 Beijing (UTC+8) / 17:48 PDT (Sep 29) — reply to @signulll
+### 1. 09:34 Beijing (UTC+8) / 18:34 PDT (Sep 29) — reply to @danshipper
+- **His words**: Always fun working with you!
+- **Engagement**: ❤️ 38 | 🔁 0 | 🗨 12 | 📁 1 | 👁️ 5.3K
+- **Link**: https://x.com/thsottiaux/status/2105109005135962589
+- **Original post**: @danshipper is proud of @every's DevDay coverage (vibe checks, live feed, livestream, upcoming podcast with @sama).
+- **Original link**: https://x.com/danshipper/status/2105066959822114972
+
+### 2. 09:33 Beijing (UTC+8) / 18:33 PDT (Sep 29) — reply to @The_Alex
+- **His words**: All rolling out within 12 hours. Pretty insane operation!
+- **Engagement**: ❤️ 112 | 🔁 1 | 🗨 21 | 📁 2 | 👁️ 7.5K
+- **Link**: https://x.com/thsottiaux/status/2105108807693246808
+- **Original post**: @The_Alex's biggest gripe is OpenAI saying something is “available today” when it is not immediately available.
+- **Original link**: https://x.com/The_Alex/status/2105013295086440696
+
+### 3. 09:31 Beijing (UTC+8) / 18:31 PDT (Sep 29) — reply to @abdellahbrc (in own dots thread)
+- **His words**: No delays, all rolled out today. Just a question of how many of you adopt a dot.
+- **Engagement**: ❤️ 62 | 🔁 0 | 🗨 45 | 📁 1 | 👁️ 12K
+- **Link**: https://x.com/thsottiaux/status/2105108212219572319
+- **Original post**: @abdellahbrc asks why announce something only to delay shipping it.
+- **Original link**: https://x.com/abdellahbrc/status/2105105381202776284
+
+### 4. 09:24 Beijing (UTC+8) / 18:24 PDT (Sep 29) — reply to @tenobrus
+- **His words**: Why are you shilling OpenAI. Must be paid or something
+- **Engagement**: ❤️ 75 | 🔁 0 | 🗨 19 | 📁 0 | 👁️ 8.5K
+- **Link**: https://x.com/thsottiaux/status/2105106575866364103
+- **Original post**: @tenobrus defends the Pro plan change as sustainable quota management, not a subsidy, and notes frontier intelligence will never be too cheap to meter.
+- **Original link**: https://x.com/tenobrus/status/2104919167459815885
+
+### 5. 09:22 Beijing (UTC+8) / 18:22 PDT (Sep 29) — reply to @NickADobos
+- **His words**: Sleeper hit
+- **Engagement**: ❤️ 55 | 🔁 4 | 🗨 8 | 📁 3 | 👁️ 6.7K
+- **Link**: https://x.com/thsottiaux/status/2105106052874375281
+- **Original post**: @NickADobos says ChatGPT plugin extensions are more thorough than expected — ChatGPT turned into VS Code; calls it the new App Store.
+- **Original link**: https://x.com/NickADobos/status/2105074673923014777
+
+### 6. 09:13 Beijing (UTC+8) / 18:13 PDT (Sep 29) — reply to @kunchenguid
+- **His words**: Good coverage!!! Thank you for tuning in and re-sharing this nicely
+- **Engagement**: ❤️ 69 | 🔁 0 | 🗨 10 | 📁 3 | 👁️ 7.8K
+- **Link**: https://x.com/thsottiaux/status/2105103752185458869
+- **Original post**: @kunchenguid posts DevDay takeaways on dots, Sol 6.1, Decisions API, ultrafast, the $500 plan, and Sign in with ChatGPT / marketplace.
+- **Original link**: https://x.com/kunchenguid/status/2104998134279762141
+
+### 7. 08:48 Beijing (UTC+8) / 17:48 PDT (Sep 29) — reply to @signulll
 - **His words**: Transparency is important to me
-- **Engagement**: ❤️ 166 | 🔁 0 | 🗨 50 | 📁 6 | 👁️ 7.5K
 - **Link**: https://x.com/thsottiaux/status/2105097443847332188
-- **Original post**: @signulll questions announcing plan-limit cuts before a major event, arguing it frames the launch around usage scarcity instead of what shipped.
 - **Original link**: https://x.com/signulll/status/2105017411556512022
-
-### 2. 05:03 Beijing (UTC+8) / 14:03 PDT (Sep 29) — reply to @alexandr_wang
-- **His words**: I had a different one in mind, but not going to post
-- **Engagement**: ❤️ 687 | 🔁 7 | 🗨 74 | 📁 24 | 👁️ 63K
-- **Link**: https://x.com/thsottiaux/status/2105040722613412135
-- **Original post**: @alexandr_wang quotes a photo from @stellakaval with “picture is worth 1000 words.”
-- **Original link**: https://x.com/alexandr_wang/status/2105013420437250532
-
-### 3. 05:02 Beijing (UTC+8) / 14:02 PDT (Sep 29) — reply to @LLMJunky
-- **His words**: The one thing we planned 3 months ago.
-- **Engagement**: ❤️ 166 | 🔁 1 | 🗨 7 | 📁 4 | 👁️ 14K
-- **Link**: https://x.com/thsottiaux/status/2105040569924002048
-- **Original post**: @LLMJunky praises the Modretro console: blank cartridge, build the game with Codex, load it onto the device (video).
-- **Original link**: https://x.com/LLMJunky/status/2105020670895927479
-
-### 4. 05:02 Beijing (UTC+8) / 14:02 PDT (Sep 29) — reply to @DeryaTR_
-- **His words**: Hey, I've seen you somewhere!
-- **Engagement**: ❤️ 102 | 🔁 0 | 🗨 8 | 📁 2 | 👁️ 14K
-- **Link**: https://x.com/thsottiaux/status/2105040486314696737
-- **Original post**: @DeryaTR_ posts a photo with artistic “cells,” noting the figure looked like him and was holding something like a blood cell.
-- **Original link**: https://x.com/DeryaTR_/status/2105025274748539311
-
-Earlier reply still on the day:
-
-### 5. 03:15 Beijing (UTC+8) / 12:15 PDT (Sep 29) — reply to @badlogicgames
-- **His words**: yw, keep on rocking
-- **Link**: https://x.com/thsottiaux/status/2105013661534454145
-- **Original link**: https://x.com/badlogicgames/status/2105004950350667795
