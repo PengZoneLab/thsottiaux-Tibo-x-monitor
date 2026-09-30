@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-09-30 07:02 Beijing time (UTC+8) / 16:02 PDT (Sep 29)
+**Scan time**: 2026-09-30 08:02 Beijing time (UTC+8) / 17:02 PDT (Sep 29)
 
 **New activity**: No new posts.
 
@@ -8,7 +8,7 @@
 
 ### 1. 05:05 Beijing (UTC+8) / 14:05 PDT (Sep 29)
 - **Content**: Full recap of all the announcements. Links to https://openai.com/index/devday-2026-recap/
-- **Engagement**: ❤️ 1241 | 🔁 107 | 🗨 436 | 📁 332 | 👁️ 145K
+- **Engagement**: ❤️ 1457 | 🔁 132 | 🗨 495 | 📁 404 | 👁️ 193K
 - **Link**: https://x.com/thsottiaux/status/2105041299934187874
 
 ### 2. 04:59 Beijing (UTC+8) / 13:59 PDT (Sep 29)
@@ -45,14 +45,14 @@ Prior activity still on the timeline:
 
 ### 1. 05:03 Beijing (UTC+8) / 14:03 PDT (Sep 29) — reply to @alexandr_wang
 - **His words**: I had a different one in mind, but not going to post
-- **Engagement**: ❤️ 485 | 🔁 6 | 🗨 60 | 📁 19 | 👁️ 40K
+- **Engagement**: ❤️ 596 | 🔁 6 | 🗨 64 | 📁 23 | 👁️ 53K
 - **Link**: https://x.com/thsottiaux/status/2105040722613412135
 - **Original post**: @alexandr_wang quotes a photo from @stellakaval with “picture is worth 1000 words.”
 - **Original link**: https://x.com/alexandr_wang/status/2105013420437250532
 
 ### 2. 05:02 Beijing (UTC+8) / 14:02 PDT (Sep 29) — reply to @LLMJunky
 - **His words**: The one thing we planned 3 months ago.
-- **Engagement**: ❤️ 126 | 🔁 1 | 🗨 5 | 📁 4 | 👁️ 10K
+- **Engagement**: ❤️ 149 | 🔁 1 | 🗨 6 | 📁 4 | 👁️ 12K
 - **Link**: https://x.com/thsottiaux/status/2105040569924002048
 - **Original post**: @LLMJunky praises the Modretro console: blank cartridge, build the game with Codex, load it onto the device (video).
 - **Original link**: https://x.com/LLMJunky/status/2105020670895927479
