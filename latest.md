@@ -1,14 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-10-02 00:03 Beijing time (UTC+8) / 09:03 PDT
+**Scan time**: 2026-10-02 01:09 Beijing time (UTC+8) / 10:09 PDT
 
-**New activity**: 2 replies. The primary-dot reset post was already recorded.
+**New activity**: No new posts.
 
 ## Today's original posts
 
 ### 1. 22:51 Beijing (UTC+8) / 07:51 PDT (Oct 1)
 - **Content**: Because usage on the primary dot is virtually unlimited at the moment, he cannot really give a reset and needs to come up with something new fast.
-- **Engagement**: ❤️ 3909 | 🔁 121 | 🗨 1522 | 🗂 241 | 👁️ 262K
+- **Engagement**: ❤️ 5525 | 🔁 154 | 🗨 2007 | 🗂 363 | 👁️ 506K
 - **Link**: https://x.com/thsottiaux/status/2105672058269212820
 
 ### 2. 12:44 Beijing (UTC+8) / 21:44 PDT (Sep 30)
@@ -45,14 +45,14 @@
 
 ### 1. 00:02 Beijing (UTC+8) / 09:02 PDT (Oct 1) — reply to @The_Alex
 - **His words**: We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀
-- **Engagement**: ❤️ 20 | 🔁 0 | 🗨 3 | 🗂 0 | 👁️ 827
+- **Engagement**: ❤️ 638 | 🔁 4 | 🗨 91 | 🗂 23 | 👁️ 31K
 - **Link**: https://x.com/thsottiaux/status/2105689875655897093
 - **Original post**: @The_Alex says he called his dot tonight and it did not pick up, and asks what it could possibly have been doing.
 - **Original link**: https://x.com/The_Alex/status/2105535270632529953
 
 ### 2. 23:59 Beijing (UTC+8) / 08:59 PDT (Oct 1) — reply to @rileybrown
 - **His words**: Love it thank you
-- **Engagement**: ❤️ 21 | 🔁 0 | 🗨 8 | 🗂 1 | 👁️ 2.7K
+- **Engagement**: ❤️ 120 | 🔁 2 | 🗨 15 | 🗂 3 | 👁️ 13K
 - **Link**: https://x.com/thsottiaux/status/2105689002905153761
 - **Original post**: @rileybrown spent 24 hours with his Dot (Bluey). Voice is the highlight, with issues past about 30 minutes. Feature notes include a better Codex-thread view, calling multiple dots, clearer working animations, simpler browser/computer wording, and ruthless prioritization inside the ChatGPT app.
 - **Original link**: https://x.com/rileybrown/status/2105670426378535406
