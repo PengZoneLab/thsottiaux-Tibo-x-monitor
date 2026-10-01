@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-01 18:02 Beijing time (UTC+8) / 03:02 PDT
+**Scan time**: 2026-10-01 19:02 Beijing time (UTC+8) / 04:02 PDT
 
 **New activity**: No new posts.
 
@@ -8,7 +8,7 @@
 
 ### 1. 12:44 Beijing (UTC+8) / 21:44 PDT (Sep 30)
 - **Content**: One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. Quotes @mxstbr on ChatGPT Sites hosting MCP servers and plugin extensions.
-- **Engagement**: ❤️ 3086 | 🔁 191 | 🗨 276 | 🗂 1266 | 👁️ 354K
+- **Engagement**: ❤️ 3392 | 🔁 203 | 🗨 300 | 🗂 1378 | 👁️ 394K
 - **Link**: https://x.com/thsottiaux/status/2105519215092584786
 
 ### 2. 09:06 Beijing (UTC+8) / 18:06 PDT (Sep 30)
@@ -40,14 +40,14 @@
 
 ### 1. 12:57 Beijing (UTC+8) / 21:57 PDT (Sep 30) — reply to @jxnlco
 - **His words**: I was going to say, last year. But no… it was this year.
-- **Engagement**: ❤️ 353 | 🔁 0 | 🗨 34 | 🗂 6 | 👁️ 28K
+- **Engagement**: ❤️ 395 | 🔁 0 | 🗨 36 | 🗂 6 | 👁️ 31K
 - **Link**: https://x.com/thsottiaux/status/2105522533139452359
 - **Original post**: @jxnlco reminds people that the Codex app came out in February.
 - **Original link**: https://x.com/jxnlco/status/2105521231462371683
 
 ### 2. 12:46 Beijing (UTC+8) / 21:46 PDT (Sep 30) — reply to @imjustnewatai
 - **His words**: For the Pro 200 shenanigans
-- **Engagement**: ❤️ 691 | 🔁 4 | 🗨 84 | 🗂 9 | 👁️ 57K
+- **Engagement**: ❤️ 769 | 🔁 6 | 🗨 89 | 🗂 12 | 👁️ 63K
 - **Link**: https://x.com/thsottiaux/status/2105519686280790252
 - **Original post**: @imjustnewatai is confused why OpenAI sent 62,496 credits for free.
 - **Original link**: https://x.com/imjustnewatai/status/2105170552713572631
