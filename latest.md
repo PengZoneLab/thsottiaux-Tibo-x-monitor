@@ -1,24 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-10-02 03:15 Beijing time (UTC+8) / 12:15 PDT (Oct 1)
+**Scan time**: 2026-10-02 04:02 Beijing time (UTC+8) / 13:02 PDT (Oct 1)
 
-**New activity**: 1 reply (@vigyso). Prior items from this window were already logged.
+**New activity**: No new posts. Latest post remains the 02:33 Beijing reply to @vigyso.
 
 ## Today's original posts
 
 ### 1. 01:57 Beijing (UTC+8) / 10:57 PDT (Oct 1)
 - **Content**: Damn WiFi. Quotes @OpenAIDevs on a dots demo, now with better WiFi.
-- **Engagement**: ❤️ 1938 | 🔁 32 | 🗨 272 | 🗂 236 | 👁️ 148K
+- **Engagement**: ❤️ 2409 | 🔁 37 | 🗨 311 | 🗂 310 | 👁️ 200K
 - **Link**: https://x.com/thsottiaux/status/2105718728658993153
 
 ### 2. 22:51 Beijing (UTC+8) / 07:51 PDT (Oct 1)
 - **Content**: Because usage on the primary dot is virtually unlimited at the moment, he cannot really give a reset and needs to come up with something new fast.
-- **Engagement**: ❤️ 6282 | 🔁 163 | 🗨 2216 | 🗂 421 | 👁️ 691K
+- **Engagement**: ❤️ 7180 | 🔁 180 | 🗨 2457 | 🗂 499 | 👁️ 946K
 - **Link**: https://x.com/thsottiaux/status/2105672058269212820
 
 ### 3. 12:44 Beijing (UTC+8) / 21:44 PDT (Sep 30)
 - **Content**: One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. Quotes @mxstbr on ChatGPT Sites hosting MCP servers and plugin extensions.
-- **Engagement**: ❤️ 4530 | 🔁 254 | 🗨 394 | 🗂 1915 | 👁️ 633K
+- **Engagement**: ❤️ 4633 | 🔁 260 | 🗨 402 | 🗂 1965 | 👁️ 660K
 - **Link**: https://x.com/thsottiaux/status/2105519215092584786
 
 ### 4. 09:06 Beijing (UTC+8) / 18:06 PDT (Sep 30)
@@ -50,49 +50,49 @@
 
 ### 1. 02:33 Beijing (UTC+8) / 11:33 PDT (Oct 1) — reply to @vigyso
 - **His words**: Good thread on details of Sign in with ChatGPT and how the subscription can be used in my partner products
-- **Engagement**: ❤️ 88 | 🔁 0 | 🗨 13 | 🗂 7 | 👁️ 10.7K
+- **Engagement**: ❤️ 137 | 🔁 0 | 🗨 14 | 🗂 9 | 👁️ 15.1K
 - **Link**: https://x.com/thsottiaux/status/2105727933579137159
 - **Original post**: @vigyso (Sign-in with ChatGPT at OpenAI) says he will answer questions about Sign in with ChatGPT over the next couple of days, and first wants to explain why they shipped it and clarify intentions before the specifics.
 - **Original link**: https://x.com/vigyso/status/2105709572023607644
 
 ### 2. 01:58 Beijing (UTC+8) / 10:58 PDT (Oct 1) — reply to @midotalks
 - **His words**: He gets it
-- **Engagement**: ❤️ 152 | 🔁 1 | 🗨 41 | 🗂 5 | 👁️ 11.8K
+- **Engagement**: ❤️ 177 | 🔁 1 | 🗨 47 | 🗂 7 | 👁️ 14.3K
 - **Link**: https://x.com/thsottiaux/status/2105718931235508277
 - **Original post**: @midotalks says Dot is extremely underrated and hard for most people to understand. It is not better than Codex or Claude Code; it is different. He calls Dot the frontier's interpretation of OpenClaw/Hermes and a much better product.
 - **Original link**: https://x.com/midotalks/status/2105684400578961408
 
 ### 3. 00:02 Beijing (UTC+8) / 09:02 PDT (Oct 1) — reply to @The_Alex
 - **His words**: We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀
-- **Engagement**: ❤️ 934 | 🔁 6 | 🗨 120 | 🗂 31 | 👁️ 48K
+- **Engagement**: ❤️ 1315 | 🔁 12 | 🗨 139 | 🗂 46 | 👁️ 75K
 - **Link**: https://x.com/thsottiaux/status/2105689875655897093
 - **Original post**: @The_Alex says he called his dot tonight and it did not pick up, and asks what it could possibly have been doing.
 - **Original link**: https://x.com/The_Alex/status/2105535270632529953
 
 ### 4. 23:59 Beijing (UTC+8) / 08:59 PDT (Oct 1) — reply to @rileybrown
 - **His words**: Love it thank you
-- **Engagement**: ❤️ 143 | 🔁 2 | 🗨 14 | 🗂 4 | 👁️ 16K
+- **Engagement**: ❤️ 159 | 🔁 2 | 🗨 15 | 🗂 5 | 👁️ 18.5K
 - **Link**: https://x.com/thsottiaux/status/2105689002905153761
 - **Original post**: @rileybrown spent 24 hours with his Dot (Bluey). Voice is the highlight, with issues past about 30 minutes. Feature notes include a better Codex-thread view, calling multiple dots, clearer working animations, simpler browser/computer wording, and ruthless prioritization inside the ChatGPT app.
 - **Original link**: https://x.com/rileybrown/status/2105670426378535406
 
 ### 5. 22:44 Beijing (UTC+8) / 07:44 PDT (Oct 1) — reply to @_simonsmith
 - **His words**: We built dots to help get real work done. Lots to come that will improve them further over the days and weeks.
-- **Engagement**: ❤️ 539 | 🔁 10 | 🗨 89 | 🗂 21 | 👁️ 38K
+- **Engagement**: ❤️ 574 | 🔁 10 | 🗨 90 | 🗂 22 | 👁️ 42K
 - **Link**: https://x.com/thsottiaux/status/2105670256094326849
 - **Original post**: @_simonsmith was disappointed by Dots versus Muse on a personal account, but says Dots in ChatGPT Enterprise feels designed for work, teams, and enterprises.
 - **Original link**: https://x.com/_simonsmith/status/2105663822711459929
 
 ### 6. 12:57 Beijing (UTC+8) / 21:57 PDT (Sep 30) — reply to @jxnlco
 - **His words**: I was going to say, last year. But no… it was this year.
-- **Engagement**: ❤️ 593 | 🔁 1 | 🗨 43 | 🗂 6 | 👁️ 49K
+- **Engagement**: ❤️ 605 | 🔁 1 | 🗨 43 | 🗂 6 | 👁️ 51K
 - **Link**: https://x.com/thsottiaux/status/2105522533139452359
 - **Original post**: @jxnlco reminds people that the Codex app came out in February.
 - **Original link**: https://x.com/jxnlco/status/2105521231462371683
 
 ### 7. 12:46 Beijing (UTC+8) / 21:46 PDT (Sep 30) — reply to @imjustnewatai
 - **His words**: For the Pro 200 shenanigans
-- **Engagement**: ❤️ 1158 | 🔁 10 | 🗨 121 | 🗂 18 | 👁️ 148K
+- **Engagement**: ❤️ 1196 | 🔁 10 | 🗨 121 | 🗂 19 | 👁️ 154K
 - **Link**: https://x.com/thsottiaux/status/2105519686280790252
 - **Original post**: @imjustnewatai is confused why OpenAI sent 62,496 credits for free.
 - **Original link**: https://x.com/imjustnewatai/status/2105170552713572631
