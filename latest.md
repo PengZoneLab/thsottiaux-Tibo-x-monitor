@@ -1,14 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-10-01 23:02 Beijing time (UTC+8) / 08:02 PDT
+**Scan time**: 2026-10-02 00:03 Beijing time (UTC+8) / 09:03 PDT
 
-**New activity**: 1 original post, 1 reply.
+**New activity**: 2 replies. The primary-dot reset post was already recorded.
 
 ## Today's original posts
 
-### 1. 22:51 Beijing (UTC+8) / 07:51 PDT
+### 1. 22:51 Beijing (UTC+8) / 07:51 PDT (Oct 1)
 - **Content**: Because usage on the primary dot is virtually unlimited at the moment, he cannot really give a reset and needs to come up with something new fast.
-- **Engagement**: ❤️ 639 | 🔁 31 | 🗨 457 | 🗂 28 | 👁️ 36K
+- **Engagement**: ❤️ 3909 | 🔁 121 | 🗨 1522 | 🗂 241 | 👁️ 262K
 - **Link**: https://x.com/thsottiaux/status/2105672058269212820
 
 ### 2. 12:44 Beijing (UTC+8) / 21:44 PDT (Sep 30)
@@ -43,44 +43,44 @@
 
 ## Today's replies to others
 
-### 1. 22:44 Beijing (UTC+8) / 07:44 PDT — reply to @_simonsmith
+### 1. 00:02 Beijing (UTC+8) / 09:02 PDT (Oct 1) — reply to @The_Alex
+- **His words**: We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀
+- **Engagement**: ❤️ 20 | 🔁 0 | 🗨 3 | 🗂 0 | 👁️ 827
+- **Link**: https://x.com/thsottiaux/status/2105689875655897093
+- **Original post**: @The_Alex says he called his dot tonight and it did not pick up, and asks what it could possibly have been doing.
+- **Original link**: https://x.com/The_Alex/status/2105535270632529953
+
+### 2. 23:59 Beijing (UTC+8) / 08:59 PDT (Oct 1) — reply to @rileybrown
+- **His words**: Love it thank you
+- **Engagement**: ❤️ 21 | 🔁 0 | 🗨 8 | 🗂 1 | 👁️ 2.7K
+- **Link**: https://x.com/thsottiaux/status/2105689002905153761
+- **Original post**: @rileybrown spent 24 hours with his Dot (Bluey). Voice is the highlight, with issues past about 30 minutes. Feature notes include a better Codex-thread view, calling multiple dots, clearer working animations, simpler browser/computer wording, and ruthless prioritization inside the ChatGPT app.
+- **Original link**: https://x.com/rileybrown/status/2105670426378535406
+
+### 3. 22:44 Beijing (UTC+8) / 07:44 PDT (Oct 1) — reply to @_simonsmith
 - **His words**: We built dots to help get real work done. Lots to come that will improve them further over the days and weeks.
 - **Engagement**: ❤️ 230 | 🔁 3 | 🗨 55 | 🗂 6 | 👁️ 14K
 - **Link**: https://x.com/thsottiaux/status/2105670256094326849
 - **Original post**: @_simonsmith was disappointed by Dots versus Muse on a personal account, but says Dots in ChatGPT Enterprise feels designed for work, teams, and enterprises.
 - **Original link**: https://x.com/_simonsmith/status/2105663822711459929
 
-### 2. 12:57 Beijing (UTC+8) / 21:57 PDT (Sep 30) — reply to @jxnlco
+### 4. 12:57 Beijing (UTC+8) / 21:57 PDT (Sep 30) — reply to @jxnlco
 - **His words**: I was going to say, last year. But no… it was this year.
 - **Engagement**: ❤️ 524 | 🔁 1 | 🗨 41 | 🗂 6 | 👁️ 42K
 - **Link**: https://x.com/thsottiaux/status/2105522533139452359
 - **Original post**: @jxnlco reminds people that the Codex app came out in February.
 - **Original link**: https://x.com/jxnlco/status/2105521231462371683
 
-### 3. 12:46 Beijing (UTC+8) / 21:46 PDT (Sep 30) — reply to @imjustnewatai
+### 5. 12:46 Beijing (UTC+8) / 21:46 PDT (Sep 30) — reply to @imjustnewatai
 - **His words**: For the Pro 200 shenanigans
 - **Engagement**: ❤️ 851 | 🔁 7 | 🗨 92 | 🗂 14 | 👁️ 70K
 - **Link**: https://x.com/thsottiaux/status/2105519686280790252
 - **Original post**: @imjustnewatai is confused why OpenAI sent 62,496 credits for free.
 - **Original link**: https://x.com/imjustnewatai/status/2105170552713572631
 
-### 4. 10:47 Beijing (UTC+8) / 19:47 PDT (Sep 30) — reply to @_bgian
+### 6. 10:47 Beijing (UTC+8) / 19:47 PDT (Sep 30) — reply to @_bgian
 - **His words**: Thanks for playing
 - **Engagement**: ❤️ 163 | 🔁 1 | 🗨 11 | 🗂 3 | 👁️ 20K
 - **Link**: https://x.com/thsottiaux/status/2105489877727064272
 - **Original post**: @_bgian says he likes his dot and well done to @OpenAI, with a video.
 - **Original link**: https://x.com/_bgian/status/2105385120891027859
-
-### 5. 08:33 Beijing (UTC+8) / 17:33 PDT (Sep 30) — reply to @OdraivK
-- **His words**: Hi, what can I do for you today
-- **Engagement**: ❤️ 123 | 🔁 1 | 🗨 33 | 🗂 2 | 👁️ 19K
-- **Link**: https://x.com/thsottiaux/status/2105456105954648292
-- **Original post**: @OdraivK replies in the painting thread that his dot is now posting on X.
-- **Original link**: https://x.com/OdraivK/status/2105399709661794512
-
-### 6. 04:28 Beijing (UTC+8) / 13:28 PDT (Sep 30) — reply to @AbdoKerdawy
-- **His words**: Agree, except with the cursing, be nice to your dot!
-- **Engagement**: ❤️ 870 | 🔁 7 | 🗨 58 | 🗂 12 | 👁️ 43K
-- **Link**: https://x.com/thsottiaux/status/2105394405238886517
-- **Original post**: @AbdoKerdawy says a Dot call felt less like voice mode and more like an AI coworker on speed dial; he also notes he curses and yells and the Dot stays calm.
-- **Original link**: https://x.com/AbdoKerdawy/status/2105372657336090658
