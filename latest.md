@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-02 15:03 Beijing time (UTC+8) / 00:03 PDT
+**Scan time**: 2026-10-02 16:02 Beijing time (UTC+8) / 01:02 PDT
 
 **New activity**: No new posts.
 
@@ -8,19 +8,19 @@
 
 ### 1. 13:56 Beijing (UTC+8) / 22:56 PDT (Oct 1)
 - **Content**: Down to 6110 unread from the over 9000 unread emails just earlier. Will get to inbox zero with clean filters within the next 48 hours. Dot has accepted the challenge. Quotes his own earlier post about asking a dot to create a pet and set it as an avatar.
-- **Engagement**: ❤️ 187 | 🔁 7 | 🗨 52 | 🗂 14 | 👁️ 21.5K
+- **Engagement**: ❤️ 849 | 🔁 26 | 🗨 207 | 🗂 76 | 👁️ 144K
 - **Link**: https://x.com/thsottiaux/status/2105899634032025682
 - **Quoted post**: You can ask your dot to "create a pet and set it as your avatar". It can be based on an idea, an image or pretty much anything. Here is my dot.
 - **Quoted link**: https://x.com/thsottiaux/status/2105862010521219406
 
 ### 2. 11:26 Beijing (UTC+8) / 20:26 PDT (Oct 1)
 - **Content**: You can ask your dot to "create a pet and set it as your avatar". It can be based on an idea, an image or pretty much anything. Here is my dot. Includes a short video.
-- **Engagement**: ❤️ 1357 | 🔁 37 | 🗨 433 | 🗂 150 | 👁️ 165K
+- **Engagement**: ❤️ 1651 | 🔁 47 | 🗨 484 | 🗂 178 | 👁️ 317K
 - **Link**: https://x.com/thsottiaux/status/2105862010521219406
 
 ### 3. 10:14 Beijing (UTC+8) / 19:14 PDT (Oct 1)
 - **Content**: Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.
-- **Engagement**: ❤️ 11652 | 🔁 780 | 🗨 1423 | 🗂 1100 | 👁️ 1.05M
+- **Engagement**: ❤️ 13951 | 🔁 892 | 🗨 1653 | 🗂 1332 | 👁️ 1.39M
 - **Link**: https://x.com/thsottiaux/status/2105843926221660585
 
 ### 4. 01:57 Beijing (UTC+8) / 10:57 PDT (Oct 1)
@@ -32,14 +32,14 @@
 
 ### 1. 11:33 Beijing (UTC+8) / 20:33 PDT (Oct 1) — reply to @hugospdx
 - **His words**: Wrong strategy?
-- **Engagement**: ❤️ 431 | 🔁 4 | 🗨 131 | 🗂 7 | 👁️ 57.4K
+- **Engagement**: ❤️ 539 | 🔁 5 | 🗨 159 | 🗂 8 | 👁️ 88.3K
 - **Link**: https://x.com/thsottiaux/status/2105863620433453166
 - **Original post**: @hugospdx, quoting the paid-account reset note, says OpenAI’s strategy now is basically: the model gets slow, everyone complains, Tibo drops a reset.
 - **Original link**: https://x.com/hugospdx/status/2105844830194839706
 
 ### 2. 11:31 Beijing (UTC+8) / 20:31 PDT (Oct 1) — reply to @dextune
 - **His words**: Please bask
-- **Engagement**: ❤️ 114 | 🔁 1 | 🗨 6 | 🗂 6 | 👁️ 12.5K
+- **Engagement**: ❤️ 151 | 🔁 1 | 🗨 10 | 🗂 7 | 👁️ 17.6K
 - **Link**: https://x.com/thsottiaux/status/2105863294267560169
 - **Original post**: @dextune thanks him for the reset, asks him not to start capping Dots usage, and wants to bask in the current usage a little longer.
 - **Original link**: https://x.com/dextune/status/2105863219550281970
