@@ -1,14 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-10-02 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 1)
+**Scan time**: 2026-10-02 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 1)
 
-**New activity**: 1 original post (ask a dot to create a pet and set it as the avatar; video of his own dot) and 2 replies (@hugospdx on the reset pattern, @dextune on Dots usage).
+**New activity**: No new posts.
 
 ## Today's original posts
 
 ### 1. 11:26 Beijing (UTC+8) / 20:26 PDT (Oct 1)
 - **Content**: You can ask your dot to "create a pet and set it as your avatar". It can be based on an idea, an image or pretty much anything. Here is my dot. Includes a short video.
-- **Engagement**: ❤️ 756 | 🔁 22 | 🗨 254 | 🗂 83 | 👁️ 65.4K
+- **Engagement**: ❤️ 1112 | 🔁 33 | 🗨 359 | 🗂 126 | 👁️ 115K
 - **Link**: https://x.com/thsottiaux/status/2105862010521219406
 
 ### 2. 10:14 Beijing (UTC+8) / 19:14 PDT (Oct 1)
@@ -25,14 +25,14 @@
 
 ### 1. 11:33 Beijing (UTC+8) / 20:33 PDT (Oct 1) — reply to @hugospdx
 - **His words**: Wrong strategy?
-- **Engagement**: ❤️ 152 | 🔁 1 | 🗨 55 | 🗂 2 | 👁️ 9.9K
+- **Engagement**: ❤️ 336 | 🔁 3 | 🗨 105 | 🗂 5 | 👁️ 34.6K
 - **Link**: https://x.com/thsottiaux/status/2105863620433453166
 - **Original post**: @hugospdx, quoting the paid-account reset note, says OpenAI’s strategy now is basically: the model gets slow, everyone complains, Tibo drops a reset.
 - **Original link**: https://x.com/hugospdx/status/2105844830194839706
 
 ### 2. 11:31 Beijing (UTC+8) / 20:31 PDT (Oct 1) — reply to @dextune
 - **His words**: Please bask
-- **Engagement**: ❤️ 50 | 🔁 1 | 🗨 4 | 🗂 3 | 👁️ 4.5K
+- **Engagement**: ❤️ 91 | 🔁 1 | 🗨 4 | 🗂 5 | 👁️ 9.5K
 - **Link**: https://x.com/thsottiaux/status/2105863294267560169
 - **Original post**: @dextune thanks him for the reset, asks him not to start capping Dots usage, and wants to bask in the current usage a little longer.
 - **Original link**: https://x.com/dextune/status/2105863219550281970
