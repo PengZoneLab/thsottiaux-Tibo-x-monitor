@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-02 07:02 Beijing time (UTC+8) / 16:02 PDT (Oct 1)
+**Scan time**: 2026-10-02 08:03 Beijing time (UTC+8) / 17:03 PDT (Oct 1)
 
 **New activity**: No new posts. Latest post remains the 02:33 Beijing reply to @vigyso.
 
@@ -8,7 +8,7 @@
 
 ### 1. 01:57 Beijing (UTC+8) / 10:57 PDT (Oct 1)
 - **Content**: Damn WiFi. Quotes @OpenAIDevs on a dots demo, now with better WiFi.
-- **Engagement**: ❤️ 3285 | 🔁 55 | 🗨 370 | 🗂 464 | 👁️ 321K
+- **Engagement**: ❤️ 3459 | 🔁 58 | 🗨 403 | 🗂 495 | 👁️ 357K
 - **Link**: https://x.com/thsottiaux/status/2105718728658993153
 
 ### 2. 22:51 Beijing (UTC+8) / 07:51 PDT (Oct 1)
@@ -50,14 +50,14 @@
 
 ### 1. 02:33 Beijing (UTC+8) / 11:33 PDT (Oct 1) — reply to @vigyso
 - **His words**: Good thread on details of Sign in with ChatGPT and how the subscription can be used in my partner products
-- **Engagement**: ❤️ 203 | 🔁 0 | 🗨 17 | 🗂 12 | 👁️ 22.9K
+- **Engagement**: ❤️ 220 | 🔁 0 | 🗨 22 | 🗂 12 | 👁️ 25.4K
 - **Link**: https://x.com/thsottiaux/status/2105727933579137159
 - **Original post**: @vigyso (Sign-in with ChatGPT at OpenAI) says he will answer questions about Sign in with ChatGPT over the next couple of days, and first wants to explain why they shipped it and clarify intentions before the specifics.
 - **Original link**: https://x.com/vigyso/status/2105709572023607644
 
 ### 2. 01:58 Beijing (UTC+8) / 10:58 PDT (Oct 1) — reply to @midotalks
 - **His words**: He gets it
-- **Engagement**: ❤️ 239 | 🔁 2 | 🗨 52 | 🗂 7 | 👁️ 19.8K
+- **Engagement**: ❤️ 245 | 🔁 2 | 🗨 54 | 🗂 7 | 👁️ 21.7K
 - **Link**: https://x.com/thsottiaux/status/2105718931235508277
 - **Original post**: @midotalks says Dot is extremely underrated and hard for most people to understand. It is not better than Codex or Claude Code; it is different. He calls Dot the frontier's interpretation of OpenClaw/Hermes and a much better product.
 - **Original link**: https://x.com/midotalks/status/2105684400578961408
