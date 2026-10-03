@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-04 04:02 Beijing time (UTC+8) / 13:02 PDT (Oct 3)
+**Scan time**: 2026-10-04 05:02 Beijing time (UTC+8) / 14:02 PDT (Oct 3)
 
 **New activity**: No new posts.
 
@@ -10,7 +10,7 @@ Nothing newer than the original post already logged at 01:39 Beijing (UTC+8) / 1
 
 ### 1. 01:39 Beijing (UTC+8) / 10:39 PDT (Oct 3)
 - **Content**: What’s one thing that’s missing in codex that you wish we had?
-- **Engagement**: ❤️ 2693 | 🔁 56 | 🗨 4667 | 🗂 204 | 👁️ 319K
+- **Engagement**: ❤️ 3052 | 🔁 63 | 🗨 5252 | 🗂 241 | 👁️ 387K
 - **Link**: https://x.com/thsottiaux/status/2106439068557144179
 
 ## Today's replies to others
