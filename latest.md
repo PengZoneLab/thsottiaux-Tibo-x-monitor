@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-04 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 3)
+**Scan time**: 2026-10-04 11:02 Beijing time (UTC+8) / 20:02 PDT (Oct 3)
 
 **New activity**: No new posts. Nothing newer than the 08:47 Beijing (UTC+8) / 17:47 PDT (Oct 3) reply to @Baconbrix. Engagement refreshed on the three most recent replies.
 
@@ -41,21 +41,21 @@
 
 ### 4. 08:34 Beijing (UTC+8) / 17:34 PDT (Oct 3) — reply to @davis7
 - **His words**: 6.1 coming soon
-- **Engagement**: ❤️ 1883 | 🔁 126 | 🗨 146 | 🗂 88 | 👁️ 104.2K
+- **Engagement**: ❤️ 2498 | 🔁 165 | 🗨 182 | 🗂 116 | 👁️ 179.6K
 - **Link**: https://x.com/thsottiaux/status/2106543375088488596
 - **Original post**: @davis7 says Astra on low reasoning plus ultra fast is useful for email, one-off fixes, research, and demos, but usage limits are still brutal and they want GPT-6.1 Sol ultra fast.
 - **Original link**: https://x.com/davis7/status/2106513024173703416
 
 ### 5. 08:38 Beijing (UTC+8) / 17:38 PDT (Oct 3) — reply to @atelicinvest
 - **His words**: Dots are persistent agents that carry context across the single conversation. You can call it in the middle of work and then catch it later via slack or text in the app, it’s the same dot talking to you.
-- **Engagement**: ❤️ 189 | 🔁 2 | 🗨 46 | 🗂 20 | 👁️ 16.2K
+- **Engagement**: ❤️ 248 | 🔁 4 | 🗨 62 | 🗂 26 | 👁️ 22.7K
 - **Link**: https://x.com/thsottiaux/status/2106544544892518815
 - **Original post**: @atelicinvest asks why people are pretending this was not possible before, quoting @TheRohanVarma on talking to dots feeling more natural than watching Codex stream tool calls.
 - **Original link**: https://x.com/atelicinvest/status/2106439299533246482
 
 ### 6. 08:47 Beijing (UTC+8) / 17:47 PDT (Oct 3) — reply to @Baconbrix
 - **His words**: Interesting position you’re taking there mister Bacon. Now let’s see what someone can do with the ChatGPT subscription or the Grok subscription. 👀
-- **Engagement**: ❤️ 343 | 🔁 2 | 🗨 83 | 🗂 16 | 👁️ 34.7K
+- **Engagement**: ❤️ 509 | 🔁 6 | 🗨 116 | 🗂 24 | 👁️ 55.4K
 - **Link**: https://x.com/thsottiaux/status/2106546689012281771
 - **Original post**: @Baconbrix writes “Another 50% usage cut on the pro plan,” quoting Tibo’s earlier “Hey now. You don’t know what we’re releasing next week.”
 - **Original link**: https://x.com/Baconbrix/status/2106479356272853167
