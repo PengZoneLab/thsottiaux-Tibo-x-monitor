@@ -1,19 +1,19 @@
 # Latest Scan
 
-**Scan time**: 2026-10-04 11:02 Beijing time (UTC+8) / 20:02 PDT (Oct 3)
+**Scan time**: 2026-10-04 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 3)
 
-**New activity**: No new posts. Nothing newer than the 08:47 Beijing (UTC+8) / 17:47 PDT (Oct 3) reply to @Baconbrix. Engagement refreshed on the three most recent replies.
+**New activity**: 1 new reply. No new original posts.
 
 ## Today's original posts
 
 ### 1. 01:39 Beijing (UTC+8) / 10:39 PDT (Oct 3)
 - **Content**: What’s one thing that’s missing in codex that you wish we had?
-- **Engagement**: ❤️ 3377 | 🔁 67 | 🗨 5632 | 🗂 265 | 👁️ 450K
+- **Engagement**: ❤️ 4438 | 🔁 87 | 🗨 6810 | 🗂 327 | 👁️ 775.9K
 - **Link**: https://x.com/thsottiaux/status/2106439068557144179
 
 ### 2. 05:46 Beijing (UTC+8) / 14:46 PDT (Oct 3)
 - **Content**: If we were to add one more sidebar, what should be in it
-- **Engagement**: ❤️ 1670 | 🔁 30 | 🗨 1441 | 🗂 78 | 👁️ 180.9K
+- **Engagement**: ❤️ 2179 | 🔁 35 | 🗨 1759 | 🗂 97 | 👁️ 276.4K
 - **Link**: https://x.com/thsottiaux/status/2106501204285239560
 
 ## Today's replies to others
@@ -48,16 +48,23 @@
 
 ### 5. 08:38 Beijing (UTC+8) / 17:38 PDT (Oct 3) — reply to @atelicinvest
 - **His words**: Dots are persistent agents that carry context across the single conversation. You can call it in the middle of work and then catch it later via slack or text in the app, it’s the same dot talking to you.
-- **Engagement**: ❤️ 248 | 🔁 4 | 🗨 62 | 🗂 26 | 👁️ 22.7K
+- **Engagement**: ❤️ 300 | 🔁 4 | 🗨 72 | 🗂 28 | 👁️ 27.6K
 - **Link**: https://x.com/thsottiaux/status/2106544544892518815
 - **Original post**: @atelicinvest asks why people are pretending this was not possible before, quoting @TheRohanVarma on talking to dots feeling more natural than watching Codex stream tool calls.
 - **Original link**: https://x.com/atelicinvest/status/2106439299533246482
 
 ### 6. 08:47 Beijing (UTC+8) / 17:47 PDT (Oct 3) — reply to @Baconbrix
 - **His words**: Interesting position you’re taking there mister Bacon. Now let’s see what someone can do with the ChatGPT subscription or the Grok subscription. 👀
-- **Engagement**: ❤️ 509 | 🔁 6 | 🗨 116 | 🗂 24 | 👁️ 55.4K
+- **Engagement**: ❤️ 628 | 🔁 9 | 🗨 143 | 🗂 27 | 👁️ 71.7K
 - **Link**: https://x.com/thsottiaux/status/2106546689012281771
 - **Original post**: @Baconbrix writes “Another 50% usage cut on the pro plan,” quoting Tibo’s earlier “Hey now. You don’t know what we’re releasing next week.”
 - **Original link**: https://x.com/Baconbrix/status/2106479356272853167
+
+### 7. 11:51 Beijing (UTC+8) / 20:51 PDT (Oct 3) — reply to @macintogdev
+- **His words**: Ah, perfection
+- **Engagement**: ❤️ 8 | 🔁 1 | 🗨 2 | 🗂 1 | 👁️ 1.6K
+- **Link**: https://x.com/thsottiaux/status/2106593009806815429
+- **Original post**: @macintogdev replies “almost there” under Tibo’s sidebar question, with a screenshot of a browser buried under stacked early-2000s toolbars.
+- **Original link**: https://x.com/macintogdev/status/2106502018441286062
 
 Already logged on 2026-10-03: replies to @atelicinvest at 11:39 Beijing (UTC+8) / 20:39 PDT (Oct 2), to @_architected at 12:28 Beijing (UTC+8) / 21:28 PDT (Oct 2), to @rileybrown at 13:08 Beijing (UTC+8) / 22:08 PDT (Oct 2), to @Shekswess at 13:22 Beijing (UTC+8) / 22:22 PDT (Oct 2) ("Unlimited atm"), and to @poteto at 13:30 Beijing (UTC+8) / 22:30 PDT (Oct 2) and 13:38 Beijing (UTC+8) / 22:38 PDT (Oct 2).
