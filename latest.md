@@ -1,26 +1,30 @@
 # Latest Scan
 
-**Scan time**: 2026-10-05 03:02 Beijing time (UTC+8) / 12:02 PDT (Oct 4)
+**Scan time**: 2026-10-05 05:02 Beijing time (UTC+8) / 14:02 PDT (Oct 4)
 
-**New activity**: No new posts.
+**New activity**: 1 original post and 2 replies.
 
 ## Today's original posts
 
-No new original posts. The latest original post remains the locking-in note from 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3).
-
-- **Content**: All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.
-- **Engagement**: ❤️ 12390 | 🔁 284 | 🗨 1691 | 🗂 720 | 👁️ 840.2K
-- **Link**: https://x.com/thsottiaux/status/2106610099720720811
+### 1. 04:33 Beijing (UTC+8) / 13:33 PDT (Oct 4)
+- **Content**: Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. Quotes his Oct 3 locking-in note.
+- **Engagement**: ❤️ 4301 | 🔁 200 | 💬 822 | 🗂 364 | 👁️ 108.4K
+- **Link**: https://x.com/thsottiaux/status/2106845241357824205
 
 ## Today's replies to others
 
-No new replies. The latest reply remains the note to @argofowl at 23:31 Beijing (UTC+8) / 08:31 PDT (Oct 4).
+### 1. 04:24 Beijing (UTC+8) / 13:24 PDT (Oct 4) — reply to @nabeelqu
+- **His words**: Locked in
+- **Engagement**: ❤️ 130 | 🔁 2 | 💬 33 | 🗂 8 | 👁️ 7.7K
+- **Link**: https://x.com/thsottiaux/status/2106842998214717876
+- **Original post**: @nabeelqu writes “OpenAI is run by X / Anthropic is run by Claude / Google is run by committee / SpaceXAI is run by Elon,” quoting Tibo’s locking-in note.
+- **Original link**: https://x.com/nabeelqu/status/2106816917076087077
 
-### 1. 23:31 Beijing (UTC+8) / 08:31 PDT (Oct 4) — reply to @argofowl
-- **His words**: Heard
-- **Engagement**: ❤️ 426 | 🔁 3 | 🗨 48 | 🗂 4 | 👁️ 29.3K
-- **Link**: https://x.com/thsottiaux/status/2106769163620671823
-- **Original post**: @argofowl writes “tibo hear me out @thsottiaux” with a screenshot of a macOS menu-bar chat named FowyDot. The agent says a few emails still need replies, notes a 1:00 PM meeting and an open afternoon, and after “What do I have on my agenda today?” offers to review pending tasks and draft email replies.
-- **Original link**: https://x.com/argofowl/status/2106672192503390599
+### 2. 04:35 Beijing (UTC+8) / 13:35 PDT (Oct 4) — reply to @poteto
+- **His words**: I challenge you to do the same. Quotes his own 28-day ship-or-reset post.
+- **Engagement**: ❤️ 314 | 🔁 7 | 💬 40 | 🗂 10 | 👁️ 11.3K
+- **Link**: https://x.com/thsottiaux/status/2106845738814849339
+- **Original post**: @poteto posts “See you soon for more ships from The Ship Company,” with an image.
+- **Original link**: https://x.com/poteto/status/2106836662898897115
 
-Engagement refreshed on the reply to @hiarun02 about the in-app usage dashboard: ❤️ 962 | 🔁 18 | 🗨 136 | 🗂 43 | 👁️ 109.0K. Link: https://x.com/thsottiaux/status/2106609390577156384
+Earlier today (still on the record): reply to @argofowl at 23:31 Beijing (UTC+8) / 08:31 PDT (Oct 4), “Heard.” Link: https://x.com/thsottiaux/status/2106769163620671823
