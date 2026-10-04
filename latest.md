@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-04 16:02 Beijing time (UTC+8) / 01:02 PDT
+**Scan time**: 2026-10-04 17:02 Beijing time (UTC+8) / 02:02 PDT
 
 **New activity**: No new posts. Nothing newer than the 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3) original post on locking in. Engagement refreshed on that post and on the 12:48 and 12:56 Beijing replies.
 
@@ -18,7 +18,7 @@
 
 ### 3. 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3)
 - **Content**: All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.
-- **Engagement**: ❤️ 6477 | 🔁 159 | 🗨 945 | 🗂 372 | 👁️ 300.1K
+- **Engagement**: ❤️ 7355 | 🔁 171 | 🗨 1045 | 🗂 424 | 👁️ 360.0K
 - **Link**: https://x.com/thsottiaux/status/2106610099720720811
 
 ## Today's replies to others
@@ -74,14 +74,14 @@
 
 ### 8. 12:48 Beijing (UTC+8) / 21:48 PDT (Oct 3) — reply to @_ak_111
 - **His words**: 6.1 sol ultrafast
-- **Engagement**: ❤️ 1132 | 🔁 56 | 🗨 213 | 🗂 31 | 👁️ 98.1K
+- **Engagement**: ❤️ 1328 | 🔁 59 | 🗨 250 | 🗂 38 | 👁️ 117.4K
 - **Link**: https://x.com/thsottiaux/status/2106607456130592861
 - **Original post**: @_ak_111 notes Tibo said “6.1 coming soon” while 6.1 Sol is already available, and asks what is actually coming — possibly 6.1 Astra.
 - **Original link**: https://x.com/_ak_111/status/2106551707132141666
 
 ### 9. 12:56 Beijing (UTC+8) / 21:56 PDT (Oct 3) — reply to @hiarun02
 - **His words**: There is a full usage dashboard in the app now! Let me know what’s missing if anything, will fix
-- **Engagement**: ❤️ 455 | 🔁 15 | 🗨 78 | 🗂 20 | 👁️ 44.3K
+- **Engagement**: ❤️ 527 | 🔁 16 | 🗨 84 | 🗂 25 | 👁️ 52.3K
 - **Link**: https://x.com/thsottiaux/status/2106609390577156384
 - **Original post**: @hiarun02 says the one thing missing from Codex is transparency — wanting to know what is actually eating usage — quoting Tibo’s Codex-missing-feature question.
 - **Original link**: https://x.com/hiarun02/status/2106454561372459192
