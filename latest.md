@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-04 20:04 Beijing time (UTC+8) / 05:04 PDT
+**Scan time**: 2026-10-04 21:04 Beijing time (UTC+8) / 06:04 PDT
 
 **New activity**: No new posts. Nothing newer than the 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3) locking-in post. Engagement refreshed on that post and on the replies to @_ak_111 and @hiarun02.
 
@@ -18,12 +18,12 @@
 
 ### 3. 12:30 Beijing (UTC+8) / 21:30 PDT (Oct 3)
 - **Content**: I have never in my life achieved inbox zero until I just made it an active goal for my dot to help get it done. Let’s see how long it lasts, but it’s a great feeling. Quotes his Oct 2 note that unread mail was down to 6,110 from over 9,000, with Dot taking the challenge. Image attached.
-- **Engagement**: ❤️ 1818 | 🔁 39 | 🗨 367 | 🗂 168 | 👁️ 252.2K
+- **Engagement**: ❤️ 1918 | 🔁 43 | 🗨 384 | 🗂 182 | 👁️ 274.4K
 - **Link**: https://x.com/thsottiaux/status/2106602729875685780
 
 ### 4. 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3)
 - **Content**: All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.
-- **Engagement**: ❤️ 9426 | 🔁 223 | 🗨 1285 | 🗂 530 | 👁️ 518.3K
+- **Engagement**: ❤️ 10095 | 🔁 238 | 🗨 1374 | 🗂 558 | 👁️ 576.6K
 - **Link**: https://x.com/thsottiaux/status/2106610099720720811
 
 ## Today's replies to others
@@ -51,56 +51,56 @@
 
 ### 4. 08:34 Beijing (UTC+8) / 17:34 PDT (Oct 3) — reply to @davis7
 - **His words**: 6.1 coming soon
-- **Engagement**: ❤️ 2498 | 🔁 165 | 🗨 182 | 🗂 116 | 👁️ 179.6K
+- **Engagement**: ❤️ 4142 | 🔁 223 | 🗨 270 | 🗂 198 | 👁️ 614.6K
 - **Link**: https://x.com/thsottiaux/status/2106543375088488596
 - **Original post**: @davis7 says Astra on low reasoning plus ultra fast is useful for email, one-off fixes, research, and demos, but usage limits are still brutal and they want GPT-6.1 Sol ultra fast.
 - **Original link**: https://x.com/davis7/status/2106513024173703416
 
 ### 5. 08:38 Beijing (UTC+8) / 17:38 PDT (Oct 3) — reply to @atelicinvest
 - **His words**: Dots are persistent agents that carry context across the single conversation. You can call it in the middle of work and then catch it later via slack or text in the app, it’s the same dot talking to you.
-- **Engagement**: ❤️ 300 | 🔁 4 | 🗨 72 | 🗂 28 | 👁️ 27.6K
+- **Engagement**: ❤️ 481 | 🔁 7 | 🗨 98 | 🗂 46 | 👁️ 48.2K
 - **Link**: https://x.com/thsottiaux/status/2106544544892518815
 - **Original post**: @atelicinvest asks why people are pretending this was not possible before, quoting @TheRohanVarma on talking to dots feeling more natural than watching Codex stream tool calls.
 - **Original link**: https://x.com/atelicinvest/status/2106439299533246482
 
 ### 6. 08:47 Beijing (UTC+8) / 17:47 PDT (Oct 3) — reply to @Baconbrix
 - **His words**: Interesting position you’re taking there mister Bacon. Now let’s see what someone can do with the ChatGPT subscription or the Grok subscription. 👀
-- **Engagement**: ❤️ 628 | 🔁 9 | 🗨 143 | 🗂 27 | 👁️ 71.7K
+- **Engagement**: ❤️ 1107 | 🔁 12 | 🗨 201 | 🗂 50 | 👁️ 146.5K
 - **Link**: https://x.com/thsottiaux/status/2106546689012281771
 - **Original post**: @Baconbrix writes “Another 50% usage cut on the pro plan,” quoting Tibo’s earlier “Hey now. You don’t know what we’re releasing next week.”
 - **Original link**: https://x.com/Baconbrix/status/2106479356272853167
 
 ### 7. 11:51 Beijing (UTC+8) / 20:51 PDT (Oct 3) — reply to @macintogdev
 - **His words**: Ah, perfection
-- **Engagement**: ❤️ 8 | 🔁 1 | 🗨 2 | 🗂 1 | 👁️ 1.6K
+- **Engagement**: ❤️ 141 | 🔁 1 | 🗨 5 | 🗂 1 | 👁️ 21.4K
 - **Link**: https://x.com/thsottiaux/status/2106593009806815429
 - **Original post**: @macintogdev replies “almost there” under Tibo’s sidebar question, with a screenshot of a browser buried under stacked early-2000s toolbars.
 - **Original link**: https://x.com/macintogdev/status/2106502018441286062
 
 ### 8. 12:35 Beijing (UTC+8) / 21:35 PDT (Oct 3) — reply to @thsottiaux
 - **His words**: What it did — delete unneeded email categories in batch, label mail by type of work, and walk through emails that needed a reply with background context. He also worked through feedback and requests sent to him by email. “It was a good Saturday.”
-- **Engagement**: ❤️ 355 | 🔁 7 | 🗨 51 | 🗂 155 | 👁️ 70.9K
+- **Engagement**: ❤️ 383 | 🔁 8 | 🗨 52 | 🗂 172 | 👁️ 76.8K
 - **Link**: https://x.com/thsottiaux/status/2106603980386394123
 - **Original post**: @thsottiaux says he has never hit inbox zero until he made it an active goal for his dot, quoting his Oct 2 post about cutting unread mail from over 9,000 to 6,110. Image attached.
 - **Original link**: https://x.com/thsottiaux/status/2106602729875685780
 
 ### 9. 12:41 Beijing (UTC+8) / 21:41 PDT (Oct 3) — reply to @thsottiaux (in @davis7 thread)
 - **His words**: 6.1 sol ultrafast that is
-- **Engagement**: ❤️ 473 | 🔁 11 | 🗨 64 | 🗂 12 | 👁️ 77.2K
+- **Engagement**: ❤️ 498 | 🔁 11 | 🗨 65 | 🗂 14 | 👁️ 83.1K
 - **Link**: https://x.com/thsottiaux/status/2106605571168510149
 - **Original post**: Follow-up under his own “6.1 coming soon” reply. The thread started with @davis7 saying Astra on low reasoning plus ultra fast is useful for email, one-off fixes, research, and demos, but usage limits are still brutal and they want GPT-6.1 Sol ultra fast.
 - **Original link**: https://x.com/davis7/status/2106513024173703416
 
 ### 10. 12:48 Beijing (UTC+8) / 21:48 PDT (Oct 3) — reply to @_ak_111
 - **His words**: 6.1 sol ultrafast
-- **Engagement**: ❤️ 1736 | 🔁 65 | 🗨 312 | 🗂 47 | 👁️ 165.4K
+- **Engagement**: ❤️ 1857 | 🔁 67 | 🗨 326 | 🗂 51 | 👁️ 179.4K
 - **Link**: https://x.com/thsottiaux/status/2106607456130592861
 - **Original post**: @_ak_111 notes Tibo said “6.1 coming soon” while 6.1 Sol is already available, and asks what is actually coming — possibly 6.1 Astra.
 - **Original link**: https://x.com/_ak_111/status/2106551707132141666
 
 ### 11. 12:56 Beijing (UTC+8) / 21:56 PDT (Oct 3) — reply to @hiarun02
 - **His words**: There is a full usage dashboard in the app now! Let me know what’s missing if anything, will fix
-- **Engagement**: ❤️ 681 | 🔁 18 | 🗨 102 | 🗂 32 | 👁️ 72.4K
+- **Engagement**: ❤️ 737 | 🔁 18 | 🗨 105 | 🗂 33 | 👁️ 78.3K
 - **Link**: https://x.com/thsottiaux/status/2106609390577156384
 - **Original post**: @hiarun02 says the one thing missing from Codex is transparency — wanting to know what is actually eating usage — quoting Tibo’s Codex-missing-feature question.
 - **Original link**: https://x.com/hiarun02/status/2106454561372459192
