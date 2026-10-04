@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-04 18:02 Beijing time (UTC+8) / 03:02 PDT
+**Scan time**: 2026-10-04 19:02 Beijing time (UTC+8) / 04:02 PDT
 
-**New activity**: No new posts. Nothing newer than the 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3) original post on locking in. Engagement refreshed on that post and on the 12:48 and 12:56 Beijing replies.
+**New activity**: 1 original post and 2 replies, all from earlier on Oct 4 Beijing time and not in the previous scan. Nothing newer than the 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3) locking-in post.
 
 ## Today's original posts
 
@@ -16,9 +16,14 @@
 - **Engagement**: ❤️ 2179 | 🔁 35 | 🗨 1759 | 🗂 97 | 👁️ 276.4K
 - **Link**: https://x.com/thsottiaux/status/2106501204285239560
 
-### 3. 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3)
+### 3. 12:30 Beijing (UTC+8) / 21:30 PDT (Oct 3)
+- **Content**: I have never in my life achieved inbox zero until I just made it an active goal for my dot to help get it done. Let’s see how long it lasts, but it’s a great feeling. Quotes his Oct 2 note that unread mail was down to 6,110 from over 9,000, with Dot taking the challenge. Image attached.
+- **Engagement**: ❤️ 1707 | 🔁 38 | 🗨 351 | 🗂 156 | 👁️ 229.7K
+- **Link**: https://x.com/thsottiaux/status/2106602729875685780
+
+### 4. 12:59 Beijing (UTC+8) / 21:59 PDT (Oct 3)
 - **Content**: All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.
-- **Engagement**: ❤️ 8102 | 🔁 192 | 🗨 1132 | 🗂 461 | 👁️ 412.9K
+- **Engagement**: ❤️ 8748 | 🔁 207 | 🗨 1217 | 🗂 497 | 👁️ 463.4K
 - **Link**: https://x.com/thsottiaux/status/2106610099720720811
 
 ## Today's replies to others
@@ -72,16 +77,30 @@
 - **Original post**: @macintogdev replies “almost there” under Tibo’s sidebar question, with a screenshot of a browser buried under stacked early-2000s toolbars.
 - **Original link**: https://x.com/macintogdev/status/2106502018441286062
 
-### 8. 12:48 Beijing (UTC+8) / 21:48 PDT (Oct 3) — reply to @_ak_111
+### 8. 12:35 Beijing (UTC+8) / 21:35 PDT (Oct 3) — reply to @thsottiaux
+- **His words**: What it did — delete unneeded email categories in batch, label mail by type of work, and walk through emails that needed a reply with background context. He also worked through feedback and requests sent to him by email. “It was a good Saturday.”
+- **Engagement**: ❤️ 333 | 🔁 7 | 🗨 50 | 🗂 143 | 👁️ 64.9K
+- **Link**: https://x.com/thsottiaux/status/2106603980386394123
+- **Original post**: @thsottiaux says he has never hit inbox zero until he made it an active goal for his dot, quoting his Oct 2 post about cutting unread mail from over 9,000 to 6,110. Image attached.
+- **Original link**: https://x.com/thsottiaux/status/2106602729875685780
+
+### 9. 12:41 Beijing (UTC+8) / 21:41 PDT (Oct 3) — reply to @thsottiaux (in @davis7 thread)
+- **His words**: 6.1 sol ultrafast that is
+- **Engagement**: ❤️ 450 | 🔁 11 | 🗨 61 | 🗂 12 | 👁️ 71.2K
+- **Link**: https://x.com/thsottiaux/status/2106605571168510149
+- **Original post**: Follow-up under his own “6.1 coming soon” reply. The thread started with @davis7 saying Astra on low reasoning plus ultra fast is useful for email, one-off fixes, research, and demos, but usage limits are still brutal and they want GPT-6.1 Sol ultra fast.
+- **Original link**: https://x.com/davis7/status/2106513024173703416
+
+### 10. 12:48 Beijing (UTC+8) / 21:48 PDT (Oct 3) — reply to @_ak_111
 - **His words**: 6.1 sol ultrafast
-- **Engagement**: ❤️ 1474 | 🔁 61 | 🗨 275 | 🗂 41 | 👁️ 135.3K
+- **Engagement**: ❤️ 1601 | 🔁 62 | 🗨 295 | 🗂 43 | 👁️ 150.3K
 - **Link**: https://x.com/thsottiaux/status/2106607456130592861
 - **Original post**: @_ak_111 notes Tibo said “6.1 coming soon” while 6.1 Sol is already available, and asks what is actually coming — possibly 6.1 Astra.
 - **Original link**: https://x.com/_ak_111/status/2106551707132141666
 
-### 9. 12:56 Beijing (UTC+8) / 21:56 PDT (Oct 3) — reply to @hiarun02
+### 11. 12:56 Beijing (UTC+8) / 21:56 PDT (Oct 3) — reply to @hiarun02
 - **His words**: There is a full usage dashboard in the app now! Let me know what’s missing if anything, will fix
-- **Engagement**: ❤️ 576 | 🔁 18 | 🗨 90 | 🗂 27 | 👁️ 59.4K
+- **Engagement**: ❤️ 622 | 🔁 18 | 🗨 96 | 🗂 29 | 👁️ 65.7K
 - **Link**: https://x.com/thsottiaux/status/2106609390577156384
 - **Original post**: @hiarun02 says the one thing missing from Codex is transparency — wanting to know what is actually eating usage — quoting Tibo’s Codex-missing-feature question.
 - **Original link**: https://x.com/hiarun02/status/2106454561372459192
