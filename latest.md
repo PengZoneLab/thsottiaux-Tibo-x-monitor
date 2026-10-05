@@ -1,14 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-10-06 05:02 Beijing time (UTC+8) / 14:02 PDT (Oct 5)
+**Scan time**: 2026-10-06 06:02 Beijing time (UTC+8) / 15:02 PDT (Oct 5)
 
-**New activity**: 1 original post quoting @matteing on collaborative Space in ChatGPT, posted 04:05 Beijing (UTC+8) / 13:05 PDT (Oct 5). No new replies to others.
+**New activity**: No new posts. Nothing newer than the 04:05 Beijing (UTC+8) / 13:05 PDT (Oct 5) original post quoting @matteing on collaborative Space in ChatGPT.
 
 ## Today's original posts
 
 ### 04:05 Beijing (UTC+8) / 13:05 PDT (Oct 5) — original post
 - **Content**: Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day. Quotes @matteing asking for feedback on Space and saying the team is shipping fast.
-- **Engagement**: ❤️ 825 | 🔁 11 | 💬 149 | 🗂 57 | 👁️ 70.3K
+- **Engagement**: ❤️ 1038 | 🔁 11 | 💬 180 | 🗂 78 | 👁️ 101.2K
 - **Link**: https://x.com/thsottiaux/status/2107200530477101461
 
 ### 01:20 Beijing (UTC+8) / 10:20 PDT (Oct 5) — original post
@@ -18,7 +18,7 @@
 
 ### 01:20 Beijing (UTC+8) / 10:20 PDT (Oct 5) — follow-up in his own thread
 - **His words**: Reaching 50 TPS instead of 30 TPS, with also the most optimized tokenizer out there. And the models are quite the efficient ones in terms of number of tokens needed to get things done!
-- **Engagement**: ❤️ 2728 | 🔁 43 | 💬 220 | 🗂 81 | 👁️ 174.7K
+- **Engagement**: ❤️ 2883 | 🔁 43 | 💬 236 | 🗂 87 | 👁️ 196.6K
 - **Link**: https://x.com/thsottiaux/status/2107159119107146237
 - **Original post**: @thsottiaux, Day 1 speed update above.
 - **Original link**: https://x.com/thsottiaux/status/2107158998495748264
@@ -27,7 +27,7 @@
 
 ### 03:05 Beijing (UTC+8) / 12:05 PDT (Oct 5) — reply to @karrisaarinen
 - **His words**: Nice avatar
-- **Engagement**: ❤️ 116 | 🔁 1 | 💬 27 | 🗂 6 | 👁️ 10.0K
+- **Engagement**: ❤️ 129 | 🔁 0 | 💬 27 | 🗂 6 | 👁️ 11.5K
 - **Link**: https://x.com/thsottiaux/status/2107185534359761051
 - **Original post**: @karrisaarinen (CEO of Linear) says he is moving personal use from Muse to OpenAI Dot because he already uses ChatGPT and Codex daily, while keeping work AI in Linear for its context. He also introduces a sleepy Doomhammer orc peon avatar: “Work, work. Okay dokey.”
 - **Original link**: https://x.com/karrisaarinen/status/2107166751742156800
