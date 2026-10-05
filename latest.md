@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-05 17:02 Beijing time (UTC+8) / 02:02 PDT
+**Scan time**: 2026-10-05 18:02 Beijing time (UTC+8) / 03:02 PDT
 
 **New activity**: No new posts. Nothing newer than the 12:38 Beijing (UTC+8) / 21:38 PDT (Oct 4) reply to @hiarun02 (“Facts”).
 
@@ -15,21 +15,21 @@
 
 ### 1. 12:38 Beijing (UTC+8) / 21:38 PDT (Oct 4) — reply to @hiarun02
 - **His words**: Facts
-- **Engagement**: ❤️ 694 | 🔁 8 | 💬 140 | 🗂 10 | 👁️ 35.8K
+- **Engagement**: ❤️ 772 | 🔁 9 | 💬 149 | 🗂 11 | 👁️ 40.8K
 - **Link**: https://x.com/thsottiaux/status/2106967126250791091
 - **Original post**: @hiarun02 quotes the 28-day ship-or-reset post and asks whether Codex users get a free reset every day for 28 days if OpenAI does not ship a meaningful update.
 - **Original link**: https://x.com/hiarun02/status/2106960991737311651
 
 ### 2. 12:34 Beijing (UTC+8) / 21:34 PDT (Oct 4) — reply to @alexkehr
 - **His words**: Congrats!!
-- **Engagement**: ❤️ 58 | 🔁 0 | 💬 5 | 🗂 3 | 👁️ 12.9K
+- **Engagement**: ❤️ 62 | 🔁 0 | 💬 5 | 🗂 3 | 👁️ 14.4K
 - **Link**: https://x.com/thsottiaux/status/2106966244314567159
 - **Original post**: @alexkehr says Taste grew over 100% in a couple of days last week, with more people joining than in the previous four months combined, and outlines a rename, redesign, and a goal of making coding agents produce less slop.
 - **Original link**: https://x.com/alexkehr/status/2106954799417835562
 
 ### 3. 12:23 Beijing (UTC+8) / 21:23 PDT (Oct 4) — reply to @AlexBerish
 - **His words**: Everything is indeed coordinated through Slack
-- **Engagement**: ❤️ 202 | 🔁 0 | 💬 23 | 🗂 12 | 👁️ 24.9K
+- **Engagement**: ❤️ 218 | 🔁 0 | 💬 25 | 🗂 13 | 👁️ 28.7K
 - **Link**: https://x.com/thsottiaux/status/2106963521561083946
 - **Original post**: @AlexBerish asks how shipping decisions work at OpenAI given the speed, and whether @sama monitors Slack and signs off that way.
 - **Original link**: https://x.com/AlexBerish/status/2106888124047482967
