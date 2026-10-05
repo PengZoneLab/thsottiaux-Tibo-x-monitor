@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-05 08:03 Beijing time (UTC+8) / 17:03 PDT (Oct 4)
+**Scan time**: 2026-10-05 09:02 Beijing time (UTC+8) / 18:02 PDT (Oct 4)
 
-**New activity**: 4 replies. No new original posts.
+**New activity**: No new posts.
 
 Nothing newer than the 07:50 Beijing (UTC+8) / 16:50 PDT (Oct 4) reply to @Yuchenj_UW (“We're still early indeed!”).
 
@@ -24,21 +24,21 @@ Nothing newer than the 07:50 Beijing (UTC+8) / 16:50 PDT (Oct 4) reply to @Yuche
 
 ### 2. 07:46 Beijing (UTC+8) / 16:46 PDT (Oct 4) — reply to @karrisaarinen
 - **His words**: Always loved linear!
-- **Engagement**: ❤️ 41 | 🔁 0 | 💬 7 | 🗂 4 | 👁️ 3.8K
+- **Engagement**: ❤️ 63 | 🔁 0 | 💬 9 | 🗂 4 | 👁️ 8.1K
 - **Link**: https://x.com/thsottiaux/status/2106893863663321520
 - **Original post**: @karrisaarinen, CEO of Linear, says frantically fixing a confusing product caused by frantic shipping is more of the same, and that quality is a way of working, not a cleanup sprint.
 - **Original link**: https://x.com/karrisaarinen/status/2106877363648929912
 
 ### 3. 07:48 Beijing (UTC+8) / 16:48 PDT (Oct 4) — reply to @mattlam_
 - **His words**: Team is on it. Quoting the request for fewer taps to open dots from the ChatGPT app and a shortcut to dictation.
-- **Engagement**: ❤️ 79 | 🔁 1 | 💬 31 | 🗂 2 | 👁️ 5.0K
+- **Engagement**: ❤️ 204 | 🔁 1 | 💬 53 | 🗂 8 | 👁️ 12.2K
 - **Link**: https://x.com/thsottiaux/status/2106894238541918707
 - **Original post**: @mattlam_ says he is starting to like dots for supervised, complicated work, and asks for easier mobile access and a dictation shortcut.
 - **Original link**: https://x.com/mattlam_/status/2106835508357685679
 
 ### 4. 07:50 Beijing (UTC+8) / 16:50 PDT (Oct 4) — reply to @Yuchenj_UW
 - **His words**: We're still early indeed!
-- **Engagement**: ❤️ 37 | 🔁 0 | 💬 9 | 🗂 0 | 👁️ 2.8K
+- **Engagement**: ❤️ 57 | 🔁 0 | 💬 17 | 🗂 0 | 👁️ 7.3K
 - **Link**: https://x.com/thsottiaux/status/2106894683523928229
 - **Original post**: @Yuchenj_UW argues the terminal era is over for coding agents, says the new primitive is the agent rather than the file, and calls the Codex desktop app the best agentic UI for now — “but we’re still early.”
 - **Original link**: https://x.com/Yuchenj_UW/status/2106435001340621147
