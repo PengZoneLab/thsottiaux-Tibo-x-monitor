@@ -1,17 +1,16 @@
 # Latest Scan
 
-**Scan time**: 2026-10-06 23:02 Beijing time (UTC+8) / 08:02 PDT (Oct 6)
+**Scan time**: 2026-10-07 01:02 Beijing time (UTC+8) / 10:02 PDT (Oct 6)
 
-**New activity**: No new posts.
+**New activity**: 1 follow-up in his own Day 2.1 Auto-review thread.
 
-Nothing newer than the 15:51 Beijing (UTC+8) / 00:51 PDT (Oct 6) follow-up in his Day 2.1 Auto-review thread (settings path: Settings → General → Permissions → Auto-review).
+### Follow-up — 00:12 Beijing (UTC+8) / 09:12 PDT (Oct 6)
+- **His words**: Auto-review is the “Approve for me” permission mode. To use it, open the permissions menu below the composer and select “Approve for me”.
+- **Engagement**: ❤️ 83 | 🔁 3 | 💬 39 | 🗂 9 | 👁️ 16.6K
+- **Link**: https://x.com/thsottiaux/status/2107504197012988007
+- **Original post**: @thsottiaux, Day 2.1 — Auto-review is free for users signed in through a ChatGPT account. A second agent reviews actions so long tasks can run without approving every step, and the feature does not draw plan usage.
+- **Original link**: https://x.com/thsottiaux/status/2107368734981517634
 
-Engagement refreshed on that thread:
-- Original post: ❤️ 10048 | 🔁 507 | 💬 1459 | 🗂 2540 | 👁️ 1.18M
-- Feature write-up link: ❤️ 565 | 🔁 15 | 💬 70 | 🗂 98 | 👁️ 176.7K
-- “Use auto-review instead of full-access”: ❤️ 739 | 🔁 5 | 💬 44 | 🗂 30 | 👁️ 108.3K
-- Settings path (image): ❤️ 505 | 🔁 16 | 💬 110 | 🗂 143 | 👁️ 116.1K
+No new replies to other people in this scan.
 
-Earlier items from this Beijing date remain in the daily record: the Day 1 speed update, the Space quote, the API-cost quote, the “best day so far at oai” post, and replies to @badlogicgames, @poteto, @KolinHuang, and others.
-
-Full record: [logs/2026-10-06.md](logs/2026-10-06.md).
+Full record: [logs/2026-10-07.md](logs/2026-10-07.md).
