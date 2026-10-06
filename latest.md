@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-06 11:02 Beijing time (UTC+8) / 20:02 PDT (Oct 5)
+**Scan time**: 2026-10-06 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 5)
 
-**New activity**: 7 new posts since the 10:02 Beijing check — 1 original post and 6 replies. Newest is a reply to @kimmonismus at 10:46 Beijing (UTC+8) / 19:46 PDT (Oct 5).
+**New activity**: 3 new replies since the 11:02 Beijing check. No new original posts. Newest is a reply to @poteto at 12:00 Beijing (UTC+8) / 21:00 PDT (Oct 5).
 
 ## Today's original posts
 
@@ -29,6 +29,27 @@
 - **Original link**: https://x.com/thsottiaux/status/2107158998495748264
 
 ## Today's replies to others
+
+### 12:00 Beijing (UTC+8) / 21:00 PDT (Oct 5) — reply to @poteto
+- **His words**: Will be even more blissful to manage both
+- **Engagement**: ❤️ 6 | 🔁 0 | 💬 1 | 🗂 0 | 👁️ 631
+- **Link**: https://x.com/thsottiaux/status/2107320000554123426
+- **Original post**: @poteto (lauren) says he should let her post while he focuses on his 28 days of resets.
+- **Original link**: https://x.com/poteto/status/2107310695373287731
+
+### 11:40 Beijing (UTC+8) / 20:40 PDT (Oct 5) — reply to @KolinHuang
+- **His words**: A few things
+- **Engagement**: ❤️ 15 | 🔁 0 | 💬 4 | 🗂 0 | 👁️ 3.1K
+- **Link**: https://x.com/thsottiaux/status/2107314912963989821
+- **Original post**: @KolinHuang asks what is shipping tomorrow. The reply is in Tibo’s thread on the API-cost comparison quote.
+- **Original link**: https://x.com/KolinHuang/status/2107296479522304124
+
+### 11:38 Beijing (UTC+8) / 20:38 PDT (Oct 5) — reply to @DhruvJain08
+- **His words**: Let’s call upon the @poteto
+- **Engagement**: ❤️ 36 | 🔁 0 | 💬 10 | 🗂 0 | 👁️ 8.6K
+- **Link**: https://x.com/thsottiaux/status/2107314411975381479
+- **Original post**: @DhruvJain08 is waiting for @poteto to lurk and drop a meme rather than reset bot usage or some credits.
+- **Original link**: https://x.com/DhruvJain08/status/2107312311254065499
 
 ### 10:46 Beijing (UTC+8) / 19:46 PDT (Oct 5) — reply to @kimmonismus
 - **His words**: You can be part of the judge panel for the 28 days
