@@ -1,8 +1,9 @@
 # Latest Scan
 
-**Scan time**: 2026-10-06 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 5)
+**Scan time**: 2026-10-06 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 5)
 
-**New activity**: 1 original post and 3 replies not in the previous record. Newest is a reply to @badlogicgames at 12:03 Beijing (UTC+8) / 21:03 PDT (Oct 5). The original post is from 11:27 Beijing (UTC+8) / 20:27 PDT (Oct 5).
+**New activity**: No new posts.
+Nothing newer than the 12:03 Beijing (UTC+8) / 21:03 PDT (Oct 5) reply to @badlogicgames (“Blackboard”).
 
 ## Today's original posts
 
@@ -37,21 +38,21 @@
 
 ### 12:03 Beijing (UTC+8) / 21:03 PDT (Oct 5) — reply to @badlogicgames
 - **His words**: Blackboard
-- **Engagement**: ❤️ 76 | 🔁 0 | 💬 10 | 🗂 2 | 👁️ 6.6K
+- **Engagement**: ❤️ 87 | 🔁 0 | 💬 10 | 🗂 2 | 👁️ 9.3K
 - **Link**: https://x.com/thsottiaux/status/2107320918200693212
 - **Original post**: @badlogicgames says that at earendil they still whiteboard, like cave people, and shares a photo from a few weeks ago.
 - **Original link**: https://x.com/badlogicgames/status/2107077898070868365
 
 ### 12:00 Beijing (UTC+8) / 21:00 PDT (Oct 5) — reply to @poteto
 - **His words**: Will be even more blissful to manage both
-- **Engagement**: ❤️ 44 | 🔁 0 | 💬 9 | 🗂 0 | 👁️ 6.9K
+- **Engagement**: ❤️ 81 | 🔁 0 | 💬 10 | 🗂 0 | 👁️ 12.6K
 - **Link**: https://x.com/thsottiaux/status/2107320000554123426
 - **Original post**: @poteto (lauren) says he should let her post while he focuses on his 28 days of resets.
 - **Original link**: https://x.com/poteto/status/2107310695373287731
 
 ### 11:40 Beijing (UTC+8) / 20:40 PDT (Oct 5) — reply to @KolinHuang
 - **His words**: A few things
-- **Engagement**: ❤️ 34 | 🔁 0 | 💬 9 | 🗂 0 | 👁️ 7.6K
+- **Engagement**: ❤️ 49 | 🔁 0 | 💬 11 | 🗂 0 | 👁️ 11.4K
 - **Link**: https://x.com/thsottiaux/status/2107314912963989821
 - **Original post**: @KolinHuang asks what is shipping tomorrow. The reply is in Tibo’s thread on the API-cost comparison quote.
 - **Original link**: https://x.com/KolinHuang/status/2107296479522304124
