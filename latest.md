@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-06 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 5)
+**Scan time**: 2026-10-06 15:02 Beijing time (UTC+8) / 00:02 PDT (Oct 6)
 
 **New activity**: No new posts.
 Nothing newer than the 12:03 Beijing (UTC+8) / 21:03 PDT (Oct 5) reply to @badlogicgames (“Blackboard”).
@@ -38,21 +38,21 @@ Nothing newer than the 12:03 Beijing (UTC+8) / 21:03 PDT (Oct 5) reply to @badlo
 
 ### 12:03 Beijing (UTC+8) / 21:03 PDT (Oct 5) — reply to @badlogicgames
 - **His words**: Blackboard
-- **Engagement**: ❤️ 87 | 🔁 0 | 💬 10 | 🗂 2 | 👁️ 9.3K
+- **Engagement**: ❤️ 105 | 🔁 0 | 💬 11 | 🗂 2 | 👁️ 11.3K
 - **Link**: https://x.com/thsottiaux/status/2107320918200693212
 - **Original post**: @badlogicgames says that at earendil they still whiteboard, like cave people, and shares a photo from a few weeks ago.
 - **Original link**: https://x.com/badlogicgames/status/2107077898070868365
 
 ### 12:00 Beijing (UTC+8) / 21:00 PDT (Oct 5) — reply to @poteto
 - **His words**: Will be even more blissful to manage both
-- **Engagement**: ❤️ 81 | 🔁 0 | 💬 10 | 🗂 0 | 👁️ 12.6K
+- **Engagement**: ❤️ 117 | 🔁 0 | 💬 10 | 🗂 0 | 👁️ 16.8K
 - **Link**: https://x.com/thsottiaux/status/2107320000554123426
 - **Original post**: @poteto (lauren) says he should let her post while he focuses on his 28 days of resets.
 - **Original link**: https://x.com/poteto/status/2107310695373287731
 
 ### 11:40 Beijing (UTC+8) / 20:40 PDT (Oct 5) — reply to @KolinHuang
 - **His words**: A few things
-- **Engagement**: ❤️ 49 | 🔁 0 | 💬 11 | 🗂 0 | 👁️ 11.4K
+- **Engagement**: ❤️ 58 | 🔁 0 | 💬 12 | 🗂 0 | 👁️ 14.7K
 - **Link**: https://x.com/thsottiaux/status/2107314912963989821
 - **Original post**: @KolinHuang asks what is shipping tomorrow. The reply is in Tibo’s thread on the API-cost comparison quote.
 - **Original link**: https://x.com/KolinHuang/status/2107296479522304124
