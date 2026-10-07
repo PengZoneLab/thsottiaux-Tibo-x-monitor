@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-07 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 6)
+**Scan time**: 2026-10-07 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 6)
 
-**New activity**: No new posts.
+**New activity**: 3 replies to others. No new original posts.
 
 ## Today's original posts
 
@@ -12,7 +12,9 @@ Earlier today remains the 11:35 Beijing (UTC+8) / 20:35 PDT (Oct 6) Day 2 reset 
 
 ## Today's replies to others
 
-No new replies in this scan.
+- 13:10 Beijing (UTC+8) / 22:10 PDT (Oct 6) — reply to @clyons: “Hmmm, muse is that you.” Parent post says he is loving his dot and calls a critical post more proof of the algorithm optimizing for rage bait. https://x.com/thsottiaux/status/2107700139066593612
+- 13:06 Beijing (UTC+8) / 22:06 PDT (Oct 6) — reply to @athyuttamre: “👀.” Parent post is “♪ you may say, i'm a dreamer ♪,” with a photo. https://x.com/thsottiaux/status/2107699167808356482
+- 13:06 Beijing (UTC+8) / 22:06 PDT (Oct 6) — reply to @thdxr: “oulalala.” Parent post asks “why openai so french.” https://x.com/thsottiaux/status/2107699068499841309
 
 Earlier today remains the 11:38 Beijing (UTC+8) / 20:38 PDT (Oct 6) reply to @ForwardEditor (“It ended well”), the 09:43 Beijing (UTC+8) / 18:43 PDT (Oct 6) reply to @ForwardEditor (“Or it will end very well?”), the 09:42 Beijing (UTC+8) / 18:42 PDT (Oct 6) reply to @stevenheidel (“This is how quickly *Steven* moves”), the 08:27 Beijing (UTC+8) / 17:27 PDT (Oct 6) reply to @devberkayy (“It does”), the 07:28 Beijing (UTC+8) / 16:28 PDT (Oct 6) reply to @TheRohanVarma (“Ship ship ship”), the 06:45 Beijing (UTC+8) / 15:45 PDT (Oct 6) reply in @ShaneMac’s thread tagging @poteto, plus replies to @TokenGremlin, @adonis_singh, @poteto, @AionForge, @itsmattfranco, @theo, @vipinxtwt, @MerkleGhost, and @The_Alex.
 
