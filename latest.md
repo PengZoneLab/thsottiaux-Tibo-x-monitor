@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-08 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 7)
+**Scan time**: 2026-10-08 11:02 Beijing time (UTC+8) / 20:02 PDT (Oct 7)
 
 **New activity**: 1 new reply to someone else. No new original posts.
 
@@ -13,5 +13,6 @@
 ## Today's replies to others
 
 - 09:59 Beijing (UTC+8) / 18:59 PDT (Oct 7) — Reply to @poteto. Parent post: “Bro is taking ‘I don’t write code anymore’ too literally.” His words: “You really had to sleep on that one.” https://x.com/thsottiaux/status/2108014292910113006
+- 10:11 Beijing (UTC+8) / 19:11 PDT (Oct 7) — Reply to @poteto. Parent post: “Grok Bot is getting an upgrade!” (quoting a note that SpaceX will use the best backend model for a task, including other leading APIs). His words: “Goodbye Grok models.” https://x.com/thsottiaux/status/2108017418136330678
 
 Full record: [logs/2026-10-08.md](logs/2026-10-08.md).
