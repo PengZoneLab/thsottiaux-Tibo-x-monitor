@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-08 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 7)
+**Scan time**: 2026-10-08 15:02 Beijing time (UTC+8) / 00:02 PDT
 
-**New activity**: 3 new replies to other people. No new original posts.
+**New activity**: 1 new original post and 2 new replies to other people.
 
 ## Today's original posts
 
@@ -10,6 +10,7 @@
 - 03:19 Beijing (UTC+8) / 12:19 PDT (Oct 7) — Day 3 post, quoting his Roundup of Day 2. GPT-6 in Chat is the main ship; 40M active users across Codex and ChatGPT Work; a banked reset is loading in paid accounts. https://x.com/thsottiaux/status/2107913674593644711
 - 03:19 Beijing (UTC+8) / 12:19 PDT (Oct 7) — follow-up in the Day 3 thread: “Will be there by EOD PST.” https://x.com/thsottiaux/status/2107913738791596286
 - 11:44 Beijing (UTC+8) / 20:44 PDT (Oct 7) — quote of his own Day 3 post. He says the banked reset has landed across all accounts and asks how it is going. https://x.com/thsottiaux/status/2108040921044639779
+- 14:38 Beijing (UTC+8) / 23:38 PDT (Oct 7) — quote of @Tailscale on Codex Cloud connecting to a tailnet. He calls it Day 3 (encore) and says Codex Cloud was silently re-shipped and is pretty good now. https://x.com/thsottiaux/status/2108084615349170480
 
 ## Today's replies to others
 
@@ -20,5 +21,7 @@
 - 13:18 Beijing (UTC+8) / 22:18 PDT (Oct 7) — Reply to @notesbyfloat. Parent post: “new dots demo dropped,” with a short video. His words: “Happier than most x users.” https://x.com/thsottiaux/status/2108064454831427702
 - 13:19 Beijing (UTC+8) / 22:19 PDT (Oct 7) — Reply to @Leooweb3. Parent post: “You are sitting next to Elon Musk, only 3 words, what would you say to him.” His words: “Dot Dot Dot.” https://x.com/thsottiaux/status/2108064684549230815
 - 13:29 Beijing (UTC+8) / 22:29 PDT (Oct 7) — Reply in @poteto’s release-automation thread, under @bot (“Sending that over to your Grok Bot now”). His words: “So smart. Figured out by itself who needs it.” https://x.com/thsottiaux/status/2108067119980319111
+- 14:20 Beijing (UTC+8) / 23:20 PDT (Oct 7) — Reply to @poteto. Parent post: asking @bot for tibo@mail.grokbot.com for her bot. His words: “lmao 💀 get it to work on your models.” https://x.com/thsottiaux/status/2108080036725354918
+- 14:44 Beijing (UTC+8) / 23:44 PDT (Oct 7) — Reply to @Angaisb_. Parent post: discovering that ChatGPT’s website theme can be customized, like Codex. His words: “Ah.. spoiled my Day 17.” https://x.com/thsottiaux/status/2108086116683526498
 
 Full record: [logs/2026-10-08.md](logs/2026-10-08.md).
