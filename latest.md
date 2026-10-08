@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-08 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 7)
+**Scan time**: 2026-10-08 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 7)
 
-**New activity**: 2 new replies to other people. No new original posts.
+**New activity**: 3 new replies to other people. No new original posts.
 
 ## Today's original posts
 
@@ -17,5 +17,8 @@
 - 10:11 Beijing (UTC+8) / 19:11 PDT (Oct 7) — Reply to @poteto. Parent post: “Grok Bot is getting an upgrade!” (quoting a note that SpaceX will use the best backend model for a task, including other leading APIs). His words: “Goodbye Grok models.” https://x.com/thsottiaux/status/2108017418136330678
 - 12:05 Beijing (UTC+8) / 21:05 PDT (Oct 7) — Reply to @CristianRus4 under his reset-status post. Parent post: an image meme captioned “i guess we doin RESETS now,” with labels RESET, RESET, GPT 6.1, and GPT 6. His words: “Haha.” https://x.com/thsottiaux/status/2108046065857679614
 - 12:07 Beijing (UTC+8) / 21:07 PDT (Oct 7) — Reply to @mitchellh. Parent post: he called his OpenAI Dot “Chungus” from a food pickup and had it move Rex benchmarks from a Mac Studio to a MacBook Pro over Tailscale. His words: “Chungus, we should have thought of that name.” https://x.com/thsottiaux/status/2108046671309685096
+- 13:18 Beijing (UTC+8) / 22:18 PDT (Oct 7) — Reply to @notesbyfloat. Parent post: “new dots demo dropped,” with a short video. His words: “Happier than most x users.” https://x.com/thsottiaux/status/2108064454831427702
+- 13:19 Beijing (UTC+8) / 22:19 PDT (Oct 7) — Reply to @Leooweb3. Parent post: “You are sitting next to Elon Musk, only 3 words, what would you say to him.” His words: “Dot Dot Dot.” https://x.com/thsottiaux/status/2108064684549230815
+- 13:29 Beijing (UTC+8) / 22:29 PDT (Oct 7) — Reply in @poteto’s release-automation thread, under @bot (“Sending that over to your Grok Bot now”). His words: “So smart. Figured out by itself who needs it.” https://x.com/thsottiaux/status/2108067119980319111
 
 Full record: [logs/2026-10-08.md](logs/2026-10-08.md).
