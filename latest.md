@@ -1,12 +1,16 @@
 # Latest Scan
 
-**Scan time**: 2026-10-08 23:03 Beijing time (UTC+8) / 08:03 PDT
+**Scan time**: 2026-10-09 00:03 Beijing time (UTC+8) / 09:03 PDT (Oct 8)
 
-**New activity**: 1 reply. No new original posts.
+**New activity**: No new posts.
 
-New item: reply in @GergelyOrosz’s thread, addressing @poteto — “Back to work then @poteto. May the b/dots thrive in this world.”
+Newest item remains the reply in @GergelyOrosz’s thread, addressing @poteto — “Back to work then @poteto. May the b/dots thrive in this world.” Posted 2026-10-08 22:15 Beijing (UTC+8) / 07:15 PDT.
 
 ## Today's original posts
+
+None yet on 2026-10-09 (Beijing time).
+
+Last original posts (2026-10-08 Beijing):
 
 - 03:15 Beijing (UTC+8) / 12:15 PDT (Oct 7) — quote of @OpenAI on GPT-6 and Intelligent UI rolling out in ChatGPT. He says a new version of GPT-6 is going to all ChatGPT users, with model and infra work to scale it to 1.2B users. https://x.com/thsottiaux/status/2107912709715132482
 - 03:19 Beijing (UTC+8) / 12:19 PDT (Oct 7) — Day 3 post, quoting his Roundup of Day 2. GPT-6 in Chat is the main ship; 40M active users across Codex and ChatGPT Work; a banked reset is loading in paid accounts. https://x.com/thsottiaux/status/2107913674593644711
@@ -16,15 +20,10 @@ New item: reply in @GergelyOrosz’s thread, addressing @poteto — “Back to w
 
 ## Today's replies to others
 
-- 09:59 Beijing (UTC+8) / 18:59 PDT (Oct 7) — Reply to @poteto. Parent post: “Bro is taking ‘I don’t write code anymore’ too literally.” His words: “You really had to sleep on that one.” https://x.com/thsottiaux/status/2108014292910113006
-- 10:11 Beijing (UTC+8) / 19:11 PDT (Oct 7) — Reply to @poteto. Parent post: an upgrade note for a bot product, quoting a note that SpaceX will use the best backend model for a task, including other leading APIs. His words: “Goodbye Grok models.” https://x.com/thsottiaux/status/2108017418136330678
-- 12:05 Beijing (UTC+8) / 21:05 PDT (Oct 7) — Reply to @CristianRus4 under his reset-status post. Parent post: an image meme captioned “i guess we doin RESETS now,” with labels RESET, RESET, GPT 6.1, and GPT 6. His words: “Haha.” https://x.com/thsottiaux/status/2108046065857679614
-- 12:07 Beijing (UTC+8) / 21:07 PDT (Oct 7) — Reply to @mitchellh. Parent post: he called his OpenAI Dot “Chungus” from a food pickup and had it move Rex benchmarks from a Mac Studio to a MacBook Pro over Tailscale. His words: “Chungus, we should have thought of that name.” https://x.com/thsottiaux/status/2108046671309685096
-- 13:18 Beijing (UTC+8) / 22:18 PDT (Oct 7) — Reply to @notesbyfloat. Parent post: “new dots demo dropped,” with a short video. His words: “Happier than most x users.” https://x.com/thsottiaux/status/2108064454831427702
-- 13:19 Beijing (UTC+8) / 22:19 PDT (Oct 7) — Reply to @Leooweb3. Parent post: “You are sitting next to Elon Musk, only 3 words, what would you say to him.” His words: “Dot Dot Dot.” https://x.com/thsottiaux/status/2108064684549230815
-- 13:29 Beijing (UTC+8) / 22:29 PDT (Oct 7) — Reply in @poteto’s release-automation thread, under @bot. His words: “So smart. Figured out by itself who needs it.” https://x.com/thsottiaux/status/2108067119980319111
-- 14:20 Beijing (UTC+8) / 23:20 PDT (Oct 7) — Reply to @poteto. Parent post: asking @bot for an email address for her bot. His words: “lmao 💀 get it to work on your models.” https://x.com/thsottiaux/status/2108080036725354918
-- 14:44 Beijing (UTC+8) / 23:44 PDT (Oct 7) — Reply to @Angaisb_. Parent post: discovering that ChatGPT’s website theme can be customized, like Codex. His words: “Ah.. spoiled my Day 17.” https://x.com/thsottiaux/status/2108086116683526498
-- 22:15 Beijing (UTC+8) / 07:15 PDT — Reply in @GergelyOrosz’s thread, addressing @poteto. Parent post: the bots trading punches was funny at first but is getting tiring and borderline annoying. His words: “Back to work then @poteto. May the b/dots thrive in this world.” https://x.com/thsottiaux/status/2108199520836485472
+None yet on 2026-10-09 (Beijing time).
 
-Full record: [logs/2026-10-08.md](logs/2026-10-08.md).
+Last reply (2026-10-08 Beijing):
+
+- 22:15 Beijing (UTC+8) / 07:15 PDT — Reply in @GergelyOrosz’s thread, addressing @poteto. Parent post: the bots trading punches was funny at first but is getting tiring and borderline annoying. His words: “Back to work then @poteto. May the b/dots thrive in this world.” Engagement: ❤️ 497 | 🔁 4 | 💬 73 | 🗓 13 | 👁️ 38.3K. https://x.com/thsottiaux/status/2108199520836485472
+
+Full record: [logs/2026-10-09.md](logs/2026-10-09.md). Previous day: [logs/2026-10-08.md](logs/2026-10-08.md).
