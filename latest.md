@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-08 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 7)
+**Scan time**: 2026-10-08 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 7)
 
-**New activity**: 1 new original post. No new replies to other people.
+**New activity**: 2 new replies to other people. No new original posts.
 
 ## Today's original posts
 
@@ -15,5 +15,7 @@
 
 - 09:59 Beijing (UTC+8) / 18:59 PDT (Oct 7) — Reply to @poteto. Parent post: “Bro is taking ‘I don’t write code anymore’ too literally.” His words: “You really had to sleep on that one.” https://x.com/thsottiaux/status/2108014292910113006
 - 10:11 Beijing (UTC+8) / 19:11 PDT (Oct 7) — Reply to @poteto. Parent post: “Grok Bot is getting an upgrade!” (quoting a note that SpaceX will use the best backend model for a task, including other leading APIs). His words: “Goodbye Grok models.” https://x.com/thsottiaux/status/2108017418136330678
+- 12:05 Beijing (UTC+8) / 21:05 PDT (Oct 7) — Reply to @CristianRus4 under his reset-status post. Parent post: an image meme captioned “i guess we doin RESETS now,” with labels RESET, RESET, GPT 6.1, and GPT 6. His words: “Haha.” https://x.com/thsottiaux/status/2108046065857679614
+- 12:07 Beijing (UTC+8) / 21:07 PDT (Oct 7) — Reply to @mitchellh. Parent post: he called his OpenAI Dot “Chungus” from a food pickup and had it move Rex benchmarks from a Mac Studio to a MacBook Pro over Tailscale. His words: “Chungus, we should have thought of that name.” https://x.com/thsottiaux/status/2108046671309685096
 
 Full record: [logs/2026-10-08.md](logs/2026-10-08.md).
