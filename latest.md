@@ -1,19 +1,19 @@
 # Latest Scan
 
-**Scan time**: 2026-10-10 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 9)
+**Scan time**: 2026-10-10 15:03 Beijing time (UTC+8) / 00:03 PDT (Oct 10)
 
 **New activity**: No new posts.
 
 ## Today's original posts
 
-- 12:33 Beijing (UTC+8) / 21:33 PDT (Oct 9) — quote of @cognition on connecting any personal ChatGPT plan (Go, Plus, or Pro) to Devin so GPT model usage draws from the plan's quota. His words: “Your ChatGPT subscription is now also a Devin subscription”. Engagement: ❤ 2,067 | 🔁 115 | 💬 396 | 📅 588 | 👁 216.5K. https://x.com/thsottiaux/status/2108777962053292398
+- 12:33 Beijing (UTC+8) / 21:33 PDT (Oct 9) — quote of @cognition on connecting any personal ChatGPT plan (Go, Plus, or Pro) to Devin so GPT model usage draws from the plan's quota. His words: “Your ChatGPT subscription is now also a Devin subscription”. Engagement: ❤ 2,727 | 🔁 139 | 💬 538 | 📅 830 | 👁 318.2K. https://x.com/thsottiaux/status/2108777962053292398
 - 03:49 Beijing (UTC+8) / 12:49 PDT (Oct 9) — quote of @ChatGPT on creating a dot from the ChatGPT iOS and Android apps. His words: “Day 5 (dots edition)/ You can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the desktop/web app previously. Time to scale!” Engagement refreshed: ❤ 2,621 | 🔁 86 | 💬 1,673 | 📅 302 | 👁 484.0K. https://x.com/thsottiaux/status/2108646052178092403
 - 03:47 Beijing (UTC+8) / 12:47 PDT (Oct 9) — quote of @OpenAIDevs on Codex composer predictions in beta for Pro users. His words: “Day 5/ Composer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage.” Engagement refreshed: ❤ 4,581 | 🔁 147 | 💬 1,253 | 📅 404 | 👁 659.2K. https://x.com/thsottiaux/status/2108645667451318747
 
 ## Today's replies to others
 
-- 12:44 Beijing (UTC+8) / 21:44 PDT (Oct 9) — Reply to @ConnorTalksAI. Parent post: “You are sitting next to Tibo and get 3 words… What do you say?” His words: “What the heck”. Engagement: ❤ 196 | 🔁 2 | 💬 47 | 📅 3 | 👁 17.4K. https://x.com/thsottiaux/status/2108780620583403652
-- 12:37 Beijing (UTC+8) / 21:37 PDT (Oct 9) — Reply to @rohit3a. Parent post: about setting /autocompact to 400k saving 29% of weekly Claude usage without issues. His words: “Folks. Why do you think we picked 300k for context length for Codex. We ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important.” Engagement: ❤ 442 | 🔁 14 | 💬 74 | 📅 40 | 👁 30.1K. https://x.com/thsottiaux/status/2108778939057664357
+- 12:44 Beijing (UTC+8) / 21:44 PDT (Oct 9) — Reply to @ConnorTalksAI. Parent post: “You are sitting next to Tibo and get 3 words… What do you say?” His words: “What the heck”. Engagement: ❤ 285 | 🔁 2 | 💬 58 | 📅 3 | 👁 24.0K. https://x.com/thsottiaux/status/2108780620583403652
+- 12:37 Beijing (UTC+8) / 21:37 PDT (Oct 9) — Reply to @rohit3a. Parent post: about setting /autocompact to 400k saving 29% of weekly Claude usage without issues. His words: “Folks. Why do you think we picked 300k for context length for Codex. We ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important.” Engagement: ❤ 749 | 🔁 22 | 💬 109 | 📅 66 | 👁 53.2K. https://x.com/thsottiaux/status/2108778939057664357
 - 04:05 Beijing (UTC+8) / 13:05 PDT (Oct 9) — Reply / follow-up under his own Day 5 post (@thsottiaux). Parent post: Day 5, quoting @OpenAIDevs on composer predictions in Codex for Pro users; he says the predictions are in the desktop app, often accurate enough for a double take, and included in Pro plans without consuming usage. His words: “Send feedback to @keyanzhang and @sharifshameem !” Engagement refreshed: ❤ 238 | 🔁 6 | 💬 98 | 📅 13 | 👁 145.3K. https://x.com/thsottiaux/status/2108650026671231468
 
 Most recent replies to others (2026-10-09 Beijing):
