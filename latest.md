@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-12 17:02 Beijing time (UTC+8) / 02:02 PDT (Oct 12)
+**Scan time**: 2026-10-12 18:02 Beijing time (UTC+8) / 03:02 PDT (Oct 12)
 
 **New activity**: No new posts.
 
@@ -12,9 +12,9 @@
 
 ## Today's replies to others
 
-- 11:49 Beijing (UTC+8) / 20:49 PDT (Oct 11) — Reply to @bobjones. Parent post: “Now I’m confused. Yesterday you said the opposite of what you’re doing today.” (with image, in the context of the GPT-6.1 Sol context length increase thread). His words: “We tune these carefully”. Engagement: ❤ 181 | 🔁 0 | 💬 37 | 📅 5 | 👁 42.2K. Link: https://x.com/thsottiaux/status/2109491524358795714 Original link: https://x.com/bobjones/status/2109449807974867312
-- 11:47 Beijing (UTC+8) / 20:47 PDT (Oct 11) — Reply to @AbdoKerdawy. Parent post: “WHAT ARE YOU ALL EXCITED ABOUT WE LITERALLY JUST GOT SCAMMED WTF It has always been the case that we can edit the context window. And now instead of a reset we get \"default context lenght went up by 80%\"? It was always editable bro…” (with image). His words: “We made it cheaper and tuned it to the new recommended level. You can always change settings, but defaults exist for a reason.” Engagement: ❤ 754 | 🔁 8 | 💬 80 | 📅 21 | 👁 49.0K. Link: https://x.com/thsottiaux/status/2109491121441402912 Original link: https://x.com/AbdoKerdawy/status/2109433087192924554
-- 08:23 Beijing (UTC+8) / 17:23 PDT (Oct 11) — Reply to @AnkanXplorer. Parent post: “Codex is way better (now) than Claude code. Who else agrees?” His words: “Neither. It's all about coding by hand these days”. Engagement: ❤ 1,136 | 🔁 20 | 💬 56 | 📅 26 | 👁 118.5K. Link: https://x.com/thsottiaux/status/2109439813900493102 Original link: https://x.com/AnkanXplorer/status/2109194989033111753
+- 11:49 Beijing (UTC+8) / 20:49 PDT (Oct 11) — Reply to @bobjones. Parent post: “Now I’m confused. Yesterday you said the opposite of what you’re doing today.” (with image, in the context of the GPT-6.1 Sol context length increase thread). His words: “We tune these carefully”. Engagement: ❤ 203 | 🔁 0 | 💬 42 | 📅 6 | 👁 46.9K. Link: https://x.com/thsottiaux/status/2109491524358795714 Original link: https://x.com/bobjones/status/2109449807974867312
+- 11:47 Beijing (UTC+8) / 20:47 PDT (Oct 11) — Reply to @AbdoKerdawy. Parent post: “WHAT ARE YOU ALL EXCITED ABOUT WE LITERALLY JUST GOT SCAMMED WTF It has always been the case that we can edit the context window. And now instead of a reset we get \"default context lenght went up by 80%\"? It was always editable bro…” (with image). His words: “We made it cheaper and tuned it to the new recommended level. You can always change settings, but defaults exist for a reason.” Engagement: ❤ 827 | 🔁 9 | 💬 88 | 📅 23 | 👁 53.8K. Link: https://x.com/thsottiaux/status/2109491121441402912 Original link: https://x.com/AbdoKerdawy/status/2109433087192924554
+- 08:23 Beijing (UTC+8) / 17:23 PDT (Oct 11) — Reply to @AnkanXplorer. Parent post: “Codex is way better (now) than Claude code. Who else agrees?” His words: “Neither. It's all about coding by hand these days”. Engagement: ❤ 1,213 | 🔁 20 | 💬 58 | 📅 26 | 👁 126.5K. Link: https://x.com/thsottiaux/status/2109439813900493102 Original link: https://x.com/AnkanXplorer/status/2109194989033111753
 - 08:17 Beijing (UTC+8) / 17:17 PDT (Oct 11) — Reply to @birdabo. Parent post: “just ratiod the reset man (tibo) are you proud of me @poteto” (with image). His words: “We're all proud of you @birdabo. Thank you for solving this one, hadn't thought about it”. Engagement: ❤ 1,151 | 🔁 7 | 💬 51 | 📅 7 | 👁 72.6K. Link: https://x.com/thsottiaux/status/2109438305188327838 Original link: https://x.com/birdabo/status/2109161917822742814
 
 ## Recent activity (from previous day)
