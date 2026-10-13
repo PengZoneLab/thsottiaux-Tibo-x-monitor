@@ -1,18 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-10-13 21:05 Beijing time (UTC+8) / 06:05 PDT (Oct 13)
+**Scan time**: 2026-10-13 22:03 Beijing time (UTC+8) / 07:03 PDT (Oct 13)
 
 **New activity**: No new posts.
 
 ## Today's original posts
 
-- 14:21 Beijing (UTC+8) / 23:21 PDT (Oct 12) — Original post: “Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.” Engagement: ❤ 8,864 | 🔁 184 | 💬 1,746 | 📅 270 | 👁 632.8K. Link: https://x.com/thsottiaux/status/2109892247580000595
-- 13:06 Beijing (UTC+8) / 22:06 PDT (Oct 12) — Original post: “What would you like with your side of reset? It's done.” (quoting his earlier “Global reset landing by EOD PST time. Enjoy”). Engagement: ❤ 4,477 | 🔁 122 | 💬 1,163 | 📅 97 | 👁 486.7K. Link: https://x.com/thsottiaux/status/2109873287853707513
+- 14:21 Beijing (UTC+8) / 23:21 PDT (Oct 12) — Original post: “Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.” Engagement: ❤ 9,452 | 🔁 194 | 💬 1,853 | 📅 282 | 👁 693.0K. Link: https://x.com/thsottiaux/status/2109892247580000595
+- 13:06 Beijing (UTC+8) / 22:06 PDT (Oct 12) — Original post: “What would you like with your side of reset? It's done.” (quoting his earlier “Global reset landing by EOD PST time. Enjoy”). Engagement: ❤ 4,697 | 🔁 123 | 💬 1,187 | 📅 101 | 👁 515.7K. Link: https://x.com/thsottiaux/status/2109873287853707513
 - 09:03 Beijing (UTC+8) / 18:03 PDT (Oct 12) — Original post: “Day 8/ Reset”. Engagement: ❤ 5,145 | 🔁 299 | 💬 880 | 📅 126 | 👁 295.8K. Link: https://x.com/thsottiaux/status/2109812216212099456
 
 ## Today's replies to others
 
-- 13:06 Beijing (UTC+8) / 22:06 PDT (Oct 12) — Reply (self-follow-up in own thread). Parent post: His own “What would you like with your side of reset? It's done.” His words: “Mashed @poteto on the house.” Engagement: ❤ 1,587 | 🔁 17 | 💬 136 | 📅 21 | 👁 234.3K. Link: https://x.com/thsottiaux/status/2109873307722121591 Original link: https://x.com/thsottiaux/status/2109873287853707513
+- 13:06 Beijing (UTC+8) / 22:06 PDT (Oct 12) — Reply (self-follow-up in own thread). Parent post: His own “What would you like with your side of reset? It's done.” His words: “Mashed @poteto on the house.” Engagement: ❤ 1,665 | 🔁 19 | 💬 136 | 📅 22 | 👁 249.2K. Link: https://x.com/thsottiaux/status/2109873307722121591 Original link: https://x.com/thsottiaux/status/2109873287853707513
 - 12:35 Beijing (UTC+8) / 21:35 PDT (Oct 12) — Reply to @OfficialLoganK. Parent post: “Gemini”. His words: “Carrot”. Engagement: ❤ 855 | 🔁 12 | 💬 75 | 📅 17 | 👁 77.7K. Link: https://x.com/thsottiaux/status/2109865627628507222 Original link: https://x.com/OfficialLoganK/status/2109836485981778260
 - 12:30 Beijing (UTC+8) / 21:30 PDT (Oct 12) — Reply to @theo. Parent post: “Okay I’m finally gonna go film the Muse Wonder video. What questions do you guys have?”. His words: “How much did they pay you”. Engagement: ❤ 5,033 | 🔁 45 | 💬 186 | 📅 83 | 👁 273.3K. Link: https://x.com/thsottiaux/status/2109864370465628584 Original link: https://x.com/theo/status/2109858895204335619
 - 10:24 Beijing (UTC+8) / 19:24 PDT (Oct 12) — Reply to @aliansarinik. Parent post: Update on PersonalAgentBench with new additions including Dots and Hark; Dots has taken the lead across expanded tasks (research, image understanding, editing, communication). His words: “Nice”. Engagement: ❤ 148 | 🔁 2 | 💬 21 | 📅 3 | 👁 24.0K. Link: https://x.com/thsottiaux/status/2109832541956194798 Original link: https://x.com/aliansarinik/status/2109506289642701306
