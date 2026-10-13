@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-13 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 12)
+**Scan time**: 2026-10-13 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 12)
 
-**New activity**: No new posts.
+**New activity**: Added 2 new replies.
 
 ## Today's original posts
 
@@ -10,7 +10,9 @@
 
 ## Today's replies to others
 
-- 10:24 Beijing (UTC+8) / 19:24 PDT (Oct 12) — Reply to @aliansarinik. Parent post: Update on PersonalAgentBench with new additions including Dots and Hark; Dots has taken the lead across expanded tasks (research, image understanding, editing, communication). His words: “Nice”. Engagement: ❤ 85 | 🔁 1 | 💬 16 | 📅 2 | 👁 11.9K. Link: https://x.com/thsottiaux/status/2109832541956194798 Original link: https://x.com/aliansarinik/status/2109506289642701306
+- 12:35 Beijing (UTC+8) / 21:35 PDT (Oct 12) — Reply to @OfficialLoganK. Parent post: “Gemini”. His words: “Carrot”. Engagement: ❤ 154 | 🔁 3 | 💬 31 | 📅 1 | 👁 10.5K. Link: https://x.com/thsottiaux/status/2109865627628507222 Original link: https://x.com/OfficialLoganK/status/2109836485981778260
+- 12:30 Beijing (UTC+8) / 21:30 PDT (Oct 12) — Reply to @theo. Parent post: “Okay I’m finally gonna go film the Muse Wonder video. What questions do you guys have?”. His words: “How much did they pay you”. Engagement: ❤ 632 | 🔁 8 | 💬 61 | 📅 9 | 👁 21.7K. Link: https://x.com/thsottiaux/status/2109864370465628584 Original link: https://x.com/theo/status/2109858895204335619
+- 10:24 Beijing (UTC+8) / 19:24 PDT (Oct 12) — Reply to @aliansarinik. Parent post: Update on PersonalAgentBench with new additions including Dots and Hark; Dots has taken the lead across expanded tasks (research, image understanding, editing, communication). His words: “Nice”. Engagement: ❤ 105 | 🔁 1 | 💬 18 | 📅 2 | 👁 15.5K. Link: https://x.com/thsottiaux/status/2109832541956194798 Original link: https://x.com/aliansarinik/status/2109506289642701306
 - 10:22 Beijing (UTC+8) / 19:22 PDT (Oct 12) — Reply to @TimJayas. Parent post: “if tibo doesn’t ship any big update for codex in this 28 days then it’s the end for openai”. His words: “I think we could ship absolutely nothing and be fine. But we will ship pretty insane things instead.” Engagement: ❤ 1,180 | 🔁 25 | 💬 184 | 📅 24 | 👁 49.6K. Link: https://x.com/thsottiaux/status/2109832216029352391 Original link: https://x.com/TimJayas/status/2109621386071474239
 - 10:21 Beijing (UTC+8) / 19:21 PDT (Oct 12) — Reply to @CristianRus4. Parent post: Quoted the Day 7 context-length increase announcement and noted “2 days ago btw” (with images). His words: “Perhaps I shall try to explain. There are significant differences between the 6.1 generation and prior models and therefore the optimal defaults are different between GPT-6 Astra and GPT-6.1 Sol. And even for 6.1 Sol we wanted to be careful with the change and make sure we felt good about the results. We do now and therefore we changed it.” Engagement: ❤ 491 | 🔁 10 | 💬 38 | 📅 23 | 👁 40.3K. Link: https://x.com/thsottiaux/status/2109831908620390553 Original link: https://x.com/CristianRus4/status/2109480237985898754
 - 09:32 Beijing (UTC+8) / 18:32 PDT (Oct 12) — Reply to @songkeys. Parent post: Discusses the poll results on Codex usage limits (2x usage vs removing 5h limits), noting surprise that many chose removing the 5h limit. His words: “No worries. Cooking up a solution”. Engagement: ❤ 282 | 🔁 8 | 💬 47 | 📅 7 | 👁 13.8K. Link: https://x.com/thsottiaux/status/2109819517325205735 Original link: https://x.com/songkeys/status/2109483675717140709
