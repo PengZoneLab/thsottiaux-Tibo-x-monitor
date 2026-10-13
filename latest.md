@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-13 07:03 Beijing time (UTC+8) / 16:03 PDT (Oct 12)
+**Scan time**: 2026-10-13 08:04 Beijing time (UTC+8) / 17:04 PDT (Oct 12)
 
-**New activity**: Added 1 new reply.
+**New activity**: No new posts.
 
 ## Today's original posts
 
@@ -10,12 +10,12 @@ None yet.
 
 ## Today's replies to others
 
-- 06:50 Beijing (UTC+8) / 15:50 PDT (Oct 12) — Reply to @steipete. Parent post: “6.1 Sol ultrafast >>> 6 Astra ~ same cost but whole different game with 250 tpm”. His words: “250 tokens per *second* (TPS)!”. Engagement: ❤ 81 | 🔁 1 | 💬 26 | 📅 3 | 👁 6.1K. Link: https://x.com/thsottiaux/status/2109778880341151901 Original link: https://x.com/steipete/status/2109730774593487009
-- 03:40 Beijing (UTC+8) / 12:40 PDT (Oct 12) — Reply to @gen_tt. Parent post: “A small peace offering: I put chief @poteto in Codex 🥔” (with video). His words: “Solid step towards world peace”. Engagement: ❤ 443 | 🔁 2 | 💬 70 | 📅 9 | 👁 33.7K. Link: https://x.com/thsottiaux/status/2109730998867112161 Original link: https://x.com/gen_tt/status/2109476291275816992
+- 06:50 Beijing (UTC+8) / 15:50 PDT (Oct 12) — Reply to @steipete. Parent post: “6.1 Sol ultrafast >>> 6 Astra ~ same cost but whole different game with 250 tpm”. His words: “250 tokens per *second* (TPS)!”. Engagement: ❤ 208 | 🔁 2 | 💬 63 | 📅 11 | 👁 28.6K. Link: https://x.com/thsottiaux/status/2109778880341151901 Original link: https://x.com/steipete/status/2109730774593487009
+- 03:40 Beijing (UTC+8) / 12:40 PDT (Oct 12) — Reply to @gen_tt. Parent post: “A small peace offering: I put chief @poteto in Codex 🥔” (with video). His words: “Solid step towards world peace”. Engagement: ❤ 473 | 🔁 2 | 💬 71 | 📅 11 | 👁 41.4K. Link: https://x.com/thsottiaux/status/2109730998867112161 Original link: https://x.com/gen_tt/status/2109476291275816992
 
 ## Recent activity (from previous day)
 
-- 11:49 Beijing (UTC+8) / 20:49 PDT (Oct 11) — Reply to @bobjones. Parent post: “Now I’m confused. Yesterday you said the opposite of what you’re doing today.” (with image, in the context of the GPT-6.1 Sol context length increase thread). His words: “We tune these carefully”. Engagement: ❤ 333 | 🔁 1 | 💬 65 | 📅 8 | 👁 93.6K. Link: https://x.com/thsottiaux/status/2109491524358795714 Original link: https://x.com/bobjones/status/2109449807974867312
+- 11:49 Beijing (UTC+8) / 20:49 PDT (Oct 11) — Reply to @bobjones. Parent post: “Now I’m confused. Yesterday you said the opposite of what you’re doing today.” (with image, in the context of the GPT-6.1 Sol context length increase thread). His words: “We tune these carefully”. Engagement: ❤ 336 | 🔁 1 | 💬 65 | 📅 8 | 👁 97.9K. Link: https://x.com/thsottiaux/status/2109491524358795714 Original link: https://x.com/bobjones/status/2109449807974867312
 - 11:47 Beijing (UTC+8) / 20:47 PDT (Oct 11) — Reply to @AbdoKerdawy. Parent post: “WHAT ARE YOU ALL EXCITED ABOUT WE LITERALLY JUST GOT SCAMMED WTF It has always been the case that we can edit the context window. And now instead of a reset we get \"default context lenght went up by 80%\"? It was always editable bro…” (with image). His words: “We made it cheaper and tuned it to the new recommended level. You can always change settings, but defaults exist for a reason.” Engagement: ❤ 1,236 | 🔁 11 | 💬 112 | 📅 30 | 👁 87.7K. Link: https://x.com/thsottiaux/status/2109491121441402912 Original link: https://x.com/AbdoKerdawy/status/2109433087192924554
 - 08:23 Beijing (UTC+8) / 17:23 PDT (Oct 11) — Reply to @AnkanXplorer. Parent post: “Codex is way better (now) than Claude code. Who else agrees?” His words: “Neither. It's all about coding by hand these days”. Engagement: ❤ 1,633 | 🔁 25 | 💬 70 | 📅 32 | 👁 173.3K. Link: https://x.com/thsottiaux/status/2109439813900493102 Original link: https://x.com/AnkanXplorer/status/2109194989033111753
 - 08:21 Beijing (UTC+8) / 17:21 PDT (Oct 11) — Original post: “The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve.” (quoting his earlier poll “Pro users, would you rather have”). Engagement: ❤ 4,906 | 🔁 106 | 💬 3,498 | 📅 366 | 👁 972.1K. Link: https://x.com/thsottiaux/status/2109439315570999598
