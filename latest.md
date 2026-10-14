@@ -17,7 +17,7 @@ None.
 - 07:32 Beijing (UTC+8) / 16:32 PDT (Oct 13) — Original post: “Day 9/
 
 We've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.”
-Engagement: ❤ 13,835 | 🔁 399 | 💬 3,424 | 📅 626 | 👁 1.58M. Link: https://x.com/thsottiaux/status/2110151780478927344
+Engagement: ❤ 13,947 | 🔁 400 | 💬 3,460 | 📅 633 | 👁 1.62M. Link: https://x.com/thsottiaux/status/2110151780478927344
 
 - 09:57 Beijing (UTC+8) / 18:57 PDT (Oct 13) — Reply to @charliermarsh. Parent post: “They're distilling me at work tomorrow”. His words: “😅”. Engagement: ❤ 276 | 🔁 4 | 💬 33 | 📅 5 | 👁 67.4K. Link: https://x.com/thsottiaux/status/2110188326422819047 Original link: https://x.com/charliermarsh/status/2110181637111840993
 
