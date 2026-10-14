@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-14 22:03 Beijing time (UTC+8) / 07:03 PDT (Oct 14)
+**Scan time**: 2026-10-14 23:04 Beijing time (UTC+8) / 08:04 PDT (Oct 14)
 
 **New activity**: No new posts.
 
@@ -13,13 +13,13 @@ Engagement: ❤ 12,816 | 🔁 383 | 💬 3,072 | 📅 580 | 👁 1.24M. Link: ht
 
 ## Today's replies to others
 
-- 09:57 Beijing (UTC+8) / 18:57 PDT (Oct 13) — Reply to @charliermarsh. Parent post: “They're distilling me at work tomorrow”. His words: “😅”. Engagement: ❤ 241 | 🔁 3 | 💬 26 | 📅 4 | 👁 46.4K. Link: https://x.com/thsottiaux/status/2110188326422819047 Original link: https://x.com/charliermarsh/status/2110181637111840993
-- 08:33 Beijing (UTC+8) / 17:33 PDT (Oct 13) — Reply to @argofowl. Parent post: “can someone check on @thsottiaux i miss him”. His words: “👁️tibo👁️”. Engagement: ❤ 487 | 🔁 5 | 💬 35 | 📅 5 | 👁 48.8K. Link: https://x.com/thsottiaux/status/2110167061632819447 Original link: https://x.com/argofowl/status/2110072763042205979
+- 09:57 Beijing (UTC+8) / 18:57 PDT (Oct 13) — Reply to @charliermarsh. Parent post: “They're distilling me at work tomorrow”. His words: “😅”. Engagement: ❤ 246 | 🔁 3 | 💬 28 | 📅 4 | 👁 48.9K. Link: https://x.com/thsottiaux/status/2110188326422819047 Original link: https://x.com/charliermarsh/status/2110181637111840993
+- 08:33 Beijing (UTC+8) / 17:33 PDT (Oct 13) — Reply to @argofowl. Parent post: “can someone check on @thsottiaux i miss him”. His words: “👁️tibo👁️”. Engagement: ❤ 500 | 🔁 5 | 💬 36 | 📅 5 | 👁 51.3K. Link: https://x.com/thsottiaux/status/2110167061632819447 Original link: https://x.com/argofowl/status/2110072763042205979
 - 07:34 Beijing (UTC+8) / 16:34 PDT (Oct 13) — Reply to @StefanoGPT. Parent post: “OMG. I asked GPT-6 Astra to turn @thsottiaux's profile picture into a fully 3D model.
 
 I don't think he's ready to see this. 💀
 
-prompt is in the comments” (with video). His words: “Legit how I look like. Must have trained on my face data”. Engagement: ❤ 1,290 | 🔁 8 | 💬 39 | 📅 16 | 👁 67.7K. Link: https://x.com/thsottiaux/status/2110152344029778279 Original link: https://x.com/StefanoGPT/status/2110098269904789797
+prompt is in the comments” (with video). His words: “Legit how I look like. Must have trained on my face data”. Engagement: ❤ 1,315 | 🔁 9 | 💬 39 | 📅 16 | 👁 70.3K. Link: https://x.com/thsottiaux/status/2110152344029778279 Original link: https://x.com/StefanoGPT/status/2110098269904789797
 
 ## Recent activity (from previous day)
 
