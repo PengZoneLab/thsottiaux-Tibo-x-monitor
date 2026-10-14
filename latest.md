@@ -1,16 +1,23 @@
 # Latest Scan
 
-**Scan time**: 2026-10-14 07:02 Beijing time (UTC+8) / 16:02 PDT (Oct 13)
+**Scan time**: 2026-10-14 08:03 Beijing time (UTC+8) / 17:03 PDT (Oct 13)
 
-**New activity**: No new posts.
+**New activity**: Added 1 original post and 1 reply.
 
 ## Today's original posts
 
-No original posts yet on 2026-10-14 (Beijing time).
+- 07:32 Beijing (UTC+8) / 16:32 PDT (Oct 13) — Original post: “Day 9/
+
+We've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.”
+Engagement: ❤ 2,686 | 🔁 91 | 💬 758 | 📅 104 | 👁 82.3K. Link: https://x.com/thsottiaux/status/2110151780478927344
 
 ## Today's replies to others
 
-No replies yet on 2026-10-14 (Beijing time).
+- 07:34 Beijing (UTC+8) / 16:34 PDT (Oct 13) — Reply to @StefanoGPT. Parent post: “OMG. I asked GPT-6 Astra to turn @thsottiaux's profile picture into a fully 3D model.
+
+I don't think he's ready to see this. 💀
+
+prompt is in the comments” (with video). His words: “Legit how I look like. Must have trained on my face data”. Engagement: ❤ 125 | 🔁 2 | 💬 10 | 📅 2 | 👁 6.4K. Link: https://x.com/thsottiaux/status/2110152344029778279 Original link: https://x.com/StefanoGPT/status/2110098269904789797
 
 ## Recent activity (from previous day)
 
