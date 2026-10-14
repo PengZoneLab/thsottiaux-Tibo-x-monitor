@@ -1,23 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-10-14 08:03 Beijing time (UTC+8) / 17:03 PDT (Oct 13)
+**Scan time**: 2026-10-14 09:03 Beijing time (UTC+8) / 18:03 PDT (Oct 13)
 
-**New activity**: Added 1 original post and 1 reply.
+**New activity**: Added 1 reply.
 
 ## Today's original posts
 
 - 07:32 Beijing (UTC+8) / 16:32 PDT (Oct 13) — Original post: “Day 9/
 
 We've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.”
-Engagement: ❤ 2,686 | 🔁 91 | 💬 758 | 📅 104 | 👁 82.3K. Link: https://x.com/thsottiaux/status/2110151780478927344
+Engagement: ❤ 5,142 | 🔁 173 | 💬 1,250 | 📅 224 | 👁 238.7K. Link: https://x.com/thsottiaux/status/2110151780478927344
 
 ## Today's replies to others
 
+- 08:33 Beijing (UTC+8) / 17:33 PDT (Oct 13) — Reply to @argofowl. Parent post: “can someone check on @thsottiaux i miss him”. His words: “👁️tibo👁️”. Engagement: ❤ 102 | 🔁 0 | 💬 11 | 📅 2 | 👁 6.5K. Link: https://x.com/thsottiaux/status/2110167061632819447 Original link: https://x.com/argofowl/status/2110072763042205979
 - 07:34 Beijing (UTC+8) / 16:34 PDT (Oct 13) — Reply to @StefanoGPT. Parent post: “OMG. I asked GPT-6 Astra to turn @thsottiaux's profile picture into a fully 3D model.
 
 I don't think he's ready to see this. 💀
 
-prompt is in the comments” (with video). His words: “Legit how I look like. Must have trained on my face data”. Engagement: ❤ 125 | 🔁 2 | 💬 10 | 📅 2 | 👁 6.4K. Link: https://x.com/thsottiaux/status/2110152344029778279 Original link: https://x.com/StefanoGPT/status/2110098269904789797
+prompt is in the comments” (with video). His words: “Legit how I look like. Must have trained on my face data”. Engagement: ❤ 303 | 🔁 4 | 💬 14 | 📅 4 | 👁 14.5K. Link: https://x.com/thsottiaux/status/2110152344029778279 Original link: https://x.com/StefanoGPT/status/2110098269904789797
 
 ## Recent activity (from previous day)
 
