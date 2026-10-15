@@ -1,10 +1,17 @@
 # Latest Scan
 
-**Scan time**: 2026-10-15 23:03 Beijing time (UTC+8) / 08:03 PDT (Oct 15)
+**Scan time**: 2026-10-16 00:03 Beijing time (UTC+8) / 09:03 PDT (Oct 15)
 
-**New activity**: No new posts.
+**New activity**: Original post about Day 11 improvements to capacity handling.
 
 ## Today's original posts
+
+- 23:11 Beijing (UTC+8) / 08:11 PDT (Oct 15) — Original post: “Day 11/
+
+We've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.
+
+Let us know if you still see it out there in the wild and we'll take a look.”
+Engagement: ❤ 4,235 | 🔁 138 | 💬 1,036 | 📅 155 | 👁 220.9K. Link: https://x.com/thsottiaux/status/2110750421367287996
 
 - 14:28 Beijing (UTC+8) / 23:28 PDT (Oct 14) — Original post: “Done and dusted” (quoting earlier “Landing within the next 2 hours”)
 Engagement: ❤ 4,932 | 🔁 131 | 💬 1,011 | 📅 62 | 👁 440.0K. Link: https://x.com/thsottiaux/status/2110618732666257557
@@ -18,7 +25,7 @@ Engagement: ❤ 7,310 | 🔁 404 | 💬 1,215 | 📅 170 | 👁 419.5K. Link: ht
 
 - 14:27 Beijing (UTC+8) / 23:27 PDT (Oct 14) — Reply to @theo. Parent post: “It is so stupid that Codex STILL does not include the current model in the system prompt. Your agent has no idea what it is beyond \"based on GPT-6\". I've complained about this for a year straight and they won't fix it for no good reason.” His words: “I believe it is shown at the bottom of your screenshot 🤡 But seriously, when do you need this?”. Engagement: ❤ 2,109 | 🔁 7 | 💬 93 | 📅 45 | 👁 320.4K. Link: https://x.com/thsottiaux/status/2110618507276886392 Original link: https://x.com/theo/status/2110509073640898822
 
-- 14:02 Beijing (UTC+8) / 23:02 PDT (Oct 14) — Reply to @ZryMiller. Parent post: “I had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier ⛔”. His words: “Oh Zach, let’s improve this. You look rad today”. Engagement: ❤ 7 | 🔁 0 | 💬 1 | 📅 0 | 👁 966. Link: https://x.com/thsottiaux/status/2110612268962779352 Original link: https://x.com/ZryMiller/status/2110408954052477158
+- 14:02 Beijing (UTC+8) / 23:02 PDT (Oct 14) — Reply to @ZryMiller. Parent post: “I had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 🚫”. His words: “Oh Zach, let’s improve this. You look rad today”. Engagement: ❤ 7 | 🔁 0 | 💬 1 | 📅 0 | 👁 966. Link: https://x.com/thsottiaux/status/2110612268962779352 Original link: https://x.com/ZryMiller/status/2110408954052477158
 
 - 12:57 Beijing (UTC+8) / 21:57 PDT (Oct 14) — Reply to @amorriscode. Parent post: “can't tell if you're running or they're your army”. His words: “If you’re not a bit afraid of your army, it’s not a good army”. Engagement: ❤ 109 | 🔁 3 | 💬 8 | 📅 1 | 👁 11.0K. Link: https://x.com/thsottiaux/status/2110595987542868381 Original link: https://x.com/amorriscode/status/2110594315420631127
 
