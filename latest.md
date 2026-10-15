@@ -1,13 +1,13 @@
 # Latest Scan
 
-**Scan time**: 2026-10-15 16:02 Beijing time (UTC+8) / 01:02 PDT (Oct 15)
+**Scan time**: 2026-10-15 17:02 Beijing time (UTC+8) / 02:02 PDT (Oct 15)
 
 **New activity**: No new posts.
 
 ## Today's original posts
 
 - 14:28 Beijing (UTC+8) / 23:28 PDT (Oct 14) — Original post: “Done and dusted” (quoting earlier “Landing within the next 2 hours”)
-Engagement: ❤ 2,736 | 🔁 95 | 💬 637 | 📅 32 | 👁 175.7K. Link: https://x.com/thsottiaux/status/2110618732666257557
+Engagement: ❤ 3,208 | 🔁 102 | 💬 724 | 📅 37 | 👁 226.9K. Link: https://x.com/thsottiaux/status/2110618732666257557
 
 - 12:55 Beijing (UTC+8) / 21:55 PDT (Oct 14) — Original post: “The reports of my reset button being lost are greatly exaggerated
 
@@ -16,9 +16,9 @@ Engagement: ❤ 7,310 | 🔁 404 | 💬 1,215 | 📅 170 | 👁 419.5K. Link: ht
 
 ## Today's replies to others
 
-- 14:50 Beijing (UTC+8) / 23:50 PDT (Oct 14) — Reply to @theo. Parent post: list of issues with model-aware skills (routing behaviors, ultrafast mode recommendations, GitHub PR attribution). His words: “Nice. Will fix”. Engagement: ❤ 504 | 🔁 2 | 💬 17 | 📅 4 | 👁 42.8K. Link: https://x.com/thsottiaux/status/2110624335463584028 Original link: https://x.com/theo/status/2110619582675431692
+- 14:50 Beijing (UTC+8) / 23:50 PDT (Oct 14) — Reply to @theo. Parent post: list of issues with model-aware skills (routing behaviors, ultrafast mode recommendations, GitHub PR attribution). His words: “Nice. Will fix”. Engagement: ❤ 741 | 🔁 3 | 💬 24 | 📅 6 | 👁 64.6K. Link: https://x.com/thsottiaux/status/2110624335463584028 Original link: https://x.com/theo/status/2110619582675431692
 
-- 14:27 Beijing (UTC+8) / 23:27 PDT (Oct 14) — Reply to @theo. Parent post: “It is so stupid that Codex STILL does not include the current model in the system prompt. Your agent has no idea what it is beyond \"based on GPT-6\". I've complained about this for a year straight and they won't fix it for no good reason.” His words: “I believe it is shown at the bottom of your screenshot 🤡 But seriously, when do you need this?”. Engagement: ❤ 659 | 🔁 0 | 💬 50 | 📅 9 | 👁 86.4K. Link: https://x.com/thsottiaux/status/2110618507276886392 Original link: https://x.com/theo/status/2110509073640898822
+- 14:27 Beijing (UTC+8) / 23:27 PDT (Oct 14) — Reply to @theo. Parent post: “It is so stupid that Codex STILL does not include the current model in the system prompt. Your agent has no idea what it is beyond \"based on GPT-6\". I've complained about this for a year straight and they won't fix it for no good reason.” His words: “I believe it is shown at the bottom of your screenshot 🤡 But seriously, when do you need this?”. Engagement: ❤ 973 | 🔁 2 | 💬 58 | 📅 14 | 👁 143.5K. Link: https://x.com/thsottiaux/status/2110618507276886392 Original link: https://x.com/theo/status/2110509073640898822
 
 - 14:02 Beijing (UTC+8) / 23:02 PDT (Oct 14) — Reply to @ZryMiller. Parent post: “I had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier ⛔”. His words: “Oh Zach, let’s improve this. You look rad today”. Engagement: ❤ 7 | 🔁 0 | 💬 1 | 📅 0 | 👁 966. Link: https://x.com/thsottiaux/status/2110612268962779352 Original link: https://x.com/ZryMiller/status/2110408954052477158
 
