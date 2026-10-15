@@ -1,30 +1,28 @@
 # Latest Scan
 
-**Scan time**: 2026-10-16 06:03 Beijing time (UTC+8) / 15:03 PDT (Oct 15)
+**Scan time**: 2026-10-16 07:02 Beijing time (UTC+8) / 16:02 PDT (Oct 15)
 
-**New activity**: No new posts.
+**New activity**: Yes.
 
 ## Today's original posts
 
-No original posts on 2026-10-16 yet.
+- 06:45 Beijing (UTC+8) / 15:45 PDT (Oct 15) — Original post: “Bonjour” (quoting @OpenAI announcement of GPT-Live-1.1 voice updates with new languages including French).
+Engagement: ❤ 742 | 🔁 18 | 💬 133 | 📅 38 | 👁 42.8K. Link: https://x.com/thsottiaux/status/2110864606088593672
 
 ## Today's replies to others
 
-No replies on 2026-10-16 yet.
+- 06:59 Beijing (UTC+8) / 15:59 PDT (Oct 15) — Reply to @_simonsmith. Parent post: detailed experience of being “Dots-pilled,” with most AI requests now going through Dots (examples: building a Spanish vocabulary app, monitoring Slack, analyzing token data, etc.), while still preferring ChatGPT for certain learning tasks. His words: “Spot on”. Engagement: ❤ 14 | 🔁 0 | 💬 5 | 📅 0 | 👁 1.7K. Link: https://x.com/thsottiaux/status/2110868151688912976 Original link: https://x.com/_simonsmith/status/2110825805328642253
 
-Most recent activity remains from 2026-10-15:
+- 06:46 Beijing (UTC+8) / 15:46 PDT (Oct 15) — Follow-up reply in his own thread. Parent post: “Bonjour” quoting the GPT-Live-1.1 voice announcement. His words: “Je programme en français”. Engagement: ❤ 128 | 🔁 1 | 💬 44 | 📅 3 | 👁 8.9K. Link: https://x.com/thsottiaux/status/2110864861119045840 Original link: https://x.com/thsottiaux/status/2110864606088593672
+
+Most recent prior activity (2026-10-15):
 
 - 23:11 Beijing (UTC+8) / 08:11 PDT (Oct 15) — Original post: “Day 11/
 
 We've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.
 
 Let us know if you still see it out there in the wild and we'll take a look.”
-Engagement: ❤ 8,588 | 🔁 244 | 💬 1,939 | 📅 311 | 👁 668.0K. Link: https://x.com/thsottiaux/status/2110750421367287996
-
-- 14:28 Beijing (UTC+8) / 23:28 PDT (Oct 14) — Original post: “Done and dusted” (quoting earlier “Landing within the next 2 hours”)
-Engagement: ❤ 5,500 | 🔁 136 | 💬 1,048 | 📅 74 | 👁 568.1K. Link: https://x.com/thsottiaux/status/2110618732666257557
-
-- 14:50 Beijing (UTC+8) / 23:50 PDT (Oct 14) — Reply to @theo. Parent post: list of issues with model-aware skills (routing behaviors, ultrafast mode recommendations, GitHub PR attribution). His words: “Nice. Will fix”. Engagement: ❤ 2,059 | 🔁 4 | 💬 49 | 📅 26 | 👁 209.3K. Link: https://x.com/thsottiaux/status/2110624335463584028 Original link: https://x.com/theo/status/2110619582675431692
+Engagement: ❤ 8,937 | 🔁 258 | 💬 2,006 | 📅 326 | 👁 730.0K. Link: https://x.com/thsottiaux/status/2110750421367287996
 
 Full record for today: [logs/2026-10-16.md](logs/2026-10-16.md).
 Full record for previous day: [logs/2026-10-15.md](logs/2026-10-15.md).
