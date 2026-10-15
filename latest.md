@@ -1,33 +1,25 @@
 # Latest Scan
 
-**Scan time**: 2026-10-15 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 14)
+**Scan time**: 2026-10-15 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 14)
 
-**New activity**: No new posts.
+**New activity**: New original post and several replies.
 
 ## Today's original posts
 
-None.
+- 12:55 Beijing (UTC+8) / 21:55 PDT (Oct 14) — Original post: “The reports of my reset button being lost are greatly exaggerated
+
+Day 10/ Reset”
+Engagement: ❤ 1,643 | 🔁 123 | 💬 391 | 📅 26 | 👁 54.3K. Link: https://x.com/thsottiaux/status/2110595484180214059
 
 ## Today's replies to others
 
-None.
+- 12:57 Beijing (UTC+8) / 21:57 PDT (Oct 14) — Reply to @amorriscode. Parent post: “can't tell if you're running or they're your army”. His words: “If you’re not a bit afraid of your army, it’s not a good army”. Engagement: ❤ 22 | 🔁 0 | 💬 3 | 📅 0 | 👁 2.0K. Link: https://x.com/thsottiaux/status/2110595987542868381 Original link: https://x.com/amorriscode/status/2110594315420631127
 
-## Recent activity (from previous day)
+- 12:56 Beijing (UTC+8) / 21:56 PDT (Oct 14) — Reply (follow-up in his own thread). Parent post: “The reports of my reset button being lost are greatly exaggerated Day 10/ Reset”. His words: “Landing within the next 2 hours”. Engagement: ❤ 580 | 🔁 26 | 💬 89 | 📅 5 | 👁 30.6K. Link: https://x.com/thsottiaux/status/2110595554036400151 Original link: https://x.com/thsottiaux/status/2110595484180214059
 
-- 07:32 Beijing (UTC+8) / 16:32 PDT (Oct 13) — Original post: “Day 9/
+- 12:39 Beijing (UTC+8) / 21:39 PDT (Oct 14) — Reply to @poteto. Parent post: “@thsottiaux come back”. His words: “I made it alive” (with photo). Engagement: ❤ 584 | 🔁 9 | 💬 129 | 📅 8 | 👁 23.8K. Link: https://x.com/thsottiaux/status/2110591392691159317 Original link: https://x.com/poteto/status/2110584758950588537
 
-We've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.”
-Engagement: ❤ 14,126 | 🔁 404 | 💬 3,554 | 📅 644 | 👁 1.72M. Link: https://x.com/thsottiaux/status/2110151780478927344
-
-- 09:57 Beijing (UTC+8) / 18:57 PDT (Oct 13) — Reply to @charliermarsh. Parent post: “They're distilling me at work tomorrow”. His words: “😅”. Engagement: ❤ 314 | 🔁 4 | 💬 47 | 📅 6 | 👁 111.8K. Link: https://x.com/thsottiaux/status/2110188326422819047 Original link: https://x.com/charliermarsh/status/2110181637111840993
-
-- 08:33 Beijing (UTC+8) / 17:33 PDT (Oct 13) — Reply to @argofowl. Parent post: “can someone check on @thsottiaux i miss him”. His words: “👁️tibo👁️”. Engagement: ❤ 595 | 🔁 6 | 💬 40 | 📅 5 | 👁 102.1K. Link: https://x.com/thsottiaux/status/2110167061632819447 Original link: https://x.com/argofowl/status/2110072763042205979
-
-- 07:34 Beijing (UTC+8) / 16:34 PDT (Oct 13) — Reply to @StefanoGPT. Parent post: “OMG. I asked GPT-6 Astra to turn @thsottiaux's profile picture into a fully 3D model.
-
-I don't think he's ready to see this. 💀
-
-prompt is in the comments” (with video). His words: “Legit how I look like. Must have trained on my face data”. Engagement: ❤ 1,522 | 🔁 9 | 💬 41 | 📅 18 | 👁 105.5K. Link: https://x.com/thsottiaux/status/2110152344029778279 Original link: https://x.com/StefanoGPT/status/2110098269904789797
+- 12:31 Beijing (UTC+8) / 21:31 PDT (Oct 14) — Reply to @theo. Parent post: “Anyone check in on @thsottiaux recently? Over 24 hours without posting is concerning. Hope he's okay”. His words: “Sometimes I do need to work”. Engagement: ❤ 1,260 | 🔁 31 | 💬 286 | 📅 22 | 👁 51.5K. Link: https://x.com/thsottiaux/status/2110589470911418414 Original link: https://x.com/theo/status/2110580418898780462
 
 Full record for today: [logs/2026-10-15.md](logs/2026-10-15.md).
 Full record for previous day: [logs/2026-10-14.md](logs/2026-10-14.md).
