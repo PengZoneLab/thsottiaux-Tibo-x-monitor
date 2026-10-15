@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-16 00:03 Beijing time (UTC+8) / 09:03 PDT (Oct 15)
+**Scan time**: 2026-10-16 01:02 Beijing time (UTC+8) / 10:02 PDT (Oct 15)
 
-**New activity**: Original post about Day 11 improvements to capacity handling.
+**New activity**: No new posts.
 
 ## Today's original posts
 
@@ -11,17 +11,17 @@
 We've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.
 
 Let us know if you still see it out there in the wild and we'll take a look.”
-Engagement: ❤ 4,235 | 🔁 138 | 💬 1,036 | 📅 155 | 👁 220.9K. Link: https://x.com/thsottiaux/status/2110750421367287996
+Engagement: ❤ 5,943 | 🔁 185 | 💬 1,386 | 📅 218 | 👁 371.7K. Link: https://x.com/thsottiaux/status/2110750421367287996
 
 - 14:28 Beijing (UTC+8) / 23:28 PDT (Oct 14) — Original post: “Done and dusted” (quoting earlier “Landing within the next 2 hours”)
-Engagement: ❤ 4,932 | 🔁 131 | 💬 1,011 | 📅 62 | 👁 440.0K. Link: https://x.com/thsottiaux/status/2110618732666257557
+Engagement: ❤ 5,182 | 🔁 132 | 💬 1,033 | 📅 65 | 👁 497.9K. Link: https://x.com/thsottiaux/status/2110618732666257557
 
 - 12:55 Beijing (UTC+8) / 21:55 PDT (Oct 14) — Original post: “The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset”
 Engagement: ❤ 7,310 | 🔁 404 | 💬 1,215 | 📅 170 | 👁 419.5K. Link: https://x.com/thsottiaux/status/2110595484180214059
 
 ## Today's replies to others
 
-- 14:50 Beijing (UTC+8) / 23:50 PDT (Oct 14) — Reply to @theo. Parent post: list of issues with model-aware skills (routing behaviors, ultrafast mode recommendations, GitHub PR attribution). His words: “Nice. Will fix”. Engagement: ❤ 1,645 | 🔁 4 | 💬 42 | 📅 19 | 👁 153.5K. Link: https://x.com/thsottiaux/status/2110624335463584028 Original link: https://x.com/theo/status/2110619582675431692
+- 14:50 Beijing (UTC+8) / 23:50 PDT (Oct 14) — Reply to @theo. Parent post: list of issues with model-aware skills (routing behaviors, ultrafast mode recommendations, GitHub PR attribution). His words: “Nice. Will fix”. Engagement: ❤ 1,831 | 🔁 4 | 💬 45 | 📅 21 | 👁 174.6K. Link: https://x.com/thsottiaux/status/2110624335463584028 Original link: https://x.com/theo/status/2110619582675431692
 
 - 14:27 Beijing (UTC+8) / 23:27 PDT (Oct 14) — Reply to @theo. Parent post: “It is so stupid that Codex STILL does not include the current model in the system prompt. Your agent has no idea what it is beyond \"based on GPT-6\". I've complained about this for a year straight and they won't fix it for no good reason.” His words: “I believe it is shown at the bottom of your screenshot 🤡 But seriously, when do you need this?”. Engagement: ❤ 2,109 | 🔁 7 | 💬 93 | 📅 45 | 👁 320.4K. Link: https://x.com/thsottiaux/status/2110618507276886392 Original link: https://x.com/theo/status/2110509073640898822
 
@@ -35,5 +35,5 @@ Engagement: ❤ 7,310 | 🔁 404 | 💬 1,215 | 📅 170 | 👁 419.5K. Link: ht
 
 - 12:31 Beijing (UTC+8) / 21:31 PDT (Oct 14) — Reply to @theo. Parent post: “Anyone check in on @thsottiaux recently? Over 24 hours without posting is concerning. Hope he's okay”. His words: “Sometimes I do need to work”. Engagement: ❤ 1,762 | 🔁 37 | 💬 314 | 📅 26 | 👁 88.3K. Link: https://x.com/thsottiaux/status/2110589470911418414 Original link: https://x.com/theo/status/2110580418898780462
 
-Full record for today: [logs/2026-10-15.md](logs/2026-10-15.md).
-Full record for previous day: [logs/2026-10-14.md](logs/2026-10-14.md).
+Full record for today: [logs/2026-10-16.md](logs/2026-10-16.md).
+Full record for previous day: [logs/2026-10-15.md](logs/2026-10-15.md).
