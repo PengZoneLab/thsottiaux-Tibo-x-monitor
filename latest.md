@@ -1,19 +1,19 @@
 # Latest Scan
 
-**Scan time**: 2026-10-16 09:03 Beijing time (UTC+8) / 18:03 PDT (Oct 15)
+**Scan time**: 2026-10-16 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 15)
 
 **New activity**: No.
 
 ## Today's original posts
 
 - 06:45 Beijing (UTC+8) / 15:45 PDT (Oct 15) — Original post: “Bonjour” (quoting @OpenAI announcement of GPT-Live-1.1 voice updates with new languages including French).
-Engagement: ❤ 1772 | 🔁 45 | 💬 224 | 📅 91 | 👁 145.3K. Link: https://x.com/thsottiaux/status/2110864606088593672
+Engagement: ❤ 1997 | 🔁 50 | 💬 276 | 📅 110 | 👁 185.7K. Link: https://x.com/thsottiaux/status/2110864606088593672
 
 ## Today's replies to others
 
-- 06:59 Beijing (UTC+8) / 15:59 PDT (Oct 15) — Reply to @_simonsmith. Parent post: detailed experience of being “Dots-pilled,” with most AI requests now going through Dots (examples: building a Spanish vocabulary app, monitoring Slack, analyzing token data, etc.), while still preferring ChatGPT for certain learning tasks. His words: “Spot on”. Engagement: ❤ 103 | 🔁 0 | 💬 27 | 📅 7 | 👁 14.0K. Link: https://x.com/thsottiaux/status/2110868151688912976 Original link: https://x.com/_simonsmith/status/2110825805328642253
+- 06:59 Beijing (UTC+8) / 15:59 PDT (Oct 15) — Reply to @_simonsmith. Parent post: detailed experience of being “Dots-pilled,” with most AI requests now going through Dots (examples: building a Spanish vocabulary app, monitoring Slack, analyzing token data, etc.), while still preferring ChatGPT for certain learning tasks. His words: “Spot on”. Engagement: ❤ 120 | 🔁 0 | 💬 28 | 📅 7 | 👁 17.4K. Link: https://x.com/thsottiaux/status/2110868151688912976 Original link: https://x.com/_simonsmith/status/2110825805328642253
 
-- 06:46 Beijing (UTC+8) / 15:46 PDT (Oct 15) — Follow-up reply in his own thread. Parent post: “Bonjour” quoting the GPT-Live-1.1 voice announcement. His words: “Je programme en français”. Engagement: ❤ 388 | 🔁 4 | 💬 89 | 📅 7 | 👁 48.6K. Link: https://x.com/thsottiaux/status/2110864861119045840 Original link: https://x.com/thsottiaux/status/2110864606088593672
+- 06:46 Beijing (UTC+8) / 15:46 PDT (Oct 15) — Follow-up reply in his own thread. Parent post: “Bonjour” quoting the GPT-Live-1.1 voice announcement. His words: “Je programme en français”. Engagement: ❤ 454 | 🔁 4 | 💬 110 | 📅 10 | 👁 68.1K. Link: https://x.com/thsottiaux/status/2110864861119045840 Original link: https://x.com/thsottiaux/status/2110864606088593672
 
 Most recent prior activity (2026-10-15):
 
