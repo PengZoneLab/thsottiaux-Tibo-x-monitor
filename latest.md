@@ -1,18 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 03:02 Beijing time (UTC+8) / 12:02 PDT (Oct 17)
+**Scan time**: 2026-10-18 05:03 Beijing time (UTC+8) / 14:03 PDT (Oct 17)
 
-**New activity**: Three new replies.
+**New activity**: No new posts.
 
 ## Recent activity
 
-### Replies to others (new)
+### Replies to others (earlier today)
 
-- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 38 | 🔁 0 | 💬 7 | 📅 0 | 👁 4.2K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
+- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 73 | 🔁 0 | 💬 10 | 📅 0 | 👁 10.0K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
 
-- 02:23 Beijing (UTC+8) / 11:23 PDT (Oct 17) — Reply to @gabrielchua. Parent post: With plugin extensions, I can customise my Codex desktop app. Google cal feels a bit too cluttered for me, so I built a simpler focused month and day view, exactly how I like it. Software for n=1. His words: Bit blurry. Engagement: ❤ 13 | 🔁 0 | 💬 4 | 📅 0 | 👁 2.5K. Link: https://x.com/thsottiaux/status/2111523462372372942 Original link: https://x.com/gabrielchua/status/2109482363210305893
+- 02:23 Beijing (UTC+8) / 11:23 PDT (Oct 17) — Reply to @gabrielchua. Parent post: With plugin extensions, I can customise my Codex desktop app. Google cal feels a bit too cluttered for me, so I built a simpler focused month and day view, exactly how I like it. Software for n=1. His words: Bit blurry. Engagement: ❤ 26 | 🔁 0 | 💬 4 | 📅 1 | 👁 5.6K. Link: https://x.com/thsottiaux/status/2111523462372372942 Original link: https://x.com/gabrielchua/status/2109482363210305893
 
-- 02:18 Beijing (UTC+8) / 11:18 PDT (Oct 17) — Reply to @jkeatn. Parent post: 7,000 followers! don’t ask me anything, I work at anthropic. His words: Let’s pump those numbers up. Engagement: ❤ 161 | 🔁 0 | 💬 17 | 📅 1 | 👁 11.6K. Link: https://x.com/thsottiaux/status/2111522308666077527 Original link: https://x.com/jkeatn/status/2111500856554308061
+- 02:18 Beijing (UTC+8) / 11:18 PDT (Oct 17) — Reply to @jkeatn. Parent post: 7,000 followers! don’t ask me anything, I work at anthropic. His words: Let’s pump those numbers up. Engagement: ❤ 231 | 🔁 0 | 💬 21 | 📅 2 | 👁 19.2K. Link: https://x.com/thsottiaux/status/2111522308666077527 Original link: https://x.com/jkeatn/status/2111500856554308061
 
 ### Earlier today (original posts and replies)
 
