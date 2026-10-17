@@ -1,31 +1,31 @@
 # Latest Scan
 
-**Scan time**: 2026-10-17 15:02 Beijing time (UTC+8) / 00:02 PDT (Oct 17)
+**Scan time**: 2026-10-17 16:02 Beijing time (UTC+8) / 01:02 PDT (Oct 17)
 
-**New activity**: One new original post and three new replies.
+**New activity**: No new posts.
 
 ## Today's original posts
 
 - 14:06 Beijing (UTC+8) / 23:06 PDT (Oct 16) — Original post: @steipete is locked in
-Engagement: ❤ 855 | 🔁 20 | 💬 223 | 📅 29 | 👁 118K. Link: https://x.com/thsottiaux/status/2111338115667509490
+Engagement: ❤ 1270 | 🔁 28 | 💬 316 | 📅 41 | 👁 196.6K. Link: https://x.com/thsottiaux/status/2111338115667509490
 
 Follow-up in the thread:
 - 14:21 Beijing (UTC+8) / 23:21 PDT (Oct 16) — “💀” (reply to @steipete: 🤫 we'll let the work do the talking)
-Engagement: ❤ 108 | 🔁 1 | 💬 9 | 📅 0 | 👁 20.4K. Link: https://x.com/thsottiaux/status/2111341888322314672
+Engagement: ❤ 192 | 🔁 1 | 💬 12 | 📅 0 | 👁 39.1K. Link: https://x.com/thsottiaux/status/2111341888322314672
 
 - 08:14 Beijing (UTC+8) / 17:14 PDT (Oct 16) — Original post: What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? (includes video)
-Engagement: ❤ 1794 | 🔁 75 | 💬 503 | 📅 316 | 👁 351.7K. Link: https://x.com/thsottiaux/status/2111249534072529256
+Engagement: ❤ 1898 | 🔁 78 | 💬 515 | 📅 334 | 👁 384.2K. Link: https://x.com/thsottiaux/status/2111249534072529256
 
 Follow-up in the thread:
 - 08:15 Beijing (UTC+8) / 17:15 PDT (Oct 16) — “Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.”
 Engagement: ❤ 574 | 🔁 12 | 💬 144 | 📅 26 | 👁 197.6K. Link: https://x.com/thsottiaux/status/2111249810502353152
 
 - 07:55 Beijing (UTC+8) / 16:55 PDT (Oct 16) — Original post: Day 12/ We’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits.
-Engagement: ❤ 7839 | 🔁 246 | 💬 1345 | 📅 371 | 👁 702.5K. Link: https://x.com/thsottiaux/status/2111244596131111253
+Engagement: ❤ 8882 | 🔁 265 | 💬 1445 | 📅 415 | 👁 837.4K. Link: https://x.com/thsottiaux/status/2111244596131111253
 
 ## Today's replies to others
 
-- 14:14 Beijing (UTC+8) / 23:14 PDT (Oct 16) — Reply to @ai_funss. Parent post: (quoting earlier Tibo post) Suggestions including canceling Plus 5h limit, giving Dots to Plus users, speeding up Ultrafast 15x, doubling Pro 20x usage, raising 6.1 Sol TPS to 50. His words: “Working on two of these”. Engagement: ❤ 531 | 🔁 15 | 💬 127 | 📅 18 | 👁 30.6K. Link: https://x.com/thsottiaux/status/2111339932614861298 Original link: https://x.com/ai_funss/status/2111033706563641520
+- 14:14 Beijing (UTC+8) / 23:14 PDT (Oct 16) — Reply to @ai_funss. Parent post: (quoting earlier Tibo post) Suggestions including canceling Plus 5h limit, giving Dots to Plus users, speeding up Ultrafast 15x, doubling Pro 20x usage, raising 6.1 Sol TPS to 50. His words: “Working on two of these”. Engagement: ❤ 1168 | 🔁 22 | 💬 225 | 📅 36 | 👁 78K. Link: https://x.com/thsottiaux/status/2111339932614861298 Original link: https://x.com/ai_funss/status/2111033706563641520
 
 - 14:04 Beijing (UTC+8) / 23:04 PDT (Oct 16) — Reply to @poteto. Parent post: How to trust agents' work more — codebase improvements, static analysis, prose, human review (inverse pyramid). His words: “Small @poteto speaks big facts”. Engagement: ❤ 112 | 🔁 2 | 💬 23 | 📅 5 | 👁 11.4K. Link: https://x.com/thsottiaux/status/2111337472349343856 Original link: https://x.com/poteto/status/2111133080526495985
 
