@@ -1,17 +1,17 @@
 # Latest Scan
 
-**Scan time**: 2026-10-17 18:02 Beijing time (UTC+8) / 03:02 PDT (Oct 17)
+**Scan time**: 2026-10-17 19:02 Beijing time (UTC+8) / 04:02 PDT (Oct 17)
 
 **New activity**: No new posts.
 
 ## Today's original posts
 
 - 14:06 Beijing (UTC+8) / 23:06 PDT (Oct 16) — Original post: @steipete is locked in
-Engagement: ❤ 1757 | 🔁 30 | 💬 412 | 📅 56 | 👁 299.7K. Link: https://x.com/thsottiaux/status/2111338115667509490
+Engagement: ❤ 1925 | 🔁 31 | 💬 450 | 📅 62 | 👁 340.4K. Link: https://x.com/thsottiaux/status/2111338115667509490
 
 Follow-up in the thread:
 - 14:21 Beijing (UTC+8) / 23:21 PDT (Oct 16) — “💀” (reply to @steipete: 🤫 we'll let the work do the talking)
-Engagement: ❤ 278 | 🔁 1 | 💬 19 | 📅 0 | 👁 62.7K. Link: https://x.com/thsottiaux/status/2111341888322314672
+Engagement: ❤ 311 | 🔁 1 | 💬 21 | 📅 0 | 👁 71.4K. Link: https://x.com/thsottiaux/status/2111341888322314672
 
 - 08:14 Beijing (UTC+8) / 17:14 PDT (Oct 16) — Original post: What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? (includes video)
 Engagement: ❤ 1898 | 🔁 78 | 💬 515 | 📅 334 | 👁 384.2K. Link: https://x.com/thsottiaux/status/2111249534072529256
@@ -25,7 +25,7 @@ Engagement: ❤ 8882 | 🔁 265 | 💬 1445 | 📅 415 | 👁 837.4K. Link: http
 
 ## Today's replies to others
 
-- 14:14 Beijing (UTC+8) / 23:14 PDT (Oct 16) — Reply to @ai_funss. Parent post: (quoting earlier Tibo post) Suggestions including canceling Plus 5h limit, giving Dots to Plus users, speeding up Ultrafast 15x, doubling Pro 20x usage, raising 6.1 Sol TPS to 50. His words: “Working on two of these”. Engagement: ❤ 1896 | 🔁 34 | 💬 311 | 📅 54 | 👁 133.8K. Link: https://x.com/thsottiaux/status/2111339932614861298 Original link: https://x.com/ai_funss/status/2111033706563641520
+- 14:14 Beijing (UTC+8) / 23:14 PDT (Oct 16) — Reply to @ai_funss. Parent post: (quoting earlier Tibo post) Suggestions including canceling Plus 5h limit, giving Dots to Plus users, speeding up Ultrafast 15x, doubling Pro 20x usage, raising 6.1 Sol TPS to 50. His words: “Working on two of these”. Engagement: ❤ 2126 | 🔁 40 | 💬 332 | 📅 58 | 👁 153.3K. Link: https://x.com/thsottiaux/status/2111339932614861298 Original link: https://x.com/ai_funss/status/2111033706563641520
 
 - 14:04 Beijing (UTC+8) / 23:04 PDT (Oct 16) — Reply to @poteto. Parent post: How to trust agents' work more — codebase improvements, static analysis, prose, human review (inverse pyramid). His words: “Small @poteto speaks big facts”. Engagement: ❤ 112 | 🔁 2 | 💬 23 | 📅 5 | 👁 11.4K. Link: https://x.com/thsottiaux/status/2111337472349343856 Original link: https://x.com/poteto/status/2111133080526495985
 
