@@ -1,19 +1,21 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 06:02 Beijing time (UTC+8) / 15:02 PDT (Oct 17)
+**Scan time**: 2026-10-18 07:02 Beijing time (UTC+8) / 16:02 PDT (Oct 17)
 
-**New activity**: Yes. One new original post.
+**New activity**: Yes. One new reply.
 
 ## Recent activity
 
 ### Original posts
 
 - 05:12 Beijing (UTC+8) / 14:12 PDT (Oct 17) — Original post: Done
-Engagement: ❤ 2528 | 🔁 57 | 💬 571 | 📅 64 | 👁 108.3K. Link: https://x.com/thsottiaux/status/2111566005684289735
+Engagement: ❤ 3565 | 🔁 84 | 💬 747 | 📅 53 | 👁 185K. Link: https://x.com/thsottiaux/status/2111566005684289735
 
-### Replies to others (earlier today)
+### Replies to others
 
-- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 82 | 🔁 0 | 💬 11 | 📅 0 | 👁 12.4K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
+- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 168 | 🔁 2 | 💬 26 | 📅 3 | 👁 8.9K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
+
+- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 87 | 🔁 0 | 💬 11 | 📅 0 | 👁 14.4K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
 
 - 02:23 Beijing (UTC+8) / 11:23 PDT (Oct 17) — Reply to @gabrielchua. Parent post: With plugin extensions, I can customise my Codex desktop app. Google cal feels a bit too cluttered for me, so I built a simpler focused month and day view, exactly how I like it. Software for n=1. His words: Bit blurry. Engagement: ❤ 32 | 🔁 0 | 💬 4 | 📅 1 | 👁 6.9K. Link: https://x.com/thsottiaux/status/2111523462372372942 Original link: https://x.com/gabrielchua/status/2109482363210305893
 
