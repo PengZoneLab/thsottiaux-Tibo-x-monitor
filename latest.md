@@ -1,37 +1,31 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 00:03 Beijing time (UTC+8) / 09:03 PDT (Oct 17)
+**Scan time**: 2026-10-18 01:02 Beijing time (UTC+8) / 10:02 PDT (Oct 17)
 
-**New activity**: No new posts.
+**New activity**: Yes. Several original posts and replies captured.
 
-## Recent activity (previous day)
+## Recent activity
 
 ### Original posts
 
-- 14:06 Beijing (UTC+8) / 23:06 PDT (Oct 16) — Original post: @steipete is locked in
-Engagement: ❤ 2767 | 🔁 43 | 💬 636 | 📅 84 | 👁 539.7K. Link: https://x.com/thsottiaux/status/2111338115667509490
+- 00:20 Beijing (UTC+8) / 09:20 PDT (Oct 17) — Original post: Day 13/ Le limit reset (includes image of a armored character holding a glowing card labeled "LE LIMIT RESET")
+Engagement: ❤ 5238 | 🔁 281 | 💬 697 | 📅 152 | 👁 219.9K. Link: https://x.com/thsottiaux/status/2111492673890824348
 
 Follow-up in the thread:
-- 14:21 Beijing (UTC+8) / 23:21 PDT (Oct 16) — “💀” (reply to @steipete: 🤫 we'll let the work do the talking)
-Engagement: ❤ 461 | 🔁 1 | 💬 36 | 📅 2 | 👁 112.9K. Link: https://x.com/thsottiaux/status/2111341888322314672
+- 00:21 Beijing (UTC+8) / 09:21 PDT (Oct 17) — “Landing sometime today by EOD PST”
+Engagement: ❤ 1092 | 🔁 21 | 💬 165 | 📅 22 | 👁 98.6K. Link: https://x.com/thsottiaux/status/2111492738025959922
 
-- 08:14 Beijing (UTC+8) / 17:14 PDT (Oct 16) — Original post: What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? (includes video)
-Engagement: ❤ 1898 | 🔁 78 | 💬 515 | 📅 334 | 👁 384.2K. Link: https://x.com/thsottiaux/status/2111249534072529256
+- 00:31 Beijing (UTC+8) / 09:31 PDT (Oct 17) — Original post: My work dot "Burger" coordinated with my personal dot "Dorito" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.
+Engagement: ❤ 1104 | 🔁 24 | 💬 315 | 📅 64 | 👁 85.3K. Link: https://x.com/thsottiaux/status/2111495392559067199
 
-Follow-up in the thread:
-- 08:15 Beijing (UTC+8) / 17:15 PDT (Oct 16) — “Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.”
-Engagement: ❤ 574 | 🔁 12 | 💬 144 | 📅 26 | 👁 197.6K. Link: https://x.com/thsottiaux/status/2111249810502353152
-
-- 07:55 Beijing (UTC+8) / 16:55 PDT (Oct 16) — Original post: Day 12/ We’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits.
-Engagement: ❤ 8882 | 🔁 265 | 💬 1445 | 📅 415 | 👁 837.4K. Link: https://x.com/thsottiaux/status/2111244596131111253
+- 00:18 Beijing (UTC+8) / 09:18 PDT (Oct 17) — Original post: Is it just me or was @ajambrosino nerfed today
+Engagement: ❤ 590 | 🔁 6 | 💬 189 | 📅 11 | 👁 102.9K. Link: https://x.com/thsottiaux/status/2111492028177723532
 
 ### Replies to others
 
-- 14:14 Beijing (UTC+8) / 23:14 PDT (Oct 16) — Reply to @ai_funss. Parent post: (quoting earlier Tibo post) Suggestions including canceling Plus 5h limit, giving Dots to Plus users, speeding up Ultrafast 15x, doubling Pro 20x usage, raising 6.1 Sol TPS to 50. His words: “Working on two of these”. Engagement: ❤ 2972 | 🔁 48 | 💬 438 | 📅 78 | 👁 225.5K. Link: https://x.com/thsottiaux/status/2111339932614861298 Original link: https://x.com/ai_funss/status/2111033706563641520
+- 00:22 Beijing (UTC+8) / 09:22 PDT (Oct 17) — Reply to @ajambrosino (within his own thread on @ajambrosino being nerfed). Parent post: 👀. His words: “2+2?”. Engagement: ❤ 64 | 🔁 0 | 💬 19 | 📅 0 | 👁 13.1K. Link: https://x.com/thsottiaux/status/2111493076850229733 Original link: https://x.com/ajambrosino/status/2111492254565319136
 
-- 14:04 Beijing (UTC+8) / 23:04 PDT (Oct 16) — Reply to @poteto. Parent post: How to trust agents' work more — codebase improvements, static analysis, prose, human review (inverse pyramid). His words: “Small @poteto speaks big facts”. Engagement: ❤ 112 | 🔁 2 | 💬 23 | 📅 5 | 👁 11.4K. Link: https://x.com/thsottiaux/status/2111337472349343856 Original link: https://x.com/poteto/status/2111133080526495985
+- 00:32 Beijing (UTC+8) / 09:32 PDT (Oct 17) — Reply to @ajambrosino (within his own thread). Parent post: green. His words: “@ah20im start a ghost in the machine tactical squad, we've got a degradation”. Engagement: ❤ 20 | 🔁 0 | 💬 4 | 📅 0 | 👁 5.3K. Link: https://x.com/thsottiaux/status/2111495569806065883 Original link: https://x.com/ajambrosino/status/2111493616304849220
 
-- 13:58 Beijing (UTC+8) / 22:58 PDT (Oct 16) — Reply to @_simonsmith. Parent post: Dots are for doing. Chat is for learning and discussing. Work is what you use if you have no Dot. His words: “Getting there”. Engagement: ❤ 55 | 🔁 0 | 💬 26 | 📅 1 | 👁 10.5K. Link: https://x.com/thsottiaux/status/2111336070248026489 Original link: https://x.com/_simonsmith/status/2111254820707348531
-
-Full record for previous day: [logs/2026-10-17.md](logs/2026-10-17.md).
-Full record for the day before: [logs/2026-10-16.md](logs/2026-10-16.md).
+Full record for today: [logs/2026-10-18.md](logs/2026-10-18.md).
+Previous day full record: [logs/2026-10-17.md](logs/2026-10-17.md).
