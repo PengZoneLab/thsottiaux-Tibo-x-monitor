@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 09:03 Beijing time (UTC+8) / 18:03 PDT (Oct 17)
+**Scan time**: 2026-10-18 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 17)
 
 **New activity**: No new posts.
 
@@ -9,13 +9,13 @@
 ### Original posts
 
 - 05:12 Beijing (UTC+8) / 14:12 PDT (Oct 17) — Original post: Done
-Engagement: ❤ 4585 | 🔁 98 | 💬 914 | 📅 68 | 👁 309K. Link: https://x.com/thsottiaux/status/2111566005684289735
+Engagement: ❤ 4945 | 🔁 103 | 💬 980 | 📅 78 | 👁 366K. Link: https://x.com/thsottiaux/status/2111566005684289735
 
 ### Replies to others
 
-- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 381 | 🔁 4 | 💬 57 | 📅 5 | 👁 26.5K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
+- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 460 | 🔁 5 | 💬 61 | 📅 7 | 👁 34.5K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
 
-- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 98 | 🔁 0 | 💬 12 | 📅 0 | 👁 17.7K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
+- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 100 | 🔁 0 | 💬 12 | 📅 0 | 👁 19.4K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
 
 - 02:23 Beijing (UTC+8) / 11:23 PDT (Oct 17) — Reply to @gabrielchua. Parent post: With plugin extensions, I can customise my Codex desktop app. Google cal feels a bit too cluttered for me, so I built a simpler focused month and day view, exactly how I like it. Software for n=1. His words: Bit blurry. Engagement: ❤ 32 | 🔁 0 | 💬 4 | 📅 1 | 👁 6.9K. Link: https://x.com/thsottiaux/status/2111523462372372942 Original link: https://x.com/gabrielchua/status/2109482363210305893
 
