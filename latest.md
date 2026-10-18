@@ -1,26 +1,26 @@
 # Latest Scan
 
-**Scan time**: 2026-10-19 04:02 Beijing time (UTC+8) / 13:02 PDT
+**Scan time**: 2026-10-19 05:02 Beijing time (UTC+8) / 14:02 PDT
 
-**New activity**: No new posts.
+**New activity**: Yes.
 
 ## Recent activity
 
 ### Original posts
 
-- 00:00 Beijing (UTC+8) / 09:00 PDT (Oct 18) — Original post: What’s cooking today
-Engagement: ❤ 4250 | 🔁 62 | 💬 2095 | 📅 81 | 👁 387K. Link: https://x.com/thsottiaux/status/2111849858374177222
+- 04:34 Beijing (UTC+8) / 13:34 PDT (Oct 18) — Original post: People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out
+Engagement: ❤ 2471 | 🔁 39 | 💬 434 | 📅 56 | 👁 78K. Link: https://x.com/thsottiaux/status/2111918768733753664
 
-- 05:12 Beijing (UTC+8) / 14:12 PDT (Oct 17) — Original post: Done
-Engagement: ❤ 7728 | 🔁 143 | 💬 1501 | 📅 121 | 👁 1.05M. Link: https://x.com/thsottiaux/status/2111566005684289735
+- 00:00 Beijing (UTC+8) / 09:00 PDT (Oct 18) — Original post: What’s cooking today
+Engagement: ❤ 4531 | 🔁 67 | 💬 2189 | 📅 82 | 👁 438K. Link: https://x.com/thsottiaux/status/2111849858374177222
 
 ### Replies to others
 
-- 22:53 Beijing (UTC+8) / 07:53 PDT (Oct 18) — Reply to @argofowl. Parent post: my dot stopped showing up in my codex desktop app yeah openai is cooking.... His words: EU sorry. We’re making it so that (a) if you had created a dot elsewhere and find yourself in the EU it will keep working (b) dots are coming to the EU in the future
-Engagement: ❤ 1489 | 🔁 23 | 💬 246 | 📅 92 | 👁 224K. Link: https://x.com/thsottiaux/status/2111832959842161136 Original link: https://x.com/argofowl/status/2111772162314944637
+- 04:33 Beijing (UTC+8) / 13:33 PDT (Oct 18) — Reply to @littlelion_love. Parent post: When Tibo reaches 1M followers on X, will there be a reset? His words: We’ll see
+Engagement: ❤ 199 | 🔁 1 | 💬 23 | 📅 3 | 👁 8.5K. Link: https://x.com/thsottiaux/status/2111918635849801739 Original link: https://x.com/littlelion_love/status/2111918435877720405
 
-- 13:17 Beijing (UTC+8) / 22:17 PDT (Oct 17) — Reply to @rl_env. Parent post: This is the reason why OpenAI won’t win the personal agents war. Muse at least realizes that normies want one agent (quoting the earlier Burger/Dorito dots post). His words: Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.
-Engagement: ❤ 783 | 🔁 8 | 💬 86 | 📅 12 | 👁 92K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
+- 22:53 Beijing (UTC+8) / 07:53 PDT (Oct 18) — Reply to @argofowl. Parent post: my dot stopped showing up in my codex desktop app yeah openai is cooking.... His words: EU sorry. We’re making it so that (a) if you had created a dot elsewhere and find yourself in the EU it will keep working (b) dots are coming to the EU in the future
+Engagement: ❤ 1570 | 🔁 23 | 💬 263 | 📅 96 | 👁 264K. Link: https://x.com/thsottiaux/status/2111832959842161136 Original link: https://x.com/argofowl/status/2111772162314944637
 
 Full record for today: [logs/2026-10-19.md](logs/2026-10-19.md).
 Previous day full record: [logs/2026-10-18.md](logs/2026-10-18.md).
