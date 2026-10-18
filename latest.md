@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 19:03 Beijing time (UTC+8) / 04:03 PDT
+**Scan time**: 2026-10-18 21:05 Beijing time (UTC+8) / 06:05 PDT
 
 **New activity**: No new posts.
 
@@ -9,20 +9,20 @@
 ### Original posts
 
 - 05:12 Beijing (UTC+8) / 14:12 PDT (Oct 17) — Original post: Done
-Engagement: ❤ 6884 | 🔁 128 | 💬 1337 | 📅 108 | 👁 739K. Link: https://x.com/thsottiaux/status/2111566005684289735
+Engagement: ❤ 7142 | 🔁 133 | 💬 1392 | 📅 112 | 👁 809K. Link: https://x.com/thsottiaux/status/2111566005684289735
 
 ### Replies to others
 
 - 13:17 Beijing (UTC+8) / 22:17 PDT (Oct 17) — Reply to @rl_env. Parent post: This is the reason why OpenAI won’t win the personal agents war. Muse at least realizes that normies want one agent (quoting the earlier Burger/Dorito dots post). His words: Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.
-Engagement: ❤ 534 | 🔁 7 | 💬 65 | 📅 8 | 👁 54.1K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
+Engagement: ❤ 606 | 🔁 8 | 💬 73 | 📅 8 | 👁 64.0K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
 
-- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 769 | 🔁 8 | 💬 90 | 📅 9 | 👁 96.5K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
+- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 799 | 🔁 8 | 💬 92 | 📅 10 | 👁 105.8K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
 
-- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 117 | 🔁 0 | 💬 11 | 📅 0 | 👁 29K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
+- 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 119 | 🔁 0 | 💬 11 | 📅 0 | 👁 32.7K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
 
-- 02:23 Beijing (UTC+8) / 11:23 PDT (Oct 17) — Reply to @gabrielchua. Parent post: With plugin extensions, I can customise my Codex desktop app. Google cal feels a bit too cluttered for me, so I built a simpler focused month and day view, exactly how I like it. Software for n=1. His words: Bit blurry. Engagement: ❤ 63 | 🔁 0 | 💬 4 | 📅 1 | 👁 17K. Link: https://x.com/thsottiaux/status/2111523462372372942 Original link: https://x.com/gabrielchua/status/2109482363210305893
+- 02:23 Beijing (UTC+8) / 11:23 PDT (Oct 17) — Reply to @gabrielchua. Parent post: With plugin extensions, I can customise my Codex desktop app. Google cal feels a bit too cluttered for me, so I built a simpler focused month and day view, exactly how I like it. Software for n=1. His words: Bit blurry. Engagement: ❤ 65 | 🔁 0 | 💬 4 | 📅 1 | 👁 19.5K. Link: https://x.com/thsottiaux/status/2111523462372372942 Original link: https://x.com/gabrielchua/status/2109482363210305893
 
-- 02:18 Beijing (UTC+8) / 11:18 PDT (Oct 17) — Reply to @jkeatn. Parent post: 7,000 followers! don’t ask me anything, I work at anthropic. His words: Let’s pump those numbers up. Engagement: ❤ 351 | 🔁 1 | 💬 26 | 📅 2 | 👁 39.6K. Link: https://x.com/thsottiaux/status/2111522308666077527 Original link: https://x.com/jkeatn/status/2111500856554308061
+- 02:18 Beijing (UTC+8) / 11:18 PDT (Oct 17) — Reply to @jkeatn. Parent post: 7,000 followers! don’t ask me anything, I work at anthropic. His words: Let’s pump those numbers up. Engagement: ❤ 371 | 🔁 1 | 💬 26 | 📅 2 | 👁 43.7K. Link: https://x.com/thsottiaux/status/2111522308666077527 Original link: https://x.com/jkeatn/status/2111500856554308061
 
 ### Earlier today (original posts and replies)
 
