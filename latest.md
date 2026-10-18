@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 18:02 Beijing time (UTC+8) / 03:02 PDT
+**Scan time**: 2026-10-18 19:03 Beijing time (UTC+8) / 04:03 PDT
 
 **New activity**: No new posts.
 
@@ -9,14 +9,14 @@
 ### Original posts
 
 - 05:12 Beijing (UTC+8) / 14:12 PDT (Oct 17) — Original post: Done
-Engagement: ❤ 6775 | 🔁 125 | 💬 1310 | 📅 106 | 👁 708K. Link: https://x.com/thsottiaux/status/2111566005684289735
+Engagement: ❤ 6884 | 🔁 128 | 💬 1337 | 📅 108 | 👁 739K. Link: https://x.com/thsottiaux/status/2111566005684289735
 
 ### Replies to others
 
 - 13:17 Beijing (UTC+8) / 22:17 PDT (Oct 17) — Reply to @rl_env. Parent post: This is the reason why OpenAI won’t win the personal agents war. Muse at least realizes that normies want one agent (quoting the earlier Burger/Dorito dots post). His words: Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.
-Engagement: ❤ 473 | 🔁 7 | 💬 60 | 📅 6 | 👁 49.2K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
+Engagement: ❤ 534 | 🔁 7 | 💬 65 | 📅 8 | 👁 54.1K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
 
-- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 749 | 🔁 8 | 💬 90 | 📅 9 | 👁 91.8K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
+- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 769 | 🔁 8 | 💬 90 | 📅 9 | 👁 96.5K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
 
 - 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 117 | 🔁 0 | 💬 11 | 📅 0 | 👁 29K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
 
