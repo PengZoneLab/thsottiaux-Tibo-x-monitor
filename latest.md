@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-18 22:02 Beijing time (UTC+8) / 07:02 PDT
+**Scan time**: 2026-10-18 23:03 Beijing time (UTC+8) / 08:03 PDT
 
-**New activity**: No new posts.
+**New activity**: 1 new reply.
 
 ## Recent activity
 
@@ -13,10 +13,13 @@ Engagement: ❤ 7248 | 🔁 135 | 💬 1419 | 📅 113 | 👁 845K. Link: https:
 
 ### Replies to others
 
-- 13:17 Beijing (UTC+8) / 22:17 PDT (Oct 17) — Reply to @rl_env. Parent post: This is the reason why OpenAI won’t win the personal agents war. Muse at least realizes that normies want one agent (quoting the earlier Burger/Dorito dots post). His words: Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.
-Engagement: ❤ 649 | 🔁 8 | 💬 75 | 📅 8 | 👁 68.9K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
+- 22:53 Beijing (UTC+8) / 07:53 PDT (Oct 18) — Reply to @argofowl. Parent post: my dot stopped showing up in my codex desktop app yeah openai is cooking.... His words: EU sorry. We’re making it so that (a) if you had created a dot elsewhere and find yourself in the EU it will keep working (b) dots are coming to the EU in the future
+Engagement: ❤ 122 | 🔁 2 | 💬 30 | 📅 3 | 👁 8.1K. Link: https://x.com/thsottiaux/status/2111832959842161136 Original link: https://x.com/argofowl/status/2111772162314944637
 
-- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 821 | 🔁 8 | 💬 92 | 📅 11 | 👁 111.1K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
+- 13:17 Beijing (UTC+8) / 22:17 PDT (Oct 17) — Reply to @rl_env. Parent post: This is the reason why OpenAI won’t win the personal agents war. Muse at least realizes that normies want one agent (quoting the earlier Burger/Dorito dots post). His words: Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.
+Engagement: ❤ 685 | 🔁 8 | 💬 79 | 📅 9 | 👁 74.2K. Link: https://x.com/thsottiaux/status/2111687989328011357 Original link: https://x.com/rl_env/status/2111501482881438054
+
+- 06:23 Beijing (UTC+8) / 15:23 PDT (Oct 17) — Reply to @ananyairl. Parent post: Why is Codex giving reset every day? 😭. His words: Pot committed. Engagement: ❤ 846 | 🔁 8 | 💬 94 | 📅 11 | 👁 118K. Link: https://x.com/thsottiaux/status/2111583927156760690 Original link: https://x.com/ananyairl/status/2111518299888767066
 
 - 02:24 Beijing (UTC+8) / 11:24 PDT (Oct 17) — Reply to @ajambrosino. Parent post: hold my beer. His words: 🍺👌. Engagement: ❤ 119 | 🔁 0 | 💬 11 | 📅 0 | 👁 32.7K. Link: https://x.com/thsottiaux/status/2111523665817047359 Original link: https://x.com/ajambrosino/status/2111499356486672551
 
