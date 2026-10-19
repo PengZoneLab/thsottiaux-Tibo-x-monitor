@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-20 02:02 Beijing time (UTC+8) / 11:02 PDT
+**Scan time**: 2026-10-20 03:02 Beijing time (UTC+8) / 12:02 PDT
 
 **New activity**: No new posts.
 
@@ -30,13 +30,13 @@ Engagement: ❤ 7232 | 🔁 145 | 💬 949 | 📅 200 | 👁 439K. Link: https:/
 Engagement: ❤ 657 | 🔁 16 | 💬 52 | 📅 105 | 👁 . Link: https://x.com/thsottiaux/status/2112034328549216593 Original link: https://x.com/thsottiaux/status/2112034063934742720
 
 - 13:11 Beijing (UTC+8) / 22:11 PDT (Oct 18) — Reply to @jxnlco. Parent post: Shared a link/image (likely of a person in distinctive attire resembling Batman), quoting a popular post about jacket power scaling in NYC. His words: Didn’t know Batman worked at OpenAI
-Engagement: ❤ 325 | 🔁 2 | 💬 31 | 📅 5 | 👁 53K. Link: https://x.com/thsottiaux/status/2112049026636103954 Original link: https://x.com/jxnlco/status/2112048371993288779
+Engagement: ❤ 332 | 🔁 2 | 💬 31 | 📅 6 | 👁 55K. Link: https://x.com/thsottiaux/status/2112049026636103954 Original link: https://x.com/jxnlco/status/2112048371993288779
 
 - 12:34 Beijing (UTC+8) / 21:34 PDT (Oct 18) — Reply to @xiangning0. Parent post: Humorous hypothetical timeline of Tibo releasing Deepseek models with frequent resets and incremental improvements over 28 days. His words: You wish
-Engagement: ❤ 1986 | 🔁 22 | 💬 164 | 📅 33 | 👁 273K. Link: https://x.com/thsottiaux/status/2112039554538770846 Original link: https://x.com/xiangning0/status/2111971102587269568
+Engagement: ❤ 2016 | 🔁 23 | 💬 166 | 📅 33 | 👁 280K. Link: https://x.com/thsottiaux/status/2112039554538770846 Original link: https://x.com/xiangning0/status/2111971102587269568
 
 - 12:34 Beijing (UTC+8) / 21:34 PDT (Oct 18) — Reply to @codeglitch. Parent post: Disagreement with the replying part; tried to get bug reports seen (zero replies despite many and a pinned message). His words: Sorry
-Engagement: ❤ 66 | 🔁 0 | 💬 6 | 📅 1 | 👁 26K. Link: https://x.com/thsottiaux/status/2112039750999986304 Original link: https://x.com/codeglitch/status/2111763874555064425
+Engagement: ❤ 66 | 🔁 0 | 💬 6 | 📅 1 | 👁 27K. Link: https://x.com/thsottiaux/status/2112039750999986304 Original link: https://x.com/codeglitch/status/2111763874555064425
 
 Full record for today: [logs/2026-10-20.md](logs/2026-10-20.md).
 Previous day full record: [logs/2026-10-19.md](logs/2026-10-19.md).
