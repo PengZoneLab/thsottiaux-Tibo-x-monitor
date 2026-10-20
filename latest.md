@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-20 19:02 Beijing time (UTC+8) / 04:02 PDT
+**Scan time**: 2026-10-20 20:03 Beijing time (UTC+8) / 05:03 PDT
 
 **New activity**: No new posts.
 
@@ -10,11 +10,11 @@
 
 - 14:33 Beijing (UTC+8) / 23:33 PDT (Oct 19) — Original post: Day 15/ Nevermind, we're still cooking... and reset. Enjoy.
 (quoting his own previous post: Day 15/ We're cooked)
-Engagement: ❤ 8205 | 🔁 394 | 💬 2325 | 📅 184 | 👁 663K. Link: https://x.com/thsottiaux/status/2112432076767289678
+Engagement: ❤ 8799 | 🔁 406 | 💬 2395 | 📅 200 | 👁 733K. Link: https://x.com/thsottiaux/status/2112432076767289678
 
 - 03:45 Beijing (UTC+8) / 12:45 PDT (Oct 19) — Original post: Day 15/ We're cooked
 (quoting @OpenAIDevs: Here’s what we’re cooking with Codex: https://x.com/i/broadcasts/1RKZzBELBbXKB)
-Engagement: ❤ 4884 | 🔁 154 | 💬 2788 | 📅 437 | 👁 2.2M. Link: https://x.com/thsottiaux/status/2112268918681485431
+Engagement: ❤ 4921 | 🔁 156 | 💬 2792 | 📅 442 | 👁 2.2M. Link: https://x.com/thsottiaux/status/2112268918681485431
 
 - 12:12 Beijing (UTC+8) / 21:12 PDT (Oct 18) — Original post: Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.
 
@@ -28,7 +28,7 @@ Engagement: ❤ 7885 | 🔁 290 | 💬 452 | 📅 762 | 👁 1.2M. Link: https:/
 1) Buy a Pro 100 sub
 2) ???
 3) Enjoy T3Code
-Engagement: ❤ 1182 | 🔁 19 | 💬 160 | 📅 76 | 👁 155K. Link: https://x.com/thsottiaux/status/2112426606870585551 Original link: https://x.com/theo/status/2112331734272593922
+Engagement: ❤ 1308 | 🔁 20 | 💬 165 | 📅 81 | 👁 173K. Link: https://x.com/thsottiaux/status/2112426606870585551 Original link: https://x.com/theo/status/2112331734272593922
 
 - 13:11 Beijing (UTC+8) / 22:11 PDT (Oct 18) — Reply to @jxnlco. Parent post: Shared a link/image (likely of a person in distinctive attire resembling Batman), quoting a popular post about jacket power scaling in NYC. His words: Didn’t know Batman worked at OpenAI
 Engagement: ❤ 378 | 🔁 3 | 💬 35 | 📅 7 | 👁 91K. Link: https://x.com/thsottiaux/status/2112049026636103954 Original link: https://x.com/jxnlco/status/2112048371993288779
