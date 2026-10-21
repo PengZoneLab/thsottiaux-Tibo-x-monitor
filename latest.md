@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-22 03:02 Beijing time (UTC+8) / 12:02 PDT (Oct 21)
+**Scan time**: 2026-10-22 05:02 Beijing time (UTC+8) / 14:02 PDT (Oct 21)
 
-**New activity**: No new posts.
+**New activity**: Two new replies.
 
 ## Recent activity
 
@@ -23,19 +23,17 @@ Engagement: ❤ 11521 | 🔁 460 | 💬 2834 | 📅 265 | 👁 1.42M. Link: http
 
 ### Replies to others
 
+- 04:50 Beijing (UTC+8) / 13:50 PDT (Oct 21) — Reply to @theo. Parent post: Theo claimed T3 Code users processed ~36.5 trillion tokens in the first 72 hours since Gemini 4 Argon launched, 1.5x that of all Gemini 4 Argon demand globally (quoting Logan Kilpatrick about ~25 trillion tokens for Gemini 4 Argon).
+His words: Congrats
+Engagement: ❤ 33 | 🔁 0 | 💬 8 | 📅 0 | 👁 3.4K. Link: https://x.com/thsottiaux/status/2113009945134379213 Original link: https://x.com/theo/status/2112891770338209933
+
+- 03:38 Beijing (UTC+8) / 12:38 PDT (Oct 21) — Reply to @claudeai. Parent post: Claude announced a research preview of Claude Duet, a new app where Claude works as a proactive agent that comes to you with what needs attention, completes tasks, keeps working when you step away, and checks before acting on your behalf.
+His words: Dot, meet Duet. Duet, meet Dot. Be nice to each other.
+Engagement: ❤ 2471 | 🔁 25 | 💬 163 | 📅 52 | 👁 75.7K. Link: https://x.com/thsottiaux/status/2112992042465009736 Original link: https://x.com/claudeai/status/2112984664256241837
+
 - 21:58 Beijing (UTC+8) / 06:58 PDT (Oct 21) — Reply to @JustLingonberry. Parent post: Unconfirmed OpenAI insider info claiming they are not happy with Tibo and there will be no more endless resets; criticized $500 credits not lasting a few hours with astra as insulting.
 His words: @sama is this true
-Engagement: ❤ 2492 | 🔁 34 | 💬 213 | 📅 71 | 👁 308K. Link: https://x.com/thsottiaux/status/2112906496736641416 Original link: https://x.com/JustLingonberry/status/2112624715940663449
-
-- 14:49 Beijing (UTC+8) / 23:49 PDT (Oct 20) — Reply to @theo. Parent post: Theo apologized for T3 Connect reliability issues today caused by hitting Cloudflare rate limits due to high usage; noted recovery and suggested Tailscale as a fallback for better uptime. His words: I demand a reset
-Engagement: ❤ 3824 | 🔁 39 | 💬 288 | 📅 49 | 👁 286K. Link: https://x.com/thsottiaux/status/2112798407928713717 Original link: https://x.com/theo/status/2112359232595165185
-
-- 14:12 Beijing (UTC+8) / 23:12 PDT (Oct 19) — Reply to @theo. Parent post: Theo expresses nervousness about launching his first paid $1,300 course on applying engineering knowledge to building with AI; strongly advises not buying it personally if it would strain finances, and suggests companies or bosses cover the cost instead, highlighting potential ROI for teams. His words: Instead
-
-1) Buy a Pro 100 sub
-2) ???
-3) Enjoy T3Code
-Engagement: ❤ 1936 | 🔁 23 | 💬 208 | 📅 120 | 👁 330K. Link: https://x.com/thsottiaux/status/2112426606870585551 Original link: https://x.com/theo/status/2112331734272593922
+Engagement: ❤ 2744 | 🔁 35 | 💬 226 | 📅 78 | 👁 348K. Link: https://x.com/thsottiaux/status/2112906496736641416 Original link: https://x.com/JustLingonberry/status/2112624715940663449
 
 Full record for today: [logs/2026-10-22.md](logs/2026-10-22.md).
 Previous day full record: [logs/2026-10-21.md](logs/2026-10-21.md).
