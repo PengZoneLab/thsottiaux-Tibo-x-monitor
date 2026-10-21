@@ -1,8 +1,8 @@
 # Latest Scan
 
-**Scan time**: 2026-10-21 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 20)
+**Scan time**: 2026-10-21 11:02 Beijing time (UTC+8) / 20:02 PDT (Oct 20)
 
-**New activity**: Yes. One new original post.
+**New activity**: No new posts.
 
 ## Recent activity
 
@@ -12,14 +12,14 @@
 
 You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.
 (quoting @OpenAIDevs: You can now choose 12-hour prompt caching in the API. Persistent agents, like dots, reuse context throughout the day. You can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart.)
-Engagement: ❤ 3842 | 🔁 186 | 💬 788 | 📅 263 | 👁 218K. Link: https://x.com/thsottiaux/status/2112712984644784534
+Engagement: ❤ 6187 | 🔁 318 | 💬 1123 | 📅 482 | 👁 483K. Link: https://x.com/thsottiaux/status/2112712984644784534
 
 - 01:10 Beijing (UTC+8) / 10:10 PDT (Oct 20) — Original post: There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.
-Engagement: ❤ 9731 | 🔁 303 | 💬 2299 | 📅 538 | 👁 882K. Link: https://x.com/thsottiaux/status/2112592264686149749
+Engagement: ❤ 10004 | 🔁 305 | 💬 2361 | 📅 550 | 👁 956K. Link: https://x.com/thsottiaux/status/2112592264686149749
 
 - 14:33 Beijing (UTC+8) / 23:33 PDT (Oct 19) — Original post: Day 15/ Nevermind, we're still cooking... and reset. Enjoy.
 (quoting his own previous post: Day 15/ We're cooked)
-Engagement: ❤ 11254 | 🔁 459 | 💬 2807 | 📅 266 | 👁 1.22M. Link: https://x.com/thsottiaux/status/2112432076767289678
+Engagement: ❤ 11298 | 🔁 460 | 💬 2811 | 📅 266 | 👁 1.25M. Link: https://x.com/thsottiaux/status/2112432076767289678
 
 ### Replies to others
 
