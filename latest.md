@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-21 18:02 Beijing time (UTC+8) / 03:02 PDT (Oct 21)
+**Scan time**: 2026-10-21 19:02 Beijing time (UTC+8) / 04:02 PDT (Oct 21)
 
 **New activity**: No new posts.
 
@@ -12,29 +12,29 @@
 
 You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.
 (quoting @OpenAIDevs: You can now choose 12-hour prompt caching in the API. Persistent agents, like dots, reuse context throughout the day. You can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart.)
-Engagement: ❤ 12379 | 🔁 581 | 💬 2041 | 📅 1024 | 👁 1.59M. Link: https://x.com/thsottiaux/status/2112712984644784534
+Engagement: ❤ 12691 | 🔁 589 | 💬 2101 | 📅 1045 | 👁 1.67M. Link: https://x.com/thsottiaux/status/2112712984644784534
 
 - 01:10 Beijing (UTC+8) / 10:10 PDT (Oct 20) — Original post: There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.
-Engagement: ❤ 10928 | 🔁 340 | 💬 2591 | 📅 601 | 👁 1.25M. Link: https://x.com/thsottiaux/status/2112592264686149749
+Engagement: ❤ 11014 | 🔁 344 | 💬 2614 | 📅 607 | 👁 1.28M. Link: https://x.com/thsottiaux/status/2112592264686149749
 
 - 14:33 Beijing (UTC+8) / 23:33 PDT (Oct 19) — Original post: Day 15/ Nevermind, we're still cooking... and reset. Enjoy.
 (quoting his own previous post: Day 15/ We're cooked)
-Engagement: ❤ 11403 | 🔁 462 | 💬 2815 | 📅 266 | 👁 1.34M. Link: https://x.com/thsottiaux/status/2112432076767289678
+Engagement: ❤ 11454 | 🔁 461 | 💬 2823 | 📅 265 | 👁 1.37M. Link: https://x.com/thsottiaux/status/2112432076767289678
 
 ### Replies to others
 
 - 14:49 Beijing (UTC+8) / 23:49 PDT (Oct 20) — Reply to @theo. Parent post: Theo apologized for T3 Connect reliability issues today caused by hitting Cloudflare rate limits due to high usage; noted recovery and suggested Tailscale as a fallback for better uptime. His words: I demand a reset
-Engagement: ❤ 1986 | 🔁 25 | 💬 210 | 📅 32 | 👁 127K. Link: https://x.com/thsottiaux/status/2112798407928713717 Original link: https://x.com/theo/status/2112359232595165185
+Engagement: ❤ 2231 | 🔁 25 | 💬 224 | 📅 32 | 👁 149K. Link: https://x.com/thsottiaux/status/2112798407928713717 Original link: https://x.com/theo/status/2112359232595165185
 
 - 14:12 Beijing (UTC+8) / 23:12 PDT (Oct 19) — Reply to @theo. Parent post: Theo expresses nervousness about launching his first paid $1,300 course on applying engineering knowledge to building with AI; strongly advises not buying it personally if it would strain finances, and suggests companies or bosses cover the cost instead, highlighting potential ROI for teams. His words: Instead
 
 1) Buy a Pro 100 sub
 2) ???
 3) Enjoy T3Code
-Engagement: ❤ 1916 | 🔁 23 | 💬 206 | 📅 118 | 👁 314K. Link: https://x.com/thsottiaux/status/2112426606870585551 Original link: https://x.com/theo/status/2112331734272593922
+Engagement: ❤ 1923 | 🔁 23 | 💬 206 | 📅 120 | 👁 321K. Link: https://x.com/thsottiaux/status/2112426606870585551 Original link: https://x.com/theo/status/2112331734272593922
 
 - 13:11 Beijing (UTC+8) / 22:11 PDT (Oct 18) — Reply to @jxnlco. Parent post: Shared a link/image (likely of a person in distinctive attire resembling Batman), quoting a popular post about jacket power scaling in NYC. His words: Didn’t know Batman worked at OpenAI
-Engagement: ❤ 390 | 🔁 3 | 💬 38 | 📅 7 | 👁 105K. Link: https://x.com/thsottiaux/status/2112049026636103954 Original link: https://x.com/jxnlco/status/2112048371993288779
+Engagement: ❤ 391 | 🔁 3 | 💬 38 | 📅 7 | 👁 106K. Link: https://x.com/thsottiaux/status/2112049026636103954 Original link: https://x.com/jxnlco/status/2112048371993288779
 
 Full record for today: [logs/2026-10-21.md](logs/2026-10-21.md).
 Previous day full record: [logs/2026-10-20.md](logs/2026-10-20.md).
