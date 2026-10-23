@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-23 15:03 Beijing time (UTC+8) / 00:03 PDT (Oct 23)
+**Scan time**: 2026-10-23 16:02 Beijing time (UTC+8) / 01:02 PDT (Oct 23)
 
 **New activity**: No new posts.
 
@@ -9,7 +9,7 @@
 ### Original posts
 
 - 12:46 Beijing (UTC+8) / 21:46 PDT (Oct 22) — Original post: Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!
-Engagement: ❤ 5120 | 🔁 247 | 💬 792 | 📅 244 | 👁 473.4K. Link: https://x.com/thsottiaux/status/2113492187770175603
+Engagement: ❤ 5922 | 🔁 276 | 💬 919 | 📅 287 | 👁 583.5K. Link: https://x.com/thsottiaux/status/2113492187770175603
 
 - 14:55 Beijing (UTC+8) / 23:55 PDT (Oct 21) — Original post: Day 17/ Bet you thought we forgot, but no, it’s reset day today.
 
@@ -20,11 +20,11 @@ Engagement: ❤ 12999 | 🔁 552 | 💬 2503 | 📅 1125 | 👁 2.23M. Link: htt
 
 - 12:47 Beijing (UTC+8) / 21:47 PDT (Oct 22) — Reply to @thsottiaux (himself). Parent post: Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!
 His words: Landing tomorrow before 10am PST together with a small ship.
-Engagement: ❤ 1542 | 🔁 64 | 💬 231 | 📅 58 | 👁 233.2K. Link: https://x.com/thsottiaux/status/2113492502355562875 Original link: https://x.com/thsottiaux/status/2113492187770175603
+Engagement: ❤ 1750 | 🔁 70 | 💬 256 | 📅 61 | 👁 288.5K. Link: https://x.com/thsottiaux/status/2113492502355562875 Original link: https://x.com/thsottiaux/status/2113492187770175603
 
 - 06:58 Beijing (UTC+8) / 15:58 PDT (Oct 22) — Reply to @romainhuet. Parent post: The Decisions API is now generally available! To celebrate, I had Codex reimagine a very important app… 🌭
 His words: Very baguette of you
-Engagement: ❤ 196 | 🔁 0 | 💬 39 | 📅 1 | 👁 49.5K. Link: https://x.com/thsottiaux/status/2113404560853397516 Original link: https://x.com/romainhuet/status/2113369156838121938
+Engagement: ❤ 203 | 🔁 0 | 💬 39 | 📅 1 | 👁 50.6K. Link: https://x.com/thsottiaux/status/2113404560853397516 Original link: https://x.com/romainhuet/status/2113369156838121938
 
 - 14:55 Beijing (UTC+8) / 23:55 PDT (Oct 21) — Reply to @thsottiaux (himself). Parent post: Day 17/ Bet you thought we forgot, but no, it’s reset day today. Also good time to remind you to get Daybreak Blue access...
 His words: Lands tomorrow before 10am PST.
