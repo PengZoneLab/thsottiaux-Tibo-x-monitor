@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-23 17:02 Beijing time (UTC+8) / 02:02 PDT (Oct 23)
+**Scan time**: 2026-10-23 18:02 Beijing time (UTC+8) / 03:02 PDT (Oct 23)
 
 **New activity**: No new posts.
 
@@ -9,30 +9,30 @@
 ### Original posts
 
 - 12:46 Beijing (UTC+8) / 21:46 PDT (Oct 22) — Original post: Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!
-Engagement: ❤ 6475 | 🔁 293 | 💬 1013 | 📅 318 | 👁 674.9K. Link: https://x.com/thsottiaux/status/2113492187770175603
+Engagement: ❤ 6952 | 🔁 303 | 💬 1080 | 📅 347 | 👁 752.4K. Link: https://x.com/thsottiaux/status/2113492187770175603
 
 - 14:55 Beijing (UTC+8) / 23:55 PDT (Oct 21) — Original post: Day 17/ Bet you thought we forgot, but no, it’s reset day today.
 
 Also good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.
-Engagement: ❤ 13034 | 🔁 554 | 💬 2510 | 📅 1127 | 👁 2.28M. Link: https://x.com/thsottiaux/status/2113162277688070445
+Engagement: ❤ 13056 | 🔁 555 | 💬 2511 | 📅 1128 | 👁 2.30M. Link: https://x.com/thsottiaux/status/2113162277688070445
 
 ### Replies to others
 
 - 12:47 Beijing (UTC+8) / 21:47 PDT (Oct 22) — Reply to @thsottiaux (himself). Parent post: Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!
 His words: Landing tomorrow before 10am PST together with a small ship.
-Engagement: ❤ 1900 | 🔁 79 | 💬 289 | 📅 66 | 👁 336.0K. Link: https://x.com/thsottiaux/status/2113492502355562875 Original link: https://x.com/thsottiaux/status/2113492187770175603
+Engagement: ❤ 2026 | 🔁 82 | 💬 306 | 📅 71 | 👁 375.6K. Link: https://x.com/thsottiaux/status/2113492502355562875 Original link: https://x.com/thsottiaux/status/2113492187770175603
 
 - 06:58 Beijing (UTC+8) / 15:58 PDT (Oct 22) — Reply to @romainhuet. Parent post: The Decisions API is now generally available! To celebrate, I had Codex reimagine a very important app… 🌭
 His words: Very baguette of you
-Engagement: ❤ 207 | 🔁 0 | 💬 39 | 📅 1 | 👁 51.6K. Link: https://x.com/thsottiaux/status/2113404560853397516 Original link: https://x.com/romainhuet/status/2113369156838121938
+Engagement: ❤ 210 | 🔁 0 | 💬 39 | 📅 1 | 👁 52.7K. Link: https://x.com/thsottiaux/status/2113404560853397516 Original link: https://x.com/romainhuet/status/2113369156838121938
 
 - 14:55 Beijing (UTC+8) / 23:55 PDT (Oct 21) — Reply to @thsottiaux (himself). Parent post: Day 17/ Bet you thought we forgot, but no, it’s reset day today. Also good time to remind you to get Daybreak Blue access...
 His words: Lands tomorrow before 10am PST.
-Engagement: ❤ 3156 | 🔁 104 | 💬 1236 | 📅 107 | 👁 1.32M. Link: https://x.com/thsottiaux/status/2113162413008884099 Original link: https://x.com/thsottiaux/status/2113162277688070445
+Engagement: ❤ 3160 | 🔁 104 | 💬 1236 | 📅 107 | 👁 1.33M. Link: https://x.com/thsottiaux/status/2113162413008884099 Original link: https://x.com/thsottiaux/status/2113162277688070445
 
 - 15:00 Beijing (UTC+8) / 00:00 PDT (Oct 22) — Reply to @ebloch. Parent post: Insane. My dot found an $8,300 mistake in my tax return. The return was prepared by a tax firm that is best in class! People, if you’re not using ChatGPT for your Finances, you are definitely leaving money on the table.
 His words: Hefty
-Engagement: ❤ 317 | 🔁 1 | 💬 35 | 📅 5 | 👁 72.0K. Link: https://x.com/thsottiaux/status/2113163458867032238 Original link: https://x.com/ebloch/status/2112933987547226359
+Engagement: ❤ 318 | 🔁 1 | 💬 35 | 📅 5 | 👁 72.5K. Link: https://x.com/thsottiaux/status/2113163458867032238 Original link: https://x.com/ebloch/status/2112933987547226359
 
 Full record for today: [logs/2026-10-23.md](logs/2026-10-23.md).
 Previous day full record: [logs/2026-10-22.md](logs/2026-10-22.md).
