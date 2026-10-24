@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-24 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 23)
+**Scan time**: 2026-10-24 15:02 Beijing time (UTC+8) / 00:02 PDT (Oct 24)
 
 **New activity**: No new posts.
 
@@ -9,7 +9,7 @@
 ### Original posts
 
 - 11:41 Beijing (UTC+8) / 20:41 PDT (Oct 23) — Original post: The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.
-Engagement: ❤ 3920 | 🔁 192 | 💬 608 | 📅 268 | 👁 239.5K. Link: https://x.com/thsottiaux/status/2113838156193894447
+Engagement: ❤ 4640 | 🔁 214 | 💬 692 | 📅 319 | 👁 303.3K. Link: https://x.com/thsottiaux/status/2113838156193894447
 
 - 07:12 Beijing (UTC+8) / 16:12 PDT (Oct 23) — Original post: Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.
 Engagement: ❤ 5922 | 🔁 171 | 💬 965 | 📅 231 | 👁 586.9K. Link: https://x.com/thsottiaux/status/2113770573994299544
@@ -20,10 +20,10 @@ Engagement: ❤ 10280 | 🔁 383 | 💬 1666 | 📅 513 | 👁 1.54M. Link: http
 ### Replies to others
 
 - 07:15 Beijing (UTC+8) / 16:15 PDT (Oct 23) — Reply to @playdropai. Parent post: Agents working in tandem. What could go wrong? (with video of mascots in orbit / space datacenters / Dyson spheres). His words: Fun game.
-Engagement: ❤ 133 | 🔁 0 | 💬 17 | 📅 9 | 👁 24.2K. Link: https://x.com/thsottiaux/status/2113771215433392478 Original link: https://x.com/playdropai/status/2113762326428152110
+Engagement: ❤ 137 | 🔁 0 | 💬 17 | 📅 9 | 👁 26.1K. Link: https://x.com/thsottiaux/status/2113771215433392478 Original link: https://x.com/playdropai/status/2113762326428152110
 
 - 07:13 Beijing (UTC+8) / 16:13 PDT (Oct 23) — Reply to @thsottiaux (himself). Parent post: Day 19/ Small updates. ... His words: On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication. Surprisingly the CLI has grown 2X in usage since devday.
-Engagement: ❤ 1232 | 🔁 25 | 💬 162 | 📅 45 | 👁 228.4K. Link: https://x.com/thsottiaux/status/2113770862860222611 Original link: https://x.com/thsottiaux/status/2113770573994299544
+Engagement: ❤ 1305 | 🔁 25 | 💬 165 | 📅 48 | 👁 249.4K. Link: https://x.com/thsottiaux/status/2113770862860222611 Original link: https://x.com/thsottiaux/status/2113770573994299544
 
 - 12:47 Beijing (UTC+8) / 21:47 PDT (Oct 22) — Reply to @thsottiaux (himself). Parent post: Day 18/ ... His words: Landing tomorrow before 10am PST together with a small ship.
 Engagement: ❤ 3012 | 🔁 106 | 💬 863 | 📅 107 | 👁 877K. Link: https://x.com/thsottiaux/status/2113492502355562875 Original link: https://x.com/thsottiaux/status/2113492187770175603
