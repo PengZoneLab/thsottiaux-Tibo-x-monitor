@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-25 08:02 Beijing time (UTC+8) / 17:02 PDT (Oct 24)
+**Scan time**: 2026-10-25 09:02 Beijing time (UTC+8) / 18:02 PDT (Oct 24)
 
 **New activity**: No
 
@@ -19,13 +19,13 @@ Engagement: ❤ 4330 | 🔁 70 | 💬 984 | 📅 182 | 👁 471.6K. Link: https:
 ### Replies to others
 
 - 06:44 Beijing (UTC+8) / 15:44 PDT (Oct 24) — Reply to @mitsuhiko. Parent post: Saturday is for time with family. (quoting his earlier SF hangout post). His words: I doubt they are on twitter
-Engagement: ❤ 392 | 🔁 4 | 💬 51 | 📅 5 | 👁 19.8K. Link: https://x.com/thsottiaux/status/2114125878804545940 Original link: https://x.com/mitsuhiko/status/2114067071986250067
+Engagement: ❤ 486 | 🔁 4 | 💬 57 | 📅 5 | 👁 27.1K. Link: https://x.com/thsottiaux/status/2114125878804545940 Original link: https://x.com/mitsuhiko/status/2114067071986250067
 
 - 06:42 Beijing (UTC+8) / 15:42 PDT (Oct 24) — Reply to @alexandr_wang. Parent post: oops you misspelled muse (in reply to his dots scaling post). His words: Step 1: Quit posting butts and go buy containers Step 2: ??? Step 3: Celebrate your 12 users
-Engagement: ❤ 907 | 🔁 14 | 💬 89 | 📅 35 | 👁 50.4K. Link: https://x.com/thsottiaux/status/2114125293124542632 Original link: https://x.com/alexandr_wang/status/2114091409485828200
+Engagement: ❤ 1398 | 🔁 20 | 💬 123 | 📅 59 | 👁 111.4K. Link: https://x.com/thsottiaux/status/2114125293124542632 Original link: https://x.com/alexandr_wang/status/2114091409485828200
 
 - 04:06 Beijing (UTC+8) / 13:06 PDT (Oct 24) — Reply to @specialkdelslay. Parent post: wtf does this even mean & why did they start it off with congratulations lmao (with image). His words: Fortunately, this is fake
-Engagement: ❤ 532 | 🔁 5 | 💬 28 | 📅 3 | 👁 25.6K. Link: https://x.com/thsottiaux/status/2114086171907428846 Original link: https://x.com/specialkdelslay/status/2114013190065697136
+Engagement: ❤ 589 | 🔁 6 | 💬 28 | 📅 3 | 👁 29.3K. Link: https://x.com/thsottiaux/status/2114086171907428846 Original link: https://x.com/specialkdelslay/status/2114013190065697136
 
 Full record for today: [logs/2026-10-25.md](logs/2026-10-25.md).
 Previous day full record: [logs/2026-10-24.md](logs/2026-10-24.md).
