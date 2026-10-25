@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-25 16:02 Beijing time (UTC+8) / 01:02 PDT
+**Scan time**: 2026-10-25 17:03 Beijing time (UTC+8) / 02:03 PDT
 
 **New activity**: No
 
@@ -11,7 +11,7 @@ No new posts.
 ### Original posts
 
 - 14:06 Beijing (UTC+8) / 23:06 PDT (Oct 24) — Original post: It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. (quoting his earlier “By midnight PST”; with SpongeBob “ONE HOUR LATER...” image)
-Engagement: ❤ 2516 | 🔁 112 | 💬 500 | 📅 69 | 👁 189.6K. Link: https://x.com/thsottiaux/status/2114237083652882932
+Engagement: ❤ 2944 | 🔁 122 | 💬 551 | 📅 82 | 👁 236.2K. Link: https://x.com/thsottiaux/status/2114237083652882932
 
 - 11:39 Beijing (UTC+8) / 20:39 PDT (Oct 24) — Original post: Day 20/ Rest and reset
 Engagement: ❤ 5822 | 🔁 341 | 💬 766 | 📅 139 | 👁 452.4K. Link: https://x.com/thsottiaux/status/2114200152701575656
@@ -19,10 +19,10 @@ Engagement: ❤ 5822 | 🔁 341 | 💬 766 | 📅 139 | 👁 452.4K. Link: https
 ### Replies to others
 
 - 14:07 Beijing (UTC+8) / 23:07 PDT (Oct 24) — Reply to @ScriptedAlchemy. Parent post: poteto. His words: .com
-Engagement: ❤ 144 | 🔁 2 | 💬 34 | 📅 3 | 👁 22.2K. Link: https://x.com/thsottiaux/status/2114237441250828563 Original link: https://x.com/ScriptedAlchemy/status/2114158466025853264
+Engagement: ❤ 171 | 🔁 2 | 💬 37 | 📅 3 | 👁 27.0K. Link: https://x.com/thsottiaux/status/2114237441250828563 Original link: https://x.com/ScriptedAlchemy/status/2114158466025853264
 
 - 13:31 Beijing (UTC+8) / 22:31 PDT (Oct 24) — Reply to @_jayyy18_13k. Parent post: tibo's 28 day challenge is starting to look like 28 days of finding excuses to reset codex 😭 (quoting Day 20/ Rest and reset). His words: [image: Walter White "YOU GOT ME"]
-Engagement: ❤ 505 | 🔁 3 | 💬 32 | 📅 7 | 👁 17.0K. Link: https://x.com/thsottiaux/status/2114228445043691592 Original link: https://x.com/_jayyy18_13k/status/2114204359919820920
+Engagement: ❤ 587 | 🔁 3 | 💬 35 | 📅 7 | 👁 19.7K. Link: https://x.com/thsottiaux/status/2114228445043691592 Original link: https://x.com/_jayyy18_13k/status/2114204359919820920
 
 Full record for today: [logs/2026-10-25.md](logs/2026-10-25.md).
 Previous day full record: [logs/2026-10-24.md](logs/2026-10-24.md).
