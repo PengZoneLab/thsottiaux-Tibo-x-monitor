@@ -1,10 +1,10 @@
 # Latest Scan
 
-**Scan time**: 2026-10-26 03:02 Beijing time (UTC+8) / 12:02 PDT (Oct 25)
+**Scan time**: 2026-10-26 04:02 Beijing time (UTC+8) / 13:02 PDT (Oct 25)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+Two new replies captured.
 
 ## Recent activity
 
@@ -18,11 +18,14 @@ Engagement: ❤ 10397 | 🔁 456 | 💬 1129 | 📅 248 | 👁 1.04M. Link: http
 
 ### Replies to others
 
-- 22:38 Beijing (UTC+8) / 07:38 PDT (Oct 25) — Reply to @theo. Parent post: I made t3 code faster again btw (with image). His words: Love to see it!!
-Engagement: ❤ 363 | 🔁 0 | 💬 35 | 📅 7 | 👁 35.2K. Link: https://x.com/thsottiaux/status/2114365873049993364 Original link: https://x.com/theo/status/2114353370131796371
+- 03:16 Beijing (UTC+8) / 12:16 PDT (Oct 25) — Reply to @himanshutwtxs. Parent post: did you buy https://poteto.com (quoting his earlier “.com”). His words: Did you?
+Engagement: ❤ 81 | 🔁 1 | 💬 20 | 📅 1 | 👁 11.1K. Link: https://x.com/thsottiaux/status/2114435873857028129 Original link: https://x.com/himanshutwtxs/status/2114278551725949200
 
-- 14:07 Beijing (UTC+8) / 23:07 PDT (Oct 24) — Reply to @ScriptedAlchemy. Parent post: poteto. His words: .com
-Engagement: ❤ 367 | 🔁 2 | 💬 52 | 📅 8 | 👁 102.3K. Link: https://x.com/thsottiaux/status/2114237441250828563 Original link: https://x.com/ScriptedAlchemy/status/2114158466025853264
+- 03:15 Beijing (UTC+8) / 12:15 PDT (Oct 25) — Reply to @kirtandopamine. Parent post: holy shit, i'm failing to understand if he is actually serious (quoting his earlier DM request for help scaling dots; with image). His words: Reality (with screenshot of an unaccepted message request showing messages from the parent author).
+Engagement: ❤ 451 | 🔁 8 | 💬 29 | 📅 11 | 👁 15.8K. Link: https://x.com/thsottiaux/status/2114435715605885396 Original link: https://x.com/kirtandopamine/status/2114267866317086734
+
+- 22:38 Beijing (UTC+8) / 07:38 PDT (Oct 25) — Reply to @theo. Parent post: I made t3 code faster again btw (with image). His words: Love to see it!!
+Engagement: ❤ 378 | 🔁 0 | 💬 36 | 📅 7 | 👁 37.7K. Link: https://x.com/thsottiaux/status/2114365873049993364 Original link: https://x.com/theo/status/2114353370131796371
 
 Full record for today: [logs/2026-10-26.md](logs/2026-10-26.md).
 Previous day full record: [logs/2026-10-25.md](logs/2026-10-25.md).
