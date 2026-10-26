@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-26 14:02 Beijing time (UTC+8) / 23:02 PDT (Oct 25)
+**Scan time**: 2026-10-26 15:03 Beijing time (UTC+8) / 00:03 PDT (Oct 26)
 
 **New activity**: Yes
 
@@ -20,14 +20,14 @@ Engagement: ❤ 5503 | 🔁 169 | 💬 1053 | 📅 167 | 👁 942.0K. Link: http
 
 ### Replies to others
 
-- 13:24 Beijing (UTC+8) / 22:24 PDT (Oct 25) — Reply to @Aoakudotcom. Parent post: Nice! I am going to miss this when it’s over. His words: Me too, me too
-Engagement: ❤ 409 | 🔁 0 | 💬 46 | 📅 4 | 👁 61.9K. Link: https://x.com/thsottiaux/status/2114588845874491691 Original link: https://x.com/Aoakudotcom/status/2114588379522256967
+- 14:05 Beijing (UTC+8) / 23:05 PDT (Oct 25) — Reply to @larsencc. Parent post: Sunday @bot feedback thread. Whats the most annoying thing about grok bot right now? Be honest and brutal. His words: Not enough resets
+Engagement: ❤ 462 | 🔁 4 | 💬 81 | 📅 4 | 👁 29.8K. Link: https://x.com/thsottiaux/status/2114599388454481930 Original link: https://x.com/larsencc/status/2114462742757449730
 
-- 03:16 Beijing (UTC+8) / 12:16 PDT (Oct 25) — Reply to @himanshutwtxs. Parent post: did you buy https://poteto.com (quoting his earlier “.com”). His words: Did you?
-Engagement: ❤ 220 | 🔁 2 | 💬 37 | 📅 2 | 👁 68.4K. Link: https://x.com/thsottiaux/status/2114435873857028129 Original link: https://x.com/himanshutwtxs/status/2114278551725949200
+- 14:03 Beijing (UTC+8) / 23:03 PDT (Oct 25) — Reply to @Sisymiro. Parent post: Could you add Claude's default color scheme? His words: Absolutely
+Engagement: ❤ 93 | 🔁 0 | 💬 8 | 📅 0 | 👁 15.8K. Link: https://x.com/thsottiaux/status/2114598675930296518 Original link: https://x.com/Sisymiro/status/2114596993972797814
 
-- 03:15 Beijing (UTC+8) / 12:15 PDT (Oct 25) — Reply to @kirtandopamine. Parent post: holy shit, i'm failing to understand if he is actually serious (quoting his earlier DM request for help scaling dots; with image). His words: Reality (with screenshot of an unaccepted message request showing messages from the parent author).
-Engagement: ❤ 2068 | 🔁 18 | 💬 80 | 📅 34 | 👁 87.2K. Link: https://x.com/thsottiaux/status/2114435715605885396 Original link: https://x.com/kirtandopamine/status/2114267866317086734
+- 14:02 Beijing (UTC+8) / 23:02 PDT (Oct 25) — Reply to @bijanbowen. Parent post: thx for the tip, this is soothing to me (with image). His words: 10/10 soothed
+Engagement: ❤ 131 | 🔁 0 | 💬 5 | 📅 1 | 👁 17.3K. Link: https://x.com/thsottiaux/status/2114598609245126731 Original link: https://x.com/bijanbowen/status/2114596518439321772
 
 Full record for today: [logs/2026-10-26.md](logs/2026-10-26.md).
 Previous day full record: [logs/2026-10-25.md](logs/2026-10-25.md).
