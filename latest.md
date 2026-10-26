@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-26 09:02 Beijing time (UTC+8) / 18:02 PDT (Oct 25)
+**Scan time**: 2026-10-26 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 25)
 
 **New activity**: No
 
@@ -19,13 +19,13 @@ Engagement: ❤ 11181 | 🔁 464 | 💬 1180 | 📅 261 | 👁 1.21M. Link: http
 ### Replies to others
 
 - 03:16 Beijing (UTC+8) / 12:16 PDT (Oct 25) — Reply to @himanshutwtxs. Parent post: did you buy https://poteto.com (quoting his earlier “.com”). His words: Did you?
-Engagement: ❤ 165 | 🔁 2 | 💬 30 | 📅 2 | 👁 34.1K. Link: https://x.com/thsottiaux/status/2114435873857028129 Original link: https://x.com/himanshutwtxs/status/2114278551725949200
+Engagement: ❤ 175 | 🔁 2 | 💬 32 | 📅 2 | 👁 40.2K. Link: https://x.com/thsottiaux/status/2114435873857028129 Original link: https://x.com/himanshutwtxs/status/2114278551725949200
 
 - 03:15 Beijing (UTC+8) / 12:15 PDT (Oct 25) — Reply to @kirtandopamine. Parent post: holy shit, i'm failing to understand if he is actually serious (quoting his earlier DM request for help scaling dots; with image). His words: Reality (with screenshot of an unaccepted message request showing messages from the parent author).
-Engagement: ❤ 1761 | 🔁 18 | 💬 74 | 📅 30 | 👁 61.5K. Link: https://x.com/thsottiaux/status/2114435715605885396 Original link: https://x.com/kirtandopamine/status/2114267866317086734
+Engagement: ❤ 1829 | 🔁 18 | 💬 78 | 📅 30 | 👁 67.3K. Link: https://x.com/thsottiaux/status/2114435715605885396 Original link: https://x.com/kirtandopamine/status/2114267866317086734
 
 - 22:38 Beijing (UTC+8) / 07:38 PDT (Oct 25) — Reply to @theo. Parent post: I made t3 code faster again btw (with image). His words: Love to see it!!
-Engagement: ❤ 431 | 🔁 1 | 💬 37 | 📅 7 | 👁 46.8K. Link: https://x.com/thsottiaux/status/2114365873049993364 Original link: https://x.com/theo/status/2114353370131796371
+Engagement: ❤ 438 | 🔁 1 | 💬 37 | 📅 7 | 👁 49.3K. Link: https://x.com/thsottiaux/status/2114365873049993364 Original link: https://x.com/theo/status/2114353370131796371
 
 Full record for today: [logs/2026-10-26.md](logs/2026-10-26.md).
 Previous day full record: [logs/2026-10-25.md](logs/2026-10-25.md).
