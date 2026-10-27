@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-27 20:03 Beijing time (UTC+8) / 05:03 PDT
+**Scan time**: 2026-10-27 21:05 Beijing time (UTC+8) / 06:05 PDT
 
 **New activity**: No
 
@@ -11,7 +11,7 @@ No new posts.
 ### Original posts
 
 - 03:24 Beijing (UTC+8) / 12:24 PDT (Oct 26) — Original post: Day 22/ Terra is back! Our first model that is significantly better at writing, personality and nuanced understanding of requests. Packs a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions. (quoting OpenAI GPT-6.1 Terra announcement)
-Engagement: ❤ 9362 | 🔁 428 | 💬 2038 | 📅 667 | 👁 1.15M. Link: https://x.com/thsottiaux/status/2114800277677092936
+Engagement: ❤ 9449 | 🔁 431 | 💬 2091 | 📅 676 | 👁 1.19M. Link: https://x.com/thsottiaux/status/2114800277677092936
 
 - 13:48 Beijing (UTC+8) / 22:48 PDT (Oct 25) — Original post: Reminder you can customize the appearance of chatgpt on web and make it soothing
 https://chatgpt.com/settings/appearance (with image)
@@ -23,10 +23,10 @@ Engagement: ❤ 10888 | 🔁 424 | 💬 2310 | 📅 328 | 👁 1.56M. Link: http
 ### Replies to others
 
 - 11:29 Beijing (UTC+8) / 20:29 PDT (Oct 26) — Reply to @TokenGremlin. Parent post: I have no idea what OpenAI did with GPT-6.1 Terra, but this thing runs like it's in Ultrafast mode when you enable Fast. And even at normal speed, it's ridiculously fast. ... OpenAI has pulled off some kind of engineering miracle with this model's inference speed. His words: Interesting
-Engagement: ❤ 533 | 🔁 0 | 💬 75 | 📅 6 | 👁 69.9K. Link: https://x.com/thsottiaux/status/2114922374978277786 Original link: https://x.com/TokenGremlin/status/2114876232076611918
+Engagement: ❤ 549 | 🔁 0 | 💬 78 | 📅 6 | 👁 74.4K. Link: https://x.com/thsottiaux/status/2114922374978277786 Original link: https://x.com/TokenGremlin/status/2114876232076611918
 
 - 06:01 Beijing (UTC+8) / 15:01 PDT (Oct 26) — Reply to @ZryMiller. Parent post: I had Terra-6.1 draw @thsottiaux in Microsoft paint. Video is sped up about 7.9x. Idea from @rohit3a. His words: Lore accurate tibo
-Engagement: ❤ 443 | 🔁 4 | 💬 34 | 📅 4 | 👁 57.3K. Link: https://x.com/thsottiaux/status/2114839845604667840 Original link: https://x.com/ZryMiller/status/2114828562142257163
+Engagement: ❤ 453 | 🔁 4 | 💬 35 | 📅 4 | 👁 59.4K. Link: https://x.com/thsottiaux/status/2114839845604667840 Original link: https://x.com/ZryMiller/status/2114828562142257163
 
 Full record for today: [logs/2026-10-27.md](logs/2026-10-27.md).
 Previous day full record: [logs/2026-10-26.md](logs/2026-10-26.md).
