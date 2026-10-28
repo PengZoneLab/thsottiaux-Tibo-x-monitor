@@ -1,35 +1,30 @@
 # Latest Scan
 
-**Scan time**: 2026-10-28 22:04 Beijing time (UTC+8) / 07:04 PDT
+**Scan time**: 2026-10-29 00:02 Beijing time (UTC+8) / 09:02 PDT (Oct 28)
 
-**New activity**: No
-
-No new posts since the previous scan.
+**New activity**: Yes (late Oct 28)
 
 ## Recent activity
 
 ### Original posts
 
-- 14:29 Beijing (UTC+8) / 23:29 PDT (Oct 27) — Original post: And it's done. See you tomorrow for some good news. (quoting earlier "Lands by midnight PST.")
-Engagement: ❤ 5627 | 🔁 163 | 💬 1048 | 📅 130 | 👁 564K. Link: https://x.com/thsottiaux/status/2115330127886463244
+- 23:58 Beijing (UTC+8) / 08:58 PDT (Oct 28) — Original post: Pretty wild that this site got 3M views. (quoting earlier https://www.poteto.com has landed)
+Engagement: ❤ 333 | 🔁 3 | 💬 114 | 📅 2 | 👁 25.2K. Link: https://x.com/thsottiaux/status/2115473170279080149
+
+- 14:29 Beijing (UTC+8) / 23:29 PDT (Oct 27) — Original post: And it's done. See you tomorrow for some good news. (quoting earlier “Lands by midnight PST.”)
+Engagement: ❤ 6169 | 🔁 170 | 💬 1136 | 📅 143 | 👁 699K. Link: https://x.com/thsottiaux/status/2115330127886463244
 
 - 12:18 Beijing (UTC+8) / 21:18 PDT (Oct 27) — Original post: https://www.poteto.com has landed
-Engagement: ❤ 8009 | 🔁 260 | 💬 1457 | 📅 1021 | 👁 1.58M. Link: https://x.com/thsottiaux/status/2115297093879472332
-
-- 10:42 Beijing (UTC+8) / 19:42 PDT (Oct 27) — Original post: Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! (quoting @ChatGPT announcement of iCloud Mail and Calendar plugins in ChatGPT). Follow-up: Lands by midnight PST.
-Engagement: ❤ 6893 | 🔁 314 | 💬 1039 | 📅 300 | 👁 939K. Link: https://x.com/thsottiaux/status/2115273064481218829
-Follow-up engagement: ❤ 1898 | 🔁 54 | 💬 432 | 📅 34 | 👁 610K. Link: https://x.com/thsottiaux/status/2115273253711409208
+Engagement: ❤ 10668 | 🔁 328 | 💬 1717 | 📅 1526 | 👁 2.6M. Link: https://x.com/thsottiaux/status/2115297093879472332
 
 ### Replies to others
+
+- 23:58 Beijing (UTC+8) / 08:58 PDT (Oct 28) — Reply to @Ananth7e. Parent post: tibo: "we've decided not to reduce $200 pro plan usage limits from 20x to 10x of plus" imagine if this is the good news he's teasing for tomorrow. His words: If only
+Engagement: ❤ 33 | 🔁 0 | 💬 14 | 📅 0 | 👁 2.3K. Link: https://x.com/thsottiaux/status/2115473280677363810 Original link: https://x.com/Ananth7e/status/2115424711866040708
 
 - 14:27 Beijing (UTC+8) / 23:27 PDT (Oct 27) — Reply to @BenjaminDEKR. Parent post: do you guys ever do any work (quoting https://www.poteto.com has landed). His words: Pretty crazy but we have this thing called GPT and it just does stuff when you ask
 Engagement: ❤ 1722 | 🔁 17 | 💬 82 | 📅 22 | 👁 69.2K. Link: https://x.com/thsottiaux/status/2115329600897319076 Original link: https://x.com/BenjaminDEKR/status/2115309100024094927
 
-- 12:26 Beijing (UTC+8) / 21:26 PDT (Oct 27) — Reply to @mark_k. Parent post: The model I really want from @OpenAI is neither Terra nor Astra. Terra is crap, and Astra is expensive and slow. What we really need is a more capable Sol that can compete with Opus 5.5 on price and speed. Bring on GPT 6.2 Sol (or maybe 6.5?). His words: Taking notes.
-Engagement: ❤ 1882 | 🔁 12 | 💬 153 | 📅 26 | 👁 121K. Link: https://x.com/thsottiaux/status/2115299029294920189 Original link: https://x.com/mark_k/status/2115138584588268030
-
-- 11:51 Beijing (UTC+8) / 20:51 PDT (Oct 27) — Reply to @AdamHoltererer. Parent post: OpenAI has reset Codex limits 11 times this month (with video). His words: Maybe it’s because I have bad long term memory.
-Engagement: ❤ 663 | 🔁 4 | 💬 51 | 📅 9 | 👁 48.1K. Link: https://x.com/thsottiaux/status/2115290318652444729 Original link: https://x.com/AdamHoltererer/status/2115090264138395670
-
-Full record for today: [logs/2026-10-28.md](logs/2026-10-28.md).
+Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
+Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
 Previous day full record: [logs/2026-10-27.md](logs/2026-10-27.md).
