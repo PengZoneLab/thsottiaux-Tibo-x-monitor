@@ -1,12 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-10-29 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 28)
+**Scan time**: 2026-10-29 13:02 Beijing time (UTC+8) / 22:02 PDT (Oct 28)
 
-**New activity**: Yes
+**New activity**: No
 
 ## Recent activity
 
-New replies to others.
+No new posts since the previous scan.
 
 ### Original posts
 
@@ -34,13 +34,13 @@ Engagement: ❤ 11921 | 🔁 371 | 💬 1844 | 📅 1787 | 👁 3.8M. Link: http
 ### Replies to others
 
 - 11:37 Beijing (UTC+8) / 20:37 PDT (Oct 28) — Reply to @rezoundous. Parent post: What are the chances that OpenAI cancels the usage limit halving for $200 plan? His words: Low, but not zero
-Engagement: ❤ 268 | 🔁 10 | 💬 67 | 📅 6 | 👁 20.7K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
+Engagement: ❤ 518 | 🔁 14 | 💬 113 | 📅 16 | 👁 44.5K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
 
 - 11:36 Beijing (UTC+8) / 20:36 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: @alexandr_wang DM me for a free trial of Pro
-Engagement: ❤ 457 | 🔁 6 | 💬 54 | 📅 4 | 👁 27.1K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+Engagement: ❤ 1114 | 🔁 9 | 💬 92 | 📅 19 | 👁 67.4K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
 
 - 11:35 Beijing (UTC+8) / 20:35 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: Muse couldn't build a website so the man just did a redirect
-Engagement: ❤ 647 | 🔁 14 | 💬 39 | 📅 3 | 👁 34.2K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+Engagement: ❤ 1925 | 🔁 29 | 💬 79 | 📅 27 | 👁 104.9K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
 
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
 Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
