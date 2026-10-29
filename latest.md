@@ -1,12 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-10-29 07:03 Beijing time (UTC+8) / 16:03 PDT (Oct 28)
+**Scan time**: 2026-10-29 08:03 Beijing time (UTC+8) / 17:03 PDT (Oct 28)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts since the previous scan.
+### Original posts
+
+- 07:35 Beijing (UTC+8) / 16:35 PDT (Oct 28) — Original post: Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.
+
+We'll have more to share soon. (quoting @Angaisb_ on ChatGPT unifying Chat and Work and usage limits)
+Engagement: ❤ 1255 | 🔁 60 | 💬 398 | 📅 93 | 👁 95K. Link: https://x.com/thsottiaux/status/2115588390414581916
+Original link: https://x.com/Angaisb_/status/2115565560603824452
 
 ### Original posts (from late Oct 28)
 
