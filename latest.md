@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-29 20:04 Beijing time (UTC+8) / 05:04 PDT
+**Scan time**: 2026-10-29 23:03 Beijing time (UTC+8) / 08:03 PDT
 
 **New activity**: No
 
@@ -34,13 +34,13 @@ Engagement: ❤ 12351 | 🔁 385 | 💬 1882 | 📅 1886 | 👁 4.4M. Link: http
 ### Replies to others
 
 - 11:37 Beijing (UTC+8) / 20:37 PDT (Oct 28) — Reply to @rezoundous. Parent post: What are the chances that OpenAI cancels the usage limit halving for $200 plan? His words: Low, but not zero
-Engagement: ❤ 1199 | 🔁 28 | 💬 203 | 📅 35 | 👁 137K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
+Engagement: ❤ 1393 | 🔁 30 | 💬 230 | 📅 40 | 👁 168K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
 
 - 11:36 Beijing (UTC+8) / 20:36 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: @alexandr_wang DM me for a free trial of Pro
-Engagement: ❤ 2015 | 🔁 13 | 💬 141 | 📅 30 | 👁 164K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+Engagement: ❤ 2225 | 🔁 13 | 💬 145 | 📅 34 | 👁 188K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
 
 - 11:35 Beijing (UTC+8) / 20:35 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: Muse couldn't build a website so the man just did a redirect
-Engagement: ❤ 4994 | 🔁 41 | 💬 121 | 📅 64 | 👁 351K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+Engagement: ❤ 5685 | 🔁 49 | 💬 125 | 📅 76 | 👁 419K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
 
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
 Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
