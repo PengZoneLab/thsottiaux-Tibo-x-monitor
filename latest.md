@@ -1,12 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-10-29 11:02 Beijing time (UTC+8) / 20:02 PDT (Oct 28)
+**Scan time**: 2026-10-29 12:02 Beijing time (UTC+8) / 21:02 PDT (Oct 28)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts.
+New replies to others.
 
 ### Original posts
 
@@ -31,11 +31,17 @@ Engagement: ❤ 6829 | 🔁 179 | 💬 1207 | 📅 154 | 👁 932K. Link: https:
 - 12:18 Beijing (UTC+8) / 21:18 PDT (Oct 27) — Original post: https://www.poteto.com has landed
 Engagement: ❤ 11921 | 🔁 371 | 💬 1844 | 📅 1787 | 👁 3.8M. Link: https://x.com/thsottiaux/status/2115297093879472332
 
-### Replies to others (from late Oct 28)
+### Replies to others
 
-- 23:58 Beijing (UTC+8) / 08:58 PDT (Oct 28) — Reply to @Ananth7e. Parent post: tibo: "we've decided not to reduce $200 pro plan usage limits from 20x to 10x of plus" imagine if this is the good news he's teasing for tomorrow. His words: If only
-Engagement: ❤ 740 | 🔁 4 | 💬 143 | 📅 12 | 👁 131K. Link: https://x.com/thsottiaux/status/2115473280677363810 Original link: https://x.com/Ananth7e/status/2115424711866040708
+- 11:37 Beijing (UTC+8) / 20:37 PDT (Oct 28) — Reply to @rezoundous. Parent post: What are the chances that OpenAI cancels the usage limit halving for $200 plan? His words: Low, but not zero
+Engagement: ❤ 268 | 🔁 10 | 💬 67 | 📅 6 | 👁 20.7K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
 
-Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
+- 11:36 Beijing (UTC+8) / 20:36 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: @alexandr_wang DM me for a free trial of Pro
+Engagement: ❤ 457 | 🔁 6 | 💬 54 | 📅 4 | 👁 27.1K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+
+- 11:35 Beijing (UTC+8) / 20:35 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: Muse couldn't build a website so the man just did a redirect
+Engagement: ❤ 647 | 🔁 14 | 💬 39 | 📅 3 | 👁 34.2K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
+Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
 Previous day full record: [logs/2026-10-27.md](logs/2026-10-27.md).
