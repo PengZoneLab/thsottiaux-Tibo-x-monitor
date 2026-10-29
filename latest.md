@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-29 16:04 Beijing time (UTC+8) / 01:04 PDT
+**Scan time**: 2026-10-29 17:05 Beijing time (UTC+8) / 02:05 PDT
 
 **New activity**: No
 
@@ -34,13 +34,13 @@ Engagement: ❤ 11921 | 🔁 371 | 💬 1844 | 📅 1787 | 👁 3.8M. Link: http
 ### Replies to others
 
 - 11:37 Beijing (UTC+8) / 20:37 PDT (Oct 28) — Reply to @rezoundous. Parent post: What are the chances that OpenAI cancels the usage limit halving for $200 plan? His words: Low, but not zero
-Engagement: ❤ 865 | 🔁 22 | 💬 165 | 📅 30 | 👁 88.5K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
+Engagement: ❤ 947 | 🔁 22 | 💬 174 | 📅 31 | 👁 102K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
 
 - 11:36 Beijing (UTC+8) / 20:36 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: @alexandr_wang DM me for a free trial of Pro
-Engagement: ❤ 1695 | 🔁 8 | 💬 123 | 📅 25 | 👁 126K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+Engagement: ❤ 1788 | 🔁 9 | 💬 128 | 📅 26 | 👁 138K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
 
 - 11:35 Beijing (UTC+8) / 20:35 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: Muse couldn't build a website so the man just did a redirect
-Engagement: ❤ 3746 | 🔁 33 | 💬 102 | 📅 51 | 👁 252K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+Engagement: ❤ 4122 | 🔁 34 | 💬 109 | 📅 58 | 👁 281K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
 
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
 Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
