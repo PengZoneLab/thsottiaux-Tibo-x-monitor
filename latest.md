@@ -1,46 +1,33 @@
 # Latest Scan
 
-**Scan time**: 2026-10-30 00:04 Beijing time (UTC+8) / 09:04 PDT (Oct 29)
+**Scan time**: 2026-10-30 01:05 Beijing time (UTC+8) / 10:05 PDT (Oct 29)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts since the previous scan.
+New original post and replies around usage limit increases for Pro tiers.
 
 ### Original posts
 
-- 09:49 Beijing (UTC+8) / 18:49 PDT (Oct 28) — Original post: Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with "Hey Siri, text Iggy to <INSERT WILD REQUEST>" and sit back and relax. (quoting @ChatGPT on texting your dot)
-Engagement: ❤ 3134 | 🔁 115 | 💬 1919 | 📅 297 | 👁 804K. Link: https://x.com/thsottiaux/status/2115622002581188681
-Original link: https://x.com/ChatGPT/status/2115496387613786374
+- 00:56 Beijing (UTC+8) / 09:56 PDT (Oct 29) — Original post: Day 25/
 
-- 07:35 Beijing (UTC+8) / 16:35 PDT (Oct 28) — Original post: Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.
+We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.
 
-We'll have more to share soon. (quoting @Angaisb_ on ChatGPT unifying Chat and Work and usage limits)
-Engagement: ❤ 4753 | 🔁 276 | 💬 1368 | 📅 463 | 👁 1.0M. Link: https://x.com/thsottiaux/status/2115588390414581916
-Original link: https://x.com/Angaisb_/status/2115565560603824452
+We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.
 
-### Original posts (from late Oct 28)
-
-- 23:58 Beijing (UTC+8) / 08:58 PDT (Oct 28) — Original post: Pretty wild that this site got 3M views. (quoting earlier https://www.poteto.com has landed)
-Engagement: ❤ 4990 | 🔁 62 | 💬 623 | 📅 197 | 👁 868K. Link: https://x.com/thsottiaux/status/2115473170279080149
-
-- 14:29 Beijing (UTC+8) / 23:29 PDT (Oct 27) — Original post: And it's done. See you tomorrow for some good news. (quoting earlier “Lands by midnight PST.”)
-Engagement: ❤ 7085 | 🔁 185 | 💬 1244 | 📅 163 | 👁 1.3M. Link: https://x.com/thsottiaux/status/2115330127886463244
-
-- 12:18 Beijing (UTC+8) / 21:18 PDT (Oct 27) — Original post: https://www.poteto.com has landed
-Engagement: ❤ 12351 | 🔁 385 | 💬 1882 | 📅 1886 | 👁 4.4M. Link: https://x.com/thsottiaux/status/2115297093879472332
+And we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.
+Engagement: ❤ 3165 | 🔁 246 | 💬 906 | 📅 182 | 👁 59.6K. Link: https://x.com/thsottiaux/status/2115850175868727621
 
 ### Replies to others
 
-- 11:37 Beijing (UTC+8) / 20:37 PDT (Oct 28) — Reply to @rezoundous. Parent post: What are the chances that OpenAI cancels the usage limit halving for $200 plan? His words: Low, but not zero
-Engagement: ❤ 1455 | 🔁 30 | 💬 247 | 📅 40 | 👁 180K. Link: https://x.com/thsottiaux/status/2115649073302904875 Original link: https://x.com/rezoundous/status/2115359161450188814
+- 01:02 Beijing (UTC+8) / 10:02 PDT (Oct 29) — Reply to @StefanoGPT. Parent post: Wait, so does it mean that the OpenAI $500 plan is getting 50x usage? (quoting the Day 25 post). His words: Yes
+Engagement: ❤ 12 | 🔁 2 | 💬 4 | 📅 1 | 👁 1K. Link: https://x.com/thsottiaux/status/2115851811576053881
+Original link: https://x.com/StefanoGPT/status/2115851619627905234
 
-- 11:36 Beijing (UTC+8) / 20:36 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: @alexandr_wang DM me for a free trial of Pro
-Engagement: ❤ 2279 | 🔁 14 | 💬 147 | 📅 34 | 👁 196K. Link: https://x.com/thsottiaux/status/2115648938149818370 Original link: https://x.com/alexandr_wang/status/2115624129080725720
-
-- 11:35 Beijing (UTC+8) / 20:35 PDT (Oct 28) — Reply to @alexandr_wang. Parent post: https://muse.ai/ just dropped. His words: Muse couldn't build a website so the man just did a redirect
-Engagement: ❤ 5846 | 🔁 49 | 💬 127 | 📅 78 | 👁 437K. Link: https://x.com/thsottiaux/status/2115648685069742441 Original link: https://x.com/alexandr_wang/status/2115624129080725720
+- 01:01 Beijing (UTC+8) / 10:01 PDT (Oct 29) — Reply in own thread. Parent post: Day 25/ usage limits doubling. His words: Graduating from The Reset Company to The Token Company.
+Engagement: ❤ 179 | 🔁 3 | 💬 27 | 📅 3 | 👁 5.1K. Link: https://x.com/thsottiaux/status/2115851621137784832
+Original link: https://x.com/thsottiaux/status/2115850175868727621
 
 Full record for Oct 30: [logs/2026-10-30.md](logs/2026-10-30.md).
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
