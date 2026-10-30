@@ -1,16 +1,29 @@
 # Latest Scan
 
-**Scan time**: 2026-10-30 13:03 Beijing time (UTC+8) / 22:03 PDT (Oct 29)
+**Scan time**: 2026-10-30 14:05 Beijing time (UTC+8) / 23:05 PDT (Oct 29)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts since last check.
+Three new replies:
 
-Newest item remains the reply to @ajambrosino: "You merge, I split" (responding to cat meme image cycling "I split" / "I merge") at 09:09 Beijing (UTC+8) / 18:09 PDT (Oct 29).
+- 13:56 Beijing (UTC+8) / 22:56 PDT (Oct 29) — Reply to @Ananth7e: "Yep"
+  Parent: "i'm taking full credit for this 😂" (quoting own post imagining the good news being no reduction of $200 Pro limits from 20x to 10x).
+  https://x.com/thsottiaux/status/2116046569963421719
+  https://x.com/Ananth7e/status/2115859693151420654
 
-Other recent items: original post Send your kind feedback to this person (quoting @ajambrosino on usage limits doubling and app sprint), posted 03:35 Beijing (UTC+8) / 12:35 PDT (Oct 29); the original post Day 25/ doubling usage limits, posted 00:56 Beijing (UTC+8) / 09:56 PDT (Oct 29); follow-up reply Graduating from The Reset Company to The Token Company. at 01:01 Beijing / 10:01 PDT; and reply to @StefanoGPT (Yes) at 01:02 Beijing / 10:02 PDT.
+- 13:53 Beijing (UTC+8) / 22:53 PDT (Oct 29) — Reply to @blueemi99: "Good list"
+  Parent: Detailed plan for OpenAI comeback including releasing Astra 6.1 (better/cheaper than Opus 5.5), improving Dots, reverting $200 Pro limit nerf, improving Codex app, and fixing uptime/backend issues.
+  https://x.com/thsottiaux/status/2116045727642366367
+  https://x.com/blueemi99/status/2115845891953213919
+
+- 13:46 Beijing (UTC+8) / 22:46 PDT (Oct 29) — Reply to @janus_of_DC: "Hi brother 👋"
+  Parent: Chinese post calling Tibo a brother, affirming loyalty to Codex and $200 Pro plan, ready to work hard (quoting the Day 25 usage limits post).
+  https://x.com/thsottiaux/status/2116044153515815186
+  https://x.com/janus_of_DC/status/2115855176968118672
+
+Newest previous item remains the reply to @ajambrosino: "You merge, I split" at 09:09 Beijing / 18:09 PDT (Oct 29).
 
 Full record for Oct 30: [logs/2026-10-30.md](logs/2026-10-30.md).
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
