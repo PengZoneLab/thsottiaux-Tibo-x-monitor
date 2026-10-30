@@ -1,12 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-10-30 23:04 Beijing time (UTC+8) / 08:04 PDT
+**Scan time**: 2026-10-31 00:04 Beijing time (UTC+8) / 09:04 PDT (Oct 30)
 
 **New activity**: No
 
 ## Recent activity
 
-No new posts since the previous scan at 22:03 Beijing time.
+No new posts since the previous scan at 23:04 Beijing time.
 
 Newest items remain:
 
@@ -30,6 +30,7 @@ Newest items remain:
   https://x.com/thsottiaux/status/2116044153515815186
   https://x.com/janus_of_DC/status/2115855176968118672
 
+Full record for Oct 31: [logs/2026-10-31.md](logs/2026-10-31.md).
 Full record for Oct 30: [logs/2026-10-30.md](logs/2026-10-30.md).
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
 Full record for Oct 28: [logs/2026-10-28.md](logs/2026-10-28.md).
