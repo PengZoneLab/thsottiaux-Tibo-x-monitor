@@ -1,14 +1,15 @@
 # Latest Scan
 
-**Scan time**: 2026-10-31 09:04 Beijing time (UTC+8) / 18:04 PDT (Oct 30)
+**Scan time**: 2026-10-31 10:02 Beijing time (UTC+8) / 19:02 PDT (Oct 30)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts since the previous scan.
-
-Most recent activity remains:
+- 09:46 Beijing (UTC+8) / 18:46 PDT (Oct 30) — Reply to @charliermarsh: "No way"
+  Parent: @charliermarsh — 🚨🚨🚨 we just used a bloom filter 🚨🚨🚨
+  https://x.com/thsottiaux/status/2116346061317140873
+  https://x.com/charliermarsh/status/2116282383099945421
 
 - 03:51 Beijing (UTC+8) / 12:51 PDT — Reply to @claudeai: "Better announce 28 days of reset"
   Parent: @claudeai announcing renaming Max plans (Max 5x → Max, Max 20x → Ultra), prices unchanged ($100/$200), removing the 5-hour limit for verified Ultra accounts starting today for most existing subscribers, weekly limits remain unchanged.
