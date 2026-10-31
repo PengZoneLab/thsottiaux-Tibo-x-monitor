@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-10-31 23:04 Beijing time (UTC+8) / 08:04 PDT (Oct 31)
+**Scan time**: 2026-11-01 00:04 Beijing time (UTC+8) / 09:04 PDT (Oct 31)
 
 **New activity**: No
 
@@ -24,6 +24,7 @@
   https://x.com/thsottiaux/status/2116256600436641887
   https://x.com/claudeai/status/2116220869479428500
 
+Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
 Full record for Oct 31: [logs/2026-10-31.md](logs/2026-10-31.md).
 Full record for Oct 30: [logs/2026-10-30.md](logs/2026-10-30.md).
 Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
