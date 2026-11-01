@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-02 03:02 Beijing time (UTC+8) / 11:02 PST (Nov 1)
+**Scan time**: 2026-11-02 18:03 Beijing time (UTC+8) / 02:03 PST (Nov 2)
 
 **New activity**: No
 
@@ -10,12 +10,12 @@ No new posts since the previous scan.
 
 The most recent activity remains:
 
-- 01:15 Beijing (UTC+8) / 17:15 PST (Nov 1) — Reply to @TokenGremlin: "I demand a banked reset"
+- 01:15 Beijing (UTC+8) / 09:15 PST (Nov 1) — Reply to @TokenGremlin: "I demand a banked reset"
   Parent: @TokenGremlin — "Woke up feeling a little empty now that Tibo's 28 Days are over. I'm grateful for what we got, but so much still feels unfinished. Was it worth the hype, or are you disappointed?"
   https://x.com/thsottiaux/status/2116942192497533418
   https://x.com/TokenGremlin/status/2116820985873571993
 
-- 00:48 Beijing (UTC+8) / 16:48 PST (Nov 1) — Reply to @jxnlco: "😂"
+- 00:48 Beijing (UTC+8) / 08:48 PST (Nov 1) — Reply to @jxnlco: "😂"
   Parent: @jxnlco — "@thsottiaux @romainhuet should we start doing Tibo org badge?"
   https://x.com/thsottiaux/status/2116935471976919340
   https://x.com/jxnlco/status/2116889949374935338
