@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-01 23:04 Beijing time (UTC+8) / 07:04 PST
+**Scan time**: 2026-11-02 00:03 Beijing time (UTC+8) / 08:03 PST (Nov 1)
 
 **New activity**: No
 
@@ -27,8 +27,8 @@
 - 13:42 Beijing (UTC+8) / 22:42 PDT (Oct 30) — Original post: "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀."
   https://x.com/thsottiaux/status/2116405414921384099
 
+Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
 Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
 Full record for Oct 31: [logs/2026-10-31.md](logs/2026-10-31.md).
 Full record for Oct 30: [logs/2026-10-30.md](logs/2026-10-30.md).
-Full record for Oct 29: [logs/2026-10-29.md](logs/2026-10-29.md).
-Previous day full record: [logs/2026-10-28.md](logs/2026-10-28.md).
+Previous day full record: [logs/2026-10-29.md](logs/2026-10-29.md).
