@@ -1,10 +1,22 @@
 # Latest Scan
 
-**Scan time**: 2026-11-02 00:03 Beijing time (UTC+8) / 08:03 PST (Nov 1)
+**Scan time**: 2026-11-02 01:02 Beijing time (UTC+8) / 09:02 PST (Nov 1)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
+
+- 00:49 Beijing (UTC+8) / 08:49 PST (Nov 1) — Original post: "Dot still autocorrects to dog and that makes many texts I receive hilarious"
+  https://x.com/thsottiaux/status/2116935650511585696
+
+- 00:50 Beijing (UTC+8) / 08:50 PST (Nov 1) — Follow-up in thread: "I love my dog, I have it on speed dial, arranged my haircut yesterday"
+  https://x.com/thsottiaux/status/2116935821534380166
+
+- 00:50 Beijing (UTC+8) / 08:50 PST (Nov 1) — Follow-up in thread: "My dog sent you the meeting notes from yesterday, did you see them?"
+  https://x.com/thsottiaux/status/2116936031866077423
+
+- 00:51 Beijing (UTC+8) / 08:51 PST (Nov 1) — Follow-up in thread: "My dog just patched that bug we couldn’t find for two weeks. Clever dog"
+  https://x.com/thsottiaux/status/2116936205623611781
 
 - 08:43 Beijing (UTC+8) / 17:43 PDT (Oct 31) — Original post: "Banked 1/2"
   https://x.com/thsottiaux/status/2116692529970311254
@@ -18,14 +30,6 @@
   Parent: @yacineMTB — "terra is my new daily driver"
   https://x.com/thsottiaux/status/2116692827459747906
   https://x.com/yacineMTB/status/2116589263579943181
-
-- 13:53 Beijing (UTC+8) / 22:53 PDT (Oct 30) — Reply to @theo: "You had me at Codex"
-  Parent: @theo — "Why should I use T3 Code instead of Claude Code or Codex?" Short answer: T3 Code is way better for developers. Long answer: (video)
-  https://x.com/thsottiaux/status/2116408135930069347
-  https://x.com/theo/status/2115911518663647662
-
-- 13:42 Beijing (UTC+8) / 22:42 PDT (Oct 30) — Original post: "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀."
-  https://x.com/thsottiaux/status/2116405414921384099
 
 Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
 Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
