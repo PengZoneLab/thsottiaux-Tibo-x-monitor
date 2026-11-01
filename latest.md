@@ -1,10 +1,23 @@
 # Latest Scan
 
-**Scan time**: 2026-11-01 08:04 Beijing time (UTC+8) / 17:04 PDT (Oct 31)
+**Scan time**: 2026-11-01 09:04 Beijing time (UTC+8) / 18:04 PDT (Oct 31)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
+
+- 08:43 Beijing (UTC+8) / 17:43 PDT (Oct 31) — Original post: "Banked 1/2"
+  https://x.com/thsottiaux/status/2116692529970311254
+
+- 08:44 Beijing (UTC+8) / 17:44 PDT (Oct 31) — Reply to @poteto: "Can’t wait"
+  Parent: @poteto — "this is gonna be really fun! look out for it some time tomorrow 👀" (quoting earlier "i bought a new domain too")
+  https://x.com/thsottiaux/status/2116692730877522349
+  https://x.com/poteto/status/2116662792631746861
+
+- 08:44 Beijing (UTC+8) / 17:44 PDT (Oct 31) — Reply to @yacineMTB: "?!"
+  Parent: @yacineMTB — "terra is my new daily driver"
+  https://x.com/thsottiaux/status/2116692827459747906
+  https://x.com/yacineMTB/status/2116589263579943181
 
 - 13:53 Beijing (UTC+8) / 22:53 PDT (Oct 30) — Reply to @theo: "You had me at Codex"
   Parent: @theo — "Why should I use T3 Code instead of Claude Code or Codex?" Short answer: T3 Code is way better for developers. Long answer: (video)
@@ -13,16 +26,6 @@
 
 - 13:42 Beijing (UTC+8) / 22:42 PDT (Oct 30) — Original post: "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀."
   https://x.com/thsottiaux/status/2116405414921384099
-
-- 09:46 Beijing (UTC+8) / 18:46 PDT (Oct 30) — Reply to @charliermarsh: "No way"
-  Parent: @charliermarsh — 🚨🚨🚨 we just used a bloom filter 🚨🚨🚨
-  https://x.com/thsottiaux/status/2116346061317140873
-  https://x.com/charliermarsh/status/2116282383099945421
-
-- 03:51 Beijing (UTC+8) / 12:51 PDT — Reply to @claudeai: "Better announce 28 days of reset"
-  Parent: @claudeai announcing renaming Max plans (Max 5x → Max, Max 20x → Ultra), prices unchanged ($100/$200), removing the 5-hour limit for verified Ultra accounts starting today for most existing subscribers, weekly limits remain unchanged.
-  https://x.com/thsottiaux/status/2116256600436641887
-  https://x.com/claudeai/status/2116220869479428500
 
 Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
 Full record for Oct 31: [logs/2026-10-31.md](logs/2026-10-31.md).
