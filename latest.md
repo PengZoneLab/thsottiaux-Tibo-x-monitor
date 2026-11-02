@@ -1,15 +1,16 @@
 # Latest Scan
 
-**Scan time**: 2026-11-02 13:02 Beijing time (UTC+8) / 21:02 PST (Nov 1)
+**Scan time**: 2026-11-02 14:04 Beijing time (UTC+8) / 22:04 PST (Nov 1)
 
 **New activity**: No
 
-No new posts since the previous scan at 12:02 Beijing time (UTC+8) / 20:02 PST (Nov 1).
+No new posts since the previous scan at 13:02 Beijing time (UTC+8) / 21:02 PST (Nov 1).
 
 ## Recent activity
 
 - 07:27 Beijing (UTC+8) / 15:27 PST (Nov 1) — Original post: "Day 28/ Banked 2/2"
   https://x.com/thsottiaux/status/2117035794678546764
+  Engagement: ❤ 7287 | 🔁 232 | 💬 1312 | 📅 141 | 👁 702.7K
 
 - 07:26 Beijing (UTC+8) / 15:26 PST (Nov 1) — Reply to @poteto: "it's fine to admit we plan these together months in advance"
   Parent: @poteto — "i swear it was not planned lmao" (in the thread announcing the tibo.dog game)
