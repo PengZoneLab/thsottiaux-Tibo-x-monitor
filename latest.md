@@ -1,22 +1,25 @@
 # Latest Scan
 
-**Scan time**: 2026-11-03 05:02 Beijing time (UTC+8) / 13:02 PST
+**Scan time**: 2026-11-03 06:03 Beijing time (UTC+8) / 14:03 PST (Nov 2)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts since the previous scan at 04:02 Beijing (UTC+8) / 12:02 PST.
+- 05:12 Beijing (UTC+8) / 13:12 PST (Nov 2) — Reply to @jxnlco: Always been a fan
+  Parent: @jxnlco — personal update
+  https://x.com/thsottiaux/status/2117364233210151160
+  https://x.com/jxnlco/status/2117318705801736617
+  Engagement: ❤ 122 | 🔁 0 | 💬 16 | 📅 3 | 👁 14.6K
 
-The most recent activity remains:
-
+The most recent prior activity remains the original post and follow-up from Nov 2 about expanding the family of frontier models for dots:
 - 23:50 Beijing (UTC+8) / 07:50 PST (Nov 2) — Original post: Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.
   https://x.com/thsottiaux/status/2117283124833055196
-  Engagement: ❤ 7971 | 🔁 214 | 💬 1394 | 📅 428 | 👁 736K
+  Engagement: ❤ 8336 | 🔁 230 | 💬 1423 | 📅 448 | 👁 796K
 
 - 23:51 Beijing (UTC+8) / 07:51 PST (Nov 2) — Follow-up in thread: Your dot will choose the best model for the task, drawing on different models for different parts of the work.
   https://x.com/thsottiaux/status/2117283355427495983
-  Engagement: ❤ 1704 | 🔁 24 | 💬 211 | 📅 34 | 👁 207K
+  Engagement: ❤ 1781 | 🔁 27 | 💬 217 | 📅 37 | 👁 224K
 
 Full record for Nov 3: [logs/2026-11-03.md](logs/2026-11-03.md).
 Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
