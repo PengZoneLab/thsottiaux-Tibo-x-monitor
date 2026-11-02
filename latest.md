@@ -1,24 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-02 23:03 Beijing time (UTC+8) / 07:03 PST
+**Scan time**: 2026-11-03 00:04 Beijing time (UTC+8) / 08:04 PST
 
-**New activity**: No
-
-No new posts since the previous scan at 22:09 Beijing time (UTC+8) / 06:09 PST.
+**New activity**: Yes
 
 ## Recent activity
 
-- 15:08 Beijing (UTC+8) / 23:08 PST (Nov 1) — Reply: "Game so good because poteto used all the compute and forced Elon to pull the plug"
-  Quoted @elonmusk: "The cost of serving Grok Bot was unsustainably high relative to revenue"
-  Parent thread: @poteto — Day 28/ tibo's game has landed (https://tibo.dog)
-  https://x.com/thsottiaux/status/2117151734506397716
-  Engagement: ❤ 2457 | 🔁 32 | 💬 106 | 📅 56 | 👁 175.3K
+- 23:50 Beijing (UTC+8) / 07:50 PST (Nov 2) — Original post: Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.
+  https://x.com/thsottiaux/status/2117283124833055196
+  Engagement: ❤ 1611 | 🔁 56 | 💬 465 | 📅 63 | 👁 73.6K
 
-- 15:08 Beijing (UTC+8) / 23:08 PST (Nov 1) — Follow-up: "I finished it though"
-  https://x.com/thsottiaux/status/2117151862705230048
-  Engagement: ❤ 1363 | 🔁 7 | 💬 51 | 📅 18 | 👁 116.4K
+- 23:51 Beijing (UTC+8) / 07:51 PST (Nov 2) — Follow-up in thread: Your dot will choose the best model for the task, drawing on different models for different parts of the work.
+  https://x.com/thsottiaux/status/2117283355427495983
+  Engagement: ❤ 393 | 🔁 9 | 💬 68 | 📅 7 | 👁 25.5K
 
-Previous items remain as logged, including the original post "Day 28/ Banked 2/2" and the earlier reply to @poteto.
+Previous items remain as logged, including the replies in the @poteto tibo.dog game thread and the original post "Day 28/ Banked 2/2".
 
 Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
 Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
