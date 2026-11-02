@@ -1,36 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-02 07:04 Beijing time (UTC+8) / 15:04 PST (Nov 1)
+**Scan time**: 2026-11-02 08:04 Beijing time (UTC+8) / 16:04 PST (Nov 1)
 
-**New activity**: No
+**New activity**: Yes
 
 ## Recent activity
 
-No new posts since the previous scan.
+- 07:27 Beijing (UTC+8) / 15:27 PST (Nov 1) — Original post: "Day 28/ Banked 2/2"
+  https://x.com/thsottiaux/status/2117035794678546764
 
-The most recent activity remains:
+- 07:26 Beijing (UTC+8) / 15:26 PST (Nov 1) — Reply to @poteto: "it's fine to admit we plan these together months in advance"
+  Parent: @poteto — "i swear it was not planned lmao" (in the thread announcing the tibo.dog game)
+  https://x.com/thsottiaux/status/2117035666332954818
+  https://x.com/poteto/status/2117008219432538217
 
-- 01:15 Beijing (UTC+8) / 09:15 PST (Nov 1) — Reply to @TokenGremlin: "I demand a banked reset"
-  Parent: @TokenGremlin — "Woke up feeling a little empty now that Tibo's 28 Days are over. I'm grateful for what we got, but so much still feels unfinished. Was it worth the hype, or are you disappointed?"
-  https://x.com/thsottiaux/status/2116942192497533418
-  https://x.com/TokenGremlin/status/2116820985873571993
-
-- 00:48 Beijing (UTC+8) / 08:48 PST (Nov 1) — Reply to @jxnlco: "😂"
-  Parent: @jxnlco — "@thsottiaux @romainhuet should we start doing Tibo org badge?"
-  https://x.com/thsottiaux/status/2116935471976919340
-  https://x.com/jxnlco/status/2116889949374935338
-
-- 00:49 Beijing (UTC+8) / 08:49 PST (Nov 1) — Original post: "Dot still autocorrects to dog and that makes many texts I receive hilarious"
-  https://x.com/thsottiaux/status/2116935650511585696
-
-- 00:50 Beijing (UTC+8) / 08:50 PST (Nov 1) — Follow-up in thread: "I love my dog, I have it on speed dial, arranged my haircut yesterday"
-  https://x.com/thsottiaux/status/2116935821534380166
-
-- 00:50 Beijing (UTC+8) / 08:50 PST (Nov 1) — Follow-up in thread: "My dog sent you the meeting notes from yesterday, did you see them?"
-  https://x.com/thsottiaux/status/2116936031866077423
-
-- 00:51 Beijing (UTC+8) / 08:51 PST (Nov 1) — Follow-up in thread: "My dog just patched that bug we couldn’t find for two weeks. Clever dog"
-  https://x.com/thsottiaux/status/2116936205623611781
+Previous items remain as logged, including the reply to @TokenGremlin "I demand a banked reset".
 
 Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
 Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
