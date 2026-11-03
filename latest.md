@@ -1,15 +1,23 @@
 # Latest Scan
 
-**Scan time**: 2026-11-03 14:03 Beijing time (UTC+8) / 22:03 PST (Nov 2)
+**Scan time**: 2026-11-03 15:04 Beijing time (UTC+8) / 23:04 PST (Nov 2)
 
 **New activity**: Yes
 
 ## Recent activity
 
-New original post at 13:29 Beijing (UTC+8) / 21:29 PST (Nov 2): Le GPT Fat
+New reply at 14:38 Beijing (UTC+8) / 22:38 PST (Nov 2) to @_aidan_clark_: twitter really
+
+Parent: @_aidan_clark_ — twitter are really bad (quoting a post about twitter epistemics being really bad)
+
+https://x.com/thsottiaux/status/2117506709417795626
+https://x.com/_aidan_clark_/status/2117488740147114022
+Engagement: ❤ 90 | 🔁 0 | 💬 29 | 📅 1 | 👁 10.7K
+
+Previous original post at 13:29 Beijing (UTC+8) / 21:29 PST (Nov 2): Le GPT Fat
 
 https://x.com/thsottiaux/status/2117489367417803042
-Engagement: ❤ 1780 | 🔁 69 | 💬 463 | 📅 109 | 👁 137.1K
+Engagement: ❤ 3300 | 🔁 100 | 💬 698 | 📅 127 | 👁 333K
 
 Previous original post at 08:26 Beijing (UTC+8) / 16:26 PST (Nov 2): We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team
 
@@ -17,7 +25,7 @@ Quoting @OpenAIDevs: We built Pando, a new Git backend for our monorepo, to hand
 
 https://x.com/thsottiaux/status/2117412956950638872
 https://x.com/OpenAIDevs/status/2117408792346509663
-Engagement: ❤ 2323 | 🔁 75 | 💬 328 | 📅 23 | 👁 366.3K
+Engagement: ❤ 2450 | 🔁 77 | 💬 332 | 📅 23 | 👁 406K
 
 Previous reply to @jxnlco at 05:12 Beijing (UTC+8) / 13:12 PST (Nov 2): Always been a fan
 Parent: @jxnlco — personal update
