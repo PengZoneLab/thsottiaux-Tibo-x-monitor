@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-03 18:03 Beijing time (UTC+8) / 02:03 PST (Nov 3)
+**Scan time**: 2026-11-03 19:04 Beijing time (UTC+8) / 03:04 PST (Nov 3)
 
 **New activity**: No
 
@@ -14,7 +14,7 @@ Parent: @Raitox_tech — If you don't have notifications on for tibo you're ngmi
 
 https://x.com/thsottiaux/status/2117515752588853710
 https://x.com/Raitox_tech/status/2117490187773358206
-Engagement: ❤ 212 | 🔁 3 | 💬 36 | 📅 3 | 👁 26.8K
+Engagement: ❤ 232 | 🔁 3 | 💬 37 | 📅 3 | 👁 31.3K
 
 Previous reply at 14:38 Beijing (UTC+8) / 22:38 PST (Nov 2) to @_aidan_clark_: twitter really
 
@@ -22,12 +22,12 @@ Parent: @_aidan_clark_ — twitter are really bad (quoting a post about twitter 
 
 https://x.com/thsottiaux/status/2117506709417795626
 https://x.com/_aidan_clark_/status/2117488740147114022
-Engagement: ❤ 151 | 🔁 2 | 💬 38 | 📅 5 | 👁 28.3K
+Engagement: ❤ 165 | 🔁 2 | 💬 38 | 📅 5 | 👁 31.8K
 
 Previous original post at 13:29 Beijing (UTC+8) / 21:29 PST (Nov 2): Le GPT Fat
 
 https://x.com/thsottiaux/status/2117489367417803042
-Engagement: ❤ 5599 | 🔁 160 | 💬 1024 | 📅 220 | 👁 787K
+Engagement: ❤ 6124 | 🔁 181 | 💬 1099 | 📅 231 | 👁 903K
 
 Previous original post at 08:26 Beijing (UTC+8) / 16:26 PST (Nov 2): We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team
 
