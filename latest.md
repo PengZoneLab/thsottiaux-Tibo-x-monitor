@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-04 11:05 Beijing time (UTC+8) / 19:05 PST (Nov 3)
+**Scan time**: 2026-11-03 21:05 Beijing time (UTC+8) / 05:05 PST (Nov 3)
 
 **New activity**: No
 
@@ -37,7 +37,6 @@ https://x.com/thsottiaux/status/2117412956950638872
 https://x.com/OpenAIDevs/status/2117408792346509663
 Engagement: ❤ 2933 | 🔁 91 | 💬 352 | 📅 630 | 👁 553.7K
 
-Full record for Nov 4: [logs/2026-11-04.md](logs/2026-11-04.md).
 Full record for Nov 3: [logs/2026-11-03.md](logs/2026-11-03.md).
 Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
 Full record for Nov 1: [logs/2026-11-01.md](logs/2026-11-01.md).
