@@ -1,36 +1,33 @@
 # Latest Scan
 
-**Scan time**: 2026-11-05 00:03 Beijing time (UTC+8) / 08:03 PST (Nov 4)
+**Scan time**: 2026-11-05 02:02 Beijing time (UTC+8) / 10:02 PST (Nov 4)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan at 23:04 Beijing time (UTC+8) / 07:04 PST.
+Original post at 00:54 Beijing (UTC+8) / 08:54 PST (Nov 4): Computers have RAM, right? Welcome Pierre. Let’s reinvent everything
 
-## Recent activity (from previous scans)
+(quoting @pierrecomputer: an announcement from the pierre computer company)
 
-Original post at 15:54 Beijing (UTC+8) / 00:54 PDT: ChatBLT
+https://x.com/thsottiaux/status/2118024169762029594
+Engagement: ❤ 1672 | 🔁 41 | 💬 255 | 📅 176 | 👁 136.7K
 
-(quoting his earlier post "Le GPT Fat")
+Reply at 00:57 Beijing (UTC+8) / 08:57 PST (Nov 4) to @AnikaCodes: I was moved to the basement yesterday
 
-https://x.com/thsottiaux/status/2117888243119304945
-Engagement: ❤ 5097 | 🔁 137 | 💬 1291 | 📅 194 | 👁 866.8K
+Parent: @AnikaCodes — Rumor is Tibo is getting moved to a new role, and honestly that thread looks exactly like a handover. Tibo says "Please make the model better, it doesn’t yet do everything" and Andrew Ambrosino replies "will get right on that". Felt a faint sadness reading it ngl.
 
-Reply at 15:59 Beijing (UTC+8) / 00:59 PDT to @haydenfield: Asked chat and it confirmed the story
+https://x.com/thsottiaux/status/2118024737070957009
+https://x.com/AnikaCodes/status/2117923208934679021
+Engagement: ❤ 861 | 🔁 13 | 💬 119 | 📅 8 | 👁 29.9K
 
-Parent: @haydenfield — In many circles, “Ask Chat” has replaced “Google it,” and that’s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20% of the volume run through Google.
+Reply at 00:56 Beijing (UTC+8) / 08:56 PST (Nov 4) to @theo: Which team were you on?
 
-https://x.com/thsottiaux/status/2117889346426823037
-https://x.com/haydenfield/status/2117686400149520708
-Engagement: ❤ 605 | 🔁 7 | 💬 47 | 📅 11 | 👁 50.8K
+Parent: @theo — Today was my last day at Anthropic. I am so thankful for the time I got to spend there. I couldn't be more thankful for the time I spent and the connections I made. Will be taking some time off as I prepare for my next thing. I'll share more soon :)
 
-Reply at 15:56 Beijing (UTC+8) / 00:56 PDT to @zoedotai: Why are you me
+https://x.com/thsottiaux/status/2118024484594803084
+https://x.com/theo/status/2117927404027118027
+Engagement: ❤ 169 | 🔁 0 | 💬 32 | 📅 1 | 👁 21.7K
 
-Parent: @zoedotai — why are top anthropic employees leaving right before ipo ?? WHY ??? (quoting @_catwu on leaving Anthropic)
-
-https://x.com/thsottiaux/status/2117888828874936679
-https://x.com/zoedotai/status/2117833640759775357
-Engagement: ❤ 4638 | 🔁 18 | 💬 127 | 📅 71 | 👁 171.9K
-
+Full record for Nov 5: [logs/2026-11-05.md](logs/2026-11-05.md).
 Full record for Nov 4: [logs/2026-11-04.md](logs/2026-11-04.md).
 Full record for Nov 3: [logs/2026-11-03.md](logs/2026-11-03.md).
 Full record for Nov 2: [logs/2026-11-02.md](logs/2026-11-02.md).
