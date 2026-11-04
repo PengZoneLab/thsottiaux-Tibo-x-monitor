@@ -1,15 +1,19 @@
 # Latest Scan
 
-**Scan time**: 2026-11-05 02:02 Beijing time (UTC+8) / 10:02 PST (Nov 4)
+**Scan time**: 2026-11-05 17:02 Beijing time (UTC+8) / 01:02 PST
 
-**New activity**: Yes
+**New activity**: No
+
+No new posts since previous scan.
+
+Newest items remain:
 
 Original post at 00:54 Beijing (UTC+8) / 08:54 PST (Nov 4): Computers have RAM, right? Welcome Pierre. Let’s reinvent everything
 
 (quoting @pierrecomputer: an announcement from the pierre computer company)
 
 https://x.com/thsottiaux/status/2118024169762029594
-Engagement: ❤ 1672 | 🔁 41 | 💬 255 | 📅 176 | 👁 136.7K
+Engagement: ❤ 2132 | 🔁 49 | 💬 284 | 📅 252 | 👁 185.0K
 
 Reply at 00:57 Beijing (UTC+8) / 08:57 PST (Nov 4) to @AnikaCodes: I was moved to the basement yesterday
 
@@ -17,7 +21,7 @@ Parent: @AnikaCodes — Rumor is Tibo is getting moved to a new role, and honest
 
 https://x.com/thsottiaux/status/2118024737070957009
 https://x.com/AnikaCodes/status/2117923208934679021
-Engagement: ❤ 861 | 🔁 13 | 💬 119 | 📅 8 | 👁 29.9K
+Engagement: ❤ 1423 | 🔁 17 | 💬 157 | 📅 14 | 👁 46.9K
 
 Reply at 00:56 Beijing (UTC+8) / 08:56 PST (Nov 4) to @theo: Which team were you on?
 
@@ -25,7 +29,7 @@ Parent: @theo — Today was my last day at Anthropic. I am so thankful for the t
 
 https://x.com/thsottiaux/status/2118024484594803084
 https://x.com/theo/status/2117927404027118027
-Engagement: ❤ 169 | 🔁 0 | 💬 32 | 📅 1 | 👁 21.7K
+Engagement: ❤ 260 | 🔁 2 | 💬 36 | 📅 3 | 👁 35.7K
 
 Full record for Nov 5: [logs/2026-11-05.md](logs/2026-11-05.md).
 Full record for Nov 4: [logs/2026-11-04.md](logs/2026-11-04.md).
