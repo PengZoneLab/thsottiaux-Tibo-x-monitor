@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-04 13:03 Beijing time (UTC+8) / 21:03 PST (Nov 3)
+**Scan time**: 2026-11-04 14:03 Beijing time (UTC+8) / 22:03 PST (Nov 3)
 
 **New activity**: No
 
@@ -11,7 +11,7 @@ No new posts since the previous scan.
 Original post at 06:31 Beijing (UTC+8) / 14:31 PST (Nov 3): Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.
 
 https://x.com/thsottiaux/status/2117746467058405665
-Engagement: ❤ 7873 | 🔁 186 | 💬 1253 | 📅 357 | 👁 660.5K
+Engagement: ❤ 8292 | 🔁 192 | 💬 1313 | 📅 370 | 👁 720.6K
 
 Last reply at 15:14 Beijing (UTC+8) / 23:14 PST (Nov 2) to @Raitox_tech: 😱
 
@@ -19,7 +19,7 @@ Parent: @Raitox_tech — If you don't have notifications on for tibo you're ngmi
 
 https://x.com/thsottiaux/status/2117515752588853710
 https://x.com/Raitox_tech/status/2117490187773358206
-Engagement: ❤ 401 | 🔁 5 | 💬 49 | 📅 4 | 👁 89.6K
+Engagement: ❤ 403 | 🔁 5 | 💬 50 | 📅 4 | 👁 92.2K
 
 Previous reply at 14:38 Beijing (UTC+8) / 22:38 PST (Nov 2) to @_aidan_clark_: twitter really
 
@@ -27,7 +27,7 @@ Parent: @_aidan_clark_ — twitter are really bad (quoting a post about twitter 
 
 https://x.com/thsottiaux/status/2117506709417795626
 https://x.com/_aidan_clark_/status/2117488740147114022
-Engagement: ❤ 253 | 🔁 2 | 💬 43 | 📅 5 | 👁 74.1K
+Engagement: ❤ 255 | 🔁 2 | 💬 43 | 📅 5 | 👁 76.0K
 
 Previous original post at 13:29 Beijing (UTC+8) / 21:29 PST (Nov 2): Le GPT Fat
 
