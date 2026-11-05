@@ -1,24 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-11-06 06:04 Beijing time (UTC+8) / 14:04 PST
+**Scan time**: 2026-11-06 07:05 Beijing time (UTC+8) / 15:05 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+Newest items:
 
-Newest items remain:
+- Original post at 06:24 Beijing (UTC+8) / 14:24 PST: Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago. (quoting @OpenAI on introducing ChatGPT Images 2.6 with GIFs, reference images, and faster API models)
+
+- Reply to @JustinBleuel at 06:25 Beijing (UTC+8) / 14:25 PST: 👀
+
+- Reply (follow-up in his image stats thread) at 06:26 Beijing (UTC+8) / 14:26 PST: If I count well, that's more than 500M images per day.
+
+- Reply (follow-up in his image stats thread) at 06:39 Beijing (UTC+8) / 14:39 PST: Generating*
+
+Previous items remain:
 
 - Original post at 04:43 Beijing (UTC+8) / 12:43 PST: Come push the frontier of fluffiness (quoting @_samirism on assembling a team for Dots / persistent agents)
 
 - Reply to @kimmonismus at 04:41 Beijing (UTC+8) / 12:41 PST: Don't know, I live in the basement now (responding to a question about GPT-6.2 in the GPT-6 Cyber thread)
-
-Previous items remain:
-
-- Original post at 01:56 Beijing (UTC+8) / 09:56 PST: Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. (quoting @OpenAI on introducing GPT-6 Cyber)
-
-- Reply to @ajambrosino at 01:54 Beijing (UTC+8) / 09:54 PST: Bunch of interesting buttons here: https://tibo.dog
-
-- Reply to @ohayou792 at 00:16 Beijing (UTC+8) / 08:16 PST: Who comes up with these haha. Dane Starbuck. Haha
 
 (Previous activity remains: the three replies from Nov 5 afternoon; original post quoting @_samirism on Dots improvements (“Follow Samir for dot updates”); reply to @amix3k regarding product-market fit for Grok Bot, Muse, and ChatGPT Dots; reply to @helloitsaustin welcoming him to OpenAI; original post welcoming Cat (@_catwu); reply “CatGPT” in that thread; reply to @_samirism on Dots improvements; reply to @jonoalford at 10:16 Beijing (UTC+8) / 18:16 PST (Nov 4): We needed the eyeballs; reply to @fly3nn on retirement rumors; original post on assembling a world class cyber team; replies to @edbayes and @thdxr.)
 
