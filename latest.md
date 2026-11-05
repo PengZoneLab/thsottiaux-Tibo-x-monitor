@@ -1,18 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-11-05 10:03 Beijing time (UTC+8) / 18:03 PST (Nov 4)
+**Scan time**: 2026-11-05 11:02 Beijing time (UTC+8) / 19:02 PST (Nov 4)
 
 **New activity**: Yes
 
-New reply at 09:05 Beijing (UTC+8) / 17:05 PST (Nov 4) to @fly3nn: Reports of my retirement have been greatly exaggerated
+New reply at 10:16 Beijing (UTC+8) / 18:16 PST (Nov 4) to @jonoalford: We needed the eyeballs
 
-Parent: @fly3nn — 我靠？？？tibo要下岗了吗？ 啥情况，看这架势是要取代tibo啊？ (quoting @ajambrosino on sending feedback for all apps)
+Parent: @jonoalford — This was literally one of the best websites I've ever seen. I still have no idea what anybody does at this company, but the website was so good. (quoting @devinjacoviello on joining the pierre computer company and resurrecting the flaming eyeball website)
 
-https://x.com/thsottiaux/status/2118147545931374976
-https://x.com/fly3nn/status/2117901010660401519
-Engagement: ❤ 346 | 🔁 4 | 💬 49 | 📅 10 | 👁 17.5K
+https://x.com/thsottiaux/status/2118165504955494695
+https://x.com/jonoalford/status/2118037709532864590
+Engagement: ❤ 85 | 🔁 0 | 💬 27 | 📅 4 | 👁 14.7K
 
-(Previous activity from earlier scan remains: original post on assembling a world class cyber team; replies to @thdxr and @edbayes.)
+(Previous activity from earlier scan remains: reply to @fly3nn on retirement rumors; original post on assembling a world class cyber team; replies to @edbayes and @thdxr.)
 
 Full record for Nov 5: [logs/2026-11-05.md](logs/2026-11-05.md).
 Full record for Nov 4: [logs/2026-11-04.md](logs/2026-11-04.md).
