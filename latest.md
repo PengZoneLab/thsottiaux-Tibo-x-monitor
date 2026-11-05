@@ -1,35 +1,36 @@
 # Latest Scan
 
-**Scan time**: 2026-11-05 08:03 Beijing time (UTC+8) / 16:03 PST (Nov 4)
+**Scan time**: 2026-11-05 09:03 Beijing time (UTC+8) / 17:03 PST (Nov 4)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since previous scan.
+New original post at 09:02 Beijing (UTC+8) / 17:02 PST (Nov 4): We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months.
 
-Newest items remain:
+(quoting @OpenAI: Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API cost of $1.2 million.)
 
-Original post at 00:54 Beijing (UTC+8) / 08:54 PST (Nov 4): Computers have RAM, right? Welcome Pierre. Let’s reinvent everything
+https://x.com/thsottiaux/status/2118146794362405231
+Engagement: ❤ 136 | 🔁 5 | 💬 23 | 📅 12 | 👁 14.9K
 
-(quoting @pierrecomputer: an announcement from the pierre computer company)
+Follow-up in thread at 09:02 Beijing (UTC+8) / 17:02 PST (Nov 4): Reach out to @clintgibler if you want to work on securing the world.
 
-https://x.com/thsottiaux/status/2118024169762029594
-Engagement: ❤ 3182 | 🔁 70 | 💬 358 | 📅 417 | 👁 332.8K
+https://x.com/thsottiaux/status/2118146834325733453
+Engagement: ❤ 18 | 🔁 1 | 💬 2 | 📅 4 | 👁 2.7K
 
-Reply at 00:57 Beijing (UTC+8) / 08:57 PST (Nov 4) to @AnikaCodes: I was moved to the basement yesterday
+Reply at 09:02 Beijing (UTC+8) / 17:02 PST (Nov 4) to @thdxr: Was surprised that you acquired @theo
 
-Parent: @AnikaCodes — Rumor is Tibo is getting moved to a new role, and honestly that thread looks exactly like a handover. Tibo says "Please make the model better, it doesn’t yet do everything" and Andrew Ambrosino replies "will get right on that". Felt a faint sadness reading it ngl.
+Parent: @thdxr — so many acquisition announcements today
 
-https://x.com/thsottiaux/status/2118024737070957009
-https://x.com/AnikaCodes/status/2117923208934679021
-Engagement: ❤ 2592 | 🔁 27 | 💬 237 | 📅 29 | 👁 103.4K
+https://x.com/thsottiaux/status/2118147019030335666
+https://x.com/thdxr/status/2118046411912630477
+Engagement: ❤ 6 | 🔁 0 | 💬 1 | 📅 0 | 👁 800
 
-Reply at 00:56 Beijing (UTC+8) / 08:56 PST (Nov 4) to @theo: Which team were you on?
+Reply at 09:03 Beijing (UTC+8) / 17:03 PST (Nov 4) to @edbayes: People needs dots
 
-Parent: @theo — Today was my last day at Anthropic. I am so thankful for the time I got to spend there. I couldn't be more thankful for the time I spent and the connections I made. Will be taking some time off as I prepare for my next thing. I'll share more soon :)
+Parent: @edbayes — dots needs people! (quoting @_samirism: we've assembled a team of some of the most talented people in the persistent agent space - to make dots incredible. dm me if you are interested in joining)
 
-https://x.com/thsottiaux/status/2118024484594803084
-https://x.com/theo/status/2117927404027118027
-Engagement: ❤ 701 | 🔁 4 | 💬 51 | 📅 7 | 👁 94.6K
+https://x.com/thsottiaux/status/2118147091155529874
+https://x.com/edbayes/status/2118120050888733063
+Engagement: ❤ 5 | 🔁 0 | 💬 4 | 📅 0 | 👁 738
 
 Full record for Nov 5: [logs/2026-11-05.md](logs/2026-11-05.md).
 Full record for Nov 4: [logs/2026-11-04.md](logs/2026-11-04.md).
