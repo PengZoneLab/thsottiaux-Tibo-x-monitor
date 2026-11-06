@@ -1,10 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-11-06 15:06 Beijing time (UTC+8) / 23:06 PST
+**Scan time**: 2026-11-06 16:05 Beijing time (UTC+8) / 00:05 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+Added two replies from earlier this afternoon:
+
+- Reply at 12:55 Beijing (UTC+8) / 20:55 PST to @maxleiter: Hi Max 👀
+
+- Reply at 12:53 Beijing (UTC+8) / 20:53 PST to @Layton_Gott: Basement is full of wonders
 
 Newest items remain:
 
@@ -12,13 +16,13 @@ Newest items remain:
 
 - Reply at 13:12 Beijing (UTC+8) / 21:12 PST to @ajambrosino: Feedback is a gift. (in the thread of @pablostanley on tidying Claude Duet settings from a single long scroll)
 
-Previous items remain:
-
 - Original post at 13:00 Beijing (UTC+8) / 21:00 PST: I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that.
 
 - Reply (follow-up) at 13:01 Beijing (UTC+8) / 21:01 PST: Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems.
 
 - Reply (follow-up) at 13:03 Beijing (UTC+8) / 21:03 PST: There is no going back. Software is changed forever.
+
+Previous items remain:
 
 - Original post at 06:24 Beijing (UTC+8) / 14:24 PST: Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago. (quoting @OpenAI on introducing ChatGPT Images 2.6 with GIFs, reference images, and faster API models)
 
