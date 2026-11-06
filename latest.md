@@ -1,12 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-11-06 12:03 Beijing time (UTC+8) / 20:03 PST
+**Scan time**: 2026-11-06 13:04 Beijing time (UTC+8) / 21:04 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+New original post and two follow-up replies in the same thread about the future of secure infrastructure and software.
 
-Newest items remain:
+- Original post at 13:00 Beijing (UTC+8) / 21:00 PST: I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that.
+
+- Reply (follow-up) at 13:01 Beijing (UTC+8) / 21:01 PST: Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems.
+
+- Reply (follow-up) at 13:03 Beijing (UTC+8) / 21:03 PST: There is no going back. Software is changed forever.
+
+Previous items remain:
 
 - Original post at 06:24 Beijing (UTC+8) / 14:24 PST: Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago. (quoting @OpenAI on introducing ChatGPT Images 2.6 with GIFs, reference images, and faster API models)
 
@@ -16,13 +22,7 @@ Newest items remain:
 
 - Reply (follow-up in his image stats thread) at 06:39 Beijing (UTC+8) / 14:39 PST: Generating*
 
-Previous items remain:
-
-- Original post at 04:43 Beijing (UTC+8) / 12:43 PST: Come push the frontier of fluffiness (quoting @_samirism on assembling a team for Dots / persistent agents)
-
-- Reply to @kimmonismus at 04:41 Beijing (UTC+8) / 12:41 PST: Don't know, I live in the basement now (responding to a question about GPT-6.2 in the GPT-6 Cyber thread)
-
-(Previous activity remains: the three replies from Nov 5 afternoon; original post quoting @_samirism on Dots improvements (“Follow Samir for dot updates”); reply to @amix3k regarding product-market fit for Grok Bot, Muse, and ChatGPT Dots; reply to @helloitsaustin welcoming him to OpenAI; original post welcoming Cat (@_catwu); reply “CatGPT” in that thread; reply to @_samirism on Dots improvements; reply to @jonoalford at 10:16 Beijing (UTC+8) / 18:16 PST (Nov 4): We needed the eyeballs; reply to @fly3nn on retirement rumors; original post on assembling a world class cyber team; replies to @edbayes and @thdxr.)
+(Previous activity remains: original post at 04:43 Beijing on fluffiness / Dots team; reply to @kimmonismus; the three replies from Nov 5 afternoon; original post quoting @_samirism on Dots improvements; reply to @amix3k regarding product-market fit for Grok Bot, Muse, and ChatGPT Dots; reply to @helloitsaustin welcoming him to OpenAI; original post welcoming Cat (@_catwu); reply “CatGPT” in that thread; reply to @_samirism on Dots improvements; reply to @jonoalford at 10:16 Beijing (UTC+8) / 18:16 PST (Nov 4): We needed the eyeballs; reply to @fly3nn on retirement rumors; original post on assembling a world class cyber team; replies to @edbayes and @thdxr.)
 
 Full record for Nov 6: [logs/2026-11-06.md](logs/2026-11-06.md).
 Full record for Nov 5: [logs/2026-11-05.md](logs/2026-11-05.md).
