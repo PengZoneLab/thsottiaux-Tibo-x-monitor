@@ -1,18 +1,22 @@
 # Latest Scan
 
-**Scan time**: 2026-11-06 13:04 Beijing time (UTC+8) / 21:04 PST
+**Scan time**: 2026-11-06 14:05 Beijing time (UTC+8) / 22:05 PST
 
 **New activity**: Yes
 
-New original post and two follow-up replies in the same thread about the future of secure infrastructure and software.
+Two new replies.
+
+- Reply at 13:23 Beijing (UTC+8) / 21:23 PST to @ThePrimeagen: My loop caught this. It's the future. (on a post about X growth hacks involving joining Anthropic or OpenAI and talking about harnesses)
+
+- Reply at 13:12 Beijing (UTC+8) / 21:12 PST to @ajambrosino: Feedback is a gift. (in the thread of @pablostanley on tidying Claude Duet settings from a single long scroll)
+
+Previous items remain:
 
 - Original post at 13:00 Beijing (UTC+8) / 21:00 PST: I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that.
 
 - Reply (follow-up) at 13:01 Beijing (UTC+8) / 21:01 PST: Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems.
 
 - Reply (follow-up) at 13:03 Beijing (UTC+8) / 21:03 PST: There is no going back. Software is changed forever.
-
-Previous items remain:
 
 - Original post at 06:24 Beijing (UTC+8) / 14:24 PST: Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago. (quoting @OpenAI on introducing ChatGPT Images 2.6 with GIFs, reference images, and faster API models)
 
