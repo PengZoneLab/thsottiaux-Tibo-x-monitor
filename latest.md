@@ -1,14 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-08 13:03 Beijing time (UTC+8) / 21:03 PST
+**Scan time**: 2026-11-08 14:03 Beijing time (UTC+8) / 22:03 PST
 
 **New activity**: Yes
+
+- Reply at 14:00 Beijing (UTC+8) / 22:00 PST to @alexmichael: Alfred plays to win (on a post: Who will win? @claudeai @bot @Meta @OpenAI)
+
+- Reply at 13:59 Beijing (UTC+8) / 21:59 PST to @ForwardEditor: We hesitated to embed https://x.com into the codex app to make sense of the resets, but decided against it. (on a post: I feel like it's necessary to have an X account to have ANY clue what's going on with AI and also why tf your Codex usage keeps getting reset randomly)
+
+- Reply at 13:45 Beijing (UTC+8) / 21:45 PST to @JamesMalsawm: They already did, come over (on a post: if Codex limits just doubled will you actually switch back to Claude?)
+
+Newest items remain (from earlier on Nov 8):
 
 - Reply at 13:00 Beijing (UTC+8) / 21:00 PST to @JamesMalsawm: Yes, but I am also very fond of this little x bubble (on a post: Claude: 9.6% market share ChatGPT: 56% Yet every dev I know uses Claude. Are we living in a bubble?)
 
 - Reply at 12:57 Beijing (UTC+8) / 20:57 PST to @hakmgpt: That is not correct. (on a post: This is the person who created Dots at OpenAI I can imagine how much pressure he was under , good luck Rohan)
-
-Newest items remain (from earlier on Nov 8):
 
 - Reply at 08:54 Beijing (UTC+8) / 16:54 PST to @Tech_girl: We doubled the usage on Pro plans and Business 100 (on a post: Has anyone else noticed that ever since Tibo stopped giving out resets, Codex usage limits seem to last longer? Or is it just me?)
 
