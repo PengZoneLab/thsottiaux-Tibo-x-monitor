@@ -1,12 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-11-08 08:07 Beijing time (UTC+8) / 16:07 PST
+**Scan time**: 2026-11-08 09:04 Beijing time (UTC+8) / 17:04 PST
 
 **New activity**: Yes
 
-- Reply at 07:30 Beijing (UTC+8) / 15:30 PST to @jxnlco: I think that will take a few years, but one can dream (on a post: Computer use will be faster than this one day, quoting a Faker League video)
+- Reply at 08:54 Beijing (UTC+8) / 16:54 PST to @Tech_girl: We doubled the usage on Pro plans and Business 100 (on a post: Has anyone else noticed that ever since Tibo stopped giving out resets, Codex usage limits seem to last longer? Or is it just me?)
 
 Newest items remain (from earlier on Nov 8):
+
+- Reply at 07:30 Beijing (UTC+8) / 15:30 PST to @jxnlco: I think that will take a few years, but one can dream (on a post: Computer use will be faster than this one day, quoting a Faker League video)
 
 - Reply at 04:13 Beijing (UTC+8) / 12:13 PST to @AdamHoltererer: What's the before, after? (on a post: yolo mode ftw)
 
