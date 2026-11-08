@@ -1,10 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-11-09 04:03 Beijing time (UTC+8) / 12:03 PST
+**Scan time**: 2026-11-09 05:03 Beijing time (UTC+8) / 13:03 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+New replies (Nov 9 Beijing time):
+
+- Reply at 04:47 Beijing (UTC+8) / 12:47 PST to @garrytan: Thanks for running those and publishing (on a post: Out of curiosity I am doing some open source eval work on harnesses with frontier models and here’s what is coming back so far, with image)
+
+- Reply at 04:34 Beijing (UTC+8) / 12:34 PST to @MillionInt: Jerry, I challenge you to make a game (on a post: One day we’ll get a good game out of the great agent beef of 2026, quoting Tibo’s earlier “Get me out of the basement”)
 
 Newest items remain (from Nov 8):
 
