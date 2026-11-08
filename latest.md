@@ -1,10 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-11-08 12:03 Beijing time (UTC+8) / 20:03 PST
+**Scan time**: 2026-11-08 13:03 Beijing time (UTC+8) / 21:03 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+- Reply at 13:00 Beijing (UTC+8) / 21:00 PST to @JamesMalsawm: Yes, but I am also very fond of this little x bubble (on a post: Claude: 9.6% market share ChatGPT: 56% Yet every dev I know uses Claude. Are we living in a bubble?)
+
+- Reply at 12:57 Beijing (UTC+8) / 20:57 PST to @hakmgpt: That is not correct. (on a post: This is the person who created Dots at OpenAI I can imagine how much pressure he was under , good luck Rohan)
 
 Newest items remain (from earlier on Nov 8):
 
