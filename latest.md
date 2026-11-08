@@ -1,20 +1,10 @@
 # Latest Scan
 
-**Scan time**: 2026-11-08 21:07 Beijing time (UTC+8) / 05:07 PST
+**Scan time**: 2026-11-08 22:10 Beijing time (UTC+8) / 06:10 PST
 
-**New activity**: Yes (earlier posts from today not previously recorded)
+**New activity**: No
 
-### Original posts
-- 13:09 Beijing (UTC+8) / 21:09 PST: Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.
-  ✅ Pro 100 = 10X
-  ✅ Pro 200 = 20X
-  ✅ Pro 500 = 50X, access to ultrafast
-- 13:45 Beijing (UTC+8) / 21:45 PST: Would a Pro 50 make sense? Wdyt? (quoting the Pro plans post above)
-
-### Replies
-- 13:43 Beijing (UTC+8) / 21:43 PST to @TJwithAI: Basement is fun (on a post quoting Tibo’s earlier “Nothing much” and commenting on marketing / reset button)
-- 13:40 Beijing (UTC+8) / 21:40 PST to @JamesMalsawm: Pretty wild to me that GPT 6.1 Terra gets compared to Opus 5.5. No doubt that it's a great model, but it's not meant to compete in the big leagues. We've got other models for that. (on a post: I'm genuinely curious. Do you guys prefer Opus 5.5 or Gpt 6.1 Terra?)
-- 13:38 Beijing (UTC+8) / 21:38 PST to @techleadhd: (image only, no text) (on a post about stopping vibe-coding and cancelling AI subscriptions)
+No new posts.
 
 Newest items remain (from Nov 8):
 
@@ -26,33 +16,22 @@ Newest items remain (from Nov 8):
 
 Newest items remain (from earlier on Nov 8):
 
+- Original post at 13:45 Beijing (UTC+8) / 21:45 PST: Would a Pro 50 make sense? Wdyt? (quoting the Pro plans post)
+
+- Original post at 13:09 Beijing (UTC+8) / 21:09 PST: Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.
+  ✅ Pro 100 = 10X
+  ✅ Pro 200 = 20X
+  ✅ Pro 500 = 50X, access to ultrafast
+
+- Reply at 13:43 Beijing (UTC+8) / 21:43 PST to @TJwithAI: Basement is fun (on a post quoting Tibo’s earlier “Nothing much” and commenting on marketing / reset button)
+
+- Reply at 13:40 Beijing (UTC+8) / 21:40 PST to @JamesMalsawm: Pretty wild to me that GPT 6.1 Terra gets compared to Opus 5.5. No doubt that it's a great model, but it's not meant to compete in the big leagues. We've got other models for that. (on a post: I'm genuinely curious. Do you guys prefer Opus 5.5 or Gpt 6.1 Terra?)
+
+- Reply at 13:38 Beijing (UTC+8) / 21:38 PST to @techleadhd: (image only, no text) (on a post about stopping vibe-coding and cancelling AI subscriptions)
+
 - Reply at 13:00 Beijing (UTC+8) / 21:00 PST to @JamesMalsawm: Yes, but I am also very fond of this little x bubble (on a post: Claude: 9.6% market share ChatGPT: 56% Yet every dev I know uses Claude. Are we living in a bubble?)
 
 - Reply at 12:57 Beijing (UTC+8) / 20:57 PST to @hakmgpt: That is not correct. (on a post: This is the person who created Dots at OpenAI I can imagine how much pressure he was under , good luck Rohan)
-
-- Reply at 08:54 Beijing (UTC+8) / 16:54 PST to @Tech_girl: We doubled the usage on Pro plans and Business 100 (on a post: Has anyone else noticed that ever since Tibo stopped giving out resets, Codex usage limits seem to last longer? Or is it just me?)
-
-- Reply at 07:30 Beijing (UTC+8) / 15:30 PST to @jxnlco: I think that will take a few years, but one can dream (on a post: Computer use will be faster than this one day, quoting a Faker League video)
-
-- Reply at 04:13 Beijing (UTC+8) / 12:13 PST to @AdamHoltererer: What's the before, after? (on a post: yolo mode ftw)
-
-- Reply at 04:11 Beijing (UTC+8) / 12:11 PST to @argofowl: I'm also confused about this (on a post: guys... what is going on with tibo? this is so dumb and confusing i don't get it)
-
-- Reply at 01:05 Beijing (UTC+8) / 09:05 PST to @rezoundous: Nothing much (on a post listing recent phrases like "Le GPT Fat", "ChatBLT", "Basement", "Friday" and asking what they lead to)
-
-- Reply at 01:04 Beijing (UTC+8) / 09:04 PST to @UFO2002616: Missed that you can dash (on a post about a 25s speedrun of the basement game and sharing gameplay tips)
-
-Previous items remain (from Nov 7):
-
-- Original post at 14:27 Beijing (UTC+8) / 22:27 PST: Cyber (quoting @i0n1c on GPT-6 Cyber being out of this world and lightyears ahead)
-
-- Reply at 14:28 Beijing (UTC+8) / 22:28 PST to @theo: Also, you really died 25 times? 😭 (on a post rating the basement game 2.5/10 with rough physics and bad music)
-
-- Reply at 14:27 Beijing (UTC+8) / 22:27 PST to @theo: Show us your skills (on a post: Rough physics, bad music, lots of challenges that didn't make sense with the built in checkpoints 2.5/10)
-
-- Reply at 14:26 Beijing (UTC+8) / 22:26 PST to @thdxr: ? (on a post about companies stealing his words and way of expressing himself)
-
-- Reply at 14:25 Beijing (UTC+8) / 22:25 PST to @maria_rcks: What if it was Opus 5.5 (on a post saying if this is 6.2's doing... ig i'll keep using my claude sub)
 
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
 Full record for Nov 7: [logs/2026-11-07.md](logs/2026-11-07.md).
