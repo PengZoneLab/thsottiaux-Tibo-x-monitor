@@ -1,10 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-08 20:05 Beijing time (UTC+8) / 04:05 PST
+**Scan time**: 2026-11-08 21:07 Beijing time (UTC+8) / 05:07 PST
 
-**New activity**: No
+**New activity**: Yes (earlier posts from today not previously recorded)
 
-No new posts.
+### Original posts
+- 13:09 Beijing (UTC+8) / 21:09 PST: Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.
+  ✅ Pro 100 = 10X
+  ✅ Pro 200 = 20X
+  ✅ Pro 500 = 50X, access to ultrafast
+- 13:45 Beijing (UTC+8) / 21:45 PST: Would a Pro 50 make sense? Wdyt? (quoting the Pro plans post above)
+
+### Replies
+- 13:43 Beijing (UTC+8) / 21:43 PST to @TJwithAI: Basement is fun (on a post quoting Tibo’s earlier “Nothing much” and commenting on marketing / reset button)
+- 13:40 Beijing (UTC+8) / 21:40 PST to @JamesMalsawm: Pretty wild to me that GPT 6.1 Terra gets compared to Opus 5.5. No doubt that it's a great model, but it's not meant to compete in the big leagues. We've got other models for that. (on a post: I'm genuinely curious. Do you guys prefer Opus 5.5 or Gpt 6.1 Terra?)
+- 13:38 Beijing (UTC+8) / 21:38 PST to @techleadhd: (image only, no text) (on a post about stopping vibe-coding and cancelling AI subscriptions)
 
 Newest items remain (from Nov 8):
 
