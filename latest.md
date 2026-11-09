@@ -1,12 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-11-09 23:10 Beijing time (UTC+8) / 07:10 PST
+**Scan time**: 2026-11-10 00:03 Beijing time (UTC+8) / 08:03 PST
 
 **New activity**: No
 
 No new posts.
 
-Newest items remain (from earlier on Nov 9):
+Newest items remain (from Nov 9):
 
 - Reply at 10:03 Beijing (UTC+8) / 18:03 PST to @maria_rcks: Congrats to Theo (on a post: announcing joining Anthropic after time at T3 Code, quoting earlier news about leaving T3 Code)
 
@@ -41,6 +41,7 @@ Newest items remain (from earlier on Nov 8):
 
 - Reply at 12:57 Beijing (UTC+8) / 20:57 PST to @hakmgpt: That is not correct. (on a post: This is the person who created Dots at OpenAI I can imagine how much pressure he was under , good luck Rohan)
 
+Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
 Full record for Nov 9: [logs/2026-11-09.md](logs/2026-11-09.md).
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
 Full record for Nov 7: [logs/2026-11-07.md](logs/2026-11-07.md).
