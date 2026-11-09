@@ -1,12 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-11-09 09:06 Beijing time (UTC+8) / 17:06 PST
+**Scan time**: 2026-11-09 10:03 Beijing time (UTC+8) / 18:03 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+New activity:
 
-Newest items remain (from Nov 9 Beijing time):
+- Reply at 10:03 Beijing (UTC+8) / 18:03 PST to @maria_rcks: Congrats to Theo (on a post: announcing joining Anthropic after time at T3 Code, quoting earlier news about leaving T3 Code)
+
+Previous newest items remain (from earlier on Nov 9):
 
 - Reply at 04:47 Beijing (UTC+8) / 12:47 PST to @garrytan: Thanks for running those and publishing (on a post: Out of curiosity I am doing some open source eval work on harnesses with frontier models and here’s what is coming back so far, with image)
 
