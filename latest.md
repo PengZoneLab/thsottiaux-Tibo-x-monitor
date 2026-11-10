@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-11 17:02 Beijing time (UTC+8) / 01:02 PST
+**Scan time**: 2026-11-11 04:02 Beijing time (UTC+8) / 12:02 PST (Nov 10)
 
 **New activity**: No
 
@@ -12,11 +12,11 @@ Newest items remain (from Nov 10):
 
 Newest items remain (from Nov 9):
 
-- Reply at 10:03 Beijing (UTC+8) / 18:03 PST to @maria_rcks: Congrats to Theo (on a post: announcing joining Anthropic after time at T3 Code, quoting earlier news about leaving T3 Code)
+- Reply at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 8) to @maria_rcks: Congrats to Theo (on a post: announcing joining Anthropic after time at T3 Code, quoting earlier news about leaving T3 Code)
 
-- Reply at 04:47 Beijing (UTC+8) / 12:47 PST to @garrytan: Thanks for running those and publishing (on a post: Out of curiosity I am doing some open source eval work on harnesses with frontier models and here’s what is coming back so far, with image)
+- Reply at 04:47 Beijing (UTC+8) / 12:47 PST (Nov 8) to @garrytan: Thanks for running those and publishing (on a post: Out of curiosity I am doing some open source eval work on harnesses with frontier models and here’s what is coming back so far, with image)
 
-- Reply at 04:34 Beijing (UTC+8) / 12:34 PST to @MillionInt: Jerry, I challenge you to make a game (on a post: One day we’ll get a good game out of the great agent beef of 2026, quoting Tibo’s earlier “Get me out of the basement”)
+- Reply at 04:34 Beijing (UTC+8) / 12:34 PST (Nov 8) to @MillionInt: Jerry, I challenge you to make a game (on a post: One day we’ll get a good game out of the great agent beef of 2026, quoting Tibo’s earlier “Get me out of the basement”)
 
 Full record for Nov 11: [logs/2026-11-11.md](logs/2026-11-11.md).
 Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
