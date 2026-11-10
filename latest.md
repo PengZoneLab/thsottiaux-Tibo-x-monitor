@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-10 22:05 Beijing time (UTC+8) / 06:05 PST
+**Scan time**: 2026-11-11 13:03 Beijing time (UTC+8) / 21:03 PST (Nov 10)
 
 **New activity**: No
 
@@ -18,6 +18,7 @@ Newest items remain (from Nov 9):
 
 - Reply at 04:34 Beijing (UTC+8) / 12:34 PST to @MillionInt: Jerry, I challenge you to make a game (on a post: One day we’ll get a good game out of the great agent beef of 2026, quoting Tibo’s earlier “Get me out of the basement”)
 
+Full record for Nov 11: [logs/2026-11-11.md](logs/2026-11-11.md).
 Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
 Full record for Nov 9: [logs/2026-11-09.md](logs/2026-11-09.md).
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
