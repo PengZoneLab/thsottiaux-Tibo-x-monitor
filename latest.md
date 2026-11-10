@@ -1,8 +1,10 @@
 # Latest Scan
 
-**Scan time**: 2026-11-11 03:07 Beijing time (UTC+8) / 11:07 PST (Nov 10)
+**Scan time**: 2026-11-10 14:06 Beijing time (UTC+8) / 22:06 PST (Nov 9)
 
 **New activity**: Yes
+
+- Original post at 13:09 Beijing (UTC+8) / 21:09 PST (Nov 9): Dots can now control many machines in addition to its own little cloud computer that we provide by default. (quoting @OpenAIDevs announcement on connecting multiple local computers to the same dot)
 
 - Reply at 12:59 Beijing (UTC+8) / 20:59 PST (Nov 9) to @ajambrosino: good evening (on a post: good morning)
 
@@ -41,7 +43,6 @@ Newest items remain (from earlier on Nov 8):
 
 - Reply at 12:57 Beijing (UTC+8) / 20:57 PST to @hakmgpt: That is not correct. (on a post: This is the person who created Dots at OpenAI I can imagine how much pressure he was under , good luck Rohan)
 
-Full record for Nov 11: [logs/2026-11-11.md](logs/2026-11-11.md).
 Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
 Full record for Nov 9: [logs/2026-11-09.md](logs/2026-11-09.md).
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
