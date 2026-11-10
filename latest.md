@@ -1,10 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-11-11 19:02 Beijing time (UTC+8) / 03:02 PST
+**Scan time**: 2026-11-11 06:02 Beijing time (UTC+8) / 14:02 PST
 
-**New activity**: No
+**New activity**: Yes
 
-Newest items remain (from Nov 10):
+Newest items:
+
+- Original post at 05:28 Beijing (UTC+8) / 13:28 PST (Nov 10): How many of you have a small business? (quoting @OpenAI announcement on Businesses in ChatGPT)
+
+- Original post at 05:26 Beijing (UTC+8) / 13:26 PST (Nov 10): Labs innovating together ftw (quoting @claudeai on interactive connectors)
+
+- Reply at 05:29 Beijing (UTC+8) / 13:29 PST (Nov 10) to @inferencetoken: congrats (on a post: Guess this is my job now)
+
+Previous newest items (from Nov 10):
 
 - Original post at 13:09 Beijing (UTC+8) / 21:09 PST (Nov 9): Dots can now control many machines in addition to its own little cloud computer that we provide by default. (quoting @OpenAIDevs announcement on connecting multiple local computers to the same dot)
 
