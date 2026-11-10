@@ -1,8 +1,10 @@
 # Latest Scan
 
-**Scan time**: 2026-11-10 14:06 Beijing time (UTC+8) / 22:06 PST (Nov 9)
+**Scan time**: 2026-11-10 15:05 Beijing time (UTC+8) / 23:05 PST (Nov 9)
 
-**New activity**: Yes
+**New activity**: No
+
+Newest items remain (from Nov 10):
 
 - Original post at 13:09 Beijing (UTC+8) / 21:09 PST (Nov 9): Dots can now control many machines in addition to its own little cloud computer that we provide by default. (quoting @OpenAIDevs announcement on connecting multiple local computers to the same dot)
 
