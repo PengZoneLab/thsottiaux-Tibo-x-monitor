@@ -1,10 +1,10 @@
 # Latest Scan
 
-**Scan time**: 2026-11-12 04:02 Beijing time (UTC+8) / 12:02 PST (Nov 11)
+**Scan time**: 2026-11-12 05:02 Beijing time (UTC+8) / 13:02 PST (Nov 11)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+- Reply at 04:55 Beijing (UTC+8) / 12:55 PST (Nov 11) to @charlierguo: Hi 👋 Buzz Buzz (on a post about the app becoming unusable for broadcasting as Tibo nears 1M followers, and how a previous reply wrecked mentions)
 
 Newest items remain:
 
