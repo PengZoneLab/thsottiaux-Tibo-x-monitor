@@ -1,14 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-11 14:02 Beijing time (UTC+8) / 22:02 PST
+**Scan time**: 2026-11-11 15:05 Beijing time (UTC+8) / 23:05 PST
 
-**New activity**: No
+**New activity**: Yes
 
 Newest items:
 
-- Reply at 07:56 Beijing (UTC+8) / 15:56 PST (Nov 10) to @embw_l0x: We're assembling one of the best teams ever and I do talk to folks at Anthropic every once in a while. Couldn't be more excited for the months ahead. (on a post about rumors of low morale at OpenAI and talks with Anthropic)
+- Original post at 14:55 Beijing (UTC+8) / 22:55 PST (Nov 10): It’s been a while without resets. Maybe I should come back out of the basement
+
+- Reply (follow-up) at 14:57 Beijing (UTC+8) / 22:57 PST (Nov 10): Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.
+
+- Reply at 15:00 Beijing (UTC+8) / 23:00 PST (Nov 10) to @iso_morph: Many such cases. (on a post about Astra 6 being better than Opus 5.5 at formal verification)
 
 Previous newest items:
+
+- Reply at 07:56 Beijing (UTC+8) / 15:56 PST (Nov 10) to @embw_l0x: We're assembling one of the best teams ever and I do talk to folks at Anthropic every once in a while. Couldn't be more excited for the months ahead. (on a post about rumors of low morale at OpenAI and talks with Anthropic)
 
 - Original post at 05:28 Beijing (UTC+8) / 13:28 PST (Nov 10): How many of you have a small business? (quoting @OpenAI announcement on Businesses in ChatGPT)
 
