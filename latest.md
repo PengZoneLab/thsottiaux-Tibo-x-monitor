@@ -1,12 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-11-13 05:02 Beijing time (UTC+8) / 13:02 PST (Nov 12)
+**Scan time**: 2026-11-13 06:03 Beijing time (UTC+8) / 14:03 PST (Nov 12)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+Newest items:
 
-Newest items remain:
+- Original post at 05:59 Beijing (UTC+8) / 13:59 PST (Nov 12): We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! (quoting @ChatGPT on dots improvements including faster replies, less jargon, better follow-through, and support for custom instructions)
+
+Previous newest items:
 
 - Reply at 04:55 Beijing (UTC+8) / 12:55 PST (Nov 11) to @charlierguo: Hi 👋 Buzz Buzz (on a post about the app becoming unusable for broadcasting as Tibo nears 1M followers, and how a previous reply wrecked mentions)
 
@@ -15,16 +17,6 @@ Newest items remain:
 - Reply (follow-up) at 14:57 Beijing (UTC+8) / 22:57 PST (Nov 10): Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.
 
 - Reply at 15:00 Beijing (UTC+8) / 23:00 PST (Nov 10) to @iso_morph: Many such cases. (on a post about Astra 6 being better than Opus 5.5 at formal verification)
-
-Previous newest items:
-
-- Reply at 07:56 Beijing (UTC+8) / 15:56 PST (Nov 10) to @embw_l0x: We're assembling one of the best teams ever and I do talk to folks at Anthropic every once in a while. Couldn't be more excited for the months ahead. (on a post about rumors of low morale at OpenAI and talks with Anthropic)
-
-- Original post at 05:28 Beijing (UTC+8) / 13:28 PST (Nov 10): How many of you have a small business? (quoting @OpenAI announcement on Businesses in ChatGPT)
-
-- Original post at 05:26 Beijing (UTC+8) / 13:26 PST (Nov 10): Labs innovating together ftw (quoting @claudeai on interactive connectors)
-
-- Reply at 05:29 Beijing (UTC+8) / 13:29 PST (Nov 10) to @inferencetoken: congrats (on a post: Guess this is my job now)
 
 Full record for Nov 13: [logs/2026-11-13.md](logs/2026-11-13.md).
 Full record for Nov 12: [logs/2026-11-12.md](logs/2026-11-12.md).
