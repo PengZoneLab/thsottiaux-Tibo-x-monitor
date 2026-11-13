@@ -1,28 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-11-13 14:03 Beijing time (UTC+8) / 22:03 PST (Nov 12)
+**Scan time**: 2026-11-13 15:03 Beijing time (UTC+8) / 23:03 PST (Nov 12)
 
-**New activity**: No
-
-No new posts.
+**New activity**: Yes
 
 Newest items:
+
+- Reply at 14:54 Beijing (UTC+8) / 22:54 PST (Nov 12) to @argofowl: Hi 👋 Doing well. Team is busy (on a post asking “openai are you good? hello?”)
+
+- Reply at 14:45 Beijing (UTC+8) / 22:45 PST (Nov 12) to @snowy_smile_: Sounds like bliss (on a post criticizing him for not reading comments in the codex improvement thread)
+
+- Reply at 14:44 Beijing (UTC+8) / 22:44 PST (Nov 12) to @ajambrosino: sino (on a short “bro” comment in the codex improvement thread)
+
+Previous newest items:
 
 - Original post at 10:09 Beijing (UTC+8) / 18:09 PST (Nov 12): How can codex be improved? Try not to say model.
 
 - Original post at 08:24 Beijing (UTC+8) / 16:24 PST (Nov 12): We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://openai.com/cyber-at-the-frontier/
 
 - Original post at 05:59 Beijing (UTC+8) / 13:59 PST (Nov 12): We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! (quoting @ChatGPT on dots improvements including faster replies, less jargon, better follow-through, and support for custom instructions)
-
-Previous newest items:
-
-- Reply at 04:55 Beijing (UTC+8) / 12:55 PST (Nov 11) to @charlierguo: Hi 👋 Buzz Buzz (on a post about the app becoming unusable for broadcasting as Tibo nears 1M followers, and how a previous reply wrecked mentions)
-
-- Original post at 14:55 Beijing (UTC+8) / 22:55 PST (Nov 10): It’s been a while without resets. Maybe I should come back out of the basement
-
-- Reply (follow-up) at 14:57 Beijing (UTC+8) / 22:57 PST (Nov 10): Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.
-
-- Reply at 15:00 Beijing (UTC+8) / 23:00 PST (Nov 10) to @iso_morph: Many such cases. (on a post about Astra 6 being better than Opus 5.5 at formal verification)
 
 Full record for Nov 13: [logs/2026-11-13.md](logs/2026-11-13.md).
 Full record for Nov 12: [logs/2026-11-12.md](logs/2026-11-12.md).
