@@ -1,10 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-11-13 10:02 Beijing time (UTC+8) / 18:02 PST (Nov 12)
+**Scan time**: 2026-11-13 11:03 Beijing time (UTC+8) / 19:03 PST (Nov 12)
 
-**New activity**: No
+**New activity**: Yes
 
 Newest items:
+
+- Original post at 10:09 Beijing (UTC+8) / 18:09 PST (Nov 12): How can codex be improved? Try not to say model.
 
 - Original post at 08:24 Beijing (UTC+8) / 16:24 PST (Nov 12): We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://openai.com/cyber-at-the-frontier/
 
