@@ -1,10 +1,12 @@
 # Latest Scan
 
-**Scan time**: 2026-11-13 08:04 Beijing time (UTC+8) / 16:04 PST (Nov 12)
+**Scan time**: 2026-11-13 09:04 Beijing time (UTC+8) / 17:04 PST (Nov 12)
 
-**New activity**: No
+**New activity**: Yes
 
 Newest items:
+
+- Original post at 08:24 Beijing (UTC+8) / 16:24 PST (Nov 12): We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://openai.com/cyber-at-the-frontier/
 
 - Original post at 05:59 Beijing (UTC+8) / 13:59 PST (Nov 12): We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! (quoting @ChatGPT on dots improvements including faster replies, less jargon, better follow-through, and support for custom instructions)
 
@@ -21,7 +23,7 @@ Previous newest items:
 Full record for Nov 13: [logs/2026-11-13.md](logs/2026-11-13.md).
 Full record for Nov 12: [logs/2026-11-12.md](logs/2026-11-12.md).
 Full record for Nov 11: [logs/2026-11-11.md](logs/2026-11-11.md).
-Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
+Full record for Nov 10: [logs/2026-10-10.md](logs/2026-10-10.md).
 Full record for Nov 9: [logs/2026-11-09.md](logs/2026-11-09.md).
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
 Full record for Nov 7: [logs/2026-11-07.md](logs/2026-11-07.md).
