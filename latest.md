@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-14 16:03 Beijing time (UTC+8) / 00:03 PST
+**Scan time**: 2026-11-15 07:02 Beijing time (UTC+8) / 15:02 PST (Nov 14)
 
 **New activity**: No
 
@@ -22,6 +22,7 @@ Previous newest items:
 
 - Original post at 05:59 Beijing (UTC+8) / 13:59 PST (Nov 12): We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! (quoting @ChatGPT on dots improvements including faster replies, less jargon, better follow-through, and support for custom instructions)
 
+Full record for Nov 15: [logs/2026-11-15.md](logs/2026-11-15.md).
 Full record for Nov 14: [logs/2026-11-14.md](logs/2026-11-14.md).
 Full record for Nov 13: [logs/2026-11-13.md](logs/2026-11-13.md).
 Full record for Nov 12: [logs/2026-11-12.md](logs/2026-11-12.md).
