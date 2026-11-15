@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-15 19:04 Beijing time (UTC+8) / 03:04 PST (Nov 15)
+**Scan time**: 2026-11-15 20:06 Beijing time (UTC+8) / 04:06 PST (Nov 15)
 
 **New activity**: No
 
@@ -29,7 +29,7 @@ Full record for Nov 14: [logs/2026-11-14.md](logs/2026-11-14.md).
 Full record for Nov 13: [logs/2026-11-13.md](logs/2026-11-13.md).
 Full record for Nov 12: [logs/2026-11-12.md](logs/2026-11-12.md).
 Full record for Nov 11: [logs/2026-11-11.md](logs/2026-11-11.md).
-Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
+Full record for Nov 10: [logs/2026-10-10.md](logs/2026-10-10.md).
 Full record for Nov 9: [logs/2026-11-09.md](logs/2026-11-09.md).
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
 Full record for Nov 7: [logs/2026-11-07.md](logs/2026-11-07.md).
