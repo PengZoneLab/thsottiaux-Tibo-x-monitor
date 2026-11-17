@@ -1,40 +1,36 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 06:03 Beijing time (UTC+8) / 14:03 PST (Nov 17)
+**Scan time**: 2026-11-18 07:03 Beijing time (UTC+8) / 15:03 PST (Nov 17)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+Three new replies detected.
 
-Newest item remains the original post at 02:09 Beijing (UTC+8) / 10:09 PST (Nov 17): GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
+Newest item is a reply at 06:17 Beijing (UTC+8) / 14:17 PST (Nov 17) to @notjazii: Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.
+  Parent post by @notjazii: hate against openai is forced. Positive testing of GPT-6.2 models showing large step up from 6.1, super cheap and efficient, with remaining limits high.
+  Engagement: ❤ 873 | 🔁 15 | 💬 100 | 📅 20 | 👁 22.5K
+  Link: https://x.com/thsottiaux/status/2122816458711548126
+  Original link: https://x.com/notjazii/status/2122797001465385073
+
+Other new replies:
+
+- Reply at 06:16 Beijing (UTC+8) / 14:16 PST (Nov 17) to @Conor_D_Dart: Much faster too
+  Parent post by @Conor_D_Dart: Testing GPT 6.2 Astra and Sol with nothing negative so far; ignore negative reviews until you test yourself.
+  Engagement: ❤ 160 | 🔁 1 | 💬 34 | 📅 2 | 👁 10.0K
+  Link: https://x.com/thsottiaux/status/2122816053348847795
+  Original link: https://x.com/Conor_D_Dart/status/2122782531292463511
+
+- Reply at 06:14 Beijing (UTC+8) / 14:14 PST (Nov 17) to @AdamHoltererer: What is ClutterBench
+  Parent post by @AdamHoltererer: GPT 6.2 is state-of-the-art on ClutterBench, previously dominated by Claude models.
+  Engagement: ❤ 323 | 🔁 3 | 💬 49 | 📅 6 | 👁 30.1K
+  Media: photo attached (on parent)
+  Link: https://x.com/thsottiaux/status/2122815564821434613
+  Original link: https://x.com/AdamHoltererer/status/2122795736676946429
+
+Previous newest item remains the original post at 02:09 Beijing (UTC+8) / 10:09 PST (Nov 17): GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
   Quotes @OpenAI announcement of GPT-6.2 Astra and Sol.
   Engagement: ❤ 8760 | 🔁 428 | 💬 1354 | 📅 571 | 👁 609.1K
   Link: https://x.com/thsottiaux/status/2122753991000133943
-
-Follow-up reply (in own thread) at 02:11 Beijing (UTC+8) / 10:11 PST (Nov 17): These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes.
-  Parent post by @thsottiaux: GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
-  Engagement: ❤ 1800 | 🔁 62 | 💬 239 | 📅 76 | 👁 161.3K
-  Media: photo attached
-  Link: https://x.com/thsottiaux/status/2122754551187132438
-  Original link: https://x.com/thsottiaux/status/2122753991000133943
-
-Previous newest item remains a reply at 11:37 Beijing (UTC+8) / 19:37 PST (Nov 16) to @AdamHoltererer: 6.1 Sol forever
-  Parent post summary: OpenAI really needs to release a new model soon
-  Engagement: ❤ 4172 | 🔁 85 | 💬 970 | 📅 169 | 👁 521.6K
-  Media: photo attached (AI art of rider on robotic horse labeled 6.1 SOL under sunset)
-  Link: https://x.com/thsottiaux/status/2122534533216268747
-  Original link: https://x.com/AdamHoltererer/status/2122389587163062381
-
-Previous newest items:
-
-- Original post at 13:55 Beijing (UTC+8) / 21:55 PST (Nov 15): Codex team might have actually fixed the "model at capacity" errors that have been pestering you.
-  Engagement: ❤ 9134 | 🔁 248 | 💬 2501 | 📅 561 | 👁 1.27M
-  Media: photo attached
-  Link: https://x.com/thsottiaux/status/2122206990101536852
-
-- Original post at 14:01 Beijing (UTC+8) / 22:01 PST (Nov 14): Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?
-  Engagement: ❤ 4711 | 🔁 138 | 💬 2537 | 📅 481 | 👁 1.32M
-  Link: https://x.com/thsottiaux/status/2121845965997101118
 
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
 Full record for Nov 17: [logs/2026-11-17.md](logs/2026-11-17.md).
