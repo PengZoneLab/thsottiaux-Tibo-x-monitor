@@ -1,12 +1,22 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 02:03 Beijing time (UTC+8) / 10:03 PST (Nov 17)
+**Scan time**: 2026-11-18 03:02 Beijing time (UTC+8) / 11:02 PST (Nov 17)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+New original post at 02:09 Beijing (UTC+8) / 10:09 PST (Nov 17): GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
+  Quotes @OpenAI announcement of GPT-6.2 Astra and Sol.
+  Engagement: ❤ 5248 | 🔁 246 | 💬 946 | 📅 296 | 👁 216.7K
+  Link: https://x.com/thsottiaux/status/2122753991000133943
 
-Newest item remains a reply at 11:37 Beijing (UTC+8) / 19:37 PST (Nov 16) to @AdamHoltererer: 6.1 Sol forever
+New reply (follow-up in own thread) at 02:11 Beijing (UTC+8) / 10:11 PST (Nov 17): These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes.
+  Parent post by @thsottiaux: GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
+  Engagement: ❤ 1245 | 🔁 49 | 💬 158 | 📅 52 | 👁 83.0K
+  Media: photo attached
+  Link: https://x.com/thsottiaux/status/2122754551187132438
+  Original link: https://x.com/thsottiaux/status/2122753991000133943
+
+Previous newest item remains a reply at 11:37 Beijing (UTC+8) / 19:37 PST (Nov 16) to @AdamHoltererer: 6.1 Sol forever
   Parent post summary: OpenAI really needs to release a new model soon
   Engagement: ❤ 4089 | 🔁 82 | 💬 965 | 📅 166 | 👁 493.9K
   Media: photo attached (AI art of rider on robotic horse labeled 6.1 SOL under sunset)
