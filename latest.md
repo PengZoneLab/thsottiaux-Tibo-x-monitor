@@ -1,28 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 11:08 Beijing time (UTC+8) / 19:08 PST (Nov 17)
+**Scan time**: 2026-11-18 12:03 Beijing time (UTC+8) / 20:03 PST (Nov 17)
 
 **New activity**: Yes
 
 Two new replies:
 
-- Reply at 10:31 Beijing (UTC+8) / 18:31 PST (Nov 17) to @arcprize: !!
-  Parent post by @arcprize: GPT-6.2 Astra from @OpenAI on ARC-AGI (Verified): ARC-AGI-3 100.0% (SOTA), first model to achieve 100% on ARC-AGI-3; strong scores on ARC-AGI-2 and ARC-AGI-1.
-  Engagement: ❤ 164 | 🔁 0 | 💬 42 | 📅 2 | 👁 19.3K
-  Link: https://x.com/thsottiaux/status/2122880368600621508
-  Original link: https://x.com/arcprize/status/2122751233442156678
+- Reply at 11:58 Beijing (UTC+8) / 19:58 PST (Nov 17) to @adonis_singh: What are they getting wrong? Curious
+  Parent post by @adonis_singh: 6.2-Astra and 6.2-Sol take #1 and #2 on Eyebench! Both are within 2 questions of a perfect score. Sol is also the cheapest model in the top 10, which is quite insane.
+  Engagement: ❤ 22 | 🔁 0 | 💬 13 | 📅 1 | 👁 2.6K
+  Link: https://x.com/thsottiaux/status/2122902327443300537
+  Original link: https://x.com/adonis_singh/status/2122851213993779342
 
-- Reply at 10:31 Beijing (UTC+8) / 18:31 PST (Nov 17) to @pradeepXkapoor: Let's go bro
-  Parent post by @pradeepXkapoor: Lmao bro gpt 6.2 is actually good. Both Astra and sol are doing great, reminds me of 5.6 honestly. Notes some criticism from others.
-  Engagement: ❤ 227 | 🔁 2 | 💬 51 | 📅 5 | 👁 19.7K
-  Link: https://x.com/thsottiaux/status/2122880282550481388
-  Original link: https://x.com/pradeepXkapoor/status/2122820808494182521
+- Reply at 11:14 Beijing (UTC+8) / 19:14 PST (Nov 17) to @JoshPurtell: Beauty is in the eye of the beholder, but clearly the models are polarizing. A bit like we had in the early codex days. These models are clearly extremely capable but have a couple of rough edges that we will sand down over time.
+  Parent post by @JoshPurtell: Days like this I genuinely feel like I live in a different universe from the rest of the world. Saw ubiquitous 6.2 hate / it's over for OpenAI yada yada ... ran the highest-signal autoresearch bench and 6.2 sol/astr are *absolute monsters*. Astra 6.2 saturates it at low effort.
+  Engagement: ❤ 598 | 🔁 15 | 💬 102 | 📅 14 | 👁 34.9K
+  Link: https://x.com/thsottiaux/status/2122891208968294400
+  Original link: https://x.com/JoshPurtell/status/2122852757170213351
 
-Previous newest item remains the reply at 08:36 Beijing (UTC+8) / 16:36 PST (Nov 17) to @skalskip92: Awkward
-  Parent post by @skalskip92: GPT-6.2 is getting roasted on X meanwhile Astra and Sol took #1 and #2 on my object detection benchmark, so I have some awkwardly positive results to share.
-  Engagement: ❤ 374 | 🔁 5 | 💬 75 | 📅 1 | 👁 34.3K
-  Link: https://x.com/thsottiaux/status/2122851449474605281
-  Original link: https://x.com/skalskip92/status/2122826476252746149
+Previous newest item remains the replies at 10:31 Beijing (UTC+8) / 18:31 PST (Nov 17) to @arcprize and @pradeepXkapoor.
 
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
 Full record for Nov 17: [logs/2026-11-17.md](logs/2026-11-17.md).
