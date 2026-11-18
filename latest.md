@@ -1,18 +1,29 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 13:03 Beijing time (UTC+8) / 21:03 PST (Nov 17)
+**Scan time**: 2026-11-18 14:04 Beijing time (UTC+8) / 22:04 PST (Nov 17)
 
 **New activity**: Yes
 
-One new reply:
+New original post and replies:
 
-- Reply at 12:04 Beijing (UTC+8) / 20:04 PST (Nov 17) to @swyx: It's that is the only critique of the launch, I'm glad. It is indeed truly all about efficiency and topline capabilities. We'll highlight more interesting things in the next launch video.
-  Parent post by @swyx: the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch. The model itself is solid minor version improvement focused on efficiency; daily driving it for workflow automation.
-  Engagement: ❤ 245 | 🔁 6 | 💬 50 | 📅 6 | 👁 23.1K
-  Link: https://x.com/thsottiaux/status/2122903687949688912
-  Original link: https://x.com/swyx/status/2122862646265520150
+- Original post at 13:47 Beijing (UTC+8) / 21:47 PST (Nov 17): One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.
 
-Previous newest item remains the replies at 11:58 Beijing (UTC+8) / 19:58 PST (Nov 17) to @adonis_singh and at 11:14 Beijing (UTC+8) / 19:14 PST (Nov 17) to @JoshPurtell.
+Don't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!
+  Engagement: ❤ 1694 | 🔁 81 | 💬 432 | 📅 104 | 👁 68.9K
+  Link: https://x.com/thsottiaux/status/2122929634916679820
+
+- Reply (follow-up in his thread) at 13:48 Beijing (UTC+8) / 21:48 PST (Nov 17): If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these speeds to more users over time.
+  Parent: the original post above by @thsottiaux.
+  Engagement: ❤ 320 | 🔁 6 | 💬 107 | 📅 9 | 👁 22.8K
+  Link: https://x.com/thsottiaux/status/2122929829863735594
+
+- Reply at 13:43 Beijing (UTC+8) / 21:43 PST (Nov 17) to @theo: Love Theo and all, but ... :D
+  Parent post by @theo: According to Artificial Analysis, Opus 5.5 is no longer on the pareto line (best value per intelligence). Love AA and all, but they really need some behavioral benches to smooth out this gap. Opus 5.5 is still the best value available for real long running code work.
+  Engagement: ❤ 124 | 🔁 1 | 💬 29 | 📅 1 | 👁 10K
+  Link: https://x.com/thsottiaux/status/2122928699838492690
+  Original link: https://x.com/theo/status/2122916936417935419
+
+Previous newest item remains the reply at 12:04 Beijing (UTC+8) / 20:04 PST (Nov 17) to @swyx.
 
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
 Full record for Nov 17: [logs/2026-11-17.md](logs/2026-11-17.md).
