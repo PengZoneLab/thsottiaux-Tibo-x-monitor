@@ -1,37 +1,29 @@
 # Latest Scan
 
-**Scan time**: 2026-11-19 00:02 Beijing time (UTC+8) / 08:02 PST (Nov 18)
+**Scan time**: 2026-11-18 11:08 Beijing time (UTC+8) / 19:08 PST (Nov 17)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+Two new replies:
 
-Newest items remain:
+- Reply at 10:31 Beijing (UTC+8) / 18:31 PST (Nov 17) to @arcprize: !!
+  Parent post by @arcprize: GPT-6.2 Astra from @OpenAI on ARC-AGI (Verified): ARC-AGI-3 100.0% (SOTA), first model to achieve 100% on ARC-AGI-3; strong scores on ARC-AGI-2 and ARC-AGI-1.
+  Engagement: ❤ 164 | 🔁 0 | 💬 42 | 📅 2 | 👁 19.3K
+  Link: https://x.com/thsottiaux/status/2122880368600621508
+  Original link: https://x.com/arcprize/status/2122751233442156678
 
-- Reply at 08:36 Beijing (UTC+8) / 16:36 PST (Nov 17) to @skalskip92: Awkward
+- Reply at 10:31 Beijing (UTC+8) / 18:31 PST (Nov 17) to @pradeepXkapoor: Let's go bro
+  Parent post by @pradeepXkapoor: Lmao bro gpt 6.2 is actually good. Both Astra and sol are doing great, reminds me of 5.6 honestly. Notes some criticism from others.
+  Engagement: ❤ 227 | 🔁 2 | 💬 51 | 📅 5 | 👁 19.7K
+  Link: https://x.com/thsottiaux/status/2122880282550481388
+  Original link: https://x.com/pradeepXkapoor/status/2122820808494182521
+
+Previous newest item remains the reply at 08:36 Beijing (UTC+8) / 16:36 PST (Nov 17) to @skalskip92: Awkward
   Parent post by @skalskip92: GPT-6.2 is getting roasted on X meanwhile Astra and Sol took #1 and #2 on my object detection benchmark, so I have some awkwardly positive results to share.
-  Engagement: ❤ 320 | 🔁 5 | 💬 67 | 📅 1 | 👁 25.8K
+  Engagement: ❤ 374 | 🔁 5 | 💬 75 | 📅 1 | 👁 34.3K
   Link: https://x.com/thsottiaux/status/2122851449474605281
   Original link: https://x.com/skalskip92/status/2122826476252746149
 
-- Reply at 08:32 Beijing (UTC+8) / 16:32 PST (Nov 17) to @dingchilling: Pretty!
-  Parent post by @dingchilling: GPT-6.2 Astra on the Art Bench! :)
-  Engagement: ❤ 168 | 🔁 1 | 💬 28 | 📅 2 | 👁 13.5K
-  Link: https://x.com/thsottiaux/status/2122850498202271748
-  Original link: https://x.com/dingchilling/status/2122813429941694523
-
-Previous newest item remains the reply at 06:17 Beijing (UTC+8) / 14:17 PST (Nov 17) to @notjazii: Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.
-  Parent post by @notjazii: hate against openai is forced. Positive testing of GPT-6.2 models showing large step up from 6.1, super cheap and efficient, with remaining limits high.
-  Engagement: ❤ 2212 | 🔁 38 | 💬 205 | 📅 54 | 👁 70.0K
-  Link: https://x.com/thsottiaux/status/2122816458711548126
-  Original link: https://x.com/notjazii/status/2122797001465385073
-
-Previous newest item remains the original post at 02:09 Beijing (UTC+8) / 10:09 PST (Nov 17): GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
-  Quotes @OpenAI announcement of GPT-6.2 Astra and Sol.
-  Engagement: ❤ 8760 | 🔁 428 | 💬 1354 | 📅 571 | 👁 609.1K
-  Link: https://x.com/thsottiaux/status/2122753991000133943
-
-Full record for Nov 19: [logs/2026-11-19.md](logs/2026-11-19.md).
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
 Full record for Nov 17: [logs/2026-11-17.md](logs/2026-11-17.md).
 Full record for Nov 16: [logs/2026-11-16.md](logs/2026-11-16.md).
