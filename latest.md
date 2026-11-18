@@ -1,14 +1,26 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 08:04 Beijing time (UTC+8) / 16:04 PST (Nov 17)
+**Scan time**: 2026-11-18 09:06 Beijing time (UTC+8) / 17:06 PST (Nov 17)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+Two new replies:
 
-Newest item remains the reply at 06:17 Beijing (UTC+8) / 14:17 PST (Nov 17) to @notjazii: Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.
+- Reply at 08:36 Beijing (UTC+8) / 16:36 PST (Nov 17) to @skalskip92: Awkward
+  Parent post by @skalskip92: GPT-6.2 is getting roasted on X meanwhile Astra and Sol took #1 and #2 on my object detection benchmark, so I have some awkwardly positive results to share.
+  Engagement: ❤ 195 | 🔁 4 | 💬 46 | 📅 1 | 👁 15.9K
+  Link: https://x.com/thsottiaux/status/2122851449474605281
+  Original link: https://x.com/skalskip92/status/2122826476252746149
+
+- Reply at 08:32 Beijing (UTC+8) / 16:32 PST (Nov 17) to @dingchilling: Pretty!
+  Parent post by @dingchilling: GPT-6.2 Astra on the Art Bench! :)
+  Engagement: ❤ 125 | 🔁 1 | 💬 25 | 📅 2 | 👁 9.5K
+  Link: https://x.com/thsottiaux/status/2122850498202271748
+  Original link: https://x.com/dingchilling/status/2122813429941694523
+
+Previous newest item remains the reply at 06:17 Beijing (UTC+8) / 14:17 PST (Nov 17) to @notjazii: Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.
   Parent post by @notjazii: hate against openai is forced. Positive testing of GPT-6.2 models showing large step up from 6.1, super cheap and efficient, with remaining limits high.
-  Engagement: ❤ 1591 | 🔁 25 | 💬 164 | 📅 44 | 👁 42.5K
+  Engagement: ❤ 1974 | 🔁 34 | 💬 193 | 📅 51 | 👁 58.4K
   Link: https://x.com/thsottiaux/status/2122816458711548126
   Original link: https://x.com/notjazii/status/2122797001465385073
 
