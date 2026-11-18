@@ -1,24 +1,18 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 12:03 Beijing time (UTC+8) / 20:03 PST (Nov 17)
+**Scan time**: 2026-11-18 13:03 Beijing time (UTC+8) / 21:03 PST (Nov 17)
 
 **New activity**: Yes
 
-Two new replies:
+One new reply:
 
-- Reply at 11:58 Beijing (UTC+8) / 19:58 PST (Nov 17) to @adonis_singh: What are they getting wrong? Curious
-  Parent post by @adonis_singh: 6.2-Astra and 6.2-Sol take #1 and #2 on Eyebench! Both are within 2 questions of a perfect score. Sol is also the cheapest model in the top 10, which is quite insane.
-  Engagement: ❤ 22 | 🔁 0 | 💬 13 | 📅 1 | 👁 2.6K
-  Link: https://x.com/thsottiaux/status/2122902327443300537
-  Original link: https://x.com/adonis_singh/status/2122851213993779342
+- Reply at 12:04 Beijing (UTC+8) / 20:04 PST (Nov 17) to @swyx: It's that is the only critique of the launch, I'm glad. It is indeed truly all about efficiency and topline capabilities. We'll highlight more interesting things in the next launch video.
+  Parent post by @swyx: the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch. The model itself is solid minor version improvement focused on efficiency; daily driving it for workflow automation.
+  Engagement: ❤ 245 | 🔁 6 | 💬 50 | 📅 6 | 👁 23.1K
+  Link: https://x.com/thsottiaux/status/2122903687949688912
+  Original link: https://x.com/swyx/status/2122862646265520150
 
-- Reply at 11:14 Beijing (UTC+8) / 19:14 PST (Nov 17) to @JoshPurtell: Beauty is in the eye of the beholder, but clearly the models are polarizing. A bit like we had in the early codex days. These models are clearly extremely capable but have a couple of rough edges that we will sand down over time.
-  Parent post by @JoshPurtell: Days like this I genuinely feel like I live in a different universe from the rest of the world. Saw ubiquitous 6.2 hate / it's over for OpenAI yada yada ... ran the highest-signal autoresearch bench and 6.2 sol/astr are *absolute monsters*. Astra 6.2 saturates it at low effort.
-  Engagement: ❤ 598 | 🔁 15 | 💬 102 | 📅 14 | 👁 34.9K
-  Link: https://x.com/thsottiaux/status/2122891208968294400
-  Original link: https://x.com/JoshPurtell/status/2122852757170213351
-
-Previous newest item remains the replies at 10:31 Beijing (UTC+8) / 18:31 PST (Nov 17) to @arcprize and @pradeepXkapoor.
+Previous newest item remains the replies at 11:58 Beijing (UTC+8) / 19:58 PST (Nov 17) to @adonis_singh and at 11:14 Beijing (UTC+8) / 19:14 PST (Nov 17) to @JoshPurtell.
 
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
 Full record for Nov 17: [logs/2026-11-17.md](logs/2026-11-17.md).
