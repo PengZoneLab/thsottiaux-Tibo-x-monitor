@@ -1,18 +1,30 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 15:03 Beijing time (UTC+8) / 23:03 PST (Nov 17)
+**Scan time**: 2026-11-18 16:03 Beijing time (UTC+8) / 00:03 PST (Nov 18)
 
 **New activity**: Yes
 
-New reply:
+New replies:
 
-- Reply at 14:21 Beijing (UTC+8) / 22:21 PST (Nov 17) to @iruletheworldmo: 👀
-  Parent post by @iruletheworldmo: i have to be consistent because there’s no better benchmark then eci. there’s a strong chance everyone is saying this model is a genius in a week.
-  Engagement: ❤ 124 | 🔁 0 | 💬 48 | 📅 4 | 👁 14.2K
-  Link: https://x.com/thsottiaux/status/2122938155225752015
-  Original link: https://x.com/iruletheworldmo/status/2122895745380491419
+- Reply at 15:24 Beijing (UTC+8) / 23:24 PST (Nov 17) to @mattshumer_: I do think you all coordinated on a slack channel 👀
+  Parent post by @mattshumer_: Why are they all posting reviews at the same time: there's an embargo. Why are the reviews all negative: the model is bad. It's pretty simple, guys. There's no conspiracy. We're just giving our opinions.
+  Engagement: ❤ 172 | 🔁 0 | 💬 41 | 📅 3 | 👁 13.8K
+  Link: https://x.com/thsottiaux/status/2122954129094111394
+  Original link: https://x.com/mattshumer_/status/2122895253468295605
 
-Previous newest items remain the original post at 13:47 Beijing (UTC+8) / 21:47 PST (Nov 17) and its follow-up reply.
+- Reply at 15:23 Beijing (UTC+8) / 23:23 PST (Nov 17) to @The_Alex: Alex, let's go, sorry you have to adapt a bit, but it pays off. Next generation will make it all more natural, in the meantime the raw power is indeed there already.
+  Parent post by @The_Alex: 6.2 Astra is cheap and fast I'll give it that. Had a rough day 1 with it but excited to keep using it and tuning it to my use cases!
+  Engagement: ❤ 167 | 🔁 4 | 💬 30 | 📅 9 | 👁 12.2K
+  Link: https://x.com/thsottiaux/status/2122953953851879880
+  Original link: https://x.com/The_Alex/status/2122945976566690254
+
+- Reply at 15:20 Beijing (UTC+8) / 23:20 PST (Nov 17) to @JamesMalsawm: You need to share the prompt for that one, that's beautiful
+  Parent post by @JamesMalsawm: GPT-6.2 Astra is an INSANE leap over GPT-6 Astra. It's scary how much it has improved. OpenAI is officially back! by the way - $10/$50 vs $8/$40 is this upgrade worth it? (with video)
+  Engagement: ❤ 309 | 🔁 7 | 💬 42 | 📅 11 | 👁 25.3K
+  Link: https://x.com/thsottiaux/status/2122953161921196052
+  Original link: https://x.com/JamesMalsawm/status/2122910168098730290
+
+Previous newest items remain the replies from earlier today.
 
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
 Full record for Nov 17: [logs/2026-11-17.md](logs/2026-11-17.md).
