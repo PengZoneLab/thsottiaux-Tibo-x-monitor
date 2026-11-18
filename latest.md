@@ -1,31 +1,16 @@
 # Latest Scan
 
-**Scan time**: 2026-11-18 07:03 Beijing time (UTC+8) / 15:03 PST (Nov 17)
+**Scan time**: 2026-11-18 08:04 Beijing time (UTC+8) / 16:04 PST (Nov 17)
 
-**New activity**: Yes
+**New activity**: No
 
-Three new replies detected.
+No new posts.
 
-Newest item is a reply at 06:17 Beijing (UTC+8) / 14:17 PST (Nov 17) to @notjazii: Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.
+Newest item remains the reply at 06:17 Beijing (UTC+8) / 14:17 PST (Nov 17) to @notjazii: Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.
   Parent post by @notjazii: hate against openai is forced. Positive testing of GPT-6.2 models showing large step up from 6.1, super cheap and efficient, with remaining limits high.
-  Engagement: ❤ 873 | 🔁 15 | 💬 100 | 📅 20 | 👁 22.5K
+  Engagement: ❤ 1591 | 🔁 25 | 💬 164 | 📅 44 | 👁 42.5K
   Link: https://x.com/thsottiaux/status/2122816458711548126
   Original link: https://x.com/notjazii/status/2122797001465385073
-
-Other new replies:
-
-- Reply at 06:16 Beijing (UTC+8) / 14:16 PST (Nov 17) to @Conor_D_Dart: Much faster too
-  Parent post by @Conor_D_Dart: Testing GPT 6.2 Astra and Sol with nothing negative so far; ignore negative reviews until you test yourself.
-  Engagement: ❤ 160 | 🔁 1 | 💬 34 | 📅 2 | 👁 10.0K
-  Link: https://x.com/thsottiaux/status/2122816053348847795
-  Original link: https://x.com/Conor_D_Dart/status/2122782531292463511
-
-- Reply at 06:14 Beijing (UTC+8) / 14:14 PST (Nov 17) to @AdamHoltererer: What is ClutterBench
-  Parent post by @AdamHoltererer: GPT 6.2 is state-of-the-art on ClutterBench, previously dominated by Claude models.
-  Engagement: ❤ 323 | 🔁 3 | 💬 49 | 📅 6 | 👁 30.1K
-  Media: photo attached (on parent)
-  Link: https://x.com/thsottiaux/status/2122815564821434613
-  Original link: https://x.com/AdamHoltererer/status/2122795736676946429
 
 Previous newest item remains the original post at 02:09 Beijing (UTC+8) / 10:09 PST (Nov 17): GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things.
   Quotes @OpenAI announcement of GPT-6.2 Astra and Sol.
