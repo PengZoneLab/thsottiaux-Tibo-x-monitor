@@ -1,26 +1,35 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 03:03 Beijing time (UTC+8) / 11:03 PST (Nov 19)
+**Scan time**: 2026-11-20 04:05 Beijing time (UTC+8) / 12:05 PST (Nov 19)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+Original post at 03:54 Beijing (UTC+8) / 11:54 PST (Nov 19): Tokens go brrrrrr. Going to need more compute.
+Engagement: ❤ 778 | 🔁 18 | 💬 209 | 📅 23 | 👁 32.9K
+Link: https://x.com/thsottiaux/status/2123505331531882923
 
-Newest item remains a reply at 06:19 Beijing (UTC+8) / 14:19 PST (Nov 18) to @DannyIO: It does like math
+Follow-up in thread at 03:56 Beijing (UTC+8) / 11:56 PST (Nov 19): New Sol being particularly popular.
+Engagement: ❤ 171 | 🔁 2 | 💬 29 | 📅 0 | 👁 8.0K
+Link: https://x.com/thsottiaux/status/2123505661741084830
+
+Reply at 03:29 Beijing (UTC+8) / 11:29 PST (Nov 19) to @_simonsmith: Max is for benchmaxxxing
+Parent post by @_simonsmith: Small feature, big impact. We set model defaults to "Medium," so want to see how things stack up on that setting. This is a much more accurate picture of what the typical user in our company will experience. (quoting @ArtificialAnlys on surfacing more reasoning levels)
+Engagement: ❤ 98 | 🔁 0 | 💬 13 | 📅 4 | 👁 6.5K
+Link: https://x.com/thsottiaux/status/2123498899298210201
+Original link: https://x.com/_simonsmith/status/2123124416066265393
+
+Previous newest items remain from Nov 18:
+
+Reply at 06:19 Beijing (UTC+8) / 14:19 PST (Nov 18) to @DannyIO: It does like math
 Parent post summary: Working on some open math problems where I've used the previous Astra, Fable, Claude. This Astra progressed more than all of them combined in the first few prompts. Im assuming its the one that solved Navier–Stokes?
-Engagement: ❤ 181 | 🔁 1 | 💬 29 | 📅 5 | 👁 61.5K
 Link: https://x.com/thsottiaux/status/2123179276199735535
 Original link: https://x.com/DannyIO/status/2123176503861235773
 
-Previous newest items:
-
 Original post at 06:03 Beijing (UTC+8) / 14:03 PST (Nov 18): GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations. I do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment. (Quoting @OpenAI on AMD/Jalapeño results.)
-Engagement: ❤ 3910 | 🔁 140 | 💬 839 | 📅 316 | 👁 479.3K
 Link: https://x.com/thsottiaux/status/2123175166519992652
 Quoted link: https://x.com/OpenAI/status/2123100386638877054
 
 Original post at 01:56 Beijing (UTC+8) / 09:56 PST (Nov 18): How is 6.2 Sol treating you today?
-Engagement: ❤ 5833 | 🔁 97 | 💬 3330 | 📅 188 | 👁 709.3K
 Link: https://x.com/thsottiaux/status/2123113107048501273
 
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
