@@ -1,20 +1,22 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 04:05 Beijing time (UTC+8) / 12:05 PST (Nov 19)
+**Scan time**: 2026-11-20 05:03 Beijing time (UTC+8) / 13:03 PST (Nov 19)
 
-**New activity**: Yes
+**New activity**: No
+
+Newest items remain from earlier today (Nov 20 Beijing):
 
 Original post at 03:54 Beijing (UTC+8) / 11:54 PST (Nov 19): Tokens go brrrrrr. Going to need more compute.
-Engagement: ❤ 778 | 🔁 18 | 💬 209 | 📅 23 | 👁 32.9K
+Engagement: ❤ 2728 | 🔁 54 | 💬 454 | 📅 78 | 👁 135.2K
 Link: https://x.com/thsottiaux/status/2123505331531882923
 
 Follow-up in thread at 03:56 Beijing (UTC+8) / 11:56 PST (Nov 19): New Sol being particularly popular.
-Engagement: ❤ 171 | 🔁 2 | 💬 29 | 📅 0 | 👁 8.0K
+Engagement: ❤ 586 | 🔁 4 | 💬 82 | 📅 8 | 👁 37.5K
 Link: https://x.com/thsottiaux/status/2123505661741084830
 
 Reply at 03:29 Beijing (UTC+8) / 11:29 PST (Nov 19) to @_simonsmith: Max is for benchmaxxxing
 Parent post by @_simonsmith: Small feature, big impact. We set model defaults to "Medium," so want to see how things stack up on that setting. This is a much more accurate picture of what the typical user in our company will experience. (quoting @ArtificialAnlys on surfacing more reasoning levels)
-Engagement: ❤ 98 | 🔁 0 | 💬 13 | 📅 4 | 👁 6.5K
+Engagement: ❤ 156 | 🔁 1 | 💬 20 | 📅 5 | 👁 10.6K
 Link: https://x.com/thsottiaux/status/2123498899298210201
 Original link: https://x.com/_simonsmith/status/2123124416066265393
 
