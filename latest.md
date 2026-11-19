@@ -1,17 +1,31 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 05:03 Beijing time (UTC+8) / 13:03 PST (Nov 19)
+**Scan time**: 2026-11-20 20:02 Beijing time (UTC+8) / 04:02 PST (Nov 20)
 
-**New activity**: No
+**New activity**: Yes
 
-Newest items remain from earlier today (Nov 20 Beijing):
+New replies from earlier today (Nov 20 Beijing):
+
+Reply at 05:24 Beijing (UTC+8) / 13:24 PST (Nov 19) to @theo: I still count 6 weeks in the year
+Parent post by @theo: It’s the end of 2026. Anthropic recently released a model that’s changed how we code forever. Google put out a great general model that is pleasant to work with. OpenAI put out the most intelligent model ever but it sucks to actually use. (quoting his earlier post about the end of 2025 with OpenAI and Google roles reversed)
+Engagement: ❤ 342 | 🔁 6 | 💬 58 | 📅 7 | 👁 11.6K
+Link: https://x.com/thsottiaux/status/2123527849403674729
+Original link: https://x.com/theo/status/2123509826856878541
+
+Reply at 05:23 Beijing (UTC+8) / 13:23 PST (Nov 19) to @AdamHoltererer: Why did I turn into Dario
+Parent post by @AdamHoltererer: Meme image with progressive portraits of OpenAI model versions (Sam Altman-style faces labeled 5.4 to 6.2 Sol, some scribbled) and Anthropic versions (Dario Amodei-style faces with glasses and curly hair labeled Opus 4.6 to Fable 5.2).
+Engagement: ❤ 758 | 🔁 5 | 💬 55 | 📅 6 | 👁 18.0K
+Link: https://x.com/thsottiaux/status/2123527632700747862
+Original link: https://x.com/AdamHoltererer/status/2123513473539977318
+
+Previous items from earlier today remain:
 
 Original post at 03:54 Beijing (UTC+8) / 11:54 PST (Nov 19): Tokens go brrrrrr. Going to need more compute.
 Engagement: ❤ 2728 | 🔁 54 | 💬 454 | 📅 78 | 👁 135.2K
 Link: https://x.com/thsottiaux/status/2123505331531882923
 
 Follow-up in thread at 03:56 Beijing (UTC+8) / 11:56 PST (Nov 19): New Sol being particularly popular.
-Engagement: ❤ 586 | 🔁 4 | 💬 82 | 📅 8 | 👁 37.5K
+Engagement: ❤ 738 | 🔁 4 | 💬 113 | 📅 15 | 👁 56.3K
 Link: https://x.com/thsottiaux/status/2123505661741084830
 
 Reply at 03:29 Beijing (UTC+8) / 11:29 PST (Nov 19) to @_simonsmith: Max is for benchmaxxxing
