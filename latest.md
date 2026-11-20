@@ -1,15 +1,15 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 20:04 Beijing time (UTC+8) / 04:04 PST (Nov 20)
+**Scan time**: 2026-11-20 21:05 Beijing time (UTC+8) / 05:05 PST (Nov 20)
 
 **New activity**: No
 
 No new posts since the previous scan.
 
 Newest item remains:
-* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 😮
+* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 🫨
   Parent: @tszzl — I own some shares in OpenAI
-  Engagement refreshed: ❤ 57 | 🔁 1 | 💬 16 | 📅 1 | 👁 10.0K
+  Engagement refreshed: ❤ 59 | 🔁 1 | 💬 17 | 📅 1 | 👁 11.8K
   Link: https://x.com/thsottiaux/status/2123693044465906132
   Original link: https://x.com/tszzl/status/2123674801508323586
 
