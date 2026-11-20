@@ -1,19 +1,28 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 03:05 Beijing time (UTC+8) / 11:05 PST (Nov 20)
+**Scan time**: 2026-11-21 04:05 Beijing time (UTC+8) / 12:05 PST (Nov 20)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+Three new items since the previous scan:
 
-Newest item remains:
-* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 😵‍💫
-  Parent: @tszzl — I own some shares in OpenAI
-  Engagement refreshed: ❤ 73 | 🔁 1 | 💬 20 | 📅 3 | 👁 21.3K
-  Link: https://x.com/thsottiaux/status/2123693044465906132
-  Original link: https://x.com/tszzl/status/2123674801508323586
+* Original post at 03:40 Beijing (UTC+8) / 11:40 PST (Nov 20): First tweet from Akshay. Be nice to this one, he’s special.
+  Quoted: @akshaynathan_ — chatgpt app should feel much smoother. let us know where we can improve, lots more to do!
+  Engagement: ❤ 524 | 🔁 7 | 💬 85 | 📅 24 | 👁 44.8K
+  Link: https://x.com/thsottiaux/status/2123864112694509995
+  Quoted link: https://x.com/akshaynathan_/status/2123854751150625144
 
-Previous items remain, including replies in the new ChatGPT mobile experience thread and earlier posts on dots, tokens, and model feedback.
+* Original post at 03:29 Beijing (UTC+8) / 11:29 PST (Nov 20): Team is locked in, upgrade your desktop app. Faster, simpler and a lot more pleasant to use.
+  Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design... much more to come soon!
+  Engagement: ❤ 797 | 🔁 10 | 💬 164 | 📅 69 | 👁 59.2K
+  Link: https://x.com/thsottiaux/status/2123861214644347122
+  Quoted link: https://x.com/ajambrosino/status/2123840812534452296
+
+* Reply at 03:52 Beijing (UTC+8) / 11:52 PST (Nov 20): IS THIS HOW WE COMMUNICATE NOW?
+  Parent: @DallenFrutchey — STOP. USING. CUSTOM. TABBARS. PLEASE
+  Engagement: ❤ 37 | 🔁 0 | 💬 13 | 📅 0 | 👁 2.8K
+  Link: https://x.com/thsottiaux/status/2123867163345961285
+  Original link: https://x.com/DallenFrutchey/status/2123582505039384868
 
 Full record for Nov 21: [logs/2026-11-21.md](logs/2026-11-21.md).
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
