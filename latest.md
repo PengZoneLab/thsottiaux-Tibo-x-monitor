@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 14:02 Beijing time (UTC+8) / 22:02 PST (Nov 19)
+**Scan time**: 2026-11-20 15:04 Beijing time (UTC+8) / 23:04 PST (Nov 19)
 
 **New activity**: No
 
@@ -9,17 +9,17 @@ No new posts since the previous scan.
 Newest items remain:
 
 * Reply at 11:56 Beijing (UTC+8) / 19:56 PST (Nov 19): We have a little leaderboard for pinned tabs and codex moved to top spot in no time
-Engagement: ❤ 50 | 🔁 2 | 💬 8 | 📅 0 | 👁 10.3K
+Engagement: ❤ 72 | 🔁 2 | 💬 9 | 📅 1 | 👁 14.1K
 Link: https://x.com/thsottiaux/status/2123626421138702627
 (In the new ChatGPT mobile experience thread)
 
 * Reply at 11:54 Beijing (UTC+8) / 19:54 PST (Nov 19): Just press home again
-Engagement: ❤ 27 | 🔁 0 | 💬 5 | 📅 1 | 👁 7.6K
+Engagement: ❤ 42 | 🔁 0 | 💬 7 | 📅 1 | 👁 10.1K
 Link: https://x.com/thsottiaux/status/2123626048185336175
 (Replying to @IsaiahJGonzalez in the mobile experience thread)
 
 * Reply at 11:38 Beijing (UTC+8) / 19:38 PST (Nov 19): Mr. Stark, I don't feel so good
-Engagement: ❤ 69 | 🔁 0 | 💬 12 | 📅 3 | 👁 9.3K
+Engagement: ❤ 92 | 🔁 0 | 💬 14 | 📅 3 | 👁 11.6K
 Link: https://x.com/thsottiaux/status/2123621880636883137
 (In @AdamHoltererer conversation; replying to image by @zedsolar123)
 
