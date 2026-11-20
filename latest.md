@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 19:04 Beijing time (UTC+8) / 03:04 PST (Nov 21)
+**Scan time**: 2026-11-21 06:03 Beijing time (UTC+8) / 14:03 PST (Nov 20)
 
 **New activity**: No
 
@@ -10,7 +10,7 @@ Newest item remains:
 
 * Reply at 03:52 Beijing (UTC+8) / 11:52 PST (Nov 20): IS THIS HOW WE COMMUNICATE NOW?
   Parent: @DallenFrutchey — STOP. USING. CUSTOM. TABBARS. PLEASE
-  Engagement refreshed: ❤ 146 | 🔁 0 | 💬 23 | 📅 2 | 👁 8.5K
+  Engagement refreshed: ❤ 184 | 🔁 0 | 💬 27 | 📅 4 | 👁 11.0K
   Link: https://x.com/thsottiaux/status/2123867163345961285
   Original link: https://x.com/DallenFrutchey/status/2123582505039384868
 
