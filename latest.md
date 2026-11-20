@@ -1,42 +1,53 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 07:18 Beijing time (UTC+8) / 15:18 PST (Nov 19)
+**Scan time**: 2026-11-20 08:04 Beijing time (UTC+8) / 16:04 PST (Nov 19)
 
 **New activity**: Yes
 
 New original post:
 
-Original post at 07:17 Beijing (UTC+8) / 15:17 PST (Nov 19): Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. 
+Original post at 07:20 Beijing (UTC+8) / 15:20 PST (Nov 19): We’re also working on a new mobile experience for ChatGPT! 
 
-We’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.
-Engagement: ❤ 137 | 🔁 16 | 💬 56 | 📅 7 | 👁 12.5K
-Link: https://x.com/thsottiaux/status/2123556256392847657
+It’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default. 
+
+You can turn it on or off anytime in Settings > New ChatGPT Design. 
+
+Super excited to hear your feedback before we roll it out more widely! (quoting his earlier post on dots testing and Business Standard rollout)
+Engagement: ❤ 1797 | 🔁 87 | 💬 285 | 📅 319 | 👁 133.8K
+Link: https://x.com/thsottiaux/status/2123557171321561133
+Quoted link: https://x.com/thsottiaux/status/2123556256392847657
 
 Previous items from earlier remain:
 
+Original post at 07:17 Beijing (UTC+8) / 15:17 PST (Nov 19): Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. 
+
+We’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.
+Engagement: ❤ 2316 | 🔁 163 | 💬 386 | 📅 159 | 👁 195.6K
+Link: https://x.com/thsottiaux/status/2123556256392847657
+
 Reply at 05:24 Beijing (UTC+8) / 13:24 PST (Nov 19) to @theo: I still count 6 weeks in the year
 Parent post by @theo: It’s the end of 2026. Anthropic recently released a model that’s changed how we code forever. Google put out a great general model that is pleasant to work with. OpenAI put out the most intelligent model ever but it sucks to actually use. (quoting his earlier post about the end of 2025 with OpenAI and Google roles reversed)
-Engagement: ❤ 1050 | 🔁 18 | 💬 98 | 📅 23 | 👁 30.4K
+Engagement: ❤ 1258 | 🔁 23 | 💬 108 | 📅 31 | 👁 37.8K
 Link: https://x.com/thsottiaux/status/2123527849403674729
 Original link: https://x.com/theo/status/2123509826856878541
 
 Reply at 05:23 Beijing (UTC+8) / 13:23 PST (Nov 19) to @AdamHoltererer: Why did I turn into Dario
 Parent post by @AdamHoltererer: Meme image with progressive portraits of OpenAI model versions (Sam Altman-style faces labeled 5.4 to 6.2 Sol, some scribbled) and Anthropic versions (Dario Amodei-style faces with glasses and curly hair labeled Opus 4.6 to Fable 5.2).
-Engagement: ❤ 1845 | 🔁 12 | 💬 82 | 📅 21 | 👁 48.6K
+Engagement: ❤ 2256 | 🔁 15 | 💬 91 | 📅 30 | 👁 63.8K
 Link: https://x.com/thsottiaux/status/2123527632700747862
 Original link: https://x.com/AdamHoltererer/status/2123513473539977318
 
 Original post at 03:54 Beijing (UTC+8) / 11:54 PST (Nov 19): Tokens go brrrrrr. Going to need more compute.
-Engagement: ❤ 4258 | 🔁 79 | 💬 576 | 📅 133 | 👁 268.4K
+Engagement: ❤ 4543 | 🔁 85 | 💬 600 | 📅 141 | 👁 314.5K
 Link: https://x.com/thsottiaux/status/2123505331531882923
 
 Follow-up in thread at 03:56 Beijing (UTC+8) / 11:56 PST (Nov 19): New Sol being particularly popular.
-Engagement: ❤ 889 | 🔁 5 | 💬 130 | 📅 17 | 👁 77.3K
+Engagement: ❤ 969 | 🔁 7 | 💬 134 | 📅 18 | 👁 93.0K
 Link: https://x.com/thsottiaux/status/2123505661741084830
 
 Reply at 03:29 Beijing (UTC+8) / 11:29 PST (Nov 19) to @_simonsmith: Max is for benchmaxxxing
 Parent post by @_simonsmith: Small feature, big impact. We set model defaults to "Medium," so want to see how things stack up on that setting. This is a much more accurate picture of what the typical user in our company will experience. (quoting @ArtificialAnlys on surfacing more reasoning levels)
-Engagement: ❤ 229 | 🔁 2 | 💬 24 | 📅 6 | 👁 17.3K
+Engagement: ❤ 247 | 🔁 3 | 💬 25 | 📅 6 | 👁 19.5K
 Link: https://x.com/thsottiaux/status/2123498899298210201
 Original link: https://x.com/_simonsmith/status/2123124416066265393
 
