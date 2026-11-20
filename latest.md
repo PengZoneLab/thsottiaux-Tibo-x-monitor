@@ -1,29 +1,16 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 16:04 Beijing time (UTC+8) / 00:04 PST (Nov 20)
+**Scan time**: 2026-11-20 17:03 Beijing time (UTC+8) / 01:03 PST (Nov 20)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 🫨
+  Parent: @tszzl — I own some shares in OpenAI
+  Engagement: ❤ 38 | 🔁 1 | 💬 12 | 📅 1 | 👁 3.7K
+  Link: https://x.com/thsottiaux/status/2123693044465906132
+  Original link: https://x.com/tszzl/status/2123674801508323586
 
-Newest items remain:
-
-* Reply at 11:56 Beijing (UTC+8) / 19:56 PST (Nov 19): We have a little leaderboard for pinned tabs and codex moved to top spot in no time
-Engagement: ❤ 78 | 🔁 2 | 💬 10 | 📅 1 | 👁 17.3K
-Link: https://x.com/thsottiaux/status/2123626421138702627
-(In the new ChatGPT mobile experience thread)
-
-* Reply at 11:54 Beijing (UTC+8) / 19:54 PST (Nov 19): Just press home again
-Engagement: ❤ 46 | 🔁 0 | 💬 8 | 📅 1 | 👁 12.2K
-Link: https://x.com/thsottiaux/status/2123626048185336175
-(Replying to @IsaiahJGonzalez in the mobile experience thread)
-
-* Reply at 11:38 Beijing (UTC+8) / 19:38 PST (Nov 19): Mr. Stark, I don't feel so good
-Engagement: ❤ 105 | 🔁 0 | 💬 14 | 📅 3 | 👁 13.3K
-Link: https://x.com/thsottiaux/status/2123621880636883137
-(In @AdamHoltererer conversation; replying to image by @zedsolar123)
-
-Previous items remain as before, including the mobile experience posts and earlier replies.
+Previous items remain, including replies in the new ChatGPT mobile experience thread and earlier posts on dots, tokens, and model feedback.
 
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
 Full record for Nov 19: [logs/2026-11-19.md](logs/2026-11-19.md).
