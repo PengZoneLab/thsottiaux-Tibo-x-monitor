@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 23:09 Beijing time (UTC+8) / 07:09 PST
+**Scan time**: 2026-11-20 10:04 Beijing time (UTC+8) / 18:04 PST (Nov 19)
 
 **New activity**: No
 
@@ -15,19 +15,19 @@ It’s easier to get to your favorite features and discover what you can do in C
 You can turn it on or off anytime in Settings > New ChatGPT Design. 
 
 Super excited to hear your feedback before we roll it out more widely! (quoting his earlier post on dots testing and Business Standard rollout)
-Engagement: ❤ 2999 | 🔁 149 | 💬 429 | 📅 577 | 👁 273.8K
+Engagement: ❤ 3535 | 🔁 181 | 💬 493 | 📅 696 | 👁 353.3K
 Link: https://x.com/thsottiaux/status/2123557171321561133
 Quoted link: https://x.com/thsottiaux/status/2123556256392847657
 
 Original post at 07:17 Beijing (UTC+8) / 15:17 PST (Nov 19): Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. 
 
 We’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.
-Engagement: ❤ 4204 | 🔁 305 | 💬 614 | 📅 306 | 👁 431.7K
+Engagement: ❤ 4985 | 🔁 355 | 💬 716 | 📅 374 | 👁 560.5K
 Link: https://x.com/thsottiaux/status/2123556256392847657
 
 Reply at 05:24 Beijing (UTC+8) / 13:24 PST (Nov 19) to @theo: I still count 6 weeks in the year
 Parent post by @theo: It’s the end of 2026. Anthropic recently released a model that’s changed how we code forever. Google put out a great general model that is pleasant to work with. OpenAI put out the most intelligent model ever but it sucks to actually use. (quoting his earlier post about the end of 2025 with OpenAI and Google roles reversed)
-Engagement: ❤ 1531 | 🔁 29 | 💬 125 | 📅 36 | 👁 49.6K
+Engagement: ❤ 1690 | 🔁 30 | 💬 130 | 📅 39 | 👁 57.6K
 Link: https://x.com/thsottiaux/status/2123527849403674729
 Original link: https://x.com/theo/status/2123509826856878541
 
