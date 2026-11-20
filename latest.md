@@ -1,20 +1,21 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 21:05 Beijing time (UTC+8) / 05:05 PST (Nov 20)
+**Scan time**: 2026-11-21 12:08 Beijing time (UTC+8) / 20:08 PST (Nov 20)
 
 **New activity**: No
 
 No new posts since the previous scan.
 
 Newest item remains:
-* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 🫨
+* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 😯
   Parent: @tszzl — I own some shares in OpenAI
-  Engagement refreshed: ❤ 59 | 🔁 1 | 💬 17 | 📅 1 | 👁 11.8K
+  Engagement refreshed: ❤ 61 | 🔁 1 | 💬 18 | 📅 2 | 👁 13.6K
   Link: https://x.com/thsottiaux/status/2123693044465906132
   Original link: https://x.com/tszzl/status/2123674801508323586
 
 Previous items remain, including replies in the new ChatGPT mobile experience thread and earlier posts on dots, tokens, and model feedback.
 
+Full record for Nov 21: [logs/2026-11-21.md](logs/2026-11-21.md).
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
 Full record for Nov 19: [logs/2026-11-19.md](logs/2026-11-19.md).
 Full record for Nov 18: [logs/2026-11-18.md](logs/2026-11-18.md).
