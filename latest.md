@@ -1,15 +1,15 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 02:05 Beijing time (UTC+8) / 10:05 PST (Nov 20)
+**Scan time**: 2026-11-21 03:05 Beijing time (UTC+8) / 11:05 PST (Nov 20)
 
 **New activity**: No
 
 No new posts since the previous scan.
 
 Newest item remains:
-* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 😱
+* Reply at 16:20 Beijing (UTC+8) / 00:20 PST (Nov 20): 😵‍💫
   Parent: @tszzl — I own some shares in OpenAI
-  Engagement refreshed: ❤ 73 | 🔁 1 | 💬 19 | 📅 3 | 👁 19.8K
+  Engagement refreshed: ❤ 73 | 🔁 1 | 💬 20 | 📅 3 | 👁 21.3K
   Link: https://x.com/thsottiaux/status/2123693044465906132
   Original link: https://x.com/tszzl/status/2123674801508323586
 
@@ -26,7 +26,7 @@ Full record for Nov 14: [logs/2026-11-14.md](logs/2026-11-14.md).
 Full record for Nov 13: [logs/2026-11-13.md](logs/2026-11-13.md).
 Full record for Nov 12: [logs/2026-11-12.md](logs/2026-11-12.md).
 Full record for Nov 11: [logs/2026-11-11.md](logs/2026-11-11.md).
-Full record for Nov 10: [logs/2026-11-10.md](logs/2026-11-10.md).
+Full record for Nov 10: [logs/2026-10-10.md](logs/2026-10-10.md).
 Full record for Nov 9: [logs/2026-11-09.md](logs/2026-11-09.md).
 Full record for Nov 8: [logs/2026-11-08.md](logs/2026-11-08.md).
 Full record for Nov 7: [logs/2026-11-07.md](logs/2026-11-07.md).
