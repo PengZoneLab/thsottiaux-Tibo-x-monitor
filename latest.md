@@ -1,28 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 04:05 Beijing time (UTC+8) / 12:05 PST (Nov 20)
+**Scan time**: 2026-11-21 19:04 Beijing time (UTC+8) / 03:04 PST (Nov 21)
 
-**New activity**: Yes
+**New activity**: No
 
-Three new items since the previous scan:
+No new posts since the previous scan.
 
-* Original post at 03:40 Beijing (UTC+8) / 11:40 PST (Nov 20): First tweet from Akshay. Be nice to this one, he’s special.
-  Quoted: @akshaynathan_ — chatgpt app should feel much smoother. let us know where we can improve, lots more to do!
-  Engagement: ❤ 524 | 🔁 7 | 💬 85 | 📅 24 | 👁 44.8K
-  Link: https://x.com/thsottiaux/status/2123864112694509995
-  Quoted link: https://x.com/akshaynathan_/status/2123854751150625144
-
-* Original post at 03:29 Beijing (UTC+8) / 11:29 PST (Nov 20): Team is locked in, upgrade your desktop app. Faster, simpler and a lot more pleasant to use.
-  Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design... much more to come soon!
-  Engagement: ❤ 797 | 🔁 10 | 💬 164 | 📅 69 | 👁 59.2K
-  Link: https://x.com/thsottiaux/status/2123861214644347122
-  Quoted link: https://x.com/ajambrosino/status/2123840812534452296
+Newest item remains:
 
 * Reply at 03:52 Beijing (UTC+8) / 11:52 PST (Nov 20): IS THIS HOW WE COMMUNICATE NOW?
   Parent: @DallenFrutchey — STOP. USING. CUSTOM. TABBARS. PLEASE
-  Engagement: ❤ 37 | 🔁 0 | 💬 13 | 📅 0 | 👁 2.8K
+  Engagement refreshed: ❤ 146 | 🔁 0 | 💬 23 | 📅 2 | 👁 8.5K
   Link: https://x.com/thsottiaux/status/2123867163345961285
   Original link: https://x.com/DallenFrutchey/status/2123582505039384868
+
+Previous items remain, including original posts on Akshay's first tweet and the desktop app upgrade, and earlier replies in the new ChatGPT mobile experience thread.
 
 Full record for Nov 21: [logs/2026-11-21.md](logs/2026-11-21.md).
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
