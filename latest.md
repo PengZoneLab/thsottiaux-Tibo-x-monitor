@@ -1,20 +1,19 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 06:03 Beijing time (UTC+8) / 14:03 PST (Nov 20)
+**Scan time**: 2026-11-21 07:04 Beijing time (UTC+8) / 15:04 PST (Nov 20)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+New reply:
 
-Newest item remains:
+* Reply at 06:07 Beijing (UTC+8) / 14:07 PST (Nov 20): But is it true
+  Parent: @theo — Maria please, multiple investors have asked me about this 💀
+  Thread starter: @maria_rcks — T3 aquired
+  Engagement: ❤ 118 | 🔁 0 | 💬 8 | 📅 0 | 👁 7.3K
+  Link: https://x.com/thsottiaux/status/2123901067272618336
+  Original link: https://x.com/theo/status/2123885732330885417
 
-* Reply at 03:52 Beijing (UTC+8) / 11:52 PST (Nov 20): IS THIS HOW WE COMMUNICATE NOW?
-  Parent: @DallenFrutchey — STOP. USING. CUSTOM. TABBARS. PLEASE
-  Engagement refreshed: ❤ 184 | 🔁 0 | 💬 27 | 📅 4 | 👁 11.0K
-  Link: https://x.com/thsottiaux/status/2123867163345961285
-  Original link: https://x.com/DallenFrutchey/status/2123582505039384868
-
-Previous items remain, including original posts on Akshay's first tweet and the desktop app upgrade, and earlier replies in the new ChatGPT mobile experience thread.
+Previous items remain, including the reply to @DallenFrutchey, original posts on Akshay's first tweet and the desktop app upgrade, and earlier replies in the new ChatGPT mobile experience thread.
 
 Full record for Nov 21: [logs/2026-11-21.md](logs/2026-11-21.md).
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
