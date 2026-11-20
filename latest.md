@@ -1,21 +1,27 @@
 # Latest Scan
 
-**Scan time**: 2026-11-20 11:05 Beijing time (UTC+8) / 19:05 PST (Nov 19)
+**Scan time**: 2026-11-20 12:02 Beijing time (UTC+8) / 20:02 PST (Nov 19)
 
 **New activity**: Yes
 
-New original post and follow-up:
+New replies:
 
-* Original post at 11:00 Beijing (UTC+8) / 19:00 PST (Nov 19): Le ChatGPT 2.0 (quoting his earlier post on the new mobile experience for ChatGPT)
-Engagement: ❤ 156 | 🔁 10 | 💬 65 | 📅 9 | 👁 14.4K
-Link: https://x.com/thsottiaux/status/2123612433923051976
-Quoted link: https://x.com/thsottiaux/status/2123557171321561133
+* Reply at 11:56 Beijing (UTC+8) / 19:56 PST (Nov 19): We have a little leaderboard for pinned tabs and codex moved to top spot in no time
+Engagement: ❤ 11 | 🔁 2 | 💬 5 | 📅 0 | 👁 1.3K
+Link: https://x.com/thsottiaux/status/2123626421138702627
+(In the new ChatGPT mobile experience thread)
 
-* Follow-up in thread at 11:02 Beijing (UTC+8) / 19:02 PST (Nov 19): Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.
-Engagement: ❤ 15 | 🔁 1 | 💬 2 | 📅 1 | 👁 21
-Link: https://x.com/thsottiaux/status/2123612889416339762
+* Reply at 11:54 Beijing (UTC+8) / 19:54 PST (Nov 19): Just press home again
+Engagement: ❤ 6 | 🔁 0 | 💬 3 | 📅 1 | 👁 1.4K
+Link: https://x.com/thsottiaux/status/2123626048185336175
+(Replying to @IsaiahJGonzalez in the mobile experience thread)
 
-Previous items remain as before, including the mobile experience posts and replies from earlier today.
+* Reply at 11:38 Beijing (UTC+8) / 19:38 PST (Nov 19): Mr. Stark, I don't feel so good
+Engagement: ❤ 24 | 🔁 0 | 💬 9 | 📅 1 | 👁 2.8K
+Link: https://x.com/thsottiaux/status/2123621880636883137
+(In @AdamHoltererer conversation; replying to image by @zedsolar123)
+
+Previous items remain as before, including the mobile experience posts and earlier replies.
 
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
 Full record for Nov 19: [logs/2026-11-19.md](logs/2026-11-19.md).
