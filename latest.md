@@ -1,21 +1,22 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 12:03 Beijing time (UTC+8) / 20:03 PST (Nov 20)
+**Scan time**: 2026-11-21 13:03 Beijing time (UTC+8) / 21:03 PST (Nov 20)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+New original post:
+* Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
+  Engagement: ❤ 1,263 | 🔁 44 | 💬 328 | 📅 67 | 👁 78.9K
+  Link: https://x.com/thsottiaux/status/2123997735326232775
 
-Newest item remains:
+New reply:
+* Reply at 12:33 Beijing (UTC+8) / 20:33 PST (Nov 20): DYLAN, HI! 👋
+  Parent: @DylanMcD8 — I am SO tired of apps abandoning native tab bars STOP IT
+  Engagement: ❤ 25 | 🔁 0 | 💬 7 | 📅 2 | 👁 4.4K
+  Link: https://x.com/thsottiaux/status/2123998117561532424
+  Original link: https://x.com/DylanMcD8/status/2123613130337214477
 
-* Reply at 06:07 Beijing (UTC+8) / 14:07 PST (Nov 20): But is it true
-  Parent: @theo — Maria please, multiple investors have asked me about this 💀
-  Thread starter: @maria_rcks — T3 aquired
-  Engagement refreshed: ❤ 266 | 🔁 0 | 💬 9 | 📅 1 | 👁 26.0K
-  Link: https://x.com/thsottiaux/status/2123901067272618336
-  Original link: https://x.com/theo/status/2123885732330885417
-
-Previous items remain, including the reply to @DallenFrutchey, original posts on Akshay's first tweet and the desktop app upgrade, and earlier replies in the new ChatGPT mobile experience thread.
+Previous items remain, including the reply to @theo and earlier activity.
 
 Full record for Nov 21: [logs/2026-11-21.md](logs/2026-11-21.md).
 Full record for Nov 20: [logs/2026-11-20.md](logs/2026-11-20.md).
