@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-22 04:03 Beijing time (UTC+8) / 12:03 PST (Nov 21)
+**Scan time**: 2026-11-22 05:02 Beijing time (UTC+8) / 13:02 PST (Nov 21)
 
 **New activity**: No
 
@@ -8,12 +8,12 @@ No new posts.
 
 Newest items remain:
 * Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
-  Engagement: ❤ 8,845 | 🔁 179 | 💬 1,327 | 📅 552 | 👁 955K
+  Engagement: ❤ 8,994 | 🔁 183 | 💬 1,339 | 📅 569 | 👁 975K
   Link: https://x.com/thsottiaux/status/2123997735326232775
 
 * Reply at 12:33 Beijing (UTC+8) / 20:33 PST (Nov 20): DYLAN, HI! 👋
   Parent: @DylanMcD8 — I am SO tired of apps abandoning native tab bars STOP IT
-  Engagement: ❤ 93 | 🔁 0 | 💬 16 | 📅 2 | 👁 25.7K
+  Engagement: ❤ 96 | 🔁 0 | 💬 16 | 📅 2 | 👁 26.9K
   Link: https://x.com/thsottiaux/status/2123998117561532424
   Original link: https://x.com/DylanMcD8/status/2123613130337214477
 
