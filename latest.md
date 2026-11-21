@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-21 08:03 Beijing time (UTC+8) / 16:03 PST (Nov 20)
+**Scan time**: 2026-11-21 09:03 Beijing time (UTC+8) / 17:03 PST (Nov 20)
 
 **New activity**: No
 
@@ -11,7 +11,7 @@ Newest item remains:
 * Reply at 06:07 Beijing (UTC+8) / 14:07 PST (Nov 20): But is it true
   Parent: @theo — Maria please, multiple investors have asked me about this 💀
   Thread starter: @maria_rcks — T3 aquired
-  Engagement refreshed: ❤ 167 | 🔁 0 | 💬 8 | 📅 0 | 👁 12.4K
+  Engagement refreshed: ❤ 213 | 🔁 0 | 💬 8 | 📅 1 | 👁 16.6K
   Link: https://x.com/thsottiaux/status/2123901067272618336
   Original link: https://x.com/theo/status/2123885732330885417
 
