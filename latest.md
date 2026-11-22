@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-22 16:03 Beijing time (UTC+8) / 00:03 PST
+**Scan time**: 2026-11-22 17:05 Beijing time (UTC+8) / 01:05 PST
 
 **New activity**: No
 
@@ -9,13 +9,13 @@ No new posts since the previous scan.
 Newest item remains:
 * Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 21): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
   Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 2,406 | 🔁 70 | 💬 1,233 | 📅 179 | 👁 365K
+  Engagement: ❤ 2,585 | 🔁 76 | 💬 1,319 | 📅 194 | 👁 399K
   Link: https://x.com/thsottiaux/status/2124322968499282388
   Quoted link: https://x.com/ajambrosino/status/2123840812534452296
 
 Previous items remain:
 * Original post at 07:04 Beijing (UTC+8) / 15:04 PST (Nov 21): Going to check out this threads thing
-  Engagement: ❤ 2,538 | 🔁 38 | 💬 450 | 📅 84 | 👁 385.5K
+  Engagement: ❤ 2,629 | 🔁 41 | 💬 462 | 📅 86 | 👁 407K
   Link: https://x.com/thsottiaux/status/2124277855131664869
 
 * Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
@@ -24,7 +24,7 @@ Previous items remain:
 
 * Reply at 12:33 Beijing (UTC+8) / 20:33 PST (Nov 20): DYLAN, HI! 👋
   Parent: @DylanMcD8 — I am SO tired of apps abandoning native tab bars STOP IT
-  Engagement: ❤ 111 | 🔁 0 | 💬 17 | 📅 2 | 👁 40.2K
+  Engagement: ❤ 113 | 🔁 0 | 💬 17 | 📅 2 | 👁 41K
   Link: https://x.com/thsottiaux/status/2123998117561532424
   Original link: https://x.com/DylanMcD8/status/2123613130337214477
 
