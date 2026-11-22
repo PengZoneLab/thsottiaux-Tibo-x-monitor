@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-23 01:03 Beijing time (UTC+8) / 09:03 PST
+**Scan time**: 2026-11-23 02:03 Beijing time (UTC+8) / 10:03 PST
 
 **New activity**: No
 
@@ -9,7 +9,7 @@ No new posts since the previous scan.
 Newest item remains:
 * Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 22): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
   Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 3,395 | 🔁 100 | 💬 1,737 | 📅 265 | 👁 608K
+  Engagement: ❤ 3,463 | 🔁 103 | 💬 1,772 | 📅 275 | 👁 627K
   Link: https://x.com/thsottiaux/status/2124322968499282388
   Quoted link: https://x.com/ajambrosino/status/2123840812534452296
 
