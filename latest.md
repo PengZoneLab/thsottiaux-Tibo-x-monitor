@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-22 14:03 Beijing time (UTC+8) / 22:03 PST (Nov 21)
+**Scan time**: 2026-11-22 15:03 Beijing time (UTC+8) / 23:03 PST (Nov 21)
 
 **New activity**: No
 
@@ -9,13 +9,13 @@ No new posts since the previous scan.
 Newest item remains:
 * Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 21): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
   Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 2,087 | 🔁 63 | 💬 1,081 | 📅 156 | 👁 282.2K
+  Engagement: ❤ 2,265 | 🔁 70 | 💬 1,162 | 📅 171 | 👁 325.3K
   Link: https://x.com/thsottiaux/status/2124322968499282388
   Quoted link: https://x.com/ajambrosino/status/2123840812534452296
 
 Previous items remain:
 * Original post at 07:04 Beijing (UTC+8) / 15:04 PST (Nov 21): Going to check out this threads thing
-  Engagement: ❤ 2,326 | 🔁 37 | 💬 430 | 📅 80 | 👁 339.8K
+  Engagement: ❤ 2,443 | 🔁 37 | 💬 442 | 📅 82 | 👁 363.5K
   Link: https://x.com/thsottiaux/status/2124277855131664869
 
 * Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
@@ -24,7 +24,7 @@ Previous items remain:
 
 * Reply at 12:33 Beijing (UTC+8) / 20:33 PST (Nov 20): DYLAN, HI! 👋
   Parent: @DylanMcD8 — I am SO tired of apps abandoning native tab bars STOP IT
-  Engagement: ❤ 111 | 🔁 0 | 💬 17 | 📅 2 | 👁 38.6K
+  Engagement: ❤ 111 | 🔁 0 | 💬 17 | 📅 2 | 👁 39.4K
   Link: https://x.com/thsottiaux/status/2123998117561532424
   Original link: https://x.com/DylanMcD8/status/2123613130337214477
 
