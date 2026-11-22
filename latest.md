@@ -1,30 +1,37 @@
 # Latest Scan
 
-**Scan time**: 2026-11-23 05:03 Beijing time (UTC+8) / 13:03 PST
+**Scan time**: 2026-11-23 06:03 Beijing time (UTC+8) / 14:03 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+* Original post (retweet) at 05:21 Beijing (UTC+8) / 13:21 PST (Nov 22): RT @feedthejim: If you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster!
 
-Newest item remains:
+We basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :)
+
+I figured I'd share some of my favorite changes!
+  Original: @feedthejim — If you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster! We basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :) I figured I'd share some of my favorite changes! (quoting @akshaynathan_: chatgpt app should feel much smoother. let us know where we can improve, lots more to do!)
+  Engagement: ❤ 0 | 🔁 19 | 💬 0 | 📅 0 | 👁 16.7K
+  Link: https://x.com/thsottiaux/status/2124614364535922870
+  Original link: https://x.com/feedthejim/status/2124603578019086484
+
+Previous items remain:
 * Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 22): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
   Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 3,606 | 🔁 108 | 💬 1,855 | 📅 290 | 👁 665K
+  Engagement: ❤ 3,642 | 🔁 110 | 💬 1,880 | 📅 296 | 👁 678K
   Link: https://x.com/thsottiaux/status/2124322968499282388
   Quoted link: https://x.com/ajambrosino/status/2123840812534452296
 
-Previous items remain:
 * Original post at 07:04 Beijing (UTC+8) / 15:04 PST (Nov 22): Going to check out this threads thing
-  Engagement: ❤ 3,172 | 🔁 48 | 💬 511 | 📅 111 | 👁 570K
+  Engagement: ❤ 3,202 | 🔁 48 | 💬 513 | 📅 111 | 👁 577K
   Link: https://x.com/thsottiaux/status/2124277855131664869
 
 * Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
-  Engagement: ❤ 10,520 | 🔁 204 | 💬 1,473 | 📅 711 | 👁 1.31M
+  Engagement: ❤ 10,604 | 🔁 205 | 💬 1,477 | 📅 720 | 👁 1.33M
   Link: https://x.com/thsottiaux/status/2123997735326232775
 
 * Reply at 12:33 Beijing (UTC+8) / 20:33 PST (Nov 20): DYLAN, HI! 👋
   Parent: @DylanMcD8 — I am SO tired of apps abandoning native tab bars STOP IT
-  Engagement: ❤ 118 | 🔁 0 | 💬 21 | 📅 3 | 👁 49.7K
+  Engagement: ❤ 119 | 🔁 1 | 💬 21 | 📅 3 | 👁 50.4K
   Link: https://x.com/thsottiaux/status/2123998117561532424
   Original link: https://x.com/DylanMcD8/status/2123613130337214477
 
