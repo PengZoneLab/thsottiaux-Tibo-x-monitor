@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-23 12:03 Beijing time (UTC+8) / 20:03 PST
+**Scan time**: 2026-11-23 13:02 Beijing time (UTC+8) / 21:02 PST
 
 **New activity**: No
 
@@ -13,18 +13,18 @@ We basically challenged ourselves to land as many wins as possible in a week and
 
 I figured I'd share some of my favorite changes!
   Original: @feedthejim — If you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster! We basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :) I figured I'd share some of my favorite changes! (quoting @akshaynathan_: chatgpt app should feel much smoother. let us know where we can improve, lots more to do!)
-  Engagement: ❤ 0 | 🔁 39 | 💬 0 | 📅 0 | 👁 28.4K
+  Engagement: ❤ 0 | 🔁 42 | 💬 0 | 📅 0 | 👁 29.2K
   Link: https://x.com/thsottiaux/status/2124614364535922870
   Original link: https://x.com/feedthejim/status/2124603578019086484
 
 * Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 22): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
   Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 3,819 | 🔁 115 | 💬 2,003 | 📅 316 | 👁 769K
+  Engagement: ❤ 3,838 | 🔁 115 | 💬 2,022 | 📅 317 | 👁 781K
   Link: https://x.com/thsottiaux/status/2124322968499282388
   Quoted link: https://x.com/ajambrosino/status/2123840812534452296
 
 * Original post at 07:04 Beijing (UTC+8) / 15:04 PST (Nov 22): Going to check out this threads thing
-  Engagement: ❤ 3,332 | 🔁 50 | 💬 533 | 📅 114 | 👁 634K
+  Engagement: ❤ 3,355 | 🔁 50 | 💬 534 | 📅 114 | 👁 643K
   Link: https://x.com/thsottiaux/status/2124277855131664869
 
 * Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
