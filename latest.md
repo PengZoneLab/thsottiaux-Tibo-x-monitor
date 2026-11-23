@@ -1,32 +1,26 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 02:03 Beijing time (UTC+8) / 10:03 PST
+**Scan time**: 2026-11-24 03:03 Beijing time (UTC+8) / 11:03 PST
 
-**New activity**: Yes
+**New activity**: No
 
-### Original post
+No new posts since the previous scan.
+
+### Most recent original post
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST
 **Content**: Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.
 **Quoted**: @_samirism — quick recap of dots improvements we rolled out over the past few days, starting with a new home for your dot in the latest ChatGPT app. (with video)
-**Engagement**: ❤ 589 | 🔁 15 | 💬 245 | 📅 46 | 👁 50.7K
+**Engagement**: ❤ 1398 | 🔁 42 | 💬 480 | 📅 139 | 👁 131.3K
 **Link**: https://x.com/thsottiaux/status/2124923055072043052
 **Quoted link**: https://x.com/_samirism/status/2124862749247189124
 
-### Reply
+### Most recent reply
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST
 **Content**: Charlie is in the hunt
 **Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 26 | 🔁 0 | 💬 5 | 📅 0 | 👁 4.8K
+**Engagement**: ❤ 60 | 🔁 0 | 💬 9 | 📅 1 | 👁 10.6K
 **Link**: https://x.com/thsottiaux/status/2124923142762361133
 **Original link**: https://x.com/charliermarsh/status/2124507314384146925
-
-### Reply
-**Time**: 01:45 Beijing (UTC+8) / 09:45 PST
-**Content**: Sign up for ChatGPT Business: https://chatgpt.com/pricing/?type=team
-**Original post**: @thsottiaux — New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. Already on Business? We will have a gift for you, too. Stay tuned 👀 (with video)
-**Engagement**: ❤ 73 | 🔁 2 | 💬 13 | 📅 12 | 👁 22.0K
-**Link**: https://x.com/thsottiaux/status/2124922412219486443
-**Original link**: https://x.com/thsottiaux/status/2124922313019953319
 
 Previous items remain available in the logs.
 
