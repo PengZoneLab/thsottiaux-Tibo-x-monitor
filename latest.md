@@ -1,16 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 06:03 Beijing time (UTC+8) / 14:03 PST
+**Scan time**: 2026-11-24 07:04 Beijing time (UTC+8) / 15:04 PST
 
-**New activity**: No
+**New activity**: Yes (1 original post)
 
-No new posts since the previous scan.
+### New original post
+**Time**: 06:48 Beijing (UTC+8) / 14:48 PST
+**Content**: You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.
 
-### Most recent original post
+Together with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year.
+**Quoted**: @ChatGPT — We’re rolling out a version of GPT-6.2 Sol in the Chat tab, optimized for everyday conversation. It’s much better at handling complex requests, especially when you give it detailed instructions or ask it to find information online. (with video)
+**Engagement**: ❤ 838 | 🔁 34 | 💬 179 | 📅 65 | 👁 47.8K
+**Link**: https://x.com/thsottiaux/status/2124998553856844186
+**Quoted link**: https://x.com/ChatGPT/status/2124942186425069836
+
+### Previous most recent original post
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST
 **Content**: Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.
 **Quoted**: @_samirism — quick recap of dots improvements we rolled out over the past few days, starting with a new home for your dot in the latest ChatGPT app. (with video)
-**Engagement**: ❤ 1997 | 🔁 60 | 💬 656 | 📅 204 | 👁 197.4K
+**Engagement**: ❤ 2129 | 🔁 61 | 💬 680 | 📅 216 | 👁 216.8K
 **Link**: https://x.com/thsottiaux/status/2124923055072043052
 **Quoted link**: https://x.com/_samirism/status/2124862749247189124
 
@@ -18,7 +26,7 @@ No new posts since the previous scan.
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST
 **Content**: Charlie is in the hunt
 **Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 79 | 🔁 0 | 💬 15 | 📅 2 | 👁 15.3K
+**Engagement**: ❤ 80 | 🔁 0 | 💬 17 | 📅 2 | 👁 16.8K
 **Link**: https://x.com/thsottiaux/status/2124923142762361133
 **Original link**: https://x.com/charliermarsh/status/2124507314384146925
 
