@@ -1,41 +1,34 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 01:06 Beijing time (UTC+8) / 09:06 PST
+**Scan time**: 2026-11-24 02:03 Beijing time (UTC+8) / 10:03 PST
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts.
+### Original post
+**Time**: 01:48 Beijing (UTC+8) / 09:48 PST
+**Content**: Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.
+**Quoted**: @_samirism — quick recap of dots improvements we rolled out over the past few days, starting with a new home for your dot in the latest ChatGPT app. (with video)
+**Engagement**: ❤ 589 | 🔁 15 | 💬 245 | 📅 46 | 👁 50.7K
+**Link**: https://x.com/thsottiaux/status/2124923055072043052
+**Quoted link**: https://x.com/_samirism/status/2124862749247189124
 
-Previous items remain:
-* Original post (retweet) at 05:21 Beijing (UTC+8) / 13:21 PST (Nov 23): RT @feedthejim: If you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster!
+### Reply
+**Time**: 01:48 Beijing (UTC+8) / 09:48 PST
+**Content**: Charlie is in the hunt
+**Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
+**Engagement**: ❤ 26 | 🔁 0 | 💬 5 | 📅 0 | 👁 4.8K
+**Link**: https://x.com/thsottiaux/status/2124923142762361133
+**Original link**: https://x.com/charliermarsh/status/2124507314384146925
 
-We basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :)
+### Reply
+**Time**: 01:45 Beijing (UTC+8) / 09:45 PST
+**Content**: Sign up for ChatGPT Business: https://chatgpt.com/pricing/?type=team
+**Original post**: @thsottiaux — New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. Already on Business? We will have a gift for you, too. Stay tuned 👀 (with video)
+**Engagement**: ❤ 73 | 🔁 2 | 💬 13 | 📅 12 | 👁 22.0K
+**Link**: https://x.com/thsottiaux/status/2124922412219486443
+**Original link**: https://x.com/thsottiaux/status/2124922313019953319
 
-I figured I'd share some of my favorite changes!
-  Original: @feedthejim — If you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster! We basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :) I figured I'd share some of my favorite changes! (quoting @akshaynathan_: chatgpt app should feel much smoother. let us know where we can improve, lots more to do!)
-  Engagement: ❤ 0 | 🔁 50 | 💬 0 | 📅 0 | 👁 33.8K
-  Link: https://x.com/thsottiaux/status/2124614364535922870
-  Original link: https://x.com/feedthejim/status/2124603578019086484
-
-* Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 22): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
-  Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 4,044 | 🔁 121 | 💬 2,266 | 📅 335 | 👁 906K
-  Link: https://x.com/thsottiaux/status/2124322968499282388
-  Quoted link: https://x.com/ajambrosino/status/2123840812534452296
-
-* Original post at 07:04 Beijing (UTC+8) / 15:04 PST (Nov 22): Going to check out this threads thing
-  Engagement: ❤ 3,475 | 🔁 50 | 💬 553 | 📅 117 | 👁 729K
-  Link: https://x.com/thsottiaux/status/2124277855131664869
-
-* Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
-  Engagement: ❤ 10,756 | 🔁 209 | 💬 1,489 | 📅 734 | 👁 1.37M
-  Link: https://x.com/thsottiaux/status/2123997735326232775
-
-* Reply at 12:33 Beijing (UTC+8) / 20:33 PST (Nov 20): DYLAN, HI! 👋
-  Parent: @DylanMcD8 — I am SO tired of apps abandoning native tab bars STOP IT
-  Engagement: ❤ 122 | 🔁 1 | 💬 24 | 📅 3 | 👁 58.9K
-  Link: https://x.com/thsottiaux/status/2123998117561532424
-  Original link: https://x.com/DylanMcD8/status/2123613130337214477
+Previous items remain available in the logs.
 
 Full record for Nov 24: [logs/2026-11-24.md](logs/2026-11-24.md).
 Full record for Nov 23: [logs/2026-11-23.md](logs/2026-11-23.md).
