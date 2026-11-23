@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 04:03 Beijing time (UTC+8) / 12:03 PST
+**Scan time**: 2026-11-24 05:03 Beijing time (UTC+8) / 13:03 PST
 
 **New activity**: No
 
@@ -10,7 +10,7 @@ No new posts since the previous scan.
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST
 **Content**: Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.
 **Quoted**: @_samirism — quick recap of dots improvements we rolled out over the past few days, starting with a new home for your dot in the latest ChatGPT app. (with video)
-**Engagement**: ❤ 1689 | 🔁 50 | 💬 566 | 📅 171 | 👁 160.5K
+**Engagement**: ❤ 1854 | 🔁 56 | 💬 615 | 📅 189 | 👁 180.2K
 **Link**: https://x.com/thsottiaux/status/2124923055072043052
 **Quoted link**: https://x.com/_samirism/status/2124862749247189124
 
@@ -18,7 +18,7 @@ No new posts since the previous scan.
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST
 **Content**: Charlie is in the hunt
 **Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 69 | 🔁 0 | 💬 14 | 📅 2 | 👁 12.5K
+**Engagement**: ❤ 75 | 🔁 0 | 💬 15 | 📅 2 | 👁 13.9K
 **Link**: https://x.com/thsottiaux/status/2124923142762361133
 **Original link**: https://x.com/charliermarsh/status/2124507314384146925
 
