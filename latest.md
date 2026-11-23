@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-23 23:17 Beijing time (UTC+8) / 07:17 PST
+**Scan time**: 2026-11-24 00:09 Beijing time (UTC+8) / 08:09 PST
 
 **New activity**: No
 
@@ -19,12 +19,12 @@ I figured I'd share some of my favorite changes!
 
 * Original post at 10:03 Beijing (UTC+8) / 18:03 PST (Nov 22): Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?
   Quoted: @ajambrosino — NEW: ChatGPT Space for Plus! new, simpler visual design across the app huge performance improvements everywhere completely rebuilt threads– better perf and design redesigned Space home much faster pages and slides edit pages on mobile more reliable Codex Remote much more to come soon! (with video)
-  Engagement: ❤ 4,016 | 🔁 121 | 💬 2,233 | 📅 332 | 👁 887K
+  Engagement: ❤ 4,034 | 🔁 121 | 💬 2,246 | 📅 334 | 👁 896K
   Link: https://x.com/thsottiaux/status/2124322968499282388
   Quoted link: https://x.com/ajambrosino/status/2123840812534452296
 
 * Original post at 07:04 Beijing (UTC+8) / 15:04 PST (Nov 22): Going to check out this threads thing
-  Engagement: ❤ 3,461 | 🔁 50 | 💬 552 | 📅 117 | 👁 716K
+  Engagement: ❤ 3,470 | 🔁 50 | 💬 553 | 📅 117 | 👁 722K
   Link: https://x.com/thsottiaux/status/2124277855131664869
 
 * Original post at 12:31 Beijing (UTC+8) / 20:31 PST (Nov 20): We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.
@@ -37,6 +37,7 @@ I figured I'd share some of my favorite changes!
   Link: https://x.com/thsottiaux/status/2123998117561532424
   Original link: https://x.com/DylanMcD8/status/2123613130337214477
 
+Full record for Nov 24: [logs/2026-11-24.md](logs/2026-11-24.md).
 Full record for Nov 23: [logs/2026-11-23.md](logs/2026-11-23.md).
 Full record for Nov 22: [logs/2026-11-22.md](logs/2026-11-22.md).
 Full record for Nov 21: [logs/2026-11-21.md](logs/2026-11-21.md).
