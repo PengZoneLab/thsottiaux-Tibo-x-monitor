@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 19:03 Beijing time (UTC+8) / 03:03 PST
+**Scan time**: 2026-11-25 10:04 Beijing time (UTC+8) / 18:04 PST (Nov 24)
 
 **New activity**: No
 
@@ -10,7 +10,7 @@
 
 Everything needs to be built to be operated safely by aligned agents at machine speed.
 **Quoted**: @OpenAI — We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. (with photo)
-**Engagement**: ❤ 1258 | 🔁 56 | 💬 335 | 📅 160 | 👁 160.0K
+**Engagement**: ❤ 1441 | 🔁 63 | 💬 362 | 📅 183 | 👁 184.3K
 **Link**: https://x.com/thsottiaux/status/2125141302501417232
 **Quoted link**: https://x.com/OpenAI/status/2124980590717911527
 
@@ -18,7 +18,7 @@ Everything needs to be built to be operated safely by aligned agents at machine 
 **Time**: 08:43 Beijing (UTC+8) / 16:43 PST (Nov 23)
 **Content**: Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on
 **Quoted**: @OpenAI — In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review. Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream. (with video)
-**Engagement**: ❤ 1835 | 🔁 61 | 💬 319 | 📅 344 | 👁 268.1K
+**Engagement**: ❤ 1885 | 🔁 62 | 💬 320 | 📅 352 | 👁 277.6K
 **Link**: https://x.com/thsottiaux/status/2125027477877887231
 **Quoted link**: https://x.com/OpenAI/status/2125007927098699827
 
@@ -32,6 +32,7 @@ Everything needs to be built to be operated safely by aligned agents at machine 
 
 Previous items remain available in the logs.
 
+Full record for Nov 25: [logs/2026-11-25.md](logs/2026-11-25.md).
 Full record for Nov 24: [logs/2026-11-24.md](logs/2026-11-24.md).
 Full record for Nov 23: [logs/2026-11-23.md](logs/2026-11-23.md).
 Full record for Nov 22: [logs/2026-11-22.md](logs/2026-11-22.md).
