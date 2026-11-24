@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 11:07 Beijing time (UTC+8) / 19:07 PST (Nov 24)
+**Scan time**: 2026-11-24 22:06 Beijing time (UTC+8) / 06:06 PST
 
 **New activity**: No
 
@@ -10,7 +10,7 @@
 
 Everything needs to be built to be operated safely by aligned agents at machine speed.
 **Quoted**: @OpenAI — We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. (with photo)
-**Engagement**: ❤ 1562 | 🔁 68 | 💬 394 | 📅 201 | 👁 206.1K
+**Engagement**: ❤ 1682 | 🔁 70 | 💬 409 | 📅 223 | 👁 223.3K
 **Link**: https://x.com/thsottiaux/status/2125141302501417232
 **Quoted link**: https://x.com/OpenAI/status/2124980590717911527
 
@@ -18,7 +18,7 @@ Everything needs to be built to be operated safely by aligned agents at machine 
 **Time**: 08:43 Beijing (UTC+8) / 16:43 PST (Nov 23)
 **Content**: Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on
 **Quoted**: @OpenAI — In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review. Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream. (with video)
-**Engagement**: ❤ 1932 | 🔁 62 | 💬 326 | 📅 364 | 👁 287.2K
+**Engagement**: ❤ 1974 | 🔁 63 | 💬 327 | 📅 371 | 👁 295.6K
 **Link**: https://x.com/thsottiaux/status/2125027477877887231
 **Quoted link**: https://x.com/OpenAI/status/2125007927098699827
 
