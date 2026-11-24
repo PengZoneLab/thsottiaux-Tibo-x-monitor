@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 18:03 Beijing time (UTC+8) / 02:03 PST
+**Scan time**: 2026-11-24 19:03 Beijing time (UTC+8) / 03:03 PST
 
 **New activity**: No
 
@@ -10,7 +10,7 @@
 
 Everything needs to be built to be operated safely by aligned agents at machine speed.
 **Quoted**: @OpenAI — We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. (with photo)
-**Engagement**: ❤ 1063 | 🔁 49 | 💬 279 | 📅 142 | 👁 131.4K
+**Engagement**: ❤ 1258 | 🔁 56 | 💬 335 | 📅 160 | 👁 160.0K
 **Link**: https://x.com/thsottiaux/status/2125141302501417232
 **Quoted link**: https://x.com/OpenAI/status/2124980590717911527
 
@@ -18,7 +18,7 @@ Everything needs to be built to be operated safely by aligned agents at machine 
 **Time**: 08:43 Beijing (UTC+8) / 16:43 PST (Nov 23)
 **Content**: Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on
 **Quoted**: @OpenAI — In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review. Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream. (with video)
-**Engagement**: ❤ 1789 | 🔁 60 | 💬 312 | 📅 336 | 👁 259.0K
+**Engagement**: ❤ 1835 | 🔁 61 | 💬 319 | 📅 344 | 👁 268.1K
 **Link**: https://x.com/thsottiaux/status/2125027477877887231
 **Quoted link**: https://x.com/OpenAI/status/2125007927098699827
 
@@ -26,7 +26,7 @@ Everything needs to be built to be operated safely by aligned agents at machine 
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST (Nov 23)
 **Content**: Charlie is in the hunt
 **Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 95 | 🔁 0 | 💬 19 | 📅 3 | 👁 32.6K
+**Engagement**: ❤ 96 | 🔁 0 | 💬 20 | 📅 3 | 👁 34.8K
 **Link**: https://x.com/thsottiaux/status/2124923142762361133
 **Original link**: https://x.com/charliermarsh/status/2124507314384146925
 
