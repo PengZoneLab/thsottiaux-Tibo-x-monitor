@@ -1,32 +1,32 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 16:04 Beijing time (UTC+8) / 00:04 PST
+**Scan time**: 2026-11-24 17:10 Beijing time (UTC+8) / 01:10 PST
 
-**New activity**: No
+**New activity**: Yes (1 original post)
 
 ### Most recent original post
+**Time**: 16:15 Beijing (UTC+8) / 00:15 PST
+**Content**: We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity.
+
+Everything needs to be built to be operated safely by aligned agents at machine speed.
+**Quoted**: @OpenAI — We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. (with photo)
+**Engagement**: ❤ 811 | 🔁 39 | 💬 205 | 📅 104 | 👁 97.2K
+**Link**: https://x.com/thsottiaux/status/2125141302501417232
+**Quoted link**: https://x.com/OpenAI/status/2124980590717911527
+
+### Previous original post
 **Time**: 08:43 Beijing (UTC+8) / 16:43 PST (Nov 23)
 **Content**: Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on
 **Quoted**: @OpenAI — In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review. Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream. (with video)
-**Engagement**: ❤ 1668 | 🔁 59 | 💬 296 | 📅 309 | 👁 232.9K
+**Engagement**: ❤ 1754 | 🔁 59 | 💬 311 | 📅 329 | 👁 249.5K
 **Link**: https://x.com/thsottiaux/status/2125027477877887231
 **Quoted link**: https://x.com/OpenAI/status/2125007927098699827
-
-### Previous original post
-**Time**: 06:48 Beijing (UTC+8) / 14:48 PST (Nov 23)
-**Content**: You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.
-
-Together with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year.
-**Quoted**: @ChatGPT — We’re rolling out a version of GPT-6.2 Sol in the Chat tab, optimized for everyday conversation. It’s much better at handling complex requests, especially when you give it detailed instructions or ask it to find information online. (with video)
-**Engagement**: ❤ 4570 | 🔁 144 | 💬 891 | 📅 407 | 👁 530.7K
-**Link**: https://x.com/thsottiaux/status/2124998553856844186
-**Quoted link**: https://x.com/ChatGPT/status/2124942186425069836
 
 ### Most recent reply
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST (Nov 23)
 **Content**: Charlie is in the hunt
 **Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 95 | 🔁 0 | 💬 19 | 📅 3 | 👁 31.0K
+**Engagement**: ❤ 95 | 🔁 0 | 💬 19 | 📅 3 | 👁 32.6K
 **Link**: https://x.com/thsottiaux/status/2124923142762361133
 **Original link**: https://x.com/charliermarsh/status/2124507314384146925
 
