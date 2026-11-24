@@ -1,11 +1,19 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 15:06 Beijing time (UTC+8) / 23:06 PST (Nov 24)
+**Scan time**: 2026-11-25 16:03 Beijing time (UTC+8) / 00:03 PST
 
-**New activity**: No
+**New activity**: Yes
 
 ### Most recent original post
-**Time**: 16:15 Beijing (UTC+8) / 00:15 PST
+**Time**: 01:46 Beijing (UTC+8) / 09:46 PST (Nov 24)
+**Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly.
+
+Let us know what you think and where we can improve!
+**Engagement**: ❤ 1041 | 🔁 45 | 💬 532 | 📅 61 | 👁 59.4K
+**Link**: https://x.com/thsottiaux/status/2125284868414394550
+
+### Previous original post
+**Time**: 16:15 Beijing (UTC+8) / 00:15 PST (Nov 24)
 **Content**: We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity.
 
 Everything needs to be built to be operated safely by aligned agents at machine speed.
@@ -13,14 +21,6 @@ Everything needs to be built to be operated safely by aligned agents at machine 
 **Engagement**: ❤ 1964 | 🔁 84 | 💬 464 | 📅 254 | 👁 270.5K
 **Link**: https://x.com/thsottiaux/status/2125141302501417232
 **Quoted link**: https://x.com/OpenAI/status/2124980590717911527
-
-### Previous original post
-**Time**: 08:43 Beijing (UTC+8) / 16:43 PST (Nov 23)
-**Content**: Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on
-**Quoted**: @OpenAI — In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review. Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream. (with video)
-**Engagement**: ❤ 2095 | 🔁 68 | 💬 331 | 📅 391 | 👁 321.4K
-**Link**: https://x.com/thsottiaux/status/2125027477877887231
-**Quoted link**: https://x.com/OpenAI/status/2125007927098699827
 
 ### Most recent reply
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST (Nov 23)
