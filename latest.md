@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-24 14:03 Beijing time (UTC+8) / 22:03 PST (Nov 23)
+**Scan time**: 2026-11-24 15:05 Beijing time (UTC+8) / 23:05 PST (Nov 23)
 
 **New activity**: No
 
@@ -8,7 +8,7 @@
 **Time**: 08:43 Beijing (UTC+8) / 16:43 PST (Nov 23)
 **Content**: Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on
 **Quoted**: @OpenAI — In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review. Our researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream. (with video)
-**Engagement**: ❤ 1462 | 🔁 52 | 💬 267 | 📅 266 | 👁 199.2K
+**Engagement**: ❤ 1577 | 🔁 57 | 💬 279 | 📅 285 | 👁 217.4K
 **Link**: https://x.com/thsottiaux/status/2125027477877887231
 **Quoted link**: https://x.com/OpenAI/status/2125007927098699827
 
@@ -18,7 +18,7 @@
 
 Together with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year.
 **Quoted**: @ChatGPT — We’re rolling out a version of GPT-6.2 Sol in the Chat tab, optimized for everyday conversation. It’s much better at handling complex requests, especially when you give it detailed instructions or ask it to find information online. (with video)
-**Engagement**: ❤ 4153 | 🔁 129 | 💬 808 | 📅 377 | 👁 463.1K
+**Engagement**: ❤ 4380 | 🔁 134 | 💬 849 | 📅 393 | 👁 499.7K
 **Link**: https://x.com/thsottiaux/status/2124998553856844186
 **Quoted link**: https://x.com/ChatGPT/status/2124942186425069836
 
@@ -26,7 +26,7 @@ Together with all the investments we are making across simplifying the app, maki
 **Time**: 01:48 Beijing (UTC+8) / 09:48 PST (Nov 23)
 **Content**: Charlie is in the hunt
 **Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 92 | 🔁 0 | 💬 19 | 📅 3 | 👁 28.4K
+**Engagement**: ❤ 93 | 🔁 0 | 💬 19 | 📅 3 | 👁 29.8K
 **Link**: https://x.com/thsottiaux/status/2124923142762361133
 **Original link**: https://x.com/charliermarsh/status/2124507314384146925
 
