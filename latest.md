@@ -1,34 +1,37 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 16:03 Beijing time (UTC+8) / 00:03 PST
+**Scan time**: 2026-11-25 03:03 Beijing time (UTC+8) / 11:03 PST
 
 **New activity**: Yes
 
 ### Most recent original post
+**Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
+**Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
+**Engagement**: ❤ 915 | 🔁 36 | 💬 241 | 📅 63 | 👁 62.5K
+**Link**: https://x.com/thsottiaux/status/2125299248782778588
+
+### Previous original post
 **Time**: 01:46 Beijing (UTC+8) / 09:46 PST (Nov 24)
 **Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly.
 
 Let us know what you think and where we can improve!
-**Engagement**: ❤ 1041 | 🔁 45 | 💬 532 | 📅 61 | 👁 59.4K
+**Engagement**: ❤ 2830 | 🔁 88 | 💬 1161 | 📅 180 | 👁 197.1K
 **Link**: https://x.com/thsottiaux/status/2125284868414394550
 
-### Previous original post
-**Time**: 16:15 Beijing (UTC+8) / 00:15 PST (Nov 24)
-**Content**: We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity.
+### Most recent replies
+**Time**: 02:44 Beijing (UTC+8) / 10:44 PST (Nov 24)
+**His words**: Sign up for ChatGPT Business: https://chatgpt.com/pricing/?type=team
+**Original post**: @thsottiaux — To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
+**Engagement**: ❤ 58 | 🔁 0 | 💬 15 | 📅 3 | 👁 15.4K
+**Link**: https://x.com/thsottiaux/status/2125299467691987445
+**Original link**: https://x.com/thsottiaux/status/2125299248782778588
 
-Everything needs to be built to be operated safely by aligned agents at machine speed.
-**Quoted**: @OpenAI — We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI. (with photo)
-**Engagement**: ❤ 1964 | 🔁 84 | 💬 464 | 📅 254 | 👁 270.5K
-**Link**: https://x.com/thsottiaux/status/2125141302501417232
-**Quoted link**: https://x.com/OpenAI/status/2124980590717911527
-
-### Most recent reply
-**Time**: 01:48 Beijing (UTC+8) / 09:48 PST (Nov 23)
-**Content**: Charlie is in the hunt
-**Original post**: @charliermarsh — In the latest Codex release, Code Mode calls get 10ms faster via tool catalog reuse across cells. This happens billions of times a day. If you are waste in the harness I will hunt you down.
-**Engagement**: ❤ 96 | 🔁 0 | 💬 20 | 📅 3 | 👁 34.8K
-**Link**: https://x.com/thsottiaux/status/2124923142762361133
-**Original link**: https://x.com/charliermarsh/status/2124507314384146925
+**Time**: 02:44 Beijing (UTC+8) / 10:44 PST (Nov 24)
+**His words**: (video)
+**Original post**: @thsottiaux — To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
+**Engagement**: ❤ 68 | 🔁 1 | 💬 17 | 📅 0 | 👁 11.0K
+**Link**: https://x.com/thsottiaux/status/2125299436964479474
+**Original link**: https://x.com/thsottiaux/status/2125299248782778588
 
 Previous items remain available in the logs.
 
