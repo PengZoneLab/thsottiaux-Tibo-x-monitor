@@ -1,13 +1,21 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 06:03 Beijing time (UTC+8) / 14:03 PST (Nov 24)
+**Scan time**: 2026-11-25 07:03 Beijing time (UTC+8) / 15:03 PST (Nov 24)
 
-**New activity**: No
+**New activity**: Yes (1 reply)
+
+### Most recent reply
+**Time**: 06:19 Beijing (UTC+8) / 14:19 PST (Nov 24)
+**His words**: Team is shipping
+**Original post**: @AzianMike — 🦃 This Thanksgiving, I'm thankful for the OpenAI team always shipping. We just launched 2 new things in the Agents API, right in time for Black Friday! Budget controls and pre-warmed pool of sandboxes.
+**Engagement**: ❤ 113 | 🔁 1 | 💬 37 | 📅 3 | 👁 12.5K
+**Link**: https://x.com/thsottiaux/status/2125353693474365742
+**Original link**: https://x.com/AzianMike/status/2125321024153739495
 
 ### Most recent original post
 **Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
 **Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 3063 | 🔁 89 | 💬 580 | 📅 264 | 👁 274.1K
+**Engagement**: ❤ 3436 | 🔁 99 | 💬 626 | 📅 309 | 👁 323.8K
 **Link**: https://x.com/thsottiaux/status/2125299248782778588
 
 ### Previous original post
@@ -15,23 +23,8 @@
 **Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly.
 
 Let us know what you think and where we can improve!
-**Engagement**: ❤ 2830 | 🔁 88 | 💬 1161 | 📅 180 | 👁 197.1K
+**Engagement**: ❤ 4829 | 🔁 170 | 💬 1869 | 📅 336 | 👁 463.3K
 **Link**: https://x.com/thsottiaux/status/2125284868414394550
-
-### Most recent replies
-**Time**: 02:44 Beijing (UTC+8) / 10:44 PST (Nov 24)
-**His words**: Sign up for ChatGPT Business: https://chatgpt.com/pricing/?type=team
-**Original post**: @thsottiaux — To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 134 | 🔁 2 | 💬 20 | 📅 15 | 👁 49.7K
-**Link**: https://x.com/thsottiaux/status/2125299467691987445
-**Original link**: https://x.com/thsottiaux/status/2125299248782778588
-
-**Time**: 02:44 Beijing (UTC+8) / 10:44 PST (Nov 24)
-**His words**: (video)
-**Original post**: @thsottiaux — To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 195 | 🔁 6 | 💬 29 | 📅 5 | 👁 46.8K
-**Link**: https://x.com/thsottiaux/status/2125299436964479474
-**Original link**: https://x.com/thsottiaux/status/2125299248782778588
 
 Previous items remain available in the logs.
 
