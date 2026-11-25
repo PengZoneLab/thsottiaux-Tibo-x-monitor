@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-26 05:03 Beijing time (UTC+8) / 13:03 PST (Nov 25)
+**Scan time**: 2026-11-26 06:04 Beijing time (UTC+8) / 14:04 PST (Nov 25)
 
 **New activity**: No
 
@@ -10,7 +10,7 @@ No new posts since the previous scan.
 **Time**: 03:49 Beijing (UTC+8) / 11:49 PST (Nov 25)
 **His words**: This man is unstoppable
 **Original post**: @charliermarsh — Over the past two weeks, we reduced baseline memory use in the ChatGPT desktop app by over 40%. Here's each release measured after five minutes on macOS.
-**Engagement**: ❤ 227 | 🔁 2 | 💬 29 | 📅 6 | 👁 13.9K
+**Engagement**: ❤ 264 | 🔁 2 | 💬 31 | 📅 6 | 👁 16.5K
 **Link**: https://x.com/thsottiaux/status/2125678401541583217
 **Original link**: https://x.com/charliermarsh/status/2125675768231727399
 
@@ -18,7 +18,7 @@ No new posts since the previous scan.
 **Time**: 03:48 Beijing (UTC+8) / 11:48 PST (Nov 25)
 **His words**: Welcome to the team! So much to do 👀
 **Original post**: @trq212 — I've joined OpenAI! (announcing move from Anthropic)
-**Engagement**: ❤ 986 | 🔁 5 | 💬 37 | 📅 8 | 👁 34.9K
+**Engagement**: ❤ 1329 | 🔁 6 | 💬 44 | 📅 11 | 👁 51.4K
 **Link**: https://x.com/thsottiaux/status/2125678021848019454
 **Original link**: https://x.com/trq212/status/2125675533761671405
 
@@ -26,14 +26,14 @@ No new posts since the previous scan.
 **Time**: 15:39 Beijing (UTC+8) / 23:39 PST (Nov 24)
 **His words**: very tool of you
 **Original post**: @jxnlco — so tool have have worked on this with the team (YouTube link)
-**Engagement**: ❤ 166 | 🔁 0 | 💬 46 | 📅 3 | 👁 50.3K
+**Engagement**: ❤ 167 | 🔁 0 | 💬 46 | 📅 3 | 👁 50.9K
 **Link**: https://x.com/thsottiaux/status/2125494608826372329
 **Original link**: https://x.com/jxnlco/status/2125301550155186457
 
 ### Most recent original post
 **Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
 **Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 6321 | 🔁 186 | 💬 1368 | 📅 564 | 👁 1.0M
+**Engagement**: ❤ 6493 | 🔁 190 | 💬 1430 | 📅 572 | 👁 1.1M
 **Link**: https://x.com/thsottiaux/status/2125299248782778588
 
 ### Previous original post
@@ -41,7 +41,7 @@ No new posts since the previous scan.
 **Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. 
 
 Let us know what you think and where we can improve!
-**Engagement**: ❤ 7252 | 🔁 248 | 💬 3181 | 📅 518 | 👁 1.3M
+**Engagement**: ❤ 7436 | 🔁 250 | 💬 3287 | 📅 531 | 👁 1.3M
 **Link**: https://x.com/thsottiaux/status/2125284868414394550
 
 Previous items remain available in the logs.
