@@ -1,14 +1,14 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 09:03 Beijing time (UTC+8) / 17:03 PST (Nov 24)
+**Scan time**: 2026-11-25 10:03 Beijing time (UTC+8) / 18:03 PST (Nov 24)
 
-**New activity**: Yes (2 replies)
+**New activity**: No
 
 ### Most recent reply
 **Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
 **His words**: Wait, is that true?
 **Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
-**Engagement**: ❤ 127 | 🔁 1 | 💬 30 | 📅 1 | 👁 13.1K
+**Engagement**: ❤ 403 | 🔁 5 | 💬 52 | 📅 11 | 👁 39.9K
 **Link**: https://x.com/thsottiaux/status/2125388306842255694
 **Original link**: https://x.com/TokenGremlin/status/2125343598090522778
 
@@ -16,7 +16,7 @@
 **Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
 **His words**: 👀
 **Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
-**Engagement**: ❤ 54 | 🔁 0 | 💬 14 | 📅 1 | 👁 7.5K
+**Engagement**: ❤ 76 | 🔁 0 | 💬 16 | 📅 1 | 👁 10.0K
 **Link**: https://x.com/thsottiaux/status/2125387147633189101
 **Original link**: https://x.com/danshipper/status/2125370884382990747
 
