@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 12:05 Beijing time (UTC+8) / 20:05 PST (Nov 24)
+**Scan time**: 2026-11-25 13:02 Beijing time (UTC+8) / 21:02 PST (Nov 24)
 
 **New activity**: No
 
@@ -8,7 +8,7 @@
 **Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
 **His words**: Wait, is that true?
 **Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
-**Engagement**: ❤ 671 | 🔁 6 | 💬 65 | 📅 20 | 👁 77.6K
+**Engagement**: ❤ 765 | 🔁 6 | 💬 70 | 📅 22 | 👁 91.6K
 **Link**: https://x.com/thsottiaux/status/2125388306842255694
 **Original link**: https://x.com/TokenGremlin/status/2125343598090522778
 
@@ -16,7 +16,7 @@
 **Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
 **His words**: 👀
 **Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
-**Engagement**: ❤ 92 | 🔁 0 | 💬 19 | 📅 2 | 👁 13.3K
+**Engagement**: ❤ 96 | 🔁 0 | 💬 21 | 📅 2 | 👁 14.5K
 **Link**: https://x.com/thsottiaux/status/2125387147633189101
 **Original link**: https://x.com/danshipper/status/2125370884382990747
 
@@ -24,14 +24,14 @@
 **Time**: 06:19 Beijing (UTC+8) / 14:19 PST (Nov 24)
 **His words**: Team is shipping
 **Original post**: @AzianMike — 🦃 This Thanksgiving, I'm thankful for the OpenAI team always shipping. We just launched 2 new things in the Agents API, right in time for Black Friday! Budget controls and pre-warmed pool of sandboxes.
-**Engagement**: ❤ 161 | 🔁 1 | 💬 46 | 📅 3 | 👁 22.4K
+**Engagement**: ❤ 166 | 🔁 1 | 💬 47 | 📅 3 | 👁 23.5K
 **Link**: https://x.com/thsottiaux/status/2125353693474365742
 **Original link**: https://x.com/AzianMike/status/2125321024153739495
 
 ### Most recent original post
 **Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
 **Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 4628 | 🔁 136 | 💬 880 | 📅 426 | 👁 573.7K
+**Engagement**: ❤ 5064 | 🔁 150 | 💬 1002 | 📅 457 | 👁 671.9K
 **Link**: https://x.com/thsottiaux/status/2125299248782778588
 
 ### Previous original post
@@ -39,7 +39,7 @@
 **Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly.
 
 Let us know what you think and where we can improve!
-**Engagement**: ❤ 6060 | 🔁 206 | 💬 2443 | 📅 422 | 👁 785.7K
+**Engagement**: ❤ 6371 | 🔁 214 | 💬 2613 | 📅 442 | 👁 895.5K
 **Link**: https://x.com/thsottiaux/status/2125284868414394550
 
 Previous items remain available in the logs.
