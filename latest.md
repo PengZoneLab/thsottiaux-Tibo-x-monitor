@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 13:02 Beijing time (UTC+8) / 21:02 PST (Nov 24)
+**Scan time**: 2026-11-25 14:04 Beijing time (UTC+8) / 22:04 PST (Nov 24)
 
 **New activity**: No
 
@@ -8,7 +8,7 @@
 **Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
 **His words**: Wait, is that true?
 **Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
-**Engagement**: ❤ 765 | 🔁 6 | 💬 70 | 📅 22 | 👁 91.6K
+**Engagement**: ❤ 836 | 🔁 6 | 💬 70 | 📅 23 | 👁 104.9K
 **Link**: https://x.com/thsottiaux/status/2125388306842255694
 **Original link**: https://x.com/TokenGremlin/status/2125343598090522778
 
@@ -16,7 +16,7 @@
 **Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
 **His words**: 👀
 **Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
-**Engagement**: ❤ 96 | 🔁 0 | 💬 21 | 📅 2 | 👁 14.5K
+**Engagement**: ❤ 106 | 🔁 0 | 💬 21 | 📅 2 | 👁 15.6K
 **Link**: https://x.com/thsottiaux/status/2125387147633189101
 **Original link**: https://x.com/danshipper/status/2125370884382990747
 
@@ -24,7 +24,7 @@
 **Time**: 06:19 Beijing (UTC+8) / 14:19 PST (Nov 24)
 **His words**: Team is shipping
 **Original post**: @AzianMike — 🦃 This Thanksgiving, I'm thankful for the OpenAI team always shipping. We just launched 2 new things in the Agents API, right in time for Black Friday! Budget controls and pre-warmed pool of sandboxes.
-**Engagement**: ❤ 166 | 🔁 1 | 💬 47 | 📅 3 | 👁 23.5K
+**Engagement**: ❤ 169 | 🔁 1 | 💬 47 | 📅 3 | 👁 24.5K
 **Link**: https://x.com/thsottiaux/status/2125353693474365742
 **Original link**: https://x.com/AzianMike/status/2125321024153739495
 
