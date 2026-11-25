@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-26 02:04 Beijing time (UTC+8) / 10:04 PST (Nov 25)
+**Scan time**: 2026-11-26 03:03 Beijing time (UTC+8) / 11:03 PST (Nov 25)
 
 **New activity**: No
 
@@ -8,7 +8,7 @@
 **Time**: 15:39 Beijing (UTC+8) / 23:39 PST (Nov 24)
 **His words**: very tool of you
 **Original post**: @jxnlco — so tool have have worked on this with the team (YouTube link)
-**Engagement**: ❤ 163 | 🔁 0 | 💬 44 | 📅 3 | 👁 47.0K
+**Engagement**: ❤ 164 | 🔁 0 | 💬 45 | 📅 3 | 👁 48.4K
 **Link**: https://x.com/thsottiaux/status/2125494608826372329
 **Original link**: https://x.com/jxnlco/status/2125301550155186457
 
@@ -16,7 +16,7 @@
 **Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
 **His words**: Wait, is that true?
 **Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
-**Engagement**: ❤ 1264 | 🔁 6 | 💬 85 | 📅 33 | 👁 188.0K
+**Engagement**: ❤ 1275 | 🔁 6 | 💬 86 | 📅 33 | 👁 190.4K
 **Link**: https://x.com/thsottiaux/status/2125388306842255694
 **Original link**: https://x.com/TokenGremlin/status/2125343598090522778
 
@@ -24,7 +24,7 @@
 **Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
 **His words**: 👀
 **Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
-**Engagement**: ❤ 140 | 🔁 0 | 💬 23 | 📅 2 | 👁 23.6K
+**Engagement**: ❤ 142 | 🔁 0 | 💬 23 | 📅 2 | 👁 24.0K
 **Link**: https://x.com/thsottiaux/status/2125387147633189101
 **Original link**: https://x.com/danshipper/status/2125370884382990747
 
