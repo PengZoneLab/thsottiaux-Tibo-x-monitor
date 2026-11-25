@@ -1,16 +1,24 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 08:04 Beijing time (UTC+8) / 16:04 PST (Nov 24)
+**Scan time**: 2026-11-25 09:03 Beijing time (UTC+8) / 17:03 PST (Nov 24)
 
-**New activity**: No
+**New activity**: Yes (2 replies)
 
 ### Most recent reply
-**Time**: 06:19 Beijing (UTC+8) / 14:19 PST (Nov 24)
-**His words**: Team is shipping
-**Original post**: @AzianMike — 🦃 This Thanksgiving, I'm thankful for the OpenAI team always shipping. We just launched 2 new things in the Agents API, right in time for Black Friday! Budget controls and pre-warmed pool of sandboxes.
-**Engagement**: ❤ 131 | 🔁 1 | 💬 43 | 📅 3 | 👁 15.4K
-**Link**: https://x.com/thsottiaux/status/2125353693474365742
-**Original link**: https://x.com/AzianMike/status/2125321024153739495
+**Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
+**His words**: Wait, is that true?
+**Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
+**Engagement**: ❤ 127 | 🔁 1 | 💬 30 | 📅 1 | 👁 13.1K
+**Link**: https://x.com/thsottiaux/status/2125388306842255694
+**Original link**: https://x.com/TokenGremlin/status/2125343598090522778
+
+### Previous reply
+**Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
+**His words**: 👀
+**Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
+**Engagement**: ❤ 54 | 🔁 0 | 💬 14 | 📅 1 | 👁 7.5K
+**Link**: https://x.com/thsottiaux/status/2125387147633189101
+**Original link**: https://x.com/danshipper/status/2125370884382990747
 
 ### Most recent original post
 **Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
