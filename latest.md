@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 22:07 Beijing time (UTC+8) / 06:07 PST
+**Scan time**: 2026-11-25 23:04 Beijing time (UTC+8) / 07:04 PST
 
 **New activity**: No
 
@@ -8,7 +8,7 @@
 **Time**: 15:39 Beijing (UTC+8) / 23:39 PST (Nov 24)
 **His words**: very tool of you
 **Original post**: @jxnlco — so tool have have worked on this with the team (YouTube link)
-**Engagement**: ❤ 152 | 🔁 0 | 💬 42 | 📅 3 | 👁 39.1K
+**Engagement**: ❤ 154 | 🔁 0 | 💬 42 | 📅 3 | 👁 41.2K
 **Link**: https://x.com/thsottiaux/status/2125494608826372329
 **Original link**: https://x.com/jxnlco/status/2125301550155186457
 
@@ -16,7 +16,7 @@
 **Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
 **His words**: Wait, is that true?
 **Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
-**Engagement**: ❤ 1187 | 🔁 6 | 💬 82 | 📅 31 | 👁 172.2K
+**Engagement**: ❤ 1210 | 🔁 6 | 💬 82 | 📅 32 | 👁 176.4K
 **Link**: https://x.com/thsottiaux/status/2125388306842255694
 **Original link**: https://x.com/TokenGremlin/status/2125343598090522778
 
@@ -24,22 +24,22 @@
 **Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
 **His words**: 👀
 **Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
-**Engagement**: ❤ 132 | 🔁 0 | 💬 23 | 📅 2 | 👁 21.6K
+**Engagement**: ❤ 135 | 🔁 0 | 💬 23 | 📅 2 | 👁 22.1K
 **Link**: https://x.com/thsottiaux/status/2125387147633189101
 **Original link**: https://x.com/danshipper/status/2125370884382990747
 
 ### Most recent original post
 **Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
 **Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 5838 | 🔁 171 | 💬 1248 | 📅 513 | 👁 876.0K
+**Engagement**: ❤ 6169 | 🔁 181 | 💬 1334 | 📅 547 | 👁 979.1K
 **Link**: https://x.com/thsottiaux/status/2125299248782778588
 
 ### Previous original post
 **Time**: 01:46 Beijing (UTC+8) / 09:46 PST (Nov 24)
-**Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly.
+**Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. 
 
 Let us know what you think and where we can improve!
-**Engagement**: ❤ 6928 | 🔁 237 | 💬 2943 | 📅 480 | 👁 1.1M
+**Engagement**: ❤ 7141 | 🔁 244 | 💬 3097 | 📅 513 | 👁 1.2M
 **Link**: https://x.com/thsottiaux/status/2125284868414394550
 
 Previous items remain available in the logs.
