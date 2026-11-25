@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-25 23:04 Beijing time (UTC+8) / 07:04 PST
+**Scan time**: 2026-11-26 00:05 Beijing time (UTC+8) / 08:05 PST (Nov 25)
 
 **New activity**: No
 
@@ -8,7 +8,7 @@
 **Time**: 15:39 Beijing (UTC+8) / 23:39 PST (Nov 24)
 **His words**: very tool of you
 **Original post**: @jxnlco — so tool have have worked on this with the team (YouTube link)
-**Engagement**: ❤ 154 | 🔁 0 | 💬 42 | 📅 3 | 👁 41.2K
+**Engagement**: ❤ 157 | 🔁 0 | 💬 42 | 📅 3 | 👁 43.1K
 **Link**: https://x.com/thsottiaux/status/2125494608826372329
 **Original link**: https://x.com/jxnlco/status/2125301550155186457
 
@@ -16,7 +16,7 @@
 **Time**: 08:37 Beijing (UTC+8) / 16:37 PST (Nov 24)
 **His words**: Wait, is that true?
 **Original post**: @TokenGremlin — NO FUCKING WAY. Bro left Anthropic, played WoW for several weeks, probably had some fun playing GTA 6, and then joined OpenAI. OpenAI now has two former KEY Anthropic employees. The creator of Claude Code for Desktop (@amorriscode) and Anthropic's former Tibo (@trq212). The potential for Codex improvements is insane. We should start seeing them soon. (quoting news of Thariq Shihipar joining OpenAI)
-**Engagement**: ❤ 1210 | 🔁 6 | 💬 82 | 📅 32 | 👁 176.4K
+**Engagement**: ❤ 1224 | 🔁 6 | 💬 85 | 📅 32 | 👁 180.5K
 **Link**: https://x.com/thsottiaux/status/2125388306842255694
 **Original link**: https://x.com/TokenGremlin/status/2125343598090522778
 
@@ -24,7 +24,7 @@
 **Time**: 08:32 Beijing (UTC+8) / 16:32 PST (Nov 24)
 **His words**: 👀
 **Original post**: @danshipper — VIBE SHIFT: most of us @every have stopped using Duet... just not improving fast enough, and competitors like Dots are very good
-**Engagement**: ❤ 135 | 🔁 0 | 💬 23 | 📅 2 | 👁 22.1K
+**Engagement**: ❤ 137 | 🔁 0 | 💬 23 | 📅 2 | 👁 22.7K
 **Link**: https://x.com/thsottiaux/status/2125387147633189101
 **Original link**: https://x.com/danshipper/status/2125370884382990747
 
@@ -44,6 +44,7 @@ Let us know what you think and where we can improve!
 
 Previous items remain available in the logs.
 
+Full record for Nov 26: [logs/2026-11-26.md](logs/2026-11-26.md).
 Full record for Nov 25: [logs/2026-11-25.md](logs/2026-11-25.md).
 Full record for Nov 24: [logs/2026-11-24.md](logs/2026-11-24.md).
 Full record for Nov 23: [logs/2026-11-23.md](logs/2026-11-23.md).
