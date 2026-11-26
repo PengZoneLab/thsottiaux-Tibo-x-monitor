@@ -1,26 +1,26 @@
 # Latest Scan
 
-**Scan time**: 2026-11-27 03:04 Beijing time (UTC+8) / 11:04 PST (Nov 26)
+**Scan time**: 2026-11-27 04:04 Beijing time (UTC+8) / 12:04 PST (Nov 26)
 
 **New activity**: No
 
 ### Most recent original post
 **Time**: 15:26 Beijing (UTC+8) / 23:26 PST (Nov 25)
 **Content**: Banked reset is online
-**Engagement**: ❤ 6919 | 🔁 177 | 💬 1355 | 📅 129 | 👁 607.7K
+**Engagement**: ❤ 7107 | 🔁 178 | 💬 1374 | 📅 131 | 👁 623.7K
 **Link**: https://x.com/thsottiaux/status/2125853628250599730
 
 ### Previous original post
 **Time**: 10:50 Beijing (UTC+8) / 18:50 PST (Nov 25)
 **Content**: We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage. As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.
-**Engagement**: ❤ 17100 | 🔁 892 | 💬 5766 | 📅 2502 | 👁 4.89M
+**Engagement**: ❤ 17303 | 🔁 898 | 💬 5811 | 📅 2538 | 👁 5.05M
 **Link**: https://x.com/thsottiaux/status/2125784147889393806
 
 ### Most recent reply
 **Time**: 03:49 Beijing (UTC+8) / 11:49 PST (Nov 25)
 **His words**: This man is unstoppable
 **Original post**: @charliermarsh — Over the past two weeks, we reduced baseline memory use in the ChatGPT desktop app by over 40%. Here's each release measured after five minutes on macOS.
-**Engagement**: ❤ 471 | 🔁 2 | 💬 51 | 📅 6 | 👁 59.0K
+**Engagement**: ❤ 472 | 🔁 2 | 💬 51 | 📅 6 | 👁 59.9K
 **Link**: https://x.com/thsottiaux/status/2125678401541583217
 **Original link**: https://x.com/charliermarsh/status/2125675768231727399
 
@@ -28,23 +28,9 @@
 **Time**: 03:48 Beijing (UTC+8) / 11:48 PST (Nov 25)
 **His words**: Welcome to the team! So much to do 👀
 **Original post**: @trq212 — I've joined OpenAI! (announcing move from Anthropic)
-**Engagement**: ❤ 2760 | 🔁 10 | 💬 68 | 📅 28 | 👁 166.9K
+**Engagement**: ❤ 2824 | 🔁 10 | 💬 69 | 📅 28 | 👁 176.1K
 **Link**: https://x.com/thsottiaux/status/2125678021848019454
 **Original link**: https://x.com/trq212/status/2125675533761671405
-
-### Earlier reply
-**Time**: 15:39 Beijing (UTC+8) / 23:39 PST (Nov 24)
-**His words**: very tool of you
-**Original post**: @jxnlco — so tool have have worked on this with the team (YouTube link)
-**Engagement**: ❤ 174 | 🔁 0 | 💬 47 | 📅 3 | 👁 62.1K
-**Link**: https://x.com/thsottiaux/status/2125494608826372329
-**Original link**: https://x.com/jxnlco/status/2125301550155186457
-
-### Previous original post
-**Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
-**Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
-**Engagement**: ❤ 6753 | 🔁 203 | 💬 1519 | 📅 596 | 👁 1.29M
-**Link**: https://x.com/thsottiaux/status/2125299248782778588
 
 Previous items remain available in the logs.
 
