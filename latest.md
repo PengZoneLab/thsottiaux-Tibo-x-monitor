@@ -1,16 +1,20 @@
 # Latest Scan
 
-**Scan time**: 2026-11-26 10:03 Beijing time (UTC+8) / 18:03 PST (Nov 25)
+**Scan time**: 2026-11-26 12:02 Beijing time (UTC+8) / 20:02 PST (Nov 25)
 
-**New activity**: No
+**New activity**: Yes
 
-No new posts since the previous scan.
+### Most recent original post
+**Time**: 10:50 Beijing (UTC+8) / 18:50 PST (Nov 25)
+**Content**: We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage. As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.
+**Engagement**: ❤ 4784 | 🔁 357 | 💬 2126 | 📅 540 | 👁 482.4K
+**Link**: https://x.com/thsottiaux/status/2125784147889393806
 
 ### Most recent reply
 **Time**: 03:49 Beijing (UTC+8) / 11:49 PST (Nov 25)
 **His words**: This man is unstoppable
 **Original post**: @charliermarsh — Over the past two weeks, we reduced baseline memory use in the ChatGPT desktop app by over 40%. Here's each release measured after five minutes on macOS.
-**Engagement**: ❤ 357 | 🔁 2 | 💬 38 | 📅 6 | 👁 30.0K
+**Engagement**: ❤ 399 | 🔁 2 | 💬 44 | 📅 6 | 👁 35.8K
 **Link**: https://x.com/thsottiaux/status/2125678401541583217
 **Original link**: https://x.com/charliermarsh/status/2125675768231727399
 
@@ -18,7 +22,7 @@ No new posts since the previous scan.
 **Time**: 03:48 Beijing (UTC+8) / 11:48 PST (Nov 25)
 **His words**: Welcome to the team! So much to do 👀
 **Original post**: @trq212 — I've joined OpenAI! (announcing move from Anthropic)
-**Engagement**: ❤ 2047 | 🔁 9 | 💬 59 | 📅 15 | 👁 99.2K
+**Engagement**: ❤ 2264 | 🔁 10 | 💬 60 | 📅 21 | 👁 117.2K
 **Link**: https://x.com/thsottiaux/status/2125678021848019454
 **Original link**: https://x.com/trq212/status/2125675533761671405
 
@@ -30,19 +34,11 @@ No new posts since the previous scan.
 **Link**: https://x.com/thsottiaux/status/2125494608826372329
 **Original link**: https://x.com/jxnlco/status/2125301550155186457
 
-### Most recent original post
+### Previous original post
 **Time**: 02:43 Beijing (UTC+8) / 10:43 PST (Nov 24)
 **Content**: To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!
 **Engagement**: ❤ 6587 | 🔁 194 | 💬 1485 | 📅 579 | 👁 1.1M
 **Link**: https://x.com/thsottiaux/status/2125299248782778588
-
-### Previous original post
-**Time**: 01:46 Beijing (UTC+8) / 09:46 PST (Nov 24)
-**Content**: Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. 
-
-Let us know what you think and where we can improve!
-**Engagement**: ❤ 7546 | 🔁 252 | 💬 3358 | 📅 537 | 👁 1.4M
-**Link**: https://x.com/thsottiaux/status/2125284868414394550
 
 Previous items remain available in the logs.
 
