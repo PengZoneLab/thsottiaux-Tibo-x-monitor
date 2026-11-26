@@ -1,6 +1,6 @@
 # Latest Scan
 
-**Scan time**: 2026-11-26 08:05 Beijing time (UTC+8) / 16:05 PST (Nov 25)
+**Scan time**: 2026-11-26 09:03 Beijing time (UTC+8) / 17:03 PST (Nov 25)
 
 **New activity**: No
 
@@ -10,7 +10,7 @@ No new posts since the previous scan.
 **Time**: 03:49 Beijing (UTC+8) / 11:49 PST (Nov 25)
 **His words**: This man is unstoppable
 **Original post**: @charliermarsh — Over the past two weeks, we reduced baseline memory use in the ChatGPT desktop app by over 40%. Here's each release measured after five minutes on macOS.
-**Engagement**: ❤ 321 | 🔁 2 | 💬 33 | 📅 6 | 👁 22.5K
+**Engagement**: ❤ 335 | 🔁 2 | 💬 36 | 📅 6 | 👁 26.4K
 **Link**: https://x.com/thsottiaux/status/2125678401541583217
 **Original link**: https://x.com/charliermarsh/status/2125675768231727399
 
@@ -18,7 +18,7 @@ No new posts since the previous scan.
 **Time**: 03:48 Beijing (UTC+8) / 11:48 PST (Nov 25)
 **His words**: Welcome to the team! So much to do 👀
 **Original post**: @trq212 — I've joined OpenAI! (announcing move from Anthropic)
-**Engagement**: ❤ 1734 | 🔁 9 | 💬 54 | 📅 12 | 👁 76.9K
+**Engagement**: ❤ 1895 | 🔁 9 | 💬 57 | 📅 14 | 👁 88.7K
 **Link**: https://x.com/thsottiaux/status/2125678021848019454
 **Original link**: https://x.com/trq212/status/2125675533761671405
 
