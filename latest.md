@@ -1,26 +1,26 @@
 # Latest Scan
 
-**Scan time**: 2026-11-27 16:03 Beijing time (UTC+8) / 00:03 PST (Nov 27)
+**Scan time**: 2026-11-27 03:04 Beijing time (UTC+8) / 11:04 PST (Nov 26)
 
 **New activity**: No
 
 ### Most recent original post
 **Time**: 15:26 Beijing (UTC+8) / 23:26 PST (Nov 25)
 **Content**: Banked reset is online
-**Engagement**: ❤ 6727 | 🔁 175 | 💬 1325 | 📅 126 | 👁 587.5K
+**Engagement**: ❤ 6919 | 🔁 177 | 💬 1355 | 📅 129 | 👁 607.7K
 **Link**: https://x.com/thsottiaux/status/2125853628250599730
 
 ### Previous original post
 **Time**: 10:50 Beijing (UTC+8) / 18:50 PST (Nov 25)
 **Content**: We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage. As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.
-**Engagement**: ❤ 16849 | 🔁 885 | 💬 5702 | 📅 2446 | 👁 4.71M
+**Engagement**: ❤ 17100 | 🔁 892 | 💬 5766 | 📅 2502 | 👁 4.89M
 **Link**: https://x.com/thsottiaux/status/2125784147889393806
 
 ### Most recent reply
 **Time**: 03:49 Beijing (UTC+8) / 11:49 PST (Nov 25)
 **His words**: This man is unstoppable
 **Original post**: @charliermarsh — Over the past two weeks, we reduced baseline memory use in the ChatGPT desktop app by over 40%. Here's each release measured after five minutes on macOS.
-**Engagement**: ❤ 465 | 🔁 2 | 💬 51 | 📅 6 | 👁 57.8K
+**Engagement**: ❤ 471 | 🔁 2 | 💬 51 | 📅 6 | 👁 59.0K
 **Link**: https://x.com/thsottiaux/status/2125678401541583217
 **Original link**: https://x.com/charliermarsh/status/2125675768231727399
 
